@@ -14,6 +14,22 @@
                 <langSet xml:lang="ja"><tig><term>パラノマサイト</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>灵异视界</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>あやめ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>绫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>黒鈴ミヲ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>黑铃美绪</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>ミヲ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>美绪</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>灯野あやめ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>灯野绫</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
