@@ -1,0 +1,414 @@
+﻿confirm_yes,Yes
+confirm_no,No
+game_btn_auto,Auto
+menu_btn_auto,Auto Button Display
+menu_btn_charalist,Persons of Interest
+menu_btn_doclist,Files
+menu_btn_storychart,Story Chart
+menu_btn_save,Save
+menu_btn_load,Load
+menu_btn_option,Options
+menu_btn_end,Quit Game
+charalist_title,Persons of Interest
+doclist_title,Files
+doclist_cate_new,New
+doclist_cate_all,All
+doclist_cate_calture,Culture/Society
+doclist_cate_sevenwonder,Seven Mysteries
+doclist_cate_curse,Phenomena/<br>Curses
+doclist_cate_other,Gameplay Guide
+doclist_nothing_message,No updated files
+save_title,Save
+save_subtitle,Select a save slot
+save_message,Do you wish to overwrite slot {0}?
+load_title,Load
+load_subtitle,Select a slot to load
+load_message,Do you wish to load slot {0}?
+save_autosave,Autosave
+save_slotname,Slot {0}
+save_nodata,No data
+save_place_storychart,Story Chart
+save_place_first,Introduction
+option_cate_game,Game
+option_cate_sound,Audio
+option_cate_video,Video
+option_cate_controller,Controls
+option_btn_initialize,Restore Defaults
+option_btn_alldelete_savedata,Delete Save Data
+option_btn_enter,Apply All
+option_cancel,Cancel
+option_sound_title,Audio Settings
+option_sound_bgm,Music Volume
+option_sound_se,SFX Volume
+option_sound_voice,Voice Volume
+option_game_title,Game Settings
+option_game_language,Game Language
+option_game_viblation,Vibration
+option_game_speed,Text Speed
+option_game_brightness,Brightness
+option_game_brightness_message,Adjust brightness until the image on the right is barely visible
+option_game_language_button1,English
+option_game_language_button2,日本語
+option_toggle_on,On
+option_toggle_off,Off
+option_game_speed_low,Slow
+option_game_speed_normal,Normal
+option_game_speed_fast,Fast
+option_game_speed_moment,Instant
+option_game_screen_dark,Dark
+option_game_screen_littledark,Fairly Dark
+option_game_screen_normal,Normal
+option_game_screen_littlebright,Fairly Bright
+option_game_screen_bright,Bright
+option_video_title,Video Settings
+option_video_render_resolution,Resolution
+option_video_antialiasing,Anti-Aliasing
+option_video_post_effect,Post-Processing
+low_resolution,Low-Res
+standard,Standard
+hi_resolution,High-Res
+low,Low
+high,High
+option_video_render_load,Rendering Load
+low_load,Minimal
+slightly_low_load,Economic
+option_video_screen_resolution,Standard
+option_video_screen_mode,Display Mode
+option_video_window,Windowed
+option_video_borderless,Borderless
+option_video_full_screen,Fullscreen
+option_video_1,1280×720
+option_video_2,1366×768
+option_video_3,1600×900
+option_video_4,1920×1080
+option_controller_title,Controls Settings
+option_controller_hold,Controller Mode
+option_controller_view1,Camera (Vertical)
+option_controller_view2,Camera (Horizontal)
+option_controller_button,Confirm Button Settings
+normal,Standard
+option_controller_flip_ud,Inverted
+option_controller_flip_lr,Inverted
+change,Rebind
+option_controller_message,Switch Confirm/Cancel Buttons<br>
+keyconfig_enter,Confirm
+keyconfig_select_up,Up (Selection)
+keyconfig_select_down,Down (Selection)
+keyconfig_select_left,Left (Selection)
+keyconfig_select_right,Right (Selection)
+keyconfig_camera_up,Up (Cursor)
+keyconfig_camera_down,Down (Cursor)
+keyconfig_camera_left,Left (Cursor)
+keyconfig_camera_right,Right (Cursor)
+keyconfig_skill,Use Curse
+keyconfig_menu,Menu
+keyconfig_auto,Auto
+keyconfig_title,Key Bindings
+keyconfig_conflict,This key cannot be used.
+keyconfig_dialog_title,Press key to bind.<br>(Esc to cancel)
+nowloading,Now Loading...
+option_return_msg,Exit without making changes?
+msgbox_open_update_page,Open updates page
+msgbox_game_end,Do you wish to save and quit the game?
+msgbox_init_option_settings,Do you wish to restore all settings on this page to their defaults?
+game_title_game_start,Start Game
+copywriter,©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
+option_alldel_btn_message,All game data will be deleted.[r]Are you sure you wish to do this?<br>
+menu_storychart_message,Do you wish to return to the Story Chart?[r][c3]Any incomplete chapters must be restarted from the beginning.
+menu_btn_title,Return to Title
+menu_title_message,Do you wish to save the game and return to the title screen?
+title_exit_dialog,Do you wish to quit the game?
+cancel_scroll_message,Do you wish to skip the performance?
+option_keyconfig_subtitle,[{0}]
+ac01_title,PARANORMA SIGHT
+ac01_detail,Acquire all other achievements.
+ac02_title,Mocking Bird Bancho
+ac02_detail,Acquire a complete collection of Mocking Bird stickers.
+ac03_title,Case Closed
+ac03_detail,Complete the story.
+ac04_title,Honjo's Ace Detective
+ac04_detail,Collect all information on Persons of Interest.
+ac05_title,Honjo's Biggest Know-It-All
+ac05_detail,Collect all Files.
+ac06_title,Master of the Seven Mysteries
+ac06_detail,Acquire all Curse Echoes.
+ac07_title,Mocking Bird Maniac
+ac07_detail,Collect 15 Mocking Bird stickers.
+ac08_title,Obligation Fulfilled
+ac08_detail,Reach Shogo Okiie's ending.
+ac09_title,Mocking Bird Collector
+ac09_detail,Collect 10 Mocking Bird stickers.
+ac10_title,Night Terrors
+ac10_detail,Play the game in the middle of the night.
+ac11_title,Veteran Investigator
+ac11_detail,Accumulate 10 hours of playtime.
+ac12_title,Don't Be a Quitter
+ac12_detail,Play the game again after 3 days.
+ac13_title,Harue's Legacy
+ac13_detail,Reach Harue Shigima's ending.
+ac14_title,Erio's Choice
+ac14_detail,Reach Tetsuo Tsutsumi's ending.
+ac15_title,Michiyo's Grudge
+ac15_detail,Reach Yakko Sakazaki's ending.
+ac16_title,Nejima's Reminiscence
+ac16_detail,Reach Ashimiya's bad ending.
+ac17_title,Ayame's Aspiration
+ac17_detail,Reach Ayame's bad ending.
+ac18_title,Mocking Bird Enthusiast
+ac18_detail,Collect 5 Mocking Bird stickers.
+ac19_title,Mocking Chick
+ac19_detail,Collect your first Mocking Bird sticker.
+ac20_title,Whodunit
+ac20_detail,Answer the Storyteller's question correctly.
+ac21_title,The Rite of Resurrection
+ac21_detail,Complete the prologue.
+ac22_title,Harue's Wish
+ac22_detail,Complete the Harue branch of Chapter 1.
+ac23_title,Tsutsumi's Investigation
+ac23_detail,Complete the Tsutsumi branch of Chapter 1.
+ac24_title,Yakko's Friendship
+ac24_detail,Complete the Yakko branch of Chapter 1.
+ac25_title,Harue's Resolve
+ac25_detail,Complete the Harue branch of Chapter 2.
+ac26_title,Tsutsumi's Regret
+ac26_detail,Complete the Tsutsumi branch of Chapter 2.
+ac27_title,Yakko's Righteousness
+ac27_detail,Complete the Yakko branch of Chapter 2.
+ac28_title,Mayu's Escape
+ac28_detail,Complete the Mayu branch of Chapter 2.
+ac29_title,Shogo's Blunder
+ac29_detail,Witness the death of Shogo Okiie.
+ac30_title,Everburning Shogo
+ac30_detail,Witness the death of Shogo Okiie.
+ac31_title,Foot-Washing Shogo
+ac31_detail,Witness the death of Shogo Okiie.
+ac32_title,Haunting Shogo
+ac32_detail,Witness the death of Shogo Okiie.
+ac33_title,Foot-Washing Tsutsumi
+ac33_detail,Witness the death of Tetsuo Tsutsumi.
+ac34_title,One-Sided Yakko
+ac34_detail,Witness the death of Yakko Sakazaki.
+ac35_title,Everburning Yakko
+ac35_detail,Witness the death of Yakko Sakazaki.
+operation_auto,Auto On/Off (While button is displayed)
+operation_expansion,Zoom In
+operation_shrink,Zoom Out
+operation_cursor_move,Move Cursor
+operation_item_select,Select Object
+operation_perspective_move,Move Camera/
+operation_scroll,Scroll
+operation_scaling,Zoom Out/In
+operation_screen,<align="left">Controllable via touch screen<br>(Swipe with two fingers to move<br>camera)
+documentlist_disable_title,???
+save_charaname_unknown,???
+txid_chr01_st,Shogo Okiie
+txid_chr02_st,Yoko Fukunaga
+txid_chr03_st,Harue Shigima
+txid_chr04_st,Richter Kai
+txid_chr05_st,Tetsuo Tsutsumi
+txid_chr06_st,Jun Erio
+txid_chr07_st,Hajime Yoshimi
+txid_chr08_st,Mio Kurosuzu
+txid_chr09_st,Yakko Sakazaki
+txid_chr10_st,Michiyo Shiraishi
+txid_chr11_st,Hitomi Okuda
+txid_chr12_st,Kohei Jonouchi
+txid_chr13_st,Makoto Ashimiya
+txid_chr14_st,Mayu Chozawa
+txid_chr15_st,Yutaro Namigaki
+txid_chr16_st,Ayame Tono
+txid_chr17_st,Hideki Araishi
+txid_chr18_st,Natsue Yamamori
+txid_chr19_st,Takumi Yumioka
+txid_chr20_st,Kankichiro Iwai
+txid_chr21_st,Shuichi Shigima
+txid_chr22_st,Fumichika Nejima
+txid_chr30_st,The Storyteller
+txid_doc01_st,How to Play
+txid_doc04_st,The Seven Mysteries of Honjo
+txid_doc05_st,The Whispering Canal
+txid_doc06_st,The Fool's Procession
+txid_doc07_st,The Beckoning Light
+txid_doc08_st,The Haunting Clappers
+txid_doc09_st,The Evergreen Beech
+txid_doc10_st,The Taiko of Tsugaru
+txid_doc11_st,The Foot-Washing Mansion
+txid_doc12_st,The One-Sided Reed
+txid_doc13_st,The Everburning Lantern
+txid_doc15_st,The Rite of Resurrection
+txid_doc17_st,Curse Echoes/Curse Bearers
+txid_doc18_st,Curse Stones
+txid_doc19_st,Soul Dregs
+txid_doc22_st,The Record of Fates
+txid_doc48_st,The Record of Fates Yin Scroll
+txid_doc25_st,The Feast of Shadows
+txid_doc42_st,Onmyoji
+txid_doc49_st,Western Black Magic
+txid_doc14_st,The Honjo Incident
+txid_doc02_st,Sumida City, Tokyo
+txid_doc20_st,File23
+txid_doc03_st,Honjo
+txid_doc27_st,Sumida River
+txid_doc28_st,Ryogoku Bridge
+txid_doc29_st,Komagata Bridge
+txid_doc30_st,South Warigesui Street
+txid_doc31_st,Kinshibori Park
+txid_doc32_st,Former Yasuda Gardens
+txid_doc33_st,Midoricho Park
+txid_doc23_st,Hihaku Soaps
+txid_doc34_st,Komagata High School
+txid_doc35_st,Shigima Residence
+txid_doc36_st,Kurokikyo Cafe
+txid_doc37_st,Candy Shop Sennoya
+txid_doc41_st,Azure Heron Agency
+txid_doc40_st,Paranormal Affairs Bureau
+txid_doc16_st,Occult Craze
+txid_doc24_st,Spirit Board
+txid_doc43_st,Juvenile Delinquency
+txid_doc21_st,Telephone Booth
+txid_doc38_st,Katsushika Hokusai
+txid_doc46_st,The Nejima Murders (Overview)
+txid_doc26_st,The Shigima Kidnapping (Overview)
+txid_doc45_st,Notes on Michiyo Shiraishi
+txid_doc44_st,Notes on Hajime Yoshimi
+txid_doc47_st,Notes on Known Curse Bearers
+txid_doc39_st,Mocking Birds
+txid_strych_name_01,Shogo Okiie
+txid_strych_name_02,Harue Shigima
+txid_strych_name_03,Tetsuo Tsutsumi
+txid_strych_name_04,Yakko Sakazaki
+txid_strych_name_05,Mayu Chozawa
+txid_strych_title_a0_010,Kinshibori Park (Part 1)
+txid_strych_title_a0_020,Kinshibori Park (Part 2)
+txid_strych_title_a0_030,Kinshibori Park (Part 3)
+txid_strych_title_a0_040,Quest for the Seven Mysteries (Part 1)
+txid_strych_title_a0_060,Quest for the Seven Mysteries (Part 2)
+txid_strych_title_a0_110,Kinshibori Park (Part 3')
+txid_strych_title_a0_120,Kinshibori Park (Part 4)
+txid_strych_title_a1_010,Cleansing
+txid_strych_title_a1_020,Another Conclusion
+txid_strych_title_b0_010,Not Dreams
+txid_strych_title_b0_020,A Nice Thought
+txid_strych_title_b0_030,No More Curses
+txid_strych_title_b1_010,Life Can Be Tough
+txid_strych_title_b1_020,Dead or Alive
+txid_strych_title_b1_030,Too Much to Handle
+txid_strych_title_b1_040,Last Resort
+txid_strych_title_b1_050,Harue's Legacy
+txid_strych_title_b1_055,Ayame's Aspiration
+txid_strych_title_c0_010,Crime Scene Investigation
+txid_strych_title_c0_020,The Hunt for the Curse Bearers - Part 1
+txid_strych_title_c0_030,The Hunt for the Curse Bearers - Part 2
+txid_strych_title_c0_040,A Threatening Phone Call
+txid_strych_title_c1_010,Sorting Things Out
+txid_strych_title_c1_020,Fancy Sushi
+txid_strych_title_c1_030,Standing By
+txid_strych_title_c1_040,Manhunt
+txid_strych_title_c1_045,Nejima's Reminiscence
+txid_strych_title_c1_050,Conclusion
+txid_strych_title_d0_010,Spirit Board
+txid_strych_title_d0_020,Two Things to Remember
+txid_strych_title_d0_030,Escape from Komagata High
+txid_strych_title_d0_035,Failure to Escape
+txid_strych_title_d0_040,A Successful Getaway
+txid_strych_title_d1_010,Hitomi's Help
+txid_strych_title_d1_020,Seiman
+txid_strych_title_d1_030,I'll See You Again
+txid_strych_title_d1_035,Michiyo's Grudge
+txid_strych_title_d1_040,Let's Do This
+txid_strych_title_d1_050,Preparing for Battle
+txid_strych_title_e1_010,Darkness
+txtid_strych_text1_a0_010,★
+txtid_strych_text1_a0_020,[c3]Summary of previous events[c0][r]Shogo Okiie is with Yoko Fukunaga at Kinshibori Park searching for one of the Seven Mysteries of Honjo. His interest in the occult starts to grow as he learns more about it from Yoko.
+txtid_strych_text1_a0_030,★
+txtid_strych_text1_a0_040,★
+txtid_strych_text1_a0_060,★
+txtid_strych_text1_a0_110,[c3]Summary of previous events[c0][r]Shogo cries Yoko's name in a desperate attempt to wake her as she lies, unmoving, on the ground. Will his pleas get through to her?
+txtid_strych_text1_a0_120,[c3]Summary of previous events[c0][r]Worried about Yoko after her bizarre incident, Shogo decides to call off their investigation into the Mysteries for the night. Despite her stubborn objections, he manages to persuade her by offering to continue the search on his own.
+txtid_strych_text1_a1_010,When the body, soul, and mind of Seiman Tsuchimikado have all been brought together, the Rite of Cleansing is activated, dispelling all rituals and curses that have previously been performed...
+txtid_strych_text1_a1_020,★
+txtid_strych_text1_b0_010,When the son of Harue Shigima was kidnapped, a botched investigation by the police resulted in the child's murder. One year later, Harue has hired a private investigator to help resolve the unsettled case. Late at night, while speaking to the detective at her home, something strange suddenly appears...
+txtid_strych_text1_b0_020,[c3]Summary of previous events[c0][r]Despite having obtained the curse of the Haunting Clappers, Harue Shigima is determined to use the Rite of Resurrection by stealing the remaining curse stones. She instructs her private investigator Richter to find the other curse bearers.
+txtid_strych_text1_b0_030,[c3]Summary of previous events[c0][r]Harue has received multiple reports about other suspected curse bearers. Although concerned about Ayame Tono, who is apparently also after the curse stones, she entrusts Richter to continue his investigation.
+txtid_strych_text1_b1_010,[c3]Summary of previous events[c0][r]Throughout the night, Richter continues to gather information about the curse stones, while Harue lies awake until dawn, preoccupied by the prospect of bringing her lost child back to life.
+txtid_strych_text1_b1_020,[c3]Summary of previous events[c0][r]Harue and Richter visit Michiyo's home, having determined her to be a key player in the unresolved kidnapping case from a year before. As the complicated story begins to unravel, they encounter two men.
+txtid_strych_text1_b1_030,[c3]Summary of previous events[c0][r]Harue and Richter break into the Shiraishi residence with the detectives. They find a journal left behind by the deceased Iwai, finally revealing the mystery behind the kidnapping. However, Harue remains unsatisfied.
+txtid_strych_text1_b1_040,[c3]Summary of previous events[c0][r]Harue and Richter rescue Mayu Chozawa and interrogate her along with Takumi Yumioka. Yet they fail to gain any particularly useful information about the curse bearers. They decide to return to Harue's home when...
+txtid_strych_text1_b1_050,★
+txtid_strych_text1_b1_055,★
+txtid_strych_text1_c0_010,Tetsuo Tsutsumi, chief inspector of the Metropolitan Police Department, First Investigative Division, is investigating the mysterious death of a fellow officer. He visits the scene of the incident, the Former Yasuda Gardens, with his subordinate Jun Erio.
+txtid_strych_text1_c0_020,[c3]Summary of previous events[c0][r]Tsutsumi and Jun are sorting through the facts at the scene of Officer Hajime Yoshimi's mysterious death. Tsutsumi denies the existence of the Rite of Resurrection—until the curse echo of the Evergreen Beech appears before them.
+txtid_strych_text1_c0_030,[c3]Summary of previous events[c0][r]Tsutsumi and Erio decide to collect the curse stones as soon as possible, before they become the cause of an unprecedented tragedy. The two obtain the Foot-Washing Mansion from Yutaro Namigaki and head to their next destination.
+txtid_strych_text1_c0_040,[c3]Summary of previous events[c0][r]After persuading Araishi, the curse bearer of the Everburning Lantern, to give up his stone, Tsutsumi and Erio have obtained three curse stones in total. They continue their investigation of the town in search of the remaining curse bearers.
+txtid_strych_text1_c1_010,[c3]Summary of previous events[c0][r]Hajime Yoshimi's death, Nejima's threat of mass murder—the problems just pile up, putting the detectives' goal of collecting all the curse stones in jeopardy. Tsutsumi leaves Erio to handle the investigation while he catches a quick break.
+txtid_strych_text1_c1_020,[c3]Summary of previous events[c0][r]With dusk fast approaching, they have no time to waste. With that in mind, Tsutsumi and Erio direct their investigation toward Komagata High School and the Shiraishi residence.
+txtid_strych_text1_c1_030,[c3]Summary of previous events[c0][r]At the Shiraishi home, Tsutsumi and Erio learn the truth about many things, including the death of Kankichiro Iwai. They hurry to the high school after learning that Michiyo Shiraishi knew the whereabouts of Nejima's hideout.
+txtid_strych_text1_c1_040,[c3]Summary of previous events[c0][r]Having learned the location of Nejima's hideout from Michiyo, Tsutsumi and Erio request backup from HQ for Nejima's arrest as their manhunt picks up speed.
+txtid_strych_text1_c1_045,★
+txtid_strych_text1_c1_050,[c3]Summary of previous events[c0][r]Tsutsumi and Erio continue their investigation, deciding to meet with Ayame Tono to get to the bottom of it all. What will be the conclusion to the curses of the Seven Mysteries of Honjo...to Seiman and Ashino's intertwined fates?
+txtid_strych_text1_d0_010,Yakko Sakazaki searches for the Rite of Resurrection, hoping to revive her friend who jumped to her death. To get the information she needs, she meets with her classmate Mio Kurosuzu in their classroom at midnight to attempt using a spirit board.
+txtid_strych_text1_d0_020,[c3]Summary of previous events[c0][r]The information they gain from the spirit board suggests that Michiyo's death was not a suicide. When they continue to press the spirit board for the location of the Rite of Resurrection, a curse echo suddenly appears...
+txtid_strych_text1_d0_030,[c3]Summary of previous events[c0][r]After Yakko acquires the curse of the Fool's Procession, Mio tries to persuade her to give up on going after the Rite of Resurrection. The effects of other curse echoes are already appearing at the school, so the two hurry to get out of the classroom.
+txtid_strych_text1_d0_035,★
+txtid_strych_text1_d0_040,★
+txtid_strych_text1_d1_010,[c3]Summary of previous events[c0][r]Bringing her friend back from the dead means she'll have to pay the price... Yakko makes it home safely, but still isn't sure about how to proceed with her curse. She worries about Mio as the night passes.
+txtid_strych_text1_d1_020,[c3]Summary of previous events[c0][r]The Rite of Resurrection is the inception of this whole affair. Yakko and Mio decide to confront the man responsible for spreading rumors of it in the first place: Hideki Araishi. They find him at his frequent stomping grounds, the Kurokikyo Cafe.
+txtid_strych_text1_d1_030,[c3]Summary of previous events[c0][r]The Record of Fates Yin Scroll may contain a way to put a stop to the curse. Yakko and Mio head back to Komagata High School to share this information with Tsutsumi.
+txtid_strych_text1_d1_035,★
+txtid_strych_text1_d1_040,[c3]Summary of previous events[c0][r]Having regained control of herself, Yakko rejoins Mio on their search for the Record of Fates Yin Scroll so that they can stop the curse. However, they find themselves with scarcely any leads to follow...
+txtid_strych_text1_d1_050,[c3]Summary of previous events[c0][r]Together with Yoshimi's fiancée Mayu, Yakko and Mio report all they've learned so far to Tsutsumi and the others. Putting all their stories together, they can see their final objective at long last...
+txtid_strych_text1_e1_010,???
+txtid_strych_text2_a0_010,Shogo Okiie, a completely ordinary office worker, and his recent acquaintance, Yoko Fukunaga, have both gone to Kinshibori Park late at night to investigate the Seven Mysteries of Honjo when Shogo suddenly falls unconscious. Upon reawakening, he gradually regains his grasp on the current situation while discussing the occult with Yoko.
+txtid_strych_text2_a0_020,Yoko reveals that she is searching for the Mysteries because she wants the Rite of Resurrection, a secret art originating from the Edo period. As she explains how the two are related, something strange suddenly occurs...
+txtid_strych_text2_a0_030,After Yoko meets an untimely and inexplicable death, Shogo vows to bring her back through the Rite of Resurrection. Just then, a man named Takumi Yumioka appears and demands that Shogo give him the curse stone he has just obtained.
+txtid_strych_text2_a0_040,Shogo kills Takumi Yumioka and takes his soul dregs. Realizing he is unable to undo his actions, he strengthens his resolve to gather the remaining soul dregs before dawn. He travels throughout Honjo searching for the Seven Mysteries, accumulating more soul dregs with each of his encounters.
+txtid_strych_text2_a0_060,Shogo manages to best the curse bearers he meets at Ryogoku Bridge and the Former Yasuda Gardens, collecting the soul dregs he requires. However, something happens to his curse stone, and he is delivered to a grisly fate...
+txtid_strych_text2_a0_110,Thanks to Shogo's perseverance, Yoko Fukunaga finally regains consciousness. But when Shogo learns that she has no memory of what happened to her, he decides to call off their search.
+txtid_strych_text2_a0_120,Shogo keeps his promise to Yoko and continues investigating the Seven Mysteries of Honjo alone. However, come morning, his corpse is discovered in the park...
+txtid_strych_text2_a1_010,When the body, soul, and mind of Seiman Tsuchimikado have all been brought together, the Rite of Cleansing is activated, dispelling all rituals and curses that have previously been performed.
+txtid_strych_text2_a1_020,[c5]Ending 6[c0][r]There were never any rituals, there were never any curses, there was only the ordinary world. Where will those involved go from here? Look upon the town you have saved...and once you have seen it, I ask that you leave.
+txtid_strych_text2_b0_010,Harue Shigima has acquired the curse of the Haunting Clappers, giving her the opportunity to use the Rite of Resurrection. To do so, they first need to obtain all the curse stones from the other curse bearers. Richter Kai, her private investigator, suggests stealing them.
+txtid_strych_text2_b0_020,In his search for the other curse bearers, Richter decides to look around a place Harue Shigima holds a deep connection to: the Sumida River. However, his resolve is shaken by the discovery that a girl named Ayame Tono is also pursuing the curse stones.
+txtid_strych_text2_b0_030,As Richter continues his search for the other curse bearers, Harue returns home, only to find herself incapable of settling her restless mind.
+txtid_strych_text2_b1_010,Harue is concerned about the activities of both Ayame and the company Hihaku Soaps, and frustrated that no solid information about the curse bearers has been found. She also begins looking into Michiyo Shiraishi, whose connection to the unresolved kidnapping case has come to light.
+txtid_strych_text2_b1_020,Michiyo used a curse to kill Kankichiro Iwai, the perpetrator of the kidnapping, at her home. Although they discover Iwai's involvement with Western black magic and his connection to both Fumichika Nejima and Hihaku Soaps, Harue remains focused on the Rite of Resurrection.
+txtid_strych_text2_b1_030,With the mystery behind the kidnapping resolved, Harue and Richter return their attention to the Rite of Resurrection and continue looking into the Seven Mysteries of Honjo. Richter blows off some steam at a nearby candy shop, a mysterious SOS message is sent to Harue by fax, and they finally close in on Ayame.
+txtid_strych_text2_b1_040,Ayame learns that she can use her curse stone when she murders Nejima. She then pays the Shigima residence a visit, and Harue reveals her intentions to steal the soul dregs collected by Ayame. How will their conflict play out?
+txtid_strych_text2_b1_050,[c5]Ending 3[c0][r]Determined to resurrect her lost child, Harue murders Ayame and takes her curse stone. Richter, wondering whether or not Harue is happy that her desires have come true, decides to see the story through to its end.
+txtid_strych_text2_b1_055,[c5]Ending 4[c0][r]After killing both Nejima and Harue, Ayame collects their curse stones, and her desire is at long last fulfilled. However, even if she manages to revive that long lost soul, she has no way to revive its body.
+txtid_strych_text2_c0_010,Tsutsumi and Erio look into the circumstances surrounding the death of officer Hajime Yoshimi. While going over the facts at the scene of the incident, the curse echo of the Seven Mysteries of Honjo, the Evergreen Beech, suddenly appears and possesses Tsutsumi.
+txtid_strych_text2_c0_020,Tsutsumi, who has unexpectedly become a curse bearer, tells Erio about the secret Paranormal Affairs Bureau. The two set out to gather the curse stones themselves to stop them from being used by those with ill intentions. First, they successfully obtain the Foot-Washing Mansion at Ryogoku Bridge.
+txtid_strych_text2_c0_030,At Midoricho Park, they run into a local researcher named Hideki Araishi, who turns out to be the curse bearer of the Everburning Lantern. They try to probe Araishi for information because he is well-versed on the Rite of Resurrection, but end up only obtaining his curse stone.
+txtid_strych_text2_c0_040,Things take a turn when Tsutsumi discovers a man's corpse at Kinshibori Park and Erio learns that another mysterious corpse has been found elsewhere in the city. Tsutsumi is then contacted by Fumichika Nejima, a ghost from his past. Nejima reveals that he is also a curse bearer, declaring that he will carry out a mass murder at sunset.
+txtid_strych_text2_c1_010,Progress on collecting the curse stones grinds to a halt while more victims of the curses emerge. Tsutsumi and Erio focus on sorting out the situation at hand. There is much that needs doing but little that can be done, yet they still resolve to keep trying in any way they can.
+txtid_strych_text2_c1_020,After exchanging information with Mio Kurosuzu, Tsutsumi determines that Makoto Ashimiya, an employee of the school, is very likely to be Nejima. Meanwhile, the possessions left at the scene raise suspicions that Michiyo Shiraishi really has risen from the dead to carry out her revenge...
+txtid_strych_text2_c1_030,Tsutsumi and Erio meet up with Mio and her friend Yakko Sakazaki. They learn that Michiyo's death was most likely an accident, and plan to make contact with her to get the location of Nejima's hideout.
+txtid_strych_text2_c1_040,Tsutsumi and Jun chase after Ashimiya, aka Nejima. They try to gauge whether he actually has a curse that could carry out a mass murder, biding their time until they have a clear shot at arresting him. In the end, Nejima's actions bring things to a head.
+txtid_strych_text2_c1_045,[c5]Ending 2[c0][r]Tsutsumi's hunt for Nejima ends with him evading capture, and the time foretold by Nejima's threat comes without them discovering what they need. Nejima achieves all he set out to do as his curse wreaks untold havoc and destruction on the innocent public.
+txtid_strych_text2_c1_050,[c5]Ending 5[c0][r]Thanks to Tsutsumi's sacrifice, Erio and Mio succeed in apprehending Ayame and uncovering the secrets of the Record of Fates Yin Scroll. However, the final curse bearer, Yoko Fukunaga, appears just then. She steals their curse stones, using them to bring tragedy down upon the city.
+txtid_strych_text2_d0_010,Yakko Sakazaki wishes to bring her friend, Michiyo Shiraishi, back from the dead after her suspicious suicide. She joins up with her classmate Mio Kurosuzu to ask a spirit board about the location of the Rite of Resurrection—but instead, she is cursed with the Fool's Procession.
+txtid_strych_text2_d0_020,Yakko faints briefly from the shock of being taken by the curse of the Fool's Procession. Worried about Yakko, Mio urges her to give up on the Rite of Resurrection and the curses, and to flee the school with her right away.
+txtid_strych_text2_d0_030,While escaping from the school, Yakko and Mio encounter several other strange occurrences. Yakko must tread carefully, not knowing what is happening or who is causing it, but she finally makes it out and heads home.
+txtid_strych_text2_d0_035,Yakko decides to return to the school, concerned that Mio and Mr. Ashimiya haven't made it out. But there, she discovers that a cruel fate has befallen her friend...
+txtid_strych_text2_d0_040,Yakko makes it home in one piece. She worries about Mio, who she left at school, but beset by an overpowering drowsiness, puts off further investigation until the next day...
+txtid_strych_text2_d1_010,Their teacher Mr. Jonouchi is found dead, and it becomes apparent that another curse bearer was at the school that night. Also, Hitomi Okuda tells them about the horrible things Michiyo went through, leaving Yakko feeling shaken.
+txtid_strych_text2_d1_020,They gain a wealth of information from Mr. Araishi about everything from the Honjo Incident to the Record of Fates Yin Scroll, and start to see the big picture. These clues could bring them one step closer to settling everything once and for all.
+txtid_strych_text2_d1_030,Michiyo's spirit has been inside of Yakko all along, using Yakko's curse stone to carry out her revenge. They use the spirit board to gain information from Michiyo once more, and finally learn what's really going on.[r]"Please... Don't forget me..."
+txtid_strych_text2_d1_035,[c5]Ending 1[c0][r]Yutaro Namigaki is pursuing the Rite of Resurrection to bring Michiyo back to life. But when he tries to take a curse stone by force, Michiyo herself appears before him...
+txtid_strych_text2_d1_040,Mio and Yakko meet up with Mayu Chozawa, who has escaped confinement, and question Takumi Yumioka of Hihaku. In doing so, they learn that Michiyo and Hajime Yoshimi are both descendants of Seiman, and that collecting both their talismans will allow them to obtain the Yin Scroll.
+txtid_strych_text2_d1_050,The intertwined fates of two onmyoji from the Edo period, Seiman and Ashino, come to a head in the present day. All signs point to Ayame Tono. Yakko and Mio obtain the Record of Fates Yin Scroll, but whether or not they can put a stop to the curse depends on Tsutsumi and the others...
+txtid_strych_text2_e1_010,Mayu Chozawa awakes in an unrecognizable place, unable to remember anything. As she observes her surroundings, she remembers what Takumi Yumioka did to her. Through her own resourcefulness, and a bit of divine intervention, Mayu manages to escape the abandoned factory.
+title_rights_notation,Copyright Information
+story_savedata_update,The story has been updated, so the chapter will start from the beginning.
+load_message_autosave,Do you wish to load autosave data?
+android_back_overlay,Cannot change screens.
+storychart_detail_start,Start
+storychart_detail_first,Restart
+storychart_detail_continue,Resume
+reset_savedata,The save data has been corrupted and is unable to be read.<br>Save data will be reformatted.
+option_warnig_text,Can be changed from title screen.
+option_keyconfig_conflict,Key bindings cannot be saved due to a conflict.
+option_keyconfig_conflict_back,Back
+savedata_alldelete_text,All data has been deleted.
+title_warning_text,★
+

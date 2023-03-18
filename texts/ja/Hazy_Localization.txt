@@ -1,0 +1,414 @@
+﻿confirm_yes,はい
+confirm_no,いいえ
+game_btn_auto,AUTO
+menu_btn_auto,AUTOボタン表示
+menu_btn_charalist,人物リスト
+menu_btn_doclist,資料
+menu_btn_storychart,ストーリーチャート
+menu_btn_save,セーブ
+menu_btn_load,ロード
+menu_btn_option,オプション
+menu_btn_end,ゲーム終了
+charalist_title,人物リスト
+doclist_title,資料
+doclist_cate_new,新着
+doclist_cate_all,ALL
+doclist_cate_calture,文化/社会
+doclist_cate_sevenwonder,本所七不思議
+doclist_cate_curse,超常/呪詛
+doclist_cate_other,攻略情報
+doclist_nothing_message,更新された資料はありません
+save_title,セーブ
+save_subtitle,セーブするスロットを選んでください
+save_message,スロット{0}に 上書きいたしますか？
+load_title,ロード
+load_subtitle,ロードするスロットを選んでください
+load_message,スロット{0}を ロードいたしますか？
+save_autosave,オートセーブ
+save_slotname,スロット{0}
+save_nodata,データなし
+save_place_storychart,ストーリーチャート
+save_place_first,前口上
+option_cate_game,ゲーム
+option_cate_sound,サウンド
+option_cate_video,ビデオ
+option_cate_controller,コントロール
+option_btn_initialize,このタブを初期化
+option_btn_alldelete_savedata,セーブデータ全消去
+option_btn_enter,すべて反映
+option_cancel,キャンセル
+option_sound_title,サウンド設定
+option_sound_bgm,ＢＧＭ音量
+option_sound_se,ＳＥ音量
+option_sound_voice,ボイス音量
+option_game_title,ゲーム設定
+option_game_language,言語設定
+option_game_viblation,振動
+option_game_speed,メッセージスピード
+option_game_brightness,画面の明るさ
+option_game_brightness_message,右側の画像の形がギリギリわかる程度に 明るさを調整してください
+option_game_language_button1,English
+option_game_language_button2,日本語
+option_toggle_on,ON
+option_toggle_off,OFF
+option_game_speed_low,遅い
+option_game_speed_normal,普通
+option_game_speed_fast,速い
+option_game_speed_moment,瞬時
+option_game_screen_dark,暗い
+option_game_screen_littledark,やや暗い
+option_game_screen_normal,普通
+option_game_screen_littlebright,やや明るい
+option_game_screen_bright,明るい
+option_video_title,ビデオ設定
+option_video_render_resolution,描画解像度
+option_video_antialiasing,アンチエイリアス
+option_video_post_effect,ポストエフェクト
+low_resolution,低解像度
+standard,標準
+hi_resolution,高解像度
+low,低
+high,高
+option_video_render_load,描画負荷設定
+low_load,低負荷
+slightly_low_load,やや低負荷
+option_video_screen_resolution,画面解像度
+option_video_screen_mode,画面モード
+option_video_window,ウインドウ
+option_video_borderless,ボーダーレス
+option_video_full_screen,フルスクリーン
+option_video_1,1280×720
+option_video_2,1366×768
+option_video_3,1600×900
+option_video_4,1920×1080
+option_controller_title,コントロール設定
+option_controller_hold,コントローラー持ち方
+option_controller_view1,視点操作(上下)
+option_controller_view2,視点操作(左右)
+option_controller_button,決定ボタンの設定
+normal,通常
+option_controller_flip_ud,上下反転
+option_controller_flip_lr,左右反転
+change,変更
+option_controller_message,決定／キャンセルボタンの割り当てを変更します。<br>
+keyconfig_enter,決定
+keyconfig_select_up,選択:上
+keyconfig_select_down,選択:下
+keyconfig_select_left,選択:左
+keyconfig_select_right,選択:右
+keyconfig_camera_up,カーソル:上
+keyconfig_camera_down,カーソル:下
+keyconfig_camera_left,カーソル:左
+keyconfig_camera_right,カーソル:右
+keyconfig_skill,呪詛行使
+keyconfig_menu,メニュー
+keyconfig_auto,AUTO
+keyconfig_title,キーボード操作のキーコンフィグ
+keyconfig_conflict,入力したキーは使用できません。
+keyconfig_dialog_title,設定するキーを入力してください。<br>（ESC でキャンセル）
+nowloading,Now Loading...
+option_return_msg,設定を変更せずに 終了いたしますか？
+msgbox_open_update_page,更新ページを開く
+msgbox_game_end,セーブして ゲームを終了いたします。[r]よろしいですか？
+msgbox_init_option_settings,表示中のタブの設定を<br>初期状態に戻しますか？
+game_title_game_start,ゲームスタート
+copywriter,©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
+option_alldel_btn_message,全てのデータが消去されます。[r]本当によろしいですか？<br>
+menu_storychart_message,ストーリーチャートに 戻ります。よろしいですか？[r][c3]※まだ終了していないチャプターの場合は[r]また最初からやり直しになります。
+menu_btn_title,タイトルへ戻る
+menu_title_message,セーブして タイトル画面に戻ります。[r]よろしいですか？
+title_exit_dialog,ゲームを終了いたしますか？
+cancel_scroll_message,演出をスキップいたしますか？
+option_keyconfig_subtitle,【{0}】
+ac01_title,PARANORMASIGHT
+ac01_detail,すべての実績を獲得する
+ac02_title,東京なめどり連合
+ac02_detail,なめどりシールをコンプリートした
+ac03_title,本所事変完全掌握
+ac03_detail,ストーリーをコンプリートした
+ac04_title,本所の人脈通
+ac04_detail,人物リストをコンプリートした
+ac05_title,本所の情報屋
+ac05_detail,資料をコンプリートした
+ac06_title,本所七不思議制覇
+ac06_detail,呪影をコンプリートした
+ac07_title,なめどりエキスパート
+ac07_detail,なめどりシールを１５種類獲得した
+ac08_title,責務完遂
+ac08_detail,興家彰吾のエンディングを迎えた
+ac09_title,なめどりコレクター
+ac09_detail,なめどりシールを１０種類獲得した
+ac10_title,真夜中の恐怖
+ac10_detail,真夜中にゲームをプレイする
+ac11_title,ベテラン探究者
+ac11_detail,プレイ時間が１０時間に達した
+ac12_title,脱三日坊主
+ac12_detail,３日後にゲームをプレイする
+ac13_title,志岐間春恵の伝説
+ac13_detail,志岐間春恵のエンディングを迎えた
+ac14_title,襟尾純の選択
+ac14_detail,津詰徹生のエンディングを迎えた
+ac15_title,白石美智代の怨讐
+ac15_detail,逆崎約子のエンディングを迎えた
+ac16_title,根島史周の追慕
+ac16_detail,葦宮バッドエンドを迎えた
+ac17_title,灯野あやめの本懐
+ac17_detail,あやめバッドエンドを迎えた
+ac18_title,なめどりビギナー
+ac18_detail,なめどりシールを５種類獲得した
+ac19_title,ヒヨっ子なめどり
+ac19_detail,なめどりシールを１種類獲得した
+ac20_title,殺したのは誰？
+ac20_detail,案内人の質問に正解する
+ac21_title,蘇りの秘術
+ac21_detail,序章をクリアした
+ac22_title,志岐間春恵の願い
+ac22_detail,１章志岐間篇をクリアした
+ac23_title,津詰徹生の捜査
+ac23_detail,１章津詰篇をクリアした
+ac24_title,逆崎約子の友情
+ac24_detail,１章逆崎篇をクリアした
+ac25_title,志岐間春恵の覚悟
+ac25_detail,２章志岐間篇をクリアした
+ac26_title,津詰徹生の後悔
+ac26_detail,２章津詰篇をクリアした
+ac27_title,逆崎約子の正義
+ac27_detail,２章逆崎篇をクリアした
+ac28_title,蝶澤麻由の脱出
+ac28_detail,２章蝶澤篇をクリアした
+ac29_title,興家彰吾の油断
+ac29_detail,興家彰吾が死亡した
+ac30_title,消えずの興家彰吾
+ac30_detail,興家彰吾が死亡した
+ac31_title,足洗い興家彰吾
+ac31_detail,興家彰吾が死亡した
+ac32_title,送り興家彰吾
+ac32_detail,興家彰吾が死亡した
+ac33_title,足洗い津詰徹生
+ac33_detail,津詰徹生が死亡した
+ac34_title,片葉の逆崎約子
+ac34_detail,逆崎約子が死亡した
+ac35_title,消えずの逆崎約子
+ac35_detail,逆崎約子が死亡した
+operation_auto,AUTO切り替え(ボタン表示時)
+operation_expansion,視点拡大
+operation_shrink,視点縮小
+operation_cursor_move,カーソル移動
+operation_item_select,項目選択
+operation_perspective_move,視点移動/
+operation_scroll,スクロール
+operation_scaling,視点拡大/縮小
+operation_screen,タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)
+documentlist_disable_title,？？？
+save_charaname_unknown,？？？
+txid_chr01_st,興家 彰吾
+txid_chr02_st,福永 葉子
+txid_chr03_st,志岐間 春恵
+txid_chr04_st,櫂 利飛太
+txid_chr05_st,津詰 徹生
+txid_chr06_st,襟尾 純
+txid_chr07_st,吉見 肇
+txid_chr08_st,黒鈴 ミヲ
+txid_chr09_st,逆崎 約子
+txid_chr10_st,白石 美智代
+txid_chr11_st,奥田 瞳
+txid_chr12_st,城之内 耕兵
+txid_chr13_st,葦宮 誠
+txid_chr14_st,蝶澤 麻由
+txid_chr15_st,並垣 祐太郎
+txid_chr16_st,灯野 あやめ
+txid_chr17_st,新石 英樹
+txid_chr18_st,山森 ナツヱ
+txid_chr19_st,弓岡 巧己
+txid_chr20_st,岩井 官吉郎
+txid_chr21_st,志岐間 修一
+txid_chr22_st,根島 史周
+txid_chr30_st,案内人
+txid_doc01_st,ゲームの遊び方
+txid_doc04_st,本所七不思議
+txid_doc05_st,『置いてけ堀』
+txid_doc06_st,『馬鹿囃子』
+txid_doc07_st,『送り提灯』
+txid_doc08_st,『送り拍子木』
+txid_doc09_st,『落葉なき椎』
+txid_doc10_st,『津軽の太鼓』
+txid_doc11_st,『足洗い屋敷』
+txid_doc12_st,『片葉の芦』
+txid_doc13_st,『消えずの行灯』
+txid_doc15_st,蘇りの秘術
+txid_doc17_st,呪影／呪主
+txid_doc18_st,呪詛珠
+txid_doc19_st,滓魂
+txid_doc22_st,禄命簿
+txid_doc48_st,禄命簿・陰の書
+txid_doc25_st,霊夜祭
+txid_doc42_st,陰陽師
+txid_doc49_st,西洋黒魔術
+txid_doc14_st,本所事変
+txid_doc02_st,東京都墨田区
+txid_doc20_st,FILE23
+txid_doc03_st,本所
+txid_doc27_st,隅田川
+txid_doc28_st,両国橋
+txid_doc29_st,駒形橋
+txid_doc30_st,南割下水通り
+txid_doc31_st,錦糸堀公園
+txid_doc32_st,旧安田庭園
+txid_doc33_st,緑町公園
+txid_doc23_st,ヒハク石鹸
+txid_doc34_st,駒形高校
+txid_doc35_st,志岐間邸
+txid_doc36_st,喫茶店 黒桔梗
+txid_doc37_st,駄菓子せんのや
+txid_doc41_st,アオサギ探偵堂
+txid_doc40_st,心霊対策室
+txid_doc16_st,オカルトブーム
+txid_doc24_st,こっくりさん
+txid_doc43_st,少年非行
+txid_doc21_st,電話ボックス
+txid_doc38_st,葛飾北斎
+txid_doc46_st,根島事件まとめ
+txid_doc26_st,志岐間誘拐事件まとめ
+txid_doc45_st,白石美智代関連のメモ
+txid_doc44_st,吉見肇関連のメモ
+txid_doc47_st,判明している呪主のメモ
+txid_doc39_st,なめどり
+txid_strych_name_01,興家彰吾
+txid_strych_name_02,志岐間春恵
+txid_strych_name_03,津詰徹生
+txid_strych_name_04,逆崎約子
+txid_strych_name_05,蝶澤麻由
+txid_strych_title_a0_010,「錦糸堀公園 Part1」
+txid_strych_title_a0_020,「錦糸堀公園 Part2」
+txid_strych_title_a0_030,「錦糸堀公園 Part3」
+txid_strych_title_a0_040,「七不思議巡り Part1」
+txid_strych_title_a0_060,「七不思議巡り Part2」
+txid_strych_title_a0_110,「錦糸堀公園 Part3'」
+txid_strych_title_a0_120,「錦糸堀公園 Part4」
+txid_strych_title_a1_010,「解除」
+txid_strych_title_a1_020,「もうひとつの結末」
+txid_strych_title_b0_010,「夢じゃない」
+txid_strych_title_b0_020,「面白い話」
+txid_strych_title_b0_030,「もし このまま」
+txid_strych_title_b1_010,「そういう世界も ある」
+txid_strych_title_b1_020,「捕まろうが 死のうが」
+txid_strych_title_b1_030,「あの子……苦手？」
+txid_strych_title_b1_040,「最終手段」
+txid_strych_title_b1_050,「志岐間春恵の伝説」
+txid_strych_title_b1_055,「灯野あやめの本懐」
+txid_strych_title_c0_010,「現場検証」
+txid_strych_title_c0_020,「呪主捜索 Part1」
+txid_strych_title_c0_030,「呪主捜索 Part2」
+txid_strych_title_c0_040,「予告電話」
+txid_strych_title_c1_010,「状況整理」
+txid_strych_title_c1_020,「高級寿司」
+txid_strych_title_c1_030,「暫時待機」
+txid_strych_title_c1_040,「大捕物」
+txid_strych_title_c1_045,「根島史周の追慕」
+txid_strych_title_c1_050,「結末」
+txid_strych_title_d0_010,「こっくりさん」
+txid_strych_title_d0_020,「大事なことは ふたつ」
+txid_strych_title_d0_030,「駒形高校からの脱出」
+txid_strych_title_d0_035,「脱出失敗」
+txid_strych_title_d0_040,「脱出成功」
+txid_strych_title_d1_010,「奥田ちゃんって」
+txid_strych_title_d1_020,「セイマン」
+txid_strych_title_d1_030,「またね」
+txid_strych_title_d1_035,「白石美智代の怨讐」
+txid_strych_title_d1_040,「やってやります」
+txid_strych_title_d1_050,「決戦の前」
+txid_strych_title_e1_010,「幽暗」
+txtid_strych_text1_a0_010,★出ないテキスト
+txtid_strych_text1_a0_020,[c3]～前回のあらすじ～[c0][r]《本所七不思議》を探して 福永葉子とともに[r]錦糸堀公園を捜索する 興家彰吾は[r]彼女の明かすオカルト話に まんまと[r]引き込まれていくのだった。
+txtid_strych_text1_a0_030,★出ないテキスト
+txtid_strych_text1_a0_040,★出ないテキスト
+txtid_strych_text1_a0_060,★出ないテキスト
+txtid_strych_text1_a0_110,[c3]～前回のあらすじ～[c0][r]突き動かされるような衝動のままに[r]我を失った福永葉子を 必死に呼び続け[r]なんとしてでも呼び覚まそうとする 興家彰吾。[r]その思いは 彼女に届くのか……!?
+txtid_strych_text1_a0_120,[c3]～前回のあらすじ～[c0][r]異変のあった福永葉子を心配した興家彰吾は[r]今日の七不思議捜索の 中止を決めた。[r]ごねる福永葉子を説得するため 興家彰吾は[r]ひとりで もう少し捜索を続けることにした。
+txtid_strych_text1_a1_010,土御門晴曼の《魂》《肉体》《精神》が[r]揃ったところに これは現れる。[r]ここに解除の術は発動し 秘術も呪いも[r]すべてが祓われ 消し去られる……。
+txtid_strych_text1_a1_020,★出ないテキスト
+txtid_strych_text1_b0_010,昨年 息子が誘拐され 捜査の不手際で[r]殺害されてしまったという志岐間春恵は [r]未解決の誘拐事件の調査を 探偵に依頼。[r]深夜に 自宅で調査の報告を受けていると[r]《それ》は 突然訪れた……。
+txtid_strych_text1_b0_020,[c3]～前回のあらすじ～[c0][r]『送り拍子木』の呪いは受けたが それは[r]使わず 呪詛珠を奪うことで 蘇りの秘術を[r]使おうという提案に乗った志岐間春恵は[r]櫂利飛太を 呪主の探索に送り出した。
+txtid_strych_text1_b0_030,[c3]～前回のあらすじ～[c0][r]呪主と疑わしい複数の報告を受けた春恵。[r]同じく 呪詛珠を狙っているという[r]灯野あやめの存在を気にしながらも[r]引き続き 櫂利飛太に呪主探索を一任する。
+txtid_strych_text1_b1_010,[c3]～前回のあらすじ～[c0][r]滓魂の溜まった呪詛珠を得るために[r]夜通し情報収集を続ける利飛太。[r]春恵は 我が子の蘇生という大願成就の可能性に[r]眠れぬ朝を迎える。
+txtid_strych_text1_b1_020,[c3]～前回のあらすじ～[c0][r]誘拐事件の重要参考人である白石美智代の[r]自宅を訪れ 彼女が複雑な事情を抱えていた[r]ことを知った春恵と利飛太は[r]そこで ふたりの男性と遭遇する。
+txtid_strych_text1_b1_030,[c3]～前回のあらすじ～[c0][r]刑事と 白石家に突入して 呪い殺されていた[r]岩井官吉郎が残していた手記を発見し[r]誘拐事件の全貌が明らかになった。[r]しかし それでは 春恵は満たされなかった。
+txtid_strych_text1_b1_040,[c3]～前回のあらすじ～[c0][r]救出した蝶澤麻由とともに 弓岡を問い詰め[r]新たな呪主の情報入手を試みたが[r]特に有益な情報は得られなかった。[r]そこで志岐間邸に戻ると……
+txtid_strych_text1_b1_050,★出ないテキスト
+txtid_strych_text1_b1_055,★出ないテキスト
+txtid_strych_text1_c0_010,警視庁捜査一課の警部 津詰徹生は[r]警察官の謎の怪死事件の調査のため[r]部下の襟尾純とともに 現場である[r]旧安田庭園を訪れていた……。
+txtid_strych_text1_c0_020,[c3]～前回のあらすじ～[c0][r]警察官・吉見肇が変死した現場にて[r]状況の整理を行っていた津詰と襟尾。[r]《蘇りの秘術》を否定する津詰だが そこに[r]『落葉なき椎』の呪影が現れた。
+txtid_strych_text1_c0_030,[c3]～前回のあらすじ～[c0][r]未曾有の惨事を回避するため 呪詛珠を[r]一刻も早く回収すると決めた 津詰と襟尾。[r]並垣祐太郎から『足洗い屋敷』の呪詛珠を[r]回収したふたりは 次の場所に向かう。
+txtid_strych_text1_c0_040,[c3]～前回のあらすじ～[c0][r]『消えずの行灯』の呪主だった新石英樹を[r]説得し これで合計３つの呪詛珠を回収した。[r]津詰と襟尾は 残る呪主を見つけるべく[r]町内の捜索を続ける。
+txtid_strych_text1_c1_010,[c3]～前回のあらすじ～[c0][r]呪詛珠の回収もままならない状態で[r]吉見肇の変死事件や 根島の殺人予告など[r]問題が山積する中 襟尾に各種確認を任せて[r]今のうちに少しでも休憩する津詰であった。
+txtid_strych_text1_c1_020,[c3]～前回のあらすじ～[c0][r]日暮れまでがタイムリミットである以上[r]時間を無駄にはできない。[r]そんな中 津詰と襟尾は 駒形高校と[r]白石家に 調査の足を向けることにした。
+txtid_strych_text1_c1_030,[c3]～前回のあらすじ～[c0][r]白石家で 岩井官吉郎の死とともに[r]いくつもの新事実を知った 津詰と襟尾。[r]白石美智代ならば 根島史周の隠れ家を知って[r]いるとの情報を受け 急いで高校へと向かった。
+txtid_strych_text1_c1_040,[c3]～前回のあらすじ～[c0][r]白石美智代から 根島史周の隠れ家を[r]聞くことができた襟尾と津詰は[r]本部にも増援を要請して 根島確保のため[r]大捕物を繰り広げるのだった。
+txtid_strych_text1_c1_045,★出ないテキスト
+txtid_strych_text1_c1_050,[c3]～前回のあらすじ～[c0][r]灯野あやめと会って 全部ハッキリさせる。[r]そう決意する津詰と襟尾は 捜索を続けていた。[r]本所七不思議の呪い……晴曼と蘆乃の因縁は[r]果たして どのような結末を迎えるのか……。
+txtid_strych_text1_d0_010,投身自殺をした友人を蘇らせたいと願い[r]《蘇りの秘術》を探す逆崎約子は[r]その情報を得るために[r]同級生の黒鈴ミヲと共に 深夜の教室で[r]《こっくりさん》を試みるのだった……。
+txtid_strych_text1_d0_020,[c3]～前回のあらすじ～[c0][r]こっくりさんで得た情報によると[r]友人・白石美智代は 自殺ではないらしい。[r]さらに《蘇りの秘術》の場所を訊ねると[r]突然 呪影が現れて……。
+txtid_strych_text1_d0_030,[c3]～前回のあらすじ～[c0][r]『馬鹿囃子』の呪いを受けた 逆崎約子に[r]《蘇りの秘術》は諦めようと説得するミヲ。[r]すでに 学校に他の呪影の影響も出ていたため[r]ふたりは 急いで教室を抜け出した。
+txtid_strych_text1_d0_035,★出ないテキスト
+txtid_strych_text1_d0_040,★出ないテキスト
+txtid_strych_text1_d1_010,[c3]～前回のあらすじ～[c0][r]親友を生き返らせるには 代償が要る……。[r]手にした呪いと どう向き合うべきか[r]整理がつかないまま帰路についた逆崎約子。[r]黒鈴ミヲを心配しながら 一夜が明けた。
+txtid_strych_text1_d1_020,[c3]～前回のあらすじ～[c0][r]今回の事件の発端である《蘇りの秘術》。[r]その噂を広めた当事者である新石英樹に[r]話を聞くため ふたりは彼のいきつけで[r]あるという喫茶店《黒桔梗》に向かう。
+txtid_strych_text1_d1_030,[c3]～前回のあらすじ～[c0][r]『禄命簿・陰の書』があれば 秘術の呪いを[r]止める方法がわかるかもしれない。[r]有力な手がかりを得ることができた約子らは[r]津詰に伝えるため 駒形高校へ向かうのだった。
+txtid_strych_text1_d1_035,★出ないテキスト
+txtid_strych_text1_d1_040,[c3]～前回のあらすじ～[c0][r]本当の自分を取り戻した約子は 改めて[r]ミヲと共に 今回の呪いを止めるために[r]『禄命簿・陰の書』の探索を行うが[r]その手がかりは あまりにも少なかった……。
+txtid_strych_text1_d1_050,[c3]～前回のあらすじ～[c0][r]吉見の婚約者 蝶澤と共に 津詰たちに[r]これまでの情報を報告する 約子とミヲ。[r]すべての話を まとめていくことで[r]いよいよ最終目的が見えてくる……。
+txtid_strych_text1_e1_010,？？？
+txtid_strych_text2_a0_010,ごく普通の会社員・興家彰吾は 先日知り合った[r]福永葉子と共に 深夜の錦糸堀公園で[r]《本所七不思議》を探索していた。突如倒れ[r]意識を失った興家は 状況をひとつずつ思い[r]出しながら 福永葉子のオカルト話に付き合う。
+txtid_strych_text2_a0_020,福永葉子が本所七不思議を調べていたのは[r]《蘇りの秘術》を求めてのことだった。[r]江戸から伝わる七不思議と 死者を蘇らせる[r]という幻の秘術の関係について話していると[r]突如 福永葉子の様子に異変があり……。
+txtid_strych_text2_a0_030,前触れもなく不可解な最期を遂げた福永葉子。[r]異常現象に困惑する興家だったが 彼女を復活[r]させるべく 蘇りの秘術を手に入れることを誓う。[r]すると そこに弓岡巧己と名乗る男が現れ[r]興家の手に入れた呪詛珠を渡せと狙う。
+txtid_strych_text2_a0_040,弓岡巧己を呪い殺し 滓魂を手に入れた興家は[r]もう後には引けないと 夜明けまでに[r]残りの滓魂を集めることを決意。[r]本所七不思議の地を巡り 各地で遭遇する[r]出来事を経て 着実に滓魂を溜めていく。
+txtid_strych_text2_a0_060,興家彰吾は 《両国橋》と《旧安田庭園》でも[r]呪主と遭遇し どうにか難関を突破して[r]必要な滓魂を溜めきった。[r]しかしその後 呪詛珠に変化があり[r]興家は そのまま帰らぬ人となる……。
+txtid_strych_text2_a0_110,興家彰吾の辛抱強い呼びかけによって[r]福永葉子は 無事に我に返った。[r]しかし 何を見て 何が起こったのかは[r]まったく覚えていないという。[r]その話を聞いて 興家は捜索の中止を決める。
+txtid_strych_text2_a0_120,福永葉子との約束のため ひとり[r]本所七不思議の捜索をしていた興家彰吾。[r]しかし 翌朝に公園で発見されたものは[r]変わり果てた姿となった 彼の遺体だった……。
+txtid_strych_text2_a1_010,土御門晴曼の《魂》《肉体》《精神》が[r]揃ったところに これは現れる。[r]ここに解除の術は発動し 秘術も呪いも[r]すべてが祓われ 消し去られるのだった。
+txtid_strych_text2_a1_020,[c5]【エンディング＃６】[c0][r]そこは 秘術も呪いも無かった いつもの世界。[r]関わった人々は どう生きていくのか……。[r]あなたが救った町を どうか見届けてから[r]去ってほしい。
+txtid_strych_text2_b0_010,『送り拍子木』の呪いを受けたことで[r]《蘇りの秘術》を使う機会を得た志岐間春恵。[r]誘拐事件の調査を依頼した探偵・櫂利飛太は[r]呪いを使わずに秘術を使うため ほかの呪主の[r]呪詛珠を奪うことを提案するのだった。
+txtid_strych_text2_b0_020,利飛太から 呪主探索の報告を受ける春恵。[r]彼女にとって因縁の深い隅田川の流れを見て[r]本当にこれでいいのかと 心が揺れ動く。[r]さらに 灯野あやめという女性も 呪詛珠を[r]狙っていると知り 気ばかりが焦るのだった。
+txtid_strych_text2_b0_030,呪主の捜索は 利飛太に一任して[r]ひとまず帰宅する春恵だったが[r]やはり 心はどこか落ち着かないままだった。
+txtid_strych_text2_b1_010,ヒハク石鹸や 灯野あやめの動向を気にするも[r]呪主についての有力な情報が得られないことに[r]苛立ちを隠せない春恵。[r]その一方で 誘拐事件の重要参考人としてあがった[r]白石美智代について調べを進めていく。
+txtid_strych_text2_b1_020,誘拐事件の犯人だった 岩井官吉郎は[r]自宅で 白石美智代によって呪い殺されていた。[r]西洋黒魔術の研究をしていたという岩井と[r]根島史周や ヒハク石鹸との繋がりが見えるが[r]それでも春恵の興味は 蘇りの秘術にあった。
+txtid_strych_text2_b1_030,誘拐事件の調査は完了し 蘇りの秘術に注力する[r]利飛太と春恵は 再び 七不思議を巡る。[r]駄菓子に夢中になる利飛太を眺めたり[r]ファクシミリで謎のＳＯＳを受信しながらも[r]呪詛珠の狙いを 灯野あやめに絞っていく。
+txtid_strych_text2_b1_040,根島を呪い殺したことで 呪詛珠が使えると[r]気付いた灯野あやめは 呪主である春恵を狙い[r]志岐間邸を訪れた。春恵もまた 滓魂の貯まった[r]あやめの呪詛珠を奪うために 言葉を投げる。[r]ふたりの探りあいは どのような展開を描くのか。
+txtid_strych_text2_b1_050,[c5]【エンディング＃３】[c0][r]一貫して 息子の蘇生を願い続けていた春恵は[r]灯野あやめを呪い殺して 呪詛珠を奪った。[r]願いを叶えた春恵が 幸せなのかは わからないが[r]せめて伝説を見届けようと思う 利飛太だった。
+txtid_strych_text2_b1_055,[c5]【エンディング＃４】[c0][r]根島史周や 志岐間春恵を呪い殺して得た呪詛珠で[r]灯野あやめは 自らの宿願を果たす。[r]しかし 遙か昔の魂の復活を遂げようとも 彼女は[r]その肉体までも復活させる術は 持たなかった。
+txtid_strych_text2_c0_010,警察官・吉見肇が変死した事案を[r]部下の襟尾純とともに捜査する 津詰徹生。[r]現場となった旧安田庭園で 状況の整理を[r]していると突然 本所七不思議『落葉なき椎』の[r]呪影が現れ 津詰に取り憑くのだった。
+txtid_strych_text2_c0_020,図らずも呪主となった津詰は 襟尾に[r]秘匿部署《心霊対策室》の存在を明かす。[r]ふたりは この惨事を未然に防ぐため[r]呪詛珠の回収に動き出し まずは両国橋で[r]『足洗い屋敷』の回収に成功する。
+txtid_strych_text2_c0_030,緑町公園で遭遇した 郷土研究家の[r]新石英樹は『消えずの行灯』の呪主だった。[r]《蘇りの秘術》についての知識を持つ[r]新石からは まだ情報を引き出したいが[r]ここでは呪詛珠を回収するにとどまった。
+txtid_strych_text2_c0_040,錦糸堀公園にて 男の遺体を発見した津詰。[r]ほかにも変死体が見つかり 状況は回りだす。[r]そんな中 因縁の相手である根島史周から[r]津詰に連絡が入り 自身も呪主であることと[r]日没時に大量殺人することを宣言される。
+txtid_strych_text2_c1_010,呪詛珠の回収が捗らなかったこともあり[r]呪詛による被害者が出てしまった。[r]まずは襟尾とともに状況確認をする津詰。[r]やることは多いが できることが少ない中[r]とにかく少しでも前に進むことを決意する。
+txtid_strych_text2_c1_020,黒鈴ミヲと接触し情報交換を行った津詰は[r]校務員の葦宮が 根島の可能性が高いと踏む。[r]一方 現場に残されていた遺留品から[r]白石美智代が本当に復活し 復讐を進めて[r]いるという疑念も 浮かんできていた……。
+txtid_strych_text2_c1_030,白石美智代が事故死である可能性が[r]高いとの情報を受けつつ[r]黒鈴ミヲ 逆崎約子と合流した津詰と襟尾は[r]根島史周の隠れ家を知るために[r]白石美智代との接触を図るのだった。
+txtid_strych_text2_c1_040,葦宮誠こと根島史周を追い詰めた津詰と襟尾。[r]本当に 大量殺人を行える呪詛を持つのか[r]当時の事情を聞きながら 確保の隙を窺う。[r]やがて 根島の取った行動によって[r]この状況は 大きく揺れ動くのだった。
+txtid_strych_text2_c1_045,[c5]【エンディング＃２】[c0][r]大捕物の末 根島を捕り逃がしてしまった津詰らは[r]ついに発見出来ないまま 予告の時間を迎える。[r]呪詛による 未曾有の大惨事を迎えた世間の中で[r]根島史周は 己のすべての目的を成就する。
+txtid_strych_text2_c1_050,[c5]【エンディング＃５】[c0][r]津詰の犠牲により 灯野あやめの確保に成功し[r]『禄命簿・陰の書』を解き明かす襟尾とミヲ。[r]しかしそこに現れた 最後の呪主 福永葉子が[r]ふたりから呪詛珠を奪い去り 惨劇が始まった。
+txtid_strych_text2_d0_010,不審な自殺を遂げた友人・白石美智代を[r]蘇らせたいと願う 逆崎約子。[r]級友の黒鈴ミヲと行った こっくりさんで[r]《蘇りの秘術》の場所を問いかけたが[r]逆に『馬鹿囃子』の呪いを受けてしまう。
+txtid_strych_text2_d0_020,『馬鹿囃子』の呪いを受けたショックで[r]気を失っていた逆崎約子。[r]ミヲは そんな彼女を心配するとともに[r]呪いを伴う《蘇りの秘術》は諦めて すぐに[r]学校から脱出しようと促すのだった。
+txtid_strych_text2_d0_030,校舎からの脱出途中 約子とミヲは[r]幾度も 怪しげな出来事に遭遇する。[r]いったい 誰によって何が行われているのか[r]まったく分からない中で 逆崎約子は[r]慎重に行動を選び どうにか帰路につくのだった。
+txtid_strych_text2_d0_035,ミヲも葦宮も出て来ないことに心配して[r]校舎に戻ることに決めた約子。[r]だが そこで見たものは[r]友人の無残な姿であった……。
+txtid_strych_text2_d0_040,どうにか 自宅まで帰り着いた逆崎約子。[r]学校に残ったミヲのことが 心配になるが[r]激しい眠気に襲われたため 捜索は明日にして[r]すぐに休むことにした……。
+txtid_strych_text2_d1_010,教師の城之内が死んでいるのが発見され[r]昨夜 校内に別の呪主が潜んでいたことが判明。[r]一方 奥田瞳からの情報により[r]白石美智代の置かれていた過酷な境遇も[r]明かされ 約子に動揺が走る。
+txtid_strych_text2_d1_020,《本所事変》に『禄命簿・陰の書』……[r]新石から多くの情報を得ることができ[r]少しずつ 事件の全貌が見えてきた。[r]これらの手がかりを使って[r]事態の解決に 近づけるかもしれない。
+txtid_strych_text2_d1_030,白石美智代は 約子の中にいた。[r]約子の持つ呪詛珠で 復讐を果たしていた。[r]白石美智代から情報を得るために 再び[r]こっくりさんを行い ようやく事情を知る……。[r]また会う時まで どうか忘れないで。
+txtid_strych_text2_d1_035,[c5]【エンディング＃１】[c0][r]白石美智代を蘇らせるために[r]《蘇りの秘術》を狙っていた並垣。[r]だが 力ずくでも呪詛珠を奪おうとした[r]彼の前に現れたのは 白石本人で……？
+txtid_strych_text2_d1_040,監禁から脱出した 蝶澤麻由と合流して[r]ヒハクの弓岡を問い詰めていくミヲと約子。[r]その中で 吉見肇と白石美智代が 晴曼の末裔で[r]ふたつのお守りを集めれば『陰の書』が[r]手に入ることを知るのだった。
+txtid_strych_text2_d1_050,江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。[r]すべての標的が 灯野あやめに集中していく。[r]約子とミヲが『禄命簿・陰の書』を手に入れ[r]この呪いを止められるのかどうかについても[r]津詰たちの行動に 預けられることとなった……。
+txtid_strych_text2_e1_010,記憶がない状態で 見知らぬ場所で目覚めた[r]蝶澤麻由だったが 周囲を調べるうちに[r]ヒハクの弓岡の仕業だったことを思い出すと[r]その場の工夫と 何者かの天啓によって[r]監禁されていた廃工場を脱出するのだった。
+title_rights_notation,権利表記
+story_savedata_update,シナリオが更新されましたので[r]チャプターの先頭から始めます。
+load_message_autosave,オートセーブを ロードいたしますか？
+android_back_overlay,別の画面に移動できません
+storychart_detail_start,はじめる
+storychart_detail_first,はじめから
+storychart_detail_continue,途中から
+reset_savedata,セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。
+option_warnig_text,※タイトル画面で変更できます
+option_keyconfig_conflict,キーコンフィグが競合しているので保存できません。
+option_keyconfig_conflict_back,戻る
+savedata_alldelete_text,全てのデータを消去しました。
+title_warning_text,＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。 
+
