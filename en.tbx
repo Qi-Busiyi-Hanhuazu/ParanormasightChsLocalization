@@ -12,6 +12,22 @@
         <body>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>パラノマサイト</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>あやめ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>黒鈴ミヲ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>ミヲ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>灯野あやめ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
