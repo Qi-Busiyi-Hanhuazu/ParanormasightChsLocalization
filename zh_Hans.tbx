@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>馬鹿囃子</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>马鹿囃子</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>马鹿杂曲</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>津軽の太鼓</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>片葉の芦</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>片叶芦</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>片叶芦苇</term></tig></langSet>
             </termEntry>
         </body>
     </text>
