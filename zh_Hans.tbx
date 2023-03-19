@@ -30,6 +30,42 @@
                 <langSet xml:lang="ja"><tig><term>灯野あやめ</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>灯野绫</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>馬鹿囃子</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>马鹿囃子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>津軽の太鼓</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>津轻太鼓</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>送り拍子木</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>送行拍子木</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>足洗い屋敷</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>足洗邸</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>落葉なき椎</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>落叶秃椎</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>置いてけ堀</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>置行堀</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>消えずの行灯</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>不灭行灯</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>送り提灯</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>送行提灯</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>片葉の芦</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>片叶芦</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
