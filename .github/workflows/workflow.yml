@@ -8,6 +8,7 @@ on:
       - '*.md'
       - '**/.gitignore'
       - 'files/CharacterTable-*.txt'
+      - 'images/'
   workflow_dispatch:
 
 jobs:
