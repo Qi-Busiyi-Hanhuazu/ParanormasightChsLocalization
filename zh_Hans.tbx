@@ -78,6 +78,14 @@
                 <langSet xml:lang="ja"><tig><term>せんのや</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>千野屋</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>こっくりさん</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>狐狗狸</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>アオサギ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>苍鹭</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
