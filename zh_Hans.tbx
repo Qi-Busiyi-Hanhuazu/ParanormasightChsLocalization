@@ -74,6 +74,10 @@
                 <langSet xml:lang="ja"><tig><term>なめどり</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>反舌鸟</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>せんのや</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>千野屋</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
