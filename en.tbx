@@ -76,10 +76,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>こっくりさん</term></tig></langSet>
-                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>アオサギ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>下町人情</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
