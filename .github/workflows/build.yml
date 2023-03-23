@@ -11,11 +11,6 @@ jobs:
         with:
           ref: master
           fetch-depth: 1
-      - name: Commit Information
-        id: commit
-        run: |
-          echo "commit_id=commit-$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
-          echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
       - name: Create Patch
         run: |
           bin/ParanormasightChsLocalizationHelper
@@ -32,6 +27,6 @@ jobs:
           allowUpdates: true
           artifacts: "out/patch-text.zip"
           bodyFile: README.md
-          name: ${{ steps.commit.outputs.commit_message }}
+          name: "《灵异视界 FILE23 本所七大不可思议》文本翻译"
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}
