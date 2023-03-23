@@ -90,6 +90,22 @@
                 <langSet xml:lang="ja"><tig><term>下町人情</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>风土人情</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>滓魂</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>魂渣</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>呪詛珠</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>诅咒珠</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>オゴポゴ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>欧戈波戈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>蘇りの秘術</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重生的秘术</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
