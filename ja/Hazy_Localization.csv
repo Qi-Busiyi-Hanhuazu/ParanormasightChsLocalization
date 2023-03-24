@@ -1,0 +1,954 @@
+"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+"Hazy_Localization.txt:1","はい","はい","confirm_yes","False","","",""
+"Hazy_Localization.txt:2","いいえ","いいえ","confirm_no","False","","",""
+"Hazy_Localization.txt:3","AUTO","AUTO","game_btn_auto","False","","",""
+"Hazy_Localization.txt:4","AUTOボタン表示","AUTOボタン表示","menu_btn_auto","False","","",""
+"Hazy_Localization.txt:5","人物リスト","人物リスト","menu_btn_charalist","False","","",""
+"Hazy_Localization.txt:6","資料","資料","menu_btn_doclist","False","","",""
+"Hazy_Localization.txt:7","ストーリーチャート","ストーリーチャート","menu_btn_storychart","False","","",""
+"Hazy_Localization.txt:8","セーブ","セーブ","menu_btn_save","False","","",""
+"Hazy_Localization.txt:9","ロード","ロード","menu_btn_load","False","","",""
+"Hazy_Localization.txt:10","オプション","オプション","menu_btn_option","False","","",""
+"Hazy_Localization.txt:11","ゲーム終了","ゲーム終了","menu_btn_end","False","","",""
+"Hazy_Localization.txt:12","人物リスト","人物リスト","charalist_title","False","","",""
+"Hazy_Localization.txt:13","資料","資料","doclist_title","False","","",""
+"Hazy_Localization.txt:14","新着","新着","doclist_cate_new","False","","",""
+"Hazy_Localization.txt:15","ALL","ALL","doclist_cate_all","False","","",""
+"Hazy_Localization.txt:16","文化/社会","文化/社会","doclist_cate_calture","False","","",""
+"Hazy_Localization.txt:17","本所七不思議","本所七不思議","doclist_cate_sevenwonder","False","","",""
+"Hazy_Localization.txt:18","超常/呪詛","超常/呪詛","doclist_cate_curse","False","","",""
+"Hazy_Localization.txt:19","攻略情報","攻略情報","doclist_cate_other","False","","",""
+"Hazy_Localization.txt:20","更新された資料はありません","更新された資料はありません","doclist_nothing_message","False","","",""
+"Hazy_Localization.txt:21","セーブ","セーブ","save_title","False","","",""
+"Hazy_Localization.txt:22","セーブするスロットを選んでください","セーブするスロットを選んでください","save_subtitle","False","","",""
+"Hazy_Localization.txt:23","スロット{0}に 上書きいたしますか？","スロット{0}に 上書きいたしますか？","save_message","False","","",""
+"Hazy_Localization.txt:24","ロード","ロード","load_title","False","","",""
+"Hazy_Localization.txt:25","ロードするスロットを選んでください","ロードするスロットを選んでください","load_subtitle","False","","",""
+"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？","スロット{0}を ロードいたしますか？","load_message","False","","",""
+"Hazy_Localization.txt:27","オートセーブ","オートセーブ","save_autosave","False","","",""
+"Hazy_Localization.txt:28","スロット{0}","スロット{0}","save_slotname","False","","",""
+"Hazy_Localization.txt:29","データなし","データなし","save_nodata","False","","",""
+"Hazy_Localization.txt:30","ストーリーチャート","ストーリーチャート","save_place_storychart","False","","",""
+"Hazy_Localization.txt:31","前口上","前口上","save_place_first","False","","",""
+"Hazy_Localization.txt:32","ゲーム","ゲーム","option_cate_game","False","","",""
+"Hazy_Localization.txt:33","サウンド","サウンド","option_cate_sound","False","","",""
+"Hazy_Localization.txt:34","ビデオ","ビデオ","option_cate_video","False","","",""
+"Hazy_Localization.txt:35","コントロール","コントロール","option_cate_controller","False","","",""
+"Hazy_Localization.txt:36","このタブを初期化","このタブを初期化","option_btn_initialize","False","","",""
+"Hazy_Localization.txt:37","セーブデータ全消去","セーブデータ全消去","option_btn_alldelete_savedata","False","","",""
+"Hazy_Localization.txt:38","すべて反映","すべて反映","option_btn_enter","False","","",""
+"Hazy_Localization.txt:39","キャンセル","キャンセル","option_cancel","False","","",""
+"Hazy_Localization.txt:40","サウンド設定","サウンド設定","option_sound_title","False","","",""
+"Hazy_Localization.txt:41","ＢＧＭ音量","ＢＧＭ音量","option_sound_bgm","False","","",""
+"Hazy_Localization.txt:42","ＳＥ音量","ＳＥ音量","option_sound_se","False","","",""
+"Hazy_Localization.txt:43","ボイス音量","ボイス音量","option_sound_voice","False","","",""
+"Hazy_Localization.txt:44","ゲーム設定","ゲーム設定","option_game_title","False","","",""
+"Hazy_Localization.txt:45","言語設定","言語設定","option_game_language","False","","",""
+"Hazy_Localization.txt:46","振動","振動","option_game_viblation","False","","",""
+"Hazy_Localization.txt:47","メッセージスピード","メッセージスピード","option_game_speed","False","","",""
+"Hazy_Localization.txt:48","画面の明るさ","画面の明るさ","option_game_brightness","False","","",""
+"Hazy_Localization.txt:49","右側の画像の形がギリギリわかる程度に 明るさを調整してください","右側の画像の形がギリギリわかる程度に 明るさを調整してください","option_game_brightness_message","False","","",""
+"Hazy_Localization.txt:50","English","English","option_game_language_button1","False","","",""
+"Hazy_Localization.txt:51","日本語","日本語","option_game_language_button2","False","","",""
+"Hazy_Localization.txt:52","ON","ON","option_toggle_on","False","","",""
+"Hazy_Localization.txt:53","OFF","OFF","option_toggle_off","False","","",""
+"Hazy_Localization.txt:54","遅い","遅い","option_game_speed_low","False","","",""
+"Hazy_Localization.txt:55","普通","普通","option_game_speed_normal","False","","",""
+"Hazy_Localization.txt:56","速い","速い","option_game_speed_fast","False","","",""
+"Hazy_Localization.txt:57","瞬時","瞬時","option_game_speed_moment","False","","",""
+"Hazy_Localization.txt:58","暗い","暗い","option_game_screen_dark","False","","",""
+"Hazy_Localization.txt:59","やや暗い","やや暗い","option_game_screen_littledark","False","","",""
+"Hazy_Localization.txt:60","普通","普通","option_game_screen_normal","False","","",""
+"Hazy_Localization.txt:61","やや明るい","やや明るい","option_game_screen_littlebright","False","","",""
+"Hazy_Localization.txt:62","明るい","明るい","option_game_screen_bright","False","","",""
+"Hazy_Localization.txt:63","ビデオ設定","ビデオ設定","option_video_title","False","","",""
+"Hazy_Localization.txt:64","描画解像度","描画解像度","option_video_render_resolution","False","","",""
+"Hazy_Localization.txt:65","アンチエイリアス","アンチエイリアス","option_video_antialiasing","False","","",""
+"Hazy_Localization.txt:66","ポストエフェクト","ポストエフェクト","option_video_post_effect","False","","",""
+"Hazy_Localization.txt:67","低解像度","低解像度","low_resolution","False","","",""
+"Hazy_Localization.txt:68","標準","標準","standard","False","","",""
+"Hazy_Localization.txt:69","高解像度","高解像度","hi_resolution","False","","",""
+"Hazy_Localization.txt:70","低","低","low","False","","",""
+"Hazy_Localization.txt:71","高","高","high","False","","",""
+"Hazy_Localization.txt:72","描画負荷設定","描画負荷設定","option_video_render_load","False","","",""
+"Hazy_Localization.txt:73","低負荷","低負荷","low_load","False","","",""
+"Hazy_Localization.txt:74","やや低負荷","やや低負荷","slightly_low_load","False","","",""
+"Hazy_Localization.txt:75","画面解像度","画面解像度","option_video_screen_resolution","False","","",""
+"Hazy_Localization.txt:76","画面モード","画面モード","option_video_screen_mode","False","","",""
+"Hazy_Localization.txt:77","ウインドウ","ウインドウ","option_video_window","False","","",""
+"Hazy_Localization.txt:78","ボーダーレス","ボーダーレス","option_video_borderless","False","","",""
+"Hazy_Localization.txt:79","フルスクリーン","フルスクリーン","option_video_full_screen","False","","",""
+"Hazy_Localization.txt:80","1280×720","1280×720","option_video_1","False","","",""
+"Hazy_Localization.txt:81","1366×768","1366×768","option_video_2","False","","",""
+"Hazy_Localization.txt:82","1600×900","1600×900","option_video_3","False","","",""
+"Hazy_Localization.txt:83","1920×1080","1920×1080","option_video_4","False","","",""
+"Hazy_Localization.txt:84","コントロール設定","コントロール設定","option_controller_title","False","","",""
+"Hazy_Localization.txt:85","コントローラー持ち方","コントローラー持ち方","option_controller_hold","False","","",""
+"Hazy_Localization.txt:86","視点操作(上下)","視点操作(上下)","option_controller_view1","False","","",""
+"Hazy_Localization.txt:87","視点操作(左右)","視点操作(左右)","option_controller_view2","False","","",""
+"Hazy_Localization.txt:88","決定ボタンの設定","決定ボタンの設定","option_controller_button","False","","",""
+"Hazy_Localization.txt:89","通常","通常","normal","False","","",""
+"Hazy_Localization.txt:90","上下反転","上下反転","option_controller_flip_ud","False","","",""
+"Hazy_Localization.txt:91","左右反転","左右反転","option_controller_flip_lr","False","","",""
+"Hazy_Localization.txt:92","変更","変更","change","False","","",""
+"Hazy_Localization.txt:93","決定／キャンセルボタンの割り当てを変更します。<br>","決定／キャンセルボタンの割り当てを変更します。<br>","option_controller_message","False","","",""
+"Hazy_Localization.txt:94","決定","決定","keyconfig_enter","False","","",""
+"Hazy_Localization.txt:95","選択:上","選択:上","keyconfig_select_up","False","","",""
+"Hazy_Localization.txt:96","選択:下","選択:下","keyconfig_select_down","False","","",""
+"Hazy_Localization.txt:97","選択:左","選択:左","keyconfig_select_left","False","","",""
+"Hazy_Localization.txt:98","選択:右","選択:右","keyconfig_select_right","False","","",""
+"Hazy_Localization.txt:99","カーソル:上","カーソル:上","keyconfig_camera_up","False","","",""
+"Hazy_Localization.txt:100","カーソル:下","カーソル:下","keyconfig_camera_down","False","","",""
+"Hazy_Localization.txt:101","カーソル:左","カーソル:左","keyconfig_camera_left","False","","",""
+"Hazy_Localization.txt:102","カーソル:右","カーソル:右","keyconfig_camera_right","False","","",""
+"Hazy_Localization.txt:103","呪詛行使","呪詛行使","keyconfig_skill","False","","",""
+"Hazy_Localization.txt:104","メニュー","メニュー","keyconfig_menu","False","","",""
+"Hazy_Localization.txt:105","AUTO","AUTO","keyconfig_auto","False","","",""
+"Hazy_Localization.txt:106","キーボード操作のキーコンフィグ","キーボード操作のキーコンフィグ","keyconfig_title","False","","",""
+"Hazy_Localization.txt:107","入力したキーは使用できません。","入力したキーは使用できません。","keyconfig_conflict","False","","",""
+"Hazy_Localization.txt:108","設定するキーを入力してください。<br>（ESC でキャンセル）","設定するキーを入力してください。<br>（ESC でキャンセル）","keyconfig_dialog_title","False","","",""
+"Hazy_Localization.txt:109","Now Loading...","Now Loading...","nowloading","False","","",""
+"Hazy_Localization.txt:110","設定を変更せずに 終了いたしますか？","設定を変更せずに 終了いたしますか？","option_return_msg","False","","",""
+"Hazy_Localization.txt:111","更新ページを開く","更新ページを開く","msgbox_open_update_page","False","","",""
+"Hazy_Localization.txt:112","セーブして ゲームを終了いたします。
+よろしいですか？","セーブして ゲームを終了いたします。
+よろしいですか？","msgbox_game_end","False","","",""
+"Hazy_Localization.txt:113","表示中のタブの設定を<br>初期状態に戻しますか？","表示中のタブの設定を<br>初期状態に戻しますか？","msgbox_init_option_settings","False","","",""
+"Hazy_Localization.txt:114","ゲームスタート","ゲームスタート","game_title_game_start","False","","",""
+"Hazy_Localization.txt:115","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","copywriter","False","","",""
+"Hazy_Localization.txt:116","全てのデータが消去されます。
+本当によろしいですか？<br>","全てのデータが消去されます。
+本当によろしいですか？<br>","option_alldel_btn_message","False","","",""
+"Hazy_Localization.txt:117","ストーリーチャートに 戻ります。よろしいですか？
+[c3]※まだ終了していないチャプターの場合は
+また最初からやり直しになります。","ストーリーチャートに 戻ります。よろしいですか？
+[c3]※まだ終了していないチャプターの場合は
+また最初からやり直しになります。","menu_storychart_message","False","","",""
+"Hazy_Localization.txt:118","タイトルへ戻る","タイトルへ戻る","menu_btn_title","False","","",""
+"Hazy_Localization.txt:119","セーブして タイトル画面に戻ります。
+よろしいですか？","セーブして タイトル画面に戻ります。
+よろしいですか？","menu_title_message","False","","",""
+"Hazy_Localization.txt:120","ゲームを終了いたしますか？","ゲームを終了いたしますか？","title_exit_dialog","False","","",""
+"Hazy_Localization.txt:121","演出をスキップいたしますか？","演出をスキップいたしますか？","cancel_scroll_message","False","","",""
+"Hazy_Localization.txt:122","【{0}】","【{0}】","option_keyconfig_subtitle","False","","",""
+"Hazy_Localization.txt:123","PARANORMASIGHT","PARANORMASIGHT","ac01_title","False","","",""
+"Hazy_Localization.txt:124","すべての実績を獲得する","すべての実績を獲得する","ac01_detail","False","","",""
+"Hazy_Localization.txt:125","東京なめどり連合","東京なめどり連合","ac02_title","False","","",""
+"Hazy_Localization.txt:126","なめどりシールをコンプリートした","なめどりシールをコンプリートした","ac02_detail","False","","",""
+"Hazy_Localization.txt:127","本所事変完全掌握","本所事変完全掌握","ac03_title","False","","",""
+"Hazy_Localization.txt:128","ストーリーをコンプリートした","ストーリーをコンプリートした","ac03_detail","False","","",""
+"Hazy_Localization.txt:129","本所の人脈通","本所の人脈通","ac04_title","False","","",""
+"Hazy_Localization.txt:130","人物リストをコンプリートした","人物リストをコンプリートした","ac04_detail","False","","",""
+"Hazy_Localization.txt:131","本所の情報屋","本所の情報屋","ac05_title","False","","",""
+"Hazy_Localization.txt:132","資料をコンプリートした","資料をコンプリートした","ac05_detail","False","","",""
+"Hazy_Localization.txt:133","本所七不思議制覇","本所七不思議制覇","ac06_title","False","","",""
+"Hazy_Localization.txt:134","呪影をコンプリートした","呪影をコンプリートした","ac06_detail","False","","",""
+"Hazy_Localization.txt:135","なめどりエキスパート","なめどりエキスパート","ac07_title","False","","",""
+"Hazy_Localization.txt:136","なめどりシールを１５種類獲得した","なめどりシールを１５種類獲得した","ac07_detail","False","","",""
+"Hazy_Localization.txt:137","責務完遂","責務完遂","ac08_title","False","","",""
+"Hazy_Localization.txt:138","興家彰吾のエンディングを迎えた","興家彰吾のエンディングを迎えた","ac08_detail","False","","",""
+"Hazy_Localization.txt:139","なめどりコレクター","なめどりコレクター","ac09_title","False","","",""
+"Hazy_Localization.txt:140","なめどりシールを１０種類獲得した","なめどりシールを１０種類獲得した","ac09_detail","False","","",""
+"Hazy_Localization.txt:141","真夜中の恐怖","真夜中の恐怖","ac10_title","False","","",""
+"Hazy_Localization.txt:142","真夜中にゲームをプレイする","真夜中にゲームをプレイする","ac10_detail","False","","",""
+"Hazy_Localization.txt:143","ベテラン探究者","ベテラン探究者","ac11_title","False","","",""
+"Hazy_Localization.txt:144","プレイ時間が１０時間に達した","プレイ時間が１０時間に達した","ac11_detail","False","","",""
+"Hazy_Localization.txt:145","脱三日坊主","脱三日坊主","ac12_title","False","","",""
+"Hazy_Localization.txt:146","３日後にゲームをプレイする","３日後にゲームをプレイする","ac12_detail","False","","",""
+"Hazy_Localization.txt:147","志岐間春恵の伝説","志岐間春恵の伝説","ac13_title","False","","",""
+"Hazy_Localization.txt:148","志岐間春恵のエンディングを迎えた","志岐間春恵のエンディングを迎えた","ac13_detail","False","","",""
+"Hazy_Localization.txt:149","襟尾純の選択","襟尾純の選択","ac14_title","False","","",""
+"Hazy_Localization.txt:150","津詰徹生のエンディングを迎えた","津詰徹生のエンディングを迎えた","ac14_detail","False","","",""
+"Hazy_Localization.txt:151","白石美智代の怨讐","白石美智代の怨讐","ac15_title","False","","",""
+"Hazy_Localization.txt:152","逆崎約子のエンディングを迎えた","逆崎約子のエンディングを迎えた","ac15_detail","False","","",""
+"Hazy_Localization.txt:153","根島史周の追慕","根島史周の追慕","ac16_title","False","","",""
+"Hazy_Localization.txt:154","葦宮バッドエンドを迎えた","葦宮バッドエンドを迎えた","ac16_detail","False","","",""
+"Hazy_Localization.txt:155","灯野あやめの本懐","灯野あやめの本懐","ac17_title","False","","",""
+"Hazy_Localization.txt:156","あやめバッドエンドを迎えた","あやめバッドエンドを迎えた","ac17_detail","False","","",""
+"Hazy_Localization.txt:157","なめどりビギナー","なめどりビギナー","ac18_title","False","","",""
+"Hazy_Localization.txt:158","なめどりシールを５種類獲得した","なめどりシールを５種類獲得した","ac18_detail","False","","",""
+"Hazy_Localization.txt:159","ヒヨっ子なめどり","ヒヨっ子なめどり","ac19_title","False","","",""
+"Hazy_Localization.txt:160","なめどりシールを１種類獲得した","なめどりシールを１種類獲得した","ac19_detail","False","","",""
+"Hazy_Localization.txt:161","殺したのは誰？","殺したのは誰？","ac20_title","False","","",""
+"Hazy_Localization.txt:162","案内人の質問に正解する","案内人の質問に正解する","ac20_detail","False","","",""
+"Hazy_Localization.txt:163","蘇りの秘術","蘇りの秘術","ac21_title","False","","",""
+"Hazy_Localization.txt:164","序章をクリアした","序章をクリアした","ac21_detail","False","","",""
+"Hazy_Localization.txt:165","志岐間春恵の願い","志岐間春恵の願い","ac22_title","False","","",""
+"Hazy_Localization.txt:166","１章志岐間篇をクリアした","１章志岐間篇をクリアした","ac22_detail","False","","",""
+"Hazy_Localization.txt:167","津詰徹生の捜査","津詰徹生の捜査","ac23_title","False","","",""
+"Hazy_Localization.txt:168","１章津詰篇をクリアした","１章津詰篇をクリアした","ac23_detail","False","","",""
+"Hazy_Localization.txt:169","逆崎約子の友情","逆崎約子の友情","ac24_title","False","","",""
+"Hazy_Localization.txt:170","１章逆崎篇をクリアした","１章逆崎篇をクリアした","ac24_detail","False","","",""
+"Hazy_Localization.txt:171","志岐間春恵の覚悟","志岐間春恵の覚悟","ac25_title","False","","",""
+"Hazy_Localization.txt:172","２章志岐間篇をクリアした","２章志岐間篇をクリアした","ac25_detail","False","","",""
+"Hazy_Localization.txt:173","津詰徹生の後悔","津詰徹生の後悔","ac26_title","False","","",""
+"Hazy_Localization.txt:174","２章津詰篇をクリアした","２章津詰篇をクリアした","ac26_detail","False","","",""
+"Hazy_Localization.txt:175","逆崎約子の正義","逆崎約子の正義","ac27_title","False","","",""
+"Hazy_Localization.txt:176","２章逆崎篇をクリアした","２章逆崎篇をクリアした","ac27_detail","False","","",""
+"Hazy_Localization.txt:177","蝶澤麻由の脱出","蝶澤麻由の脱出","ac28_title","False","","",""
+"Hazy_Localization.txt:178","２章蝶澤篇をクリアした","２章蝶澤篇をクリアした","ac28_detail","False","","",""
+"Hazy_Localization.txt:179","興家彰吾の油断","興家彰吾の油断","ac29_title","False","","",""
+"Hazy_Localization.txt:180","興家彰吾が死亡した","興家彰吾が死亡した","ac29_detail","False","","",""
+"Hazy_Localization.txt:181","消えずの興家彰吾","消えずの興家彰吾","ac30_title","False","","",""
+"Hazy_Localization.txt:182","興家彰吾が死亡した","興家彰吾が死亡した","ac30_detail","False","","",""
+"Hazy_Localization.txt:183","足洗い興家彰吾","足洗い興家彰吾","ac31_title","False","","",""
+"Hazy_Localization.txt:184","興家彰吾が死亡した","興家彰吾が死亡した","ac31_detail","False","","",""
+"Hazy_Localization.txt:185","送り興家彰吾","送り興家彰吾","ac32_title","False","","",""
+"Hazy_Localization.txt:186","興家彰吾が死亡した","興家彰吾が死亡した","ac32_detail","False","","",""
+"Hazy_Localization.txt:187","足洗い津詰徹生","足洗い津詰徹生","ac33_title","False","","",""
+"Hazy_Localization.txt:188","津詰徹生が死亡した","津詰徹生が死亡した","ac33_detail","False","","",""
+"Hazy_Localization.txt:189","片葉の逆崎約子","片葉の逆崎約子","ac34_title","False","","",""
+"Hazy_Localization.txt:190","逆崎約子が死亡した","逆崎約子が死亡した","ac34_detail","False","","",""
+"Hazy_Localization.txt:191","消えずの逆崎約子","消えずの逆崎約子","ac35_title","False","","",""
+"Hazy_Localization.txt:192","逆崎約子が死亡した","逆崎約子が死亡した","ac35_detail","False","","",""
+"Hazy_Localization.txt:193","AUTO切り替え(ボタン表示時)","AUTO切り替え(ボタン表示時)","operation_auto","False","","",""
+"Hazy_Localization.txt:194","視点拡大","視点拡大","operation_expansion","False","","",""
+"Hazy_Localization.txt:195","視点縮小","視点縮小","operation_shrink","False","","",""
+"Hazy_Localization.txt:196","カーソル移動","カーソル移動","operation_cursor_move","False","","",""
+"Hazy_Localization.txt:197","項目選択","項目選択","operation_item_select","False","","",""
+"Hazy_Localization.txt:198","視点移動/","視点移動/","operation_perspective_move","False","","",""
+"Hazy_Localization.txt:199","スクロール","スクロール","operation_scroll","False","","",""
+"Hazy_Localization.txt:200","視点拡大/縮小","視点拡大/縮小","operation_scaling","False","","",""
+"Hazy_Localization.txt:201","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","operation_screen","False","","",""
+"Hazy_Localization.txt:202","？？？","？？？","documentlist_disable_title","False","","",""
+"Hazy_Localization.txt:203","？？？","？？？","save_charaname_unknown","False","","",""
+"Hazy_Localization.txt:204","興家 彰吾","興家 彰吾","txid_chr01_st","False","","",""
+"Hazy_Localization.txt:205","福永 葉子","福永 葉子","txid_chr02_st","False","","",""
+"Hazy_Localization.txt:206","志岐間 春恵","志岐間 春恵","txid_chr03_st","False","","",""
+"Hazy_Localization.txt:207","櫂 利飛太","櫂 利飛太","txid_chr04_st","False","","",""
+"Hazy_Localization.txt:208","津詰 徹生","津詰 徹生","txid_chr05_st","False","","",""
+"Hazy_Localization.txt:209","襟尾 純","襟尾 純","txid_chr06_st","False","","",""
+"Hazy_Localization.txt:210","吉見 肇","吉見 肇","txid_chr07_st","False","","",""
+"Hazy_Localization.txt:211","黒鈴 ミヲ","黒鈴 ミヲ","txid_chr08_st","False","","",""
+"Hazy_Localization.txt:212","逆崎 約子","逆崎 約子","txid_chr09_st","False","","",""
+"Hazy_Localization.txt:213","白石 美智代","白石 美智代","txid_chr10_st","False","","",""
+"Hazy_Localization.txt:214","奥田 瞳","奥田 瞳","txid_chr11_st","False","","",""
+"Hazy_Localization.txt:215","城之内 耕兵","城之内 耕兵","txid_chr12_st","False","","",""
+"Hazy_Localization.txt:216","葦宮 誠","葦宮 誠","txid_chr13_st","False","","",""
+"Hazy_Localization.txt:217","蝶澤 麻由","蝶澤 麻由","txid_chr14_st","False","","",""
+"Hazy_Localization.txt:218","並垣 祐太郎","並垣 祐太郎","txid_chr15_st","False","","",""
+"Hazy_Localization.txt:219","灯野 あやめ","灯野 あやめ","txid_chr16_st","False","","",""
+"Hazy_Localization.txt:220","新石 英樹","新石 英樹","txid_chr17_st","False","","",""
+"Hazy_Localization.txt:221","山森 ナツヱ","山森 ナツヱ","txid_chr18_st","False","","",""
+"Hazy_Localization.txt:222","弓岡 巧己","弓岡 巧己","txid_chr19_st","False","","",""
+"Hazy_Localization.txt:223","岩井 官吉郎","岩井 官吉郎","txid_chr20_st","False","","",""
+"Hazy_Localization.txt:224","志岐間 修一","志岐間 修一","txid_chr21_st","False","","",""
+"Hazy_Localization.txt:225","根島 史周","根島 史周","txid_chr22_st","False","","",""
+"Hazy_Localization.txt:226","案内人","案内人","txid_chr30_st","False","","",""
+"Hazy_Localization.txt:227","ゲームの遊び方","ゲームの遊び方","txid_doc01_st","False","","",""
+"Hazy_Localization.txt:228","本所七不思議","本所七不思議","txid_doc04_st","False","","",""
+"Hazy_Localization.txt:229","『置いてけ堀』","『置いてけ堀』","txid_doc05_st","False","","",""
+"Hazy_Localization.txt:230","『馬鹿囃子』","『馬鹿囃子』","txid_doc06_st","False","","",""
+"Hazy_Localization.txt:231","『送り提灯』","『送り提灯』","txid_doc07_st","False","","",""
+"Hazy_Localization.txt:232","『送り拍子木』","『送り拍子木』","txid_doc08_st","False","","",""
+"Hazy_Localization.txt:233","『落葉なき椎』","『落葉なき椎』","txid_doc09_st","False","","",""
+"Hazy_Localization.txt:234","『津軽の太鼓』","『津軽の太鼓』","txid_doc10_st","False","","",""
+"Hazy_Localization.txt:235","『足洗い屋敷』","『足洗い屋敷』","txid_doc11_st","False","","",""
+"Hazy_Localization.txt:236","『片葉の芦』","『片葉の芦』","txid_doc12_st","False","","",""
+"Hazy_Localization.txt:237","『消えずの行灯』","『消えずの行灯』","txid_doc13_st","False","","",""
+"Hazy_Localization.txt:238","蘇りの秘術","蘇りの秘術","txid_doc15_st","False","","",""
+"Hazy_Localization.txt:239","呪影／呪主","呪影／呪主","txid_doc17_st","False","","",""
+"Hazy_Localization.txt:240","呪詛珠","呪詛珠","txid_doc18_st","False","","",""
+"Hazy_Localization.txt:241","滓魂","滓魂","txid_doc19_st","False","","",""
+"Hazy_Localization.txt:242","禄命簿","禄命簿","txid_doc22_st","False","","",""
+"Hazy_Localization.txt:243","禄命簿・陰の書","禄命簿・陰の書","txid_doc48_st","False","","",""
+"Hazy_Localization.txt:244","霊夜祭","霊夜祭","txid_doc25_st","False","","",""
+"Hazy_Localization.txt:245","陰陽師","陰陽師","txid_doc42_st","False","","",""
+"Hazy_Localization.txt:246","西洋黒魔術","西洋黒魔術","txid_doc49_st","False","","",""
+"Hazy_Localization.txt:247","本所事変","本所事変","txid_doc14_st","False","","",""
+"Hazy_Localization.txt:248","東京都墨田区","東京都墨田区","txid_doc02_st","False","","",""
+"Hazy_Localization.txt:249","FILE23","FILE23","txid_doc20_st","False","","",""
+"Hazy_Localization.txt:250","本所","本所","txid_doc03_st","False","","",""
+"Hazy_Localization.txt:251","隅田川","隅田川","txid_doc27_st","False","","",""
+"Hazy_Localization.txt:252","両国橋","両国橋","txid_doc28_st","False","","",""
+"Hazy_Localization.txt:253","駒形橋","駒形橋","txid_doc29_st","False","","",""
+"Hazy_Localization.txt:254","南割下水通り","南割下水通り","txid_doc30_st","False","","",""
+"Hazy_Localization.txt:255","錦糸堀公園","錦糸堀公園","txid_doc31_st","False","","",""
+"Hazy_Localization.txt:256","旧安田庭園","旧安田庭園","txid_doc32_st","False","","",""
+"Hazy_Localization.txt:257","緑町公園","緑町公園","txid_doc33_st","False","","",""
+"Hazy_Localization.txt:258","ヒハク石鹸","ヒハク石鹸","txid_doc23_st","False","","",""
+"Hazy_Localization.txt:259","駒形高校","駒形高校","txid_doc34_st","False","","",""
+"Hazy_Localization.txt:260","志岐間邸","志岐間邸","txid_doc35_st","False","","",""
+"Hazy_Localization.txt:261","喫茶店 黒桔梗","喫茶店 黒桔梗","txid_doc36_st","False","","",""
+"Hazy_Localization.txt:262","駄菓子せんのや","駄菓子せんのや","txid_doc37_st","False","","",""
+"Hazy_Localization.txt:263","アオサギ探偵堂","アオサギ探偵堂","txid_doc41_st","False","","",""
+"Hazy_Localization.txt:264","心霊対策室","心霊対策室","txid_doc40_st","False","","",""
+"Hazy_Localization.txt:265","オカルトブーム","オカルトブーム","txid_doc16_st","False","","",""
+"Hazy_Localization.txt:266","こっくりさん","こっくりさん","txid_doc24_st","False","","",""
+"Hazy_Localization.txt:267","少年非行","少年非行","txid_doc43_st","False","","",""
+"Hazy_Localization.txt:268","電話ボックス","電話ボックス","txid_doc21_st","False","","",""
+"Hazy_Localization.txt:269","葛飾北斎","葛飾北斎","txid_doc38_st","False","","",""
+"Hazy_Localization.txt:270","根島事件まとめ","根島事件まとめ","txid_doc46_st","False","","",""
+"Hazy_Localization.txt:271","志岐間誘拐事件まとめ","志岐間誘拐事件まとめ","txid_doc26_st","False","","",""
+"Hazy_Localization.txt:272","白石美智代関連のメモ","白石美智代関連のメモ","txid_doc45_st","False","","",""
+"Hazy_Localization.txt:273","吉見肇関連のメモ","吉見肇関連のメモ","txid_doc44_st","False","","",""
+"Hazy_Localization.txt:274","判明している呪主のメモ","判明している呪主のメモ","txid_doc47_st","False","","",""
+"Hazy_Localization.txt:275","なめどり","なめどり","txid_doc39_st","False","","",""
+"Hazy_Localization.txt:276","興家彰吾","興家彰吾","txid_strych_name_01","False","","",""
+"Hazy_Localization.txt:277","志岐間春恵","志岐間春恵","txid_strych_name_02","False","","",""
+"Hazy_Localization.txt:278","津詰徹生","津詰徹生","txid_strych_name_03","False","","",""
+"Hazy_Localization.txt:279","逆崎約子","逆崎約子","txid_strych_name_04","False","","",""
+"Hazy_Localization.txt:280","蝶澤麻由","蝶澤麻由","txid_strych_name_05","False","","",""
+"Hazy_Localization.txt:281","「錦糸堀公園 Part1」","「錦糸堀公園 Part1」","txid_strych_title_a0_010","False","","",""
+"Hazy_Localization.txt:282","「錦糸堀公園 Part2」","「錦糸堀公園 Part2」","txid_strych_title_a0_020","False","","",""
+"Hazy_Localization.txt:283","「錦糸堀公園 Part3」","「錦糸堀公園 Part3」","txid_strych_title_a0_030","False","","",""
+"Hazy_Localization.txt:284","「七不思議巡り Part1」","「七不思議巡り Part1」","txid_strych_title_a0_040","False","","",""
+"Hazy_Localization.txt:285","「七不思議巡り Part2」","「七不思議巡り Part2」","txid_strych_title_a0_060","False","","",""
+"Hazy_Localization.txt:286","「錦糸堀公園 Part3'」","「錦糸堀公園 Part3'」","txid_strych_title_a0_110","False","","",""
+"Hazy_Localization.txt:287","「錦糸堀公園 Part4」","「錦糸堀公園 Part4」","txid_strych_title_a0_120","False","","",""
+"Hazy_Localization.txt:288","「解除」","「解除」","txid_strych_title_a1_010","False","","",""
+"Hazy_Localization.txt:289","「もうひとつの結末」","「もうひとつの結末」","txid_strych_title_a1_020","False","","",""
+"Hazy_Localization.txt:290","「夢じゃない」","「夢じゃない」","txid_strych_title_b0_010","False","","",""
+"Hazy_Localization.txt:291","「面白い話」","「面白い話」","txid_strych_title_b0_020","False","","",""
+"Hazy_Localization.txt:292","「もし このまま」","「もし このまま」","txid_strych_title_b0_030","False","","",""
+"Hazy_Localization.txt:293","「そういう世界も ある」","「そういう世界も ある」","txid_strych_title_b1_010","False","","",""
+"Hazy_Localization.txt:294","「捕まろうが 死のうが」","「捕まろうが 死のうが」","txid_strych_title_b1_020","False","","",""
+"Hazy_Localization.txt:295","「あの子……苦手？」","「あの子……苦手？」","txid_strych_title_b1_030","False","","",""
+"Hazy_Localization.txt:296","「最終手段」","「最終手段」","txid_strych_title_b1_040","False","","",""
+"Hazy_Localization.txt:297","「志岐間春恵の伝説」","「志岐間春恵の伝説」","txid_strych_title_b1_050","False","","",""
+"Hazy_Localization.txt:298","「灯野あやめの本懐」","「灯野あやめの本懐」","txid_strych_title_b1_055","False","","",""
+"Hazy_Localization.txt:299","「現場検証」","「現場検証」","txid_strych_title_c0_010","False","","",""
+"Hazy_Localization.txt:300","「呪主捜索 Part1」","「呪主捜索 Part1」","txid_strych_title_c0_020","False","","",""
+"Hazy_Localization.txt:301","「呪主捜索 Part2」","「呪主捜索 Part2」","txid_strych_title_c0_030","False","","",""
+"Hazy_Localization.txt:302","「予告電話」","「予告電話」","txid_strych_title_c0_040","False","","",""
+"Hazy_Localization.txt:303","「状況整理」","「状況整理」","txid_strych_title_c1_010","False","","",""
+"Hazy_Localization.txt:304","「高級寿司」","「高級寿司」","txid_strych_title_c1_020","False","","",""
+"Hazy_Localization.txt:305","「暫時待機」","「暫時待機」","txid_strych_title_c1_030","False","","",""
+"Hazy_Localization.txt:306","「大捕物」","「大捕物」","txid_strych_title_c1_040","False","","",""
+"Hazy_Localization.txt:307","「根島史周の追慕」","「根島史周の追慕」","txid_strych_title_c1_045","False","","",""
+"Hazy_Localization.txt:308","「結末」","「結末」","txid_strych_title_c1_050","False","","",""
+"Hazy_Localization.txt:309","「こっくりさん」","「こっくりさん」","txid_strych_title_d0_010","False","","",""
+"Hazy_Localization.txt:310","「大事なことは ふたつ」","「大事なことは ふたつ」","txid_strych_title_d0_020","False","","",""
+"Hazy_Localization.txt:311","「駒形高校からの脱出」","「駒形高校からの脱出」","txid_strych_title_d0_030","False","","",""
+"Hazy_Localization.txt:312","「脱出失敗」","「脱出失敗」","txid_strych_title_d0_035","False","","",""
+"Hazy_Localization.txt:313","「脱出成功」","「脱出成功」","txid_strych_title_d0_040","False","","",""
+"Hazy_Localization.txt:314","「奥田ちゃんって」","「奥田ちゃんって」","txid_strych_title_d1_010","False","","",""
+"Hazy_Localization.txt:315","「セイマン」","「セイマン」","txid_strych_title_d1_020","False","","",""
+"Hazy_Localization.txt:316","「またね」","「またね」","txid_strych_title_d1_030","False","","",""
+"Hazy_Localization.txt:317","「白石美智代の怨讐」","「白石美智代の怨讐」","txid_strych_title_d1_035","False","","",""
+"Hazy_Localization.txt:318","「やってやります」","「やってやります」","txid_strych_title_d1_040","False","","",""
+"Hazy_Localization.txt:319","「決戦の前」","「決戦の前」","txid_strych_title_d1_050","False","","",""
+"Hazy_Localization.txt:320","「幽暗」","「幽暗」","txid_strych_title_e1_010","False","","",""
+"Hazy_Localization.txt:321","★出ないテキスト","★出ないテキスト","txtid_strych_text1_a0_010","False","","",""
+"Hazy_Localization.txt:322","[c3]～前回のあらすじ～[c0]
+《本所七不思議》を探して 福永葉子とともに
+錦糸堀公園を捜索する 興家彰吾は
+彼女の明かすオカルト話に まんまと
+引き込まれていくのだった。","[c3]～前回のあらすじ～[c0]
+《本所七不思議》を探して 福永葉子とともに
+錦糸堀公園を捜索する 興家彰吾は
+彼女の明かすオカルト話に まんまと
+引き込まれていくのだった。","txtid_strych_text1_a0_020","False","","",""
+"Hazy_Localization.txt:323","★出ないテキスト","★出ないテキスト","txtid_strych_text1_a0_030","False","","",""
+"Hazy_Localization.txt:324","★出ないテキスト","★出ないテキスト","txtid_strych_text1_a0_040","False","","",""
+"Hazy_Localization.txt:325","★出ないテキスト","★出ないテキスト","txtid_strych_text1_a0_060","False","","",""
+"Hazy_Localization.txt:326","[c3]～前回のあらすじ～[c0]
+突き動かされるような衝動のままに
+我を失った福永葉子を 必死に呼び続け
+なんとしてでも呼び覚まそうとする 興家彰吾。
+その思いは 彼女に届くのか……!?","[c3]～前回のあらすじ～[c0]
+突き動かされるような衝動のままに
+我を失った福永葉子を 必死に呼び続け
+なんとしてでも呼び覚まそうとする 興家彰吾。
+その思いは 彼女に届くのか……!?","txtid_strych_text1_a0_110","False","","",""
+"Hazy_Localization.txt:327","[c3]～前回のあらすじ～[c0]
+異変のあった福永葉子を心配した興家彰吾は
+今日の七不思議捜索の 中止を決めた。
+ごねる福永葉子を説得するため 興家彰吾は
+ひとりで もう少し捜索を続けることにした。","[c3]～前回のあらすじ～[c0]
+異変のあった福永葉子を心配した興家彰吾は
+今日の七不思議捜索の 中止を決めた。
+ごねる福永葉子を説得するため 興家彰吾は
+ひとりで もう少し捜索を続けることにした。","txtid_strych_text1_a0_120","False","","",""
+"Hazy_Localization.txt:328","土御門晴曼の《魂》《肉体》《精神》が
+揃ったところに これは現れる。
+ここに解除の術は発動し 秘術も呪いも
+すべてが祓われ 消し去られる……。","土御門晴曼の《魂》《肉体》《精神》が
+揃ったところに これは現れる。
+ここに解除の術は発動し 秘術も呪いも
+すべてが祓われ 消し去られる……。","txtid_strych_text1_a1_010","False","","",""
+"Hazy_Localization.txt:329","★出ないテキスト","★出ないテキスト","txtid_strych_text1_a1_020","False","","",""
+"Hazy_Localization.txt:330","昨年 息子が誘拐され 捜査の不手際で
+殺害されてしまったという志岐間春恵は 
+未解決の誘拐事件の調査を 探偵に依頼。
+深夜に 自宅で調査の報告を受けていると
+《それ》は 突然訪れた……。","昨年 息子が誘拐され 捜査の不手際で
+殺害されてしまったという志岐間春恵は 
+未解決の誘拐事件の調査を 探偵に依頼。
+深夜に 自宅で調査の報告を受けていると
+《それ》は 突然訪れた……。","txtid_strych_text1_b0_010","False","","",""
+"Hazy_Localization.txt:331","[c3]～前回のあらすじ～[c0]
+『送り拍子木』の呪いは受けたが それは
+使わず 呪詛珠を奪うことで 蘇りの秘術を
+使おうという提案に乗った志岐間春恵は
+櫂利飛太を 呪主の探索に送り出した。","[c3]～前回のあらすじ～[c0]
+『送り拍子木』の呪いは受けたが それは
+使わず 呪詛珠を奪うことで 蘇りの秘術を
+使おうという提案に乗った志岐間春恵は
+櫂利飛太を 呪主の探索に送り出した。","txtid_strych_text1_b0_020","False","","",""
+"Hazy_Localization.txt:332","[c3]～前回のあらすじ～[c0]
+呪主と疑わしい複数の報告を受けた春恵。
+同じく 呪詛珠を狙っているという
+灯野あやめの存在を気にしながらも
+引き続き 櫂利飛太に呪主探索を一任する。","[c3]～前回のあらすじ～[c0]
+呪主と疑わしい複数の報告を受けた春恵。
+同じく 呪詛珠を狙っているという
+灯野あやめの存在を気にしながらも
+引き続き 櫂利飛太に呪主探索を一任する。","txtid_strych_text1_b0_030","False","","",""
+"Hazy_Localization.txt:333","[c3]～前回のあらすじ～[c0]
+滓魂の溜まった呪詛珠を得るために
+夜通し情報収集を続ける利飛太。
+春恵は 我が子の蘇生という大願成就の可能性に
+眠れぬ朝を迎える。","[c3]～前回のあらすじ～[c0]
+滓魂の溜まった呪詛珠を得るために
+夜通し情報収集を続ける利飛太。
+春恵は 我が子の蘇生という大願成就の可能性に
+眠れぬ朝を迎える。","txtid_strych_text1_b1_010","False","","",""
+"Hazy_Localization.txt:334","[c3]～前回のあらすじ～[c0]
+誘拐事件の重要参考人である白石美智代の
+自宅を訪れ 彼女が複雑な事情を抱えていた
+ことを知った春恵と利飛太は
+そこで ふたりの男性と遭遇する。","[c3]～前回のあらすじ～[c0]
+誘拐事件の重要参考人である白石美智代の
+自宅を訪れ 彼女が複雑な事情を抱えていた
+ことを知った春恵と利飛太は
+そこで ふたりの男性と遭遇する。","txtid_strych_text1_b1_020","False","","",""
+"Hazy_Localization.txt:335","[c3]～前回のあらすじ～[c0]
+刑事と 白石家に突入して 呪い殺されていた
+岩井官吉郎が残していた手記を発見し
+誘拐事件の全貌が明らかになった。
+しかし それでは 春恵は満たされなかった。","[c3]～前回のあらすじ～[c0]
+刑事と 白石家に突入して 呪い殺されていた
+岩井官吉郎が残していた手記を発見し
+誘拐事件の全貌が明らかになった。
+しかし それでは 春恵は満たされなかった。","txtid_strych_text1_b1_030","False","","",""
+"Hazy_Localization.txt:336","[c3]～前回のあらすじ～[c0]
+救出した蝶澤麻由とともに 弓岡を問い詰め
+新たな呪主の情報入手を試みたが
+特に有益な情報は得られなかった。
+そこで志岐間邸に戻ると……","[c3]～前回のあらすじ～[c0]
+救出した蝶澤麻由とともに 弓岡を問い詰め
+新たな呪主の情報入手を試みたが
+特に有益な情報は得られなかった。
+そこで志岐間邸に戻ると……","txtid_strych_text1_b1_040","False","","",""
+"Hazy_Localization.txt:337","★出ないテキスト","★出ないテキスト","txtid_strych_text1_b1_050","False","","",""
+"Hazy_Localization.txt:338","★出ないテキスト","★出ないテキスト","txtid_strych_text1_b1_055","False","","",""
+"Hazy_Localization.txt:339","警視庁捜査一課の警部 津詰徹生は
+警察官の謎の怪死事件の調査のため
+部下の襟尾純とともに 現場である
+旧安田庭園を訪れていた……。","警視庁捜査一課の警部 津詰徹生は
+警察官の謎の怪死事件の調査のため
+部下の襟尾純とともに 現場である
+旧安田庭園を訪れていた……。","txtid_strych_text1_c0_010","False","","",""
+"Hazy_Localization.txt:340","[c3]～前回のあらすじ～[c0]
+警察官・吉見肇が変死した現場にて
+状況の整理を行っていた津詰と襟尾。
+《蘇りの秘術》を否定する津詰だが そこに
+『落葉なき椎』の呪影が現れた。","[c3]～前回のあらすじ～[c0]
+警察官・吉見肇が変死した現場にて
+状況の整理を行っていた津詰と襟尾。
+《蘇りの秘術》を否定する津詰だが そこに
+『落葉なき椎』の呪影が現れた。","txtid_strych_text1_c0_020","False","","",""
+"Hazy_Localization.txt:341","[c3]～前回のあらすじ～[c0]
+未曾有の惨事を回避するため 呪詛珠を
+一刻も早く回収すると決めた 津詰と襟尾。
+並垣祐太郎から『足洗い屋敷』の呪詛珠を
+回収したふたりは 次の場所に向かう。","[c3]～前回のあらすじ～[c0]
+未曾有の惨事を回避するため 呪詛珠を
+一刻も早く回収すると決めた 津詰と襟尾。
+並垣祐太郎から『足洗い屋敷』の呪詛珠を
+回収したふたりは 次の場所に向かう。","txtid_strych_text1_c0_030","False","","",""
+"Hazy_Localization.txt:342","[c3]～前回のあらすじ～[c0]
+『消えずの行灯』の呪主だった新石英樹を
+説得し これで合計３つの呪詛珠を回収した。
+津詰と襟尾は 残る呪主を見つけるべく
+町内の捜索を続ける。","[c3]～前回のあらすじ～[c0]
+『消えずの行灯』の呪主だった新石英樹を
+説得し これで合計３つの呪詛珠を回収した。
+津詰と襟尾は 残る呪主を見つけるべく
+町内の捜索を続ける。","txtid_strych_text1_c0_040","False","","",""
+"Hazy_Localization.txt:343","[c3]～前回のあらすじ～[c0]
+呪詛珠の回収もままならない状態で
+吉見肇の変死事件や 根島の殺人予告など
+問題が山積する中 襟尾に各種確認を任せて
+今のうちに少しでも休憩する津詰であった。","[c3]～前回のあらすじ～[c0]
+呪詛珠の回収もままならない状態で
+吉見肇の変死事件や 根島の殺人予告など
+問題が山積する中 襟尾に各種確認を任せて
+今のうちに少しでも休憩する津詰であった。","txtid_strych_text1_c1_010","False","","",""
+"Hazy_Localization.txt:344","[c3]～前回のあらすじ～[c0]
+日暮れまでがタイムリミットである以上
+時間を無駄にはできない。
+そんな中 津詰と襟尾は 駒形高校と
+白石家に 調査の足を向けることにした。","[c3]～前回のあらすじ～[c0]
+日暮れまでがタイムリミットである以上
+時間を無駄にはできない。
+そんな中 津詰と襟尾は 駒形高校と
+白石家に 調査の足を向けることにした。","txtid_strych_text1_c1_020","False","","",""
+"Hazy_Localization.txt:345","[c3]～前回のあらすじ～[c0]
+白石家で 岩井官吉郎の死とともに
+いくつもの新事実を知った 津詰と襟尾。
+白石美智代ならば 根島史周の隠れ家を知って
+いるとの情報を受け 急いで高校へと向かった。","[c3]～前回のあらすじ～[c0]
+白石家で 岩井官吉郎の死とともに
+いくつもの新事実を知った 津詰と襟尾。
+白石美智代ならば 根島史周の隠れ家を知って
+いるとの情報を受け 急いで高校へと向かった。","txtid_strych_text1_c1_030","False","","",""
+"Hazy_Localization.txt:346","[c3]～前回のあらすじ～[c0]
+白石美智代から 根島史周の隠れ家を
+聞くことができた襟尾と津詰は
+本部にも増援を要請して 根島確保のため
+大捕物を繰り広げるのだった。","[c3]～前回のあらすじ～[c0]
+白石美智代から 根島史周の隠れ家を
+聞くことができた襟尾と津詰は
+本部にも増援を要請して 根島確保のため
+大捕物を繰り広げるのだった。","txtid_strych_text1_c1_040","False","","",""
+"Hazy_Localization.txt:347","★出ないテキスト","★出ないテキスト","txtid_strych_text1_c1_045","False","","",""
+"Hazy_Localization.txt:348","[c3]～前回のあらすじ～[c0]
+灯野あやめと会って 全部ハッキリさせる。
+そう決意する津詰と襟尾は 捜索を続けていた。
+本所七不思議の呪い……晴曼と蘆乃の因縁は
+果たして どのような結末を迎えるのか……。","[c3]～前回のあらすじ～[c0]
+灯野あやめと会って 全部ハッキリさせる。
+そう決意する津詰と襟尾は 捜索を続けていた。
+本所七不思議の呪い……晴曼と蘆乃の因縁は
+果たして どのような結末を迎えるのか……。","txtid_strych_text1_c1_050","False","","",""
+"Hazy_Localization.txt:349","投身自殺をした友人を蘇らせたいと願い
+《蘇りの秘術》を探す逆崎約子は
+その情報を得るために
+同級生の黒鈴ミヲと共に 深夜の教室で
+《こっくりさん》を試みるのだった……。","投身自殺をした友人を蘇らせたいと願い
+《蘇りの秘術》を探す逆崎約子は
+その情報を得るために
+同級生の黒鈴ミヲと共に 深夜の教室で
+《こっくりさん》を試みるのだった……。","txtid_strych_text1_d0_010","False","","",""
+"Hazy_Localization.txt:350","[c3]～前回のあらすじ～[c0]
+こっくりさんで得た情報によると
+友人・白石美智代は 自殺ではないらしい。
+さらに《蘇りの秘術》の場所を訊ねると
+突然 呪影が現れて……。","[c3]～前回のあらすじ～[c0]
+こっくりさんで得た情報によると
+友人・白石美智代は 自殺ではないらしい。
+さらに《蘇りの秘術》の場所を訊ねると
+突然 呪影が現れて……。","txtid_strych_text1_d0_020","False","","",""
+"Hazy_Localization.txt:351","[c3]～前回のあらすじ～[c0]
+『馬鹿囃子』の呪いを受けた 逆崎約子に
+《蘇りの秘術》は諦めようと説得するミヲ。
+すでに 学校に他の呪影の影響も出ていたため
+ふたりは 急いで教室を抜け出した。","[c3]～前回のあらすじ～[c0]
+『馬鹿囃子』の呪いを受けた 逆崎約子に
+《蘇りの秘術》は諦めようと説得するミヲ。
+すでに 学校に他の呪影の影響も出ていたため
+ふたりは 急いで教室を抜け出した。","txtid_strych_text1_d0_030","False","","",""
+"Hazy_Localization.txt:352","★出ないテキスト","★出ないテキスト","txtid_strych_text1_d0_035","False","","",""
+"Hazy_Localization.txt:353","★出ないテキスト","★出ないテキスト","txtid_strych_text1_d0_040","False","","",""
+"Hazy_Localization.txt:354","[c3]～前回のあらすじ～[c0]
+親友を生き返らせるには 代償が要る……。
+手にした呪いと どう向き合うべきか
+整理がつかないまま帰路についた逆崎約子。
+黒鈴ミヲを心配しながら 一夜が明けた。","[c3]～前回のあらすじ～[c0]
+親友を生き返らせるには 代償が要る……。
+手にした呪いと どう向き合うべきか
+整理がつかないまま帰路についた逆崎約子。
+黒鈴ミヲを心配しながら 一夜が明けた。","txtid_strych_text1_d1_010","False","","",""
+"Hazy_Localization.txt:355","[c3]～前回のあらすじ～[c0]
+今回の事件の発端である《蘇りの秘術》。
+その噂を広めた当事者である新石英樹に
+話を聞くため ふたりは彼のいきつけで
+あるという喫茶店《黒桔梗》に向かう。","[c3]～前回のあらすじ～[c0]
+今回の事件の発端である《蘇りの秘術》。
+その噂を広めた当事者である新石英樹に
+話を聞くため ふたりは彼のいきつけで
+あるという喫茶店《黒桔梗》に向かう。","txtid_strych_text1_d1_020","False","","",""
+"Hazy_Localization.txt:356","[c3]～前回のあらすじ～[c0]
+『禄命簿・陰の書』があれば 秘術の呪いを
+止める方法がわかるかもしれない。
+有力な手がかりを得ることができた約子らは
+津詰に伝えるため 駒形高校へ向かうのだった。","[c3]～前回のあらすじ～[c0]
+『禄命簿・陰の書』があれば 秘術の呪いを
+止める方法がわかるかもしれない。
+有力な手がかりを得ることができた約子らは
+津詰に伝えるため 駒形高校へ向かうのだった。","txtid_strych_text1_d1_030","False","","",""
+"Hazy_Localization.txt:357","★出ないテキスト","★出ないテキスト","txtid_strych_text1_d1_035","False","","",""
+"Hazy_Localization.txt:358","[c3]～前回のあらすじ～[c0]
+本当の自分を取り戻した約子は 改めて
+ミヲと共に 今回の呪いを止めるために
+『禄命簿・陰の書』の探索を行うが
+その手がかりは あまりにも少なかった……。","[c3]～前回のあらすじ～[c0]
+本当の自分を取り戻した約子は 改めて
+ミヲと共に 今回の呪いを止めるために
+『禄命簿・陰の書』の探索を行うが
+その手がかりは あまりにも少なかった……。","txtid_strych_text1_d1_040","False","","",""
+"Hazy_Localization.txt:359","[c3]～前回のあらすじ～[c0]
+吉見の婚約者 蝶澤と共に 津詰たちに
+これまでの情報を報告する 約子とミヲ。
+すべての話を まとめていくことで
+いよいよ最終目的が見えてくる……。","[c3]～前回のあらすじ～[c0]
+吉見の婚約者 蝶澤と共に 津詰たちに
+これまでの情報を報告する 約子とミヲ。
+すべての話を まとめていくことで
+いよいよ最終目的が見えてくる……。","txtid_strych_text1_d1_050","False","","",""
+"Hazy_Localization.txt:360","？？？","？？？","txtid_strych_text1_e1_010","False","","",""
+"Hazy_Localization.txt:361","ごく普通の会社員・興家彰吾は 先日知り合った
+福永葉子と共に 深夜の錦糸堀公園で
+《本所七不思議》を探索していた。突如倒れ
+意識を失った興家は 状況をひとつずつ思い
+出しながら 福永葉子のオカルト話に付き合う。","ごく普通の会社員・興家彰吾は 先日知り合った
+福永葉子と共に 深夜の錦糸堀公園で
+《本所七不思議》を探索していた。突如倒れ
+意識を失った興家は 状況をひとつずつ思い
+出しながら 福永葉子のオカルト話に付き合う。","txtid_strych_text2_a0_010","False","","",""
+"Hazy_Localization.txt:362","福永葉子が本所七不思議を調べていたのは
+《蘇りの秘術》を求めてのことだった。
+江戸から伝わる七不思議と 死者を蘇らせる
+という幻の秘術の関係について話していると
+突如 福永葉子の様子に異変があり……。","福永葉子が本所七不思議を調べていたのは
+《蘇りの秘術》を求めてのことだった。
+江戸から伝わる七不思議と 死者を蘇らせる
+という幻の秘術の関係について話していると
+突如 福永葉子の様子に異変があり……。","txtid_strych_text2_a0_020","False","","",""
+"Hazy_Localization.txt:363","前触れもなく不可解な最期を遂げた福永葉子。
+異常現象に困惑する興家だったが 彼女を復活
+させるべく 蘇りの秘術を手に入れることを誓う。
+すると そこに弓岡巧己と名乗る男が現れ
+興家の手に入れた呪詛珠を渡せと狙う。","前触れもなく不可解な最期を遂げた福永葉子。
+異常現象に困惑する興家だったが 彼女を復活
+させるべく 蘇りの秘術を手に入れることを誓う。
+すると そこに弓岡巧己と名乗る男が現れ
+興家の手に入れた呪詛珠を渡せと狙う。","txtid_strych_text2_a0_030","False","","",""
+"Hazy_Localization.txt:364","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
+もう後には引けないと 夜明けまでに
+残りの滓魂を集めることを決意。
+本所七不思議の地を巡り 各地で遭遇する
+出来事を経て 着実に滓魂を溜めていく。","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
+もう後には引けないと 夜明けまでに
+残りの滓魂を集めることを決意。
+本所七不思議の地を巡り 各地で遭遇する
+出来事を経て 着実に滓魂を溜めていく。","txtid_strych_text2_a0_040","False","","",""
+"Hazy_Localization.txt:365","興家彰吾は 《両国橋》と《旧安田庭園》でも
+呪主と遭遇し どうにか難関を突破して
+必要な滓魂を溜めきった。
+しかしその後 呪詛珠に変化があり
+興家は そのまま帰らぬ人となる……。","興家彰吾は 《両国橋》と《旧安田庭園》でも
+呪主と遭遇し どうにか難関を突破して
+必要な滓魂を溜めきった。
+しかしその後 呪詛珠に変化があり
+興家は そのまま帰らぬ人となる……。","txtid_strych_text2_a0_060","False","","",""
+"Hazy_Localization.txt:366","興家彰吾の辛抱強い呼びかけによって
+福永葉子は 無事に我に返った。
+しかし 何を見て 何が起こったのかは
+まったく覚えていないという。
+その話を聞いて 興家は捜索の中止を決める。","興家彰吾の辛抱強い呼びかけによって
+福永葉子は 無事に我に返った。
+しかし 何を見て 何が起こったのかは
+まったく覚えていないという。
+その話を聞いて 興家は捜索の中止を決める。","txtid_strych_text2_a0_110","False","","",""
+"Hazy_Localization.txt:367","福永葉子との約束のため ひとり
+本所七不思議の捜索をしていた興家彰吾。
+しかし 翌朝に公園で発見されたものは
+変わり果てた姿となった 彼の遺体だった……。","福永葉子との約束のため ひとり
+本所七不思議の捜索をしていた興家彰吾。
+しかし 翌朝に公園で発見されたものは
+変わり果てた姿となった 彼の遺体だった……。","txtid_strych_text2_a0_120","False","","",""
+"Hazy_Localization.txt:368","土御門晴曼の《魂》《肉体》《精神》が
+揃ったところに これは現れる。
+ここに解除の術は発動し 秘術も呪いも
+すべてが祓われ 消し去られるのだった。","土御門晴曼の《魂》《肉体》《精神》が
+揃ったところに これは現れる。
+ここに解除の術は発動し 秘術も呪いも
+すべてが祓われ 消し去られるのだった。","txtid_strych_text2_a1_010","False","","",""
+"Hazy_Localization.txt:369","[c5]【エンディング＃６】[c0]
+そこは 秘術も呪いも無かった いつもの世界。
+関わった人々は どう生きていくのか……。
+あなたが救った町を どうか見届けてから
+去ってほしい。","[c5]【エンディング＃６】[c0]
+そこは 秘術も呪いも無かった いつもの世界。
+関わった人々は どう生きていくのか……。
+あなたが救った町を どうか見届けてから
+去ってほしい。","txtid_strych_text2_a1_020","False","","",""
+"Hazy_Localization.txt:370","『送り拍子木』の呪いを受けたことで
+《蘇りの秘術》を使う機会を得た志岐間春恵。
+誘拐事件の調査を依頼した探偵・櫂利飛太は
+呪いを使わずに秘術を使うため ほかの呪主の
+呪詛珠を奪うことを提案するのだった。","『送り拍子木』の呪いを受けたことで
+《蘇りの秘術》を使う機会を得た志岐間春恵。
+誘拐事件の調査を依頼した探偵・櫂利飛太は
+呪いを使わずに秘術を使うため ほかの呪主の
+呪詛珠を奪うことを提案するのだった。","txtid_strych_text2_b0_010","False","","",""
+"Hazy_Localization.txt:371","利飛太から 呪主探索の報告を受ける春恵。
+彼女にとって因縁の深い隅田川の流れを見て
+本当にこれでいいのかと 心が揺れ動く。
+さらに 灯野あやめという女性も 呪詛珠を
+狙っていると知り 気ばかりが焦るのだった。","利飛太から 呪主探索の報告を受ける春恵。
+彼女にとって因縁の深い隅田川の流れを見て
+本当にこれでいいのかと 心が揺れ動く。
+さらに 灯野あやめという女性も 呪詛珠を
+狙っていると知り 気ばかりが焦るのだった。","txtid_strych_text2_b0_020","False","","",""
+"Hazy_Localization.txt:372","呪主の捜索は 利飛太に一任して
+ひとまず帰宅する春恵だったが
+やはり 心はどこか落ち着かないままだった。","呪主の捜索は 利飛太に一任して
+ひとまず帰宅する春恵だったが
+やはり 心はどこか落ち着かないままだった。","txtid_strych_text2_b0_030","False","","",""
+"Hazy_Localization.txt:373","ヒハク石鹸や 灯野あやめの動向を気にするも
+呪主についての有力な情報が得られないことに
+苛立ちを隠せない春恵。
+その一方で 誘拐事件の重要参考人としてあがった
+白石美智代について調べを進めていく。","ヒハク石鹸や 灯野あやめの動向を気にするも
+呪主についての有力な情報が得られないことに
+苛立ちを隠せない春恵。
+その一方で 誘拐事件の重要参考人としてあがった
+白石美智代について調べを進めていく。","txtid_strych_text2_b1_010","False","","",""
+"Hazy_Localization.txt:374","誘拐事件の犯人だった 岩井官吉郎は
+自宅で 白石美智代によって呪い殺されていた。
+西洋黒魔術の研究をしていたという岩井と
+根島史周や ヒハク石鹸との繋がりが見えるが
+それでも春恵の興味は 蘇りの秘術にあった。","誘拐事件の犯人だった 岩井官吉郎は
+自宅で 白石美智代によって呪い殺されていた。
+西洋黒魔術の研究をしていたという岩井と
+根島史周や ヒハク石鹸との繋がりが見えるが
+それでも春恵の興味は 蘇りの秘術にあった。","txtid_strych_text2_b1_020","False","","",""
+"Hazy_Localization.txt:375","誘拐事件の調査は完了し 蘇りの秘術に注力する
+利飛太と春恵は 再び 七不思議を巡る。
+駄菓子に夢中になる利飛太を眺めたり
+ファクシミリで謎のＳＯＳを受信しながらも
+呪詛珠の狙いを 灯野あやめに絞っていく。","誘拐事件の調査は完了し 蘇りの秘術に注力する
+利飛太と春恵は 再び 七不思議を巡る。
+駄菓子に夢中になる利飛太を眺めたり
+ファクシミリで謎のＳＯＳを受信しながらも
+呪詛珠の狙いを 灯野あやめに絞っていく。","txtid_strych_text2_b1_030","False","","",""
+"Hazy_Localization.txt:376","根島を呪い殺したことで 呪詛珠が使えると
+気付いた灯野あやめは 呪主である春恵を狙い
+志岐間邸を訪れた。春恵もまた 滓魂の貯まった
+あやめの呪詛珠を奪うために 言葉を投げる。
+ふたりの探りあいは どのような展開を描くのか。","根島を呪い殺したことで 呪詛珠が使えると
+気付いた灯野あやめは 呪主である春恵を狙い
+志岐間邸を訪れた。春恵もまた 滓魂の貯まった
+あやめの呪詛珠を奪うために 言葉を投げる。
+ふたりの探りあいは どのような展開を描くのか。","txtid_strych_text2_b1_040","False","","",""
+"Hazy_Localization.txt:377","[c5]【エンディング＃３】[c0]
+一貫して 息子の蘇生を願い続けていた春恵は
+灯野あやめを呪い殺して 呪詛珠を奪った。
+願いを叶えた春恵が 幸せなのかは わからないが
+せめて伝説を見届けようと思う 利飛太だった。","[c5]【エンディング＃３】[c0]
+一貫して 息子の蘇生を願い続けていた春恵は
+灯野あやめを呪い殺して 呪詛珠を奪った。
+願いを叶えた春恵が 幸せなのかは わからないが
+せめて伝説を見届けようと思う 利飛太だった。","txtid_strych_text2_b1_050","False","","",""
+"Hazy_Localization.txt:378","[c5]【エンディング＃４】[c0]
+根島史周や 志岐間春恵を呪い殺して得た呪詛珠で
+灯野あやめは 自らの宿願を果たす。
+しかし 遙か昔の魂の復活を遂げようとも 彼女は
+その肉体までも復活させる術は 持たなかった。","[c5]【エンディング＃４】[c0]
+根島史周や 志岐間春恵を呪い殺して得た呪詛珠で
+灯野あやめは 自らの宿願を果たす。
+しかし 遙か昔の魂の復活を遂げようとも 彼女は
+その肉体までも復活させる術は 持たなかった。","txtid_strych_text2_b1_055","False","","",""
+"Hazy_Localization.txt:379","警察官・吉見肇が変死した事案を
+部下の襟尾純とともに捜査する 津詰徹生。
+現場となった旧安田庭園で 状況の整理を
+していると突然 本所七不思議『落葉なき椎』の
+呪影が現れ 津詰に取り憑くのだった。","警察官・吉見肇が変死した事案を
+部下の襟尾純とともに捜査する 津詰徹生。
+現場となった旧安田庭園で 状況の整理を
+していると突然 本所七不思議『落葉なき椎』の
+呪影が現れ 津詰に取り憑くのだった。","txtid_strych_text2_c0_010","False","","",""
+"Hazy_Localization.txt:380","図らずも呪主となった津詰は 襟尾に
+秘匿部署《心霊対策室》の存在を明かす。
+ふたりは この惨事を未然に防ぐため
+呪詛珠の回収に動き出し まずは両国橋で
+『足洗い屋敷』の回収に成功する。","図らずも呪主となった津詰は 襟尾に
+秘匿部署《心霊対策室》の存在を明かす。
+ふたりは この惨事を未然に防ぐため
+呪詛珠の回収に動き出し まずは両国橋で
+『足洗い屋敷』の回収に成功する。","txtid_strych_text2_c0_020","False","","",""
+"Hazy_Localization.txt:381","緑町公園で遭遇した 郷土研究家の
+新石英樹は『消えずの行灯』の呪主だった。
+《蘇りの秘術》についての知識を持つ
+新石からは まだ情報を引き出したいが
+ここでは呪詛珠を回収するにとどまった。","緑町公園で遭遇した 郷土研究家の
+新石英樹は『消えずの行灯』の呪主だった。
+《蘇りの秘術》についての知識を持つ
+新石からは まだ情報を引き出したいが
+ここでは呪詛珠を回収するにとどまった。","txtid_strych_text2_c0_030","False","","",""
+"Hazy_Localization.txt:382","錦糸堀公園にて 男の遺体を発見した津詰。
+ほかにも変死体が見つかり 状況は回りだす。
+そんな中 因縁の相手である根島史周から
+津詰に連絡が入り 自身も呪主であることと
+日没時に大量殺人することを宣言される。","錦糸堀公園にて 男の遺体を発見した津詰。
+ほかにも変死体が見つかり 状況は回りだす。
+そんな中 因縁の相手である根島史周から
+津詰に連絡が入り 自身も呪主であることと
+日没時に大量殺人することを宣言される。","txtid_strych_text2_c0_040","False","","",""
+"Hazy_Localization.txt:383","呪詛珠の回収が捗らなかったこともあり
+呪詛による被害者が出てしまった。
+まずは襟尾とともに状況確認をする津詰。
+やることは多いが できることが少ない中
+とにかく少しでも前に進むことを決意する。","呪詛珠の回収が捗らなかったこともあり
+呪詛による被害者が出てしまった。
+まずは襟尾とともに状況確認をする津詰。
+やることは多いが できることが少ない中
+とにかく少しでも前に進むことを決意する。","txtid_strych_text2_c1_010","False","","",""
+"Hazy_Localization.txt:384","黒鈴ミヲと接触し情報交換を行った津詰は
+校務員の葦宮が 根島の可能性が高いと踏む。
+一方 現場に残されていた遺留品から
+白石美智代が本当に復活し 復讐を進めて
+いるという疑念も 浮かんできていた……。","黒鈴ミヲと接触し情報交換を行った津詰は
+校務員の葦宮が 根島の可能性が高いと踏む。
+一方 現場に残されていた遺留品から
+白石美智代が本当に復活し 復讐を進めて
+いるという疑念も 浮かんできていた……。","txtid_strych_text2_c1_020","False","","",""
+"Hazy_Localization.txt:385","白石美智代が事故死である可能性が
+高いとの情報を受けつつ
+黒鈴ミヲ 逆崎約子と合流した津詰と襟尾は
+根島史周の隠れ家を知るために
+白石美智代との接触を図るのだった。","白石美智代が事故死である可能性が
+高いとの情報を受けつつ
+黒鈴ミヲ 逆崎約子と合流した津詰と襟尾は
+根島史周の隠れ家を知るために
+白石美智代との接触を図るのだった。","txtid_strych_text2_c1_030","False","","",""
+"Hazy_Localization.txt:386","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
+本当に 大量殺人を行える呪詛を持つのか
+当時の事情を聞きながら 確保の隙を窺う。
+やがて 根島の取った行動によって
+この状況は 大きく揺れ動くのだった。","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
+本当に 大量殺人を行える呪詛を持つのか
+当時の事情を聞きながら 確保の隙を窺う。
+やがて 根島の取った行動によって
+この状況は 大きく揺れ動くのだった。","txtid_strych_text2_c1_040","False","","",""
+"Hazy_Localization.txt:387","[c5]【エンディング＃２】[c0]
+大捕物の末 根島を捕り逃がしてしまった津詰らは
+ついに発見出来ないまま 予告の時間を迎える。
+呪詛による 未曾有の大惨事を迎えた世間の中で
+根島史周は 己のすべての目的を成就する。","[c5]【エンディング＃２】[c0]
+大捕物の末 根島を捕り逃がしてしまった津詰らは
+ついに発見出来ないまま 予告の時間を迎える。
+呪詛による 未曾有の大惨事を迎えた世間の中で
+根島史周は 己のすべての目的を成就する。","txtid_strych_text2_c1_045","False","","",""
+"Hazy_Localization.txt:388","[c5]【エンディング＃５】[c0]
+津詰の犠牲により 灯野あやめの確保に成功し
+『禄命簿・陰の書』を解き明かす襟尾とミヲ。
+しかしそこに現れた 最後の呪主 福永葉子が
+ふたりから呪詛珠を奪い去り 惨劇が始まった。","[c5]【エンディング＃５】[c0]
+津詰の犠牲により 灯野あやめの確保に成功し
+『禄命簿・陰の書』を解き明かす襟尾とミヲ。
+しかしそこに現れた 最後の呪主 福永葉子が
+ふたりから呪詛珠を奪い去り 惨劇が始まった。","txtid_strych_text2_c1_050","False","","",""
+"Hazy_Localization.txt:389","不審な自殺を遂げた友人・白石美智代を
+蘇らせたいと願う 逆崎約子。
+級友の黒鈴ミヲと行った こっくりさんで
+《蘇りの秘術》の場所を問いかけたが
+逆に『馬鹿囃子』の呪いを受けてしまう。","不審な自殺を遂げた友人・白石美智代を
+蘇らせたいと願う 逆崎約子。
+級友の黒鈴ミヲと行った こっくりさんで
+《蘇りの秘術》の場所を問いかけたが
+逆に『馬鹿囃子』の呪いを受けてしまう。","txtid_strych_text2_d0_010","False","","",""
+"Hazy_Localization.txt:390","『馬鹿囃子』の呪いを受けたショックで
+気を失っていた逆崎約子。
+ミヲは そんな彼女を心配するとともに
+呪いを伴う《蘇りの秘術》は諦めて すぐに
+学校から脱出しようと促すのだった。","『馬鹿囃子』の呪いを受けたショックで
+気を失っていた逆崎約子。
+ミヲは そんな彼女を心配するとともに
+呪いを伴う《蘇りの秘術》は諦めて すぐに
+学校から脱出しようと促すのだった。","txtid_strych_text2_d0_020","False","","",""
+"Hazy_Localization.txt:391","校舎からの脱出途中 約子とミヲは
+幾度も 怪しげな出来事に遭遇する。
+いったい 誰によって何が行われているのか
+まったく分からない中で 逆崎約子は
+慎重に行動を選び どうにか帰路につくのだった。","校舎からの脱出途中 約子とミヲは
+幾度も 怪しげな出来事に遭遇する。
+いったい 誰によって何が行われているのか
+まったく分からない中で 逆崎約子は
+慎重に行動を選び どうにか帰路につくのだった。","txtid_strych_text2_d0_030","False","","",""
+"Hazy_Localization.txt:392","ミヲも葦宮も出て来ないことに心配して
+校舎に戻ることに決めた約子。
+だが そこで見たものは
+友人の無残な姿であった……。","ミヲも葦宮も出て来ないことに心配して
+校舎に戻ることに決めた約子。
+だが そこで見たものは
+友人の無残な姿であった……。","txtid_strych_text2_d0_035","False","","",""
+"Hazy_Localization.txt:393","どうにか 自宅まで帰り着いた逆崎約子。
+学校に残ったミヲのことが 心配になるが
+激しい眠気に襲われたため 捜索は明日にして
+すぐに休むことにした……。","どうにか 自宅まで帰り着いた逆崎約子。
+学校に残ったミヲのことが 心配になるが
+激しい眠気に襲われたため 捜索は明日にして
+すぐに休むことにした……。","txtid_strych_text2_d0_040","False","","",""
+"Hazy_Localization.txt:394","教師の城之内が死んでいるのが発見され
+昨夜 校内に別の呪主が潜んでいたことが判明。
+一方 奥田瞳からの情報により
+白石美智代の置かれていた過酷な境遇も
+明かされ 約子に動揺が走る。","教師の城之内が死んでいるのが発見され
+昨夜 校内に別の呪主が潜んでいたことが判明。
+一方 奥田瞳からの情報により
+白石美智代の置かれていた過酷な境遇も
+明かされ 約子に動揺が走る。","txtid_strych_text2_d1_010","False","","",""
+"Hazy_Localization.txt:395","《本所事変》に『禄命簿・陰の書』……
+新石から多くの情報を得ることができ
+少しずつ 事件の全貌が見えてきた。
+これらの手がかりを使って
+事態の解決に 近づけるかもしれない。","《本所事変》に『禄命簿・陰の書』……
+新石から多くの情報を得ることができ
+少しずつ 事件の全貌が見えてきた。
+これらの手がかりを使って
+事態の解決に 近づけるかもしれない。","txtid_strych_text2_d1_020","False","","",""
+"Hazy_Localization.txt:396","白石美智代は 約子の中にいた。
+約子の持つ呪詛珠で 復讐を果たしていた。
+白石美智代から情報を得るために 再び
+こっくりさんを行い ようやく事情を知る……。
+また会う時まで どうか忘れないで。","白石美智代は 約子の中にいた。
+約子の持つ呪詛珠で 復讐を果たしていた。
+白石美智代から情報を得るために 再び
+こっくりさんを行い ようやく事情を知る……。
+また会う時まで どうか忘れないで。","txtid_strych_text2_d1_030","False","","",""
+"Hazy_Localization.txt:397","[c5]【エンディング＃１】[c0]
+白石美智代を蘇らせるために
+《蘇りの秘術》を狙っていた並垣。
+だが 力ずくでも呪詛珠を奪おうとした
+彼の前に現れたのは 白石本人で……？","[c5]【エンディング＃１】[c0]
+白石美智代を蘇らせるために
+《蘇りの秘術》を狙っていた並垣。
+だが 力ずくでも呪詛珠を奪おうとした
+彼の前に現れたのは 白石本人で……？","txtid_strych_text2_d1_035","False","","",""
+"Hazy_Localization.txt:398","監禁から脱出した 蝶澤麻由と合流して
+ヒハクの弓岡を問い詰めていくミヲと約子。
+その中で 吉見肇と白石美智代が 晴曼の末裔で
+ふたつのお守りを集めれば『陰の書』が
+手に入ることを知るのだった。","監禁から脱出した 蝶澤麻由と合流して
+ヒハクの弓岡を問い詰めていくミヲと約子。
+その中で 吉見肇と白石美智代が 晴曼の末裔で
+ふたつのお守りを集めれば『陰の書』が
+手に入ることを知るのだった。","txtid_strych_text2_d1_040","False","","",""
+"Hazy_Localization.txt:399","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
+すべての標的が 灯野あやめに集中していく。
+約子とミヲが『禄命簿・陰の書』を手に入れ
+この呪いを止められるのかどうかについても
+津詰たちの行動に 預けられることとなった……。","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
+すべての標的が 灯野あやめに集中していく。
+約子とミヲが『禄命簿・陰の書』を手に入れ
+この呪いを止められるのかどうかについても
+津詰たちの行動に 預けられることとなった……。","txtid_strych_text2_d1_050","False","","",""
+"Hazy_Localization.txt:400","記憶がない状態で 見知らぬ場所で目覚めた
+蝶澤麻由だったが 周囲を調べるうちに
+ヒハクの弓岡の仕業だったことを思い出すと
+その場の工夫と 何者かの天啓によって
+監禁されていた廃工場を脱出するのだった。","記憶がない状態で 見知らぬ場所で目覚めた
+蝶澤麻由だったが 周囲を調べるうちに
+ヒハクの弓岡の仕業だったことを思い出すと
+その場の工夫と 何者かの天啓によって
+監禁されていた廃工場を脱出するのだった。","txtid_strych_text2_e1_010","False","","",""
+"Hazy_Localization.txt:401","権利表記","権利表記","title_rights_notation","False","","",""
+"Hazy_Localization.txt:402","シナリオが更新されましたので
+チャプターの先頭から始めます。","シナリオが更新されましたので
+チャプターの先頭から始めます。","story_savedata_update","False","","",""
+"Hazy_Localization.txt:403","オートセーブを ロードいたしますか？","オートセーブを ロードいたしますか？","load_message_autosave","False","","",""
+"Hazy_Localization.txt:404","別の画面に移動できません","別の画面に移動できません","android_back_overlay","False","","",""
+"Hazy_Localization.txt:405","はじめる","はじめる","storychart_detail_start","False","","",""
+"Hazy_Localization.txt:406","はじめから","はじめから","storychart_detail_first","False","","",""
+"Hazy_Localization.txt:407","途中から","途中から","storychart_detail_continue","False","","",""
+"Hazy_Localization.txt:408","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","reset_savedata","False","","",""
+"Hazy_Localization.txt:409","※タイトル画面で変更できます","※タイトル画面で変更できます","option_warnig_text","False","","",""
+"Hazy_Localization.txt:410","キーコンフィグが競合しているので保存できません。","キーコンフィグが競合しているので保存できません。","option_keyconfig_conflict","False","","",""
+"Hazy_Localization.txt:411","戻る","戻る","option_keyconfig_conflict_back","False","","",""
+"Hazy_Localization.txt:412","全てのデータを消去しました。","全てのデータを消去しました。","savedata_alldelete_text","False","","",""
+"Hazy_Localization.txt:413","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","title_warning_text","False","","",""

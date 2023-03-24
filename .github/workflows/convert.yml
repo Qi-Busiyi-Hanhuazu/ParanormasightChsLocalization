@@ -1,0 +1,55 @@
+name: Convert csv to json
+
+on:
+  push:
+    branches: 
+      - weblate
+    paths:
+      - '.github/workflows/*.yml'
+      - '**/*.csv'
+      - 'scripts/*.py'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.updated.outputs.updated }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          ref: master
+          fetch-depth: 1
+          path: master
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Convert csv to json
+        run: |
+          python scripts/convert_csv_to_json.py
+      - id: updated
+        name: Checking if updated
+        run: |
+          pushd master
+          if [[ -z $(git status -s) ]]
+          then
+            echo "Nothing to commit, tree is clean"
+            echo "updated=false" >> $GITHUB_OUTPUT
+          else
+            echo "updated=true" >> $GITHUB_OUTPUT
+          fi
+          popd
+      - name: Push to GitHub
+        if: steps.updated.outputs.updated == 'true'
+        run: |
+          pushd master
+          git add -A
+          git -c user.name=GitHub -c user.email=noreply@github.com commit -m "Update translation"
+          git push
+          popd
+
+  build:
+    needs: convert
+    if: needs.convert.outputs.updated == 'true'
+    uses: Xzonn/ParanormasightChsLocalization/.github/workflows/build.yml@master
