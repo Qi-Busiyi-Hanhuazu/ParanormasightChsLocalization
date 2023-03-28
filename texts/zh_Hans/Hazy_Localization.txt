@@ -405,10 +405,10 @@ android_back_overlay,无法转到其他屏幕
 storychart_detail_start,开始
 storychart_detail_first,从最初开始
 storychart_detail_continue,从中途开始
-reset_savedata,因为保存数据损坏了<br>读取失败了。<br>初始化保存数据。
+reset_savedata,保存数据损坏，<br>读取失败。<br>初始化保存数据。
 option_warnig_text,※可以在标题画面变更
-option_keyconfig_conflict,因为存在按键冲突，所以不能保存。
+option_keyconfig_conflict,存在按键冲突，不能保存。
 option_keyconfig_conflict_back,后退
-savedata_alldelete_text,我删除了所有的数据。
+savedata_alldelete_text,删除了所有的数据。
 title_warning_text,＜致未成年人＞<br>请在事先征得监护人同意后，<br>使用这个游戏。  <br><br>游戏使用方法（使用时间等），<br>请和监护人好好商量后决定。
 
