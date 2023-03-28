@@ -2679,7 +2679,7 @@ AUTO切换（显示按钮时）
 从中途开始
 
 从中途开始"
-"Hazy_Localization.txt:408","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","因为保存数据损坏了<br>读取失败了。<br>初始化保存数据。","reset_savedata","False","","","
+"Hazy_Localization.txt:408","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","保存数据损坏，<br>读取失败。<br>初始化保存数据。","reset_savedata","False","","","
 因为保存数据损坏了<br>读取失败了。<br>初始化保存数据。
 
 读取失败，原因是保存数据损坏。<br>初始化保存数据。<br>"
@@ -2687,7 +2687,7 @@ AUTO切换（显示按钮时）
 ※标题画面可以变更
 
 ※可以在标题画面上变更"
-"Hazy_Localization.txt:410","キーコンフィグが競合しているので保存できません。","因为存在按键冲突，所以不能保存。","option_keyconfig_conflict","False","","","
+"Hazy_Localization.txt:410","キーコンフィグが競合しているので保存できません。","存在按键冲突，不能保存。","option_keyconfig_conflict","False","","","
 因为关键符号在竞争，所以不能保存。
 
 密钥配置冲突，无法保存。"
@@ -2695,7 +2695,7 @@ AUTO切换（显示按钮时）
 后退
 
 返回"
-"Hazy_Localization.txt:412","全てのデータを消去しました。","我删除了所有的数据。","savedata_alldelete_text","False","","","
+"Hazy_Localization.txt:412","全てのデータを消去しました。","删除了所有的数据。","savedata_alldelete_text","False","","","
 我删除了所有的数据。
 
 删除了所有的数据。"
