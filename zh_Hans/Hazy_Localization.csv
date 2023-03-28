@@ -189,14 +189,11 @@ SE音量"
 请调整亮度，使右侧的图像的形状能清楚地看到
 
 请调整亮度，直到你能看清右边图像的形状。"
-"Hazy_Localization.txt:50","English","简体中文","option_game_language_button1","False","","","
+"Hazy_Localization.txt:50","English","English","option_game_language_button1","False","","",""
+"Hazy_Localization.txt:51","日本語","简体中文","option_game_language_button2","False","","","
 简体中文
 
 简体中文"
-"Hazy_Localization.txt:51","日本語","日语","option_game_language_button2","False","","","
-日语
-
-日语学习"
 "Hazy_Localization.txt:52","ON","ON","option_toggle_on","False","","",""
 "Hazy_Localization.txt:53","OFF","OFF","option_toggle_off","False","","",""
 "Hazy_Localization.txt:54","遅い","慢的","option_game_speed_low","False","","","

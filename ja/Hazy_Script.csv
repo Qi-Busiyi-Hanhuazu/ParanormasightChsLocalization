@@ -60,10 +60,8 @@
 "Hazy_Script.txt:37","……さすがに 疳の虫はないが
 まだ少し 頭がぼうっとするな……。","……さすがに 疳の虫はないが
 まだ少し 頭がぼうっとするな……。","a0_010_0298","False","","",""
-"Hazy_Script.txt:38","Office Worker","Office Worker","a0_010_0299","False","","",""
-"Hazy_Script.txt:39","<cspace=-4px><font=""TELOP"">興家彰吾
-<cspace=0px><voffset=1.1em><font=""MAIN""><space=16px>[x0.4]Shogo Okiie","<cspace=-4px><font=""TELOP"">興家彰吾
-<cspace=0px><voffset=1.1em><font=""MAIN""><space=16px>[x0.4]Shogo Okiie","a0_010_0300","False","","",""
+"Hazy_Script.txt:38","<cspace=-4px><font=""TELOP"">会社員","<cspace=-4px><font=""TELOP"">会社員","a0_010_0299","False","","",""
+"Hazy_Script.txt:39","<cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]興家彰吾","<cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]興家彰吾","a0_010_0300","False","","",""
 "Hazy_Script.txt:40","そっか。それは心配だね。","そっか。それは心配だね。","a0_010_0301","False","","",""
 "Hazy_Script.txt:41","試しに 周りをぐる～っと見て
 大丈夫か 確認してみ？","試しに 周りをぐる～っと見て
@@ -170,10 +168,8 @@
 "Hazy_Script.txt:65","明るく活動的で かつ不思議なことが大好き という
 少しギャップのある彼女に 惹かれつつある自分がいる。","明るく活動的で かつ不思議なことが大好き という
 少しギャップのある彼女に 惹かれつつある自分がいる。","a0_010_0326","False","","",""
-"Hazy_Script.txt:66","Paranormal Fanatic","Paranormal Fanatic","a0_010_0327","False","","",""
-"Hazy_Script.txt:67","<cspace=-4px><font=""TELOP"">福永葉子<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=6px>[x0.4]Yoko Fukunaga","<cspace=-4px><font=""TELOP"">福永葉子<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=6px>[x0.4]Yoko Fukunaga","a0_010_0328","False","","",""
+"Hazy_Script.txt:66","<cspace=-6px><font=""TELOP"">不思議大好き女子","<cspace=-6px><font=""TELOP"">不思議大好き女子","a0_010_0327","False","","",""
+"Hazy_Script.txt:67","<cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]福永葉子","<cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]福永葉子","a0_010_0328","False","","",""
 "Hazy_Script.txt:68","いた……。","いた……。","a0_010_0329","False","","",""
 "Hazy_Script.txt:69","様子を見ていると 福永葉子は 今もまた
 砂場を掘り返したり 遊具の裏を覗き込んだり……","様子を見ていると 福永葉子は 今もまた
@@ -969,7 +965,7 @@
 "Hazy_Script.txt:466","あの 天真爛漫な葉子さんが
 どうして こんなことに……？","あの 天真爛漫な葉子さんが
 どうして こんなことに……？","a0_030_0848","False","","",""
-"Hazy_Script.txt:467","[s0][a0.5]Resurrect her.","[s0][a0.5]Resurrect her.","a0_030_0849","False","","",""
+"Hazy_Script.txt:467","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]蘇らせろ！","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]蘇らせろ！","a0_030_0849","False","","",""
 "Hazy_Script.txt:468","……えっ？","……えっ？","a0_030_0850","False","","",""
 "Hazy_Script.txt:469","ああ……確かに そうだ……！","ああ……確かに そうだ……！","a0_030_0851","False","","",""
 "Hazy_Script.txt:470","葉子さんが探していた
@@ -1076,21 +1072,37 @@
 "Hazy_Script.txt:513","<i>どす黒い粘液のような 重苦しい殺意が
 おれの魂に 侵食してくる……。","<i>どす黒い粘液のような 重苦しい殺意が
 おれの魂に 侵食してくる……。","a0_030_0895","False","","",""
-"Hazy_Script.txt:514","[s0][a0.5]Now...","[s0][a0.5]Now...","a0_030_0896","False","","",""
-"Hazy_Script.txt:515","[s0][a0.5]Kill...","[s0][a0.5]Kill...","a0_030_0897","False","","",""
-"Hazy_Script.txt:516","Can you hear it, Curse Bearer?","Can you hear it, Curse Bearer?","a0_030_0898","False","","",""
-"Hazy_Script.txt:517","You, who so strongly desires the Rite.","You, who so strongly desires the Rite.","a0_030_0899","False","","",""
-"Hazy_Script.txt:518","Kill them.","Kill them.","a0_030_0900","False","","",""
-"Hazy_Script.txt:519","Should you seek life's restoration...","Should you seek life's restoration...","a0_030_0901","False","","",""
-"Hazy_Script.txt:520","Take your curse in hand...","Take your curse in hand...","a0_030_0902","False","","",""
-"Hazy_Script.txt:521","Reap lives by the score...","Reap lives by the score...","a0_030_0903","False","","",""
-"Hazy_Script.txt:522","And claim their soul dregs for your own.","And claim their soul dregs for your own.","a0_030_0904","False","","",""
-"Hazy_Script.txt:523","Collect enough to sate this vessel...","Collect enough to sate this vessel...","a0_030_0905","False","","",""
-"Hazy_Script.txt:524","And by their sacrifice claim the gift of resurrection.","And by their sacrifice claim the gift of resurrection.","a0_030_0906","False","","",""
-"Hazy_Script.txt:525","Or better yet...","Or better yet...","a0_030_0907","False","","",""
-"Hazy_Script.txt:526","Slay your fellow curse bearers...","Slay your fellow curse bearers...","a0_030_0908","False","","",""
-"Hazy_Script.txt:527","For theirs are the equal of droves of lesser souls.","For theirs are the equal of droves of lesser souls.","a0_030_0909","False","","",""
-"Hazy_Script.txt:528","Now, go forth and kill!","Now, go forth and kill!","a0_030_0910","False","","",""
+"Hazy_Script.txt:514","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","a0_030_0896","False","","",""
+"Hazy_Script.txt:515","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","a0_030_0897","False","","",""
+"Hazy_Script.txt:516","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0898","False","","",""
+"Hazy_Script.txt:517","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0899","False","","",""
+"Hazy_Script.txt:518","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]<size=500%>呪い殺せ","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]<size=500%>呪い殺せ","a0_030_0900","False","","",""
+"Hazy_Script.txt:519","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を
+得たくば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を
+得たくば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0901","False","","",""
+"Hazy_Script.txt:520","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]この 呪いの力によって","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]この 呪いの力によって","a0_030_0902","False","","",""
+"Hazy_Script.txt:521","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]人々を屠り[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]人々を屠り[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0903","False","","",""
+"Hazy_Script.txt:522","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]魂の残滓を 集めよ","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]魂の残滓を 集めよ","a0_030_0904","False","","",""
+"Hazy_Script.txt:523","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]幾人なる滓魂を
+呪詛珠に捧げることで","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]幾人なる滓魂を
+呪詛珠に捧げることで","a0_030_0905","False","","",""
+"Hazy_Script.txt:524","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]それを贄に還魂が為され
+蘇りの秘術は
+発現しよう[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]それを贄に還魂が為され
+蘇りの秘術は
+発現しよう[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0906","False","","",""
+"Hazy_Script.txt:525","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]又[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]又[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0907","False","","",""
+"Hazy_Script.txt:526","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]他の七不思議の呪主を
+ひとり 呪い殺さば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]他の七不思議の呪主を
+ひとり 呪い殺さば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_0908","False","","",""
+"Hazy_Script.txt:527","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]数十人に相当する
+滓魂を 得られよう","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]数十人に相当する
+滓魂を 得られよう","a0_030_0909","False","","",""
+"Hazy_Script.txt:528","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=400%>さあ 呪い殺せ！","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=400%>さあ 呪い殺せ！","a0_030_0910","False","","",""
 "Hazy_Script.txt:529","<i>……!!?","<i>……!!?","a0_030_0911","False","","",""
 "Hazy_Script.txt:530","<i>なんだ……今のは……？","<i>なんだ……今のは……？","a0_030_0912","False","","",""
 "Hazy_Script.txt:531","<i>呪いの《記憶》が
@@ -1337,10 +1349,8 @@
 知られていないとは。残念です。","そうですか。名前すらも
 知られていないとは。残念です。","a0_030_1019","False","","",""
 "Hazy_Script.txt:638","残念ですが……好都合とも言えます。","残念ですが……好都合とも言えます。","a0_030_1020","False","","",""
-"Hazy_Script.txt:639","<color=#ddd>Mysterious Stranger","<color=#ddd>Mysterious Stranger","a0_030_1021","False","","",""
-"Hazy_Script.txt:640","<cspace=-4px><color=#ddd><font=""TELOP"">弓岡巧己<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=0px>[x0.4]Takumi Yumioka","<cspace=-4px><color=#ddd><font=""TELOP"">弓岡巧己<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=0px>[x0.4]Takumi Yumioka","a0_030_1022","False","","",""
+"Hazy_Script.txt:639","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]謎の男","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]謎の男","a0_030_1021","False","","",""
+"Hazy_Script.txt:640","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]弓岡巧己","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]弓岡巧己","a0_030_1022","False","","",""
 "Hazy_Script.txt:641","では続いて わたくしから
 あなたに お訊ねします。","では続いて わたくしから
 あなたに お訊ねします。","a0_030_1023","False","","",""
@@ -2139,10 +2149,8 @@
 渡すことは ないと思ってくれ。","a0_040_0598","False","","",""
 "Hazy_Script.txt:1013","それを理解してもらうために 伝えた。","それを理解してもらうために 伝えた。","a0_040_0599","False","","",""
 "Hazy_Script.txt:1014","…………。","…………。","a0_040_0600","False","","",""
-"Hazy_Script.txt:1015","<color=#ddd>Private Detective","<color=#ddd>Private Detective","a0_040_0601","False","","",""
-"Hazy_Script.txt:1016","<cspace=-4px><color=#ddd><font=""TELOP"">櫂 利飛太<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=28px>[x0.4]Richter Kai","<cspace=-4px><color=#ddd><font=""TELOP"">櫂 利飛太<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=28px>[x0.4]Richter Kai","a0_040_0602","False","","",""
+"Hazy_Script.txt:1015","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]私立探偵","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]私立探偵","a0_040_0601","False","","",""
+"Hazy_Script.txt:1016","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]櫂 利飛太","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]櫂 利飛太","a0_040_0602","False","","",""
 "Hazy_Script.txt:1017","……探偵が ここで何をしていた？","……探偵が ここで何をしていた？","a0_040_0603","False","","",""
 "Hazy_Script.txt:1018","もちろん 仕事だよ。
 ……それ以上は 言えない。","もちろん 仕事だよ。
@@ -2480,10 +2488,8 @@
 話は聞いておかないと いけないんでね。","……大丈夫だと思うけど 職業柄
 話は聞いておかないと いけないんでね。","a0_050_0412","False","","",""
 "Hazy_Script.txt:1183","あ。本職は 本庁刑事課の[c4]襟尾 純[c0]です。","あ。本職は 本庁刑事課の[c4]襟尾 純[c0]です。","a0_050_0413","False","","",""
-"Hazy_Script.txt:1184","<color=#ddd>Newbie Detective","<color=#ddd>Newbie Detective","a0_050_0414","False","","",""
-"Hazy_Script.txt:1185","<cspace=-4px><color=#ddd><font=""TELOP"">襟尾 純<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=24px>[x0.4]Jun Erio","<cspace=-4px><color=#ddd><font=""TELOP"">襟尾 純<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=24px>[x0.4]Jun Erio","a0_050_0415","False","","",""
+"Hazy_Script.txt:1184","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]若手刑事","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]若手刑事","a0_050_0414","False","","",""
+"Hazy_Script.txt:1185","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]襟尾 純","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]襟尾 純","a0_050_0415","False","","",""
 "Hazy_Script.txt:1186","……で。こっちの おっかないカオの
 おじさんが 上官の[c4]津詰 徹生[c0]警部。","……で。こっちの おっかないカオの
 おじさんが 上官の[c4]津詰 徹生[c0]警部。","a0_050_0416","False","","",""
@@ -2491,10 +2497,8 @@
 ご当地もののお菓子には 目がなくて……","カオは おっかないですけど こう見えて
 ご当地もののお菓子には 目がなくて……","a0_050_0417","False","","",""
 "Hazy_Script.txt:1188","エリオ。余計なこと言うんじゃねえ。","エリオ。余計なこと言うんじゃねえ。","a0_050_0418","False","","",""
-"Hazy_Script.txt:1189","<color=#ddd>Veteran Detective","<color=#ddd>Veteran Detective","a0_050_0419","False","","",""
-"Hazy_Script.txt:1190","<cspace=-4px><color=#ddd><font=""TELOP"">津詰 徹生<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=6px>[x0.4]Tetsuo Tsutsumi","<cspace=-4px><color=#ddd><font=""TELOP"">津詰 徹生<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=6px>[x0.4]Tetsuo Tsutsumi","a0_050_0420","False","","",""
+"Hazy_Script.txt:1189","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]ベテラン警部","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]ベテラン警部","a0_050_0419","False","","",""
+"Hazy_Script.txt:1190","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]津詰 徹生","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]津詰 徹生","a0_050_0420","False","","",""
 "Hazy_Script.txt:1191","話だったら コイツに任せてる。
 俺からは 特にねえ。","話だったら コイツに任せてる。
 俺からは 特にねえ。","a0_050_0421","False","","",""
@@ -2785,10 +2789,8 @@
 "Hazy_Script.txt:1340","ぼくの名前は [c4]並垣 祐太郎[c0]。
 呪影は『足洗い屋敷』だ。よろしく。","ぼくの名前は [c4]並垣 祐太郎[c0]。
 呪影は『足洗い屋敷』だ。よろしく。","a0_060_0669","False","","",""
-"Hazy_Script.txt:1341","<color=#ddd>Young Curse Bearer","<color=#ddd>Young Curse Bearer","a0_060_0670","False","","",""
-"Hazy_Script.txt:1342","<cspace=-4px><font=""TELOP""><color=#ddd>並垣祐太郎<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=17px>[x0.4]Yutaro Namigaki","<cspace=-4px><font=""TELOP""><color=#ddd>並垣祐太郎<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=17px>[x0.4]Yutaro Namigaki","a0_060_0671","False","","",""
+"Hazy_Script.txt:1341","<cspace=-6px><font=""TELOP""><color=#ddd>呪主の青年","<cspace=-6px><font=""TELOP""><color=#ddd>呪主の青年","a0_060_0670","False","","",""
+"Hazy_Script.txt:1342","<cspace=-4px><font=""TELOP""><color=#ddd>[sruby-50][vruby-12]並垣祐太郎","<cspace=-4px><font=""TELOP""><color=#ddd>[sruby-50][vruby-12]並垣祐太郎","a0_060_0671","False","","",""
 "Hazy_Script.txt:1343","……話 だと？","……話 だと？","a0_060_0672","False","","",""
 "Hazy_Script.txt:1344","ああ。ぼくは 目の前にいるのが 呪主だからって
 問答無用で呪詛を行使するほど 野蛮じゃない。","ああ。ぼくは 目の前にいるのが 呪主だからって
@@ -2849,8 +2851,8 @@
 "Hazy_Script.txt:1368","……いいだろう。協力して お互いが
 達成しやすくなるなら 悪くない話だ。","……いいだろう。協力して お互いが
 達成しやすくなるなら 悪くない話だ。","a0_060_0697","False","","",""
-"Hazy_Script.txt:1369","ありがとう。あんたが ものごとを
-合理的に考えられる人で よかった。","ありがとう。あんたが ものごとを
+"Hazy_Script.txt:1369","ありがとう。きみが ものごとを
+合理的に考えられる人で よかった。","ありがとう。きみが ものごとを
 合理的に考えられる人で よかった。","a0_060_0698","False","","",""
 "Hazy_Script.txt:1370","その前に ひとつ
 確認しておきたいが……","その前に ひとつ
@@ -3519,14 +3521,14 @@
 "Hazy_Script.txt:1702","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]興家彰吾","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]興家彰吾","a0_120_0040","False","","",""
 "Hazy_Script.txt:1703","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午前５時台","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午前５時台","a0_120_0041","False","","",""
 "Hazy_Script.txt:1704","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]錦糸堀公園","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]錦糸堀公園","a0_120_0042","False","","",""
-"Hazy_Script.txt:1705","━━続いてのニュースです。","━━続いてのニュースです。","a0_120_0043","False","","",""
-"Hazy_Script.txt:1706","本日未明 墨田区の公園内にて
+"Hazy_Script.txt:1705","[s0.03]━━続いてのニュースです。","[s0.03]━━続いてのニュースです。","a0_120_0043","False","","",""
+"Hazy_Script.txt:1706","[s0.03]本日未明 墨田区の公園内にて
 倒れている男性を 巡回中の警察官が
-発見し 通報しました。","本日未明 墨田区の公園内にて
+発見し 通報しました。","[s0.03]本日未明 墨田区の公園内にて
 倒れている男性を 巡回中の警察官が
 発見し 通報しました。","a0_120_0044","False","","",""
-"Hazy_Script.txt:1707","男性は 病院に搬送されましたが
-間もなく 死亡が確認され……","男性は 病院に搬送されましたが
+"Hazy_Script.txt:1707","[s0.03]男性は 病院に搬送されましたが
+間もなく 死亡が確認され……","[s0.03]男性は 病院に搬送されましたが
 間もなく 死亡が確認され……","a0_120_0045","False","","",""
 "Hazy_Script.txt:1708","警察は この近辺で同時に発見されている
 複数の不審死と 関連性があるとして
@@ -3560,15 +3562,25 @@
 今回の事態の全貌が 見えてくるかと思います。","a0_120_0055","False","","",""
 "Hazy_Script.txt:1718","それでは 続きをお楽しみください。","それでは 続きをお楽しみください。","a0_120_0056","False","","",""
 "Hazy_Script.txt:1719","<cspace=-4px><color=#ddd><font=""TELOP"">作・演出","<cspace=-4px><color=#ddd><font=""TELOP"">作・演出","a0_120_0057","False","","",""
-"Hazy_Script.txt:1720","<cspace=-4px><color=#ddd><font=""TELOP"">石山貴也","<cspace=-4px><color=#ddd><font=""TELOP"">石山貴也","a0_120_0058","False","","",""
+"Hazy_Script.txt:1720","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">石山貴也<cspace=0px>[x0.3]
+<font=""MAIN"">Takanari Ishiyama","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">石山貴也<cspace=0px>[x0.3]
+<font=""MAIN"">Takanari Ishiyama","a0_120_0058","False","","",""
 "Hazy_Script.txt:1721","<cspace=-4px><color=#ddd><font=""TELOP"">プロデュース","<cspace=-4px><color=#ddd><font=""TELOP"">プロデュース","a0_120_0059","False","","",""
-"Hazy_Script.txt:1722","<cspace=-4px><color=#ddd><font=""TELOP"">奥州一馬","<cspace=-4px><color=#ddd><font=""TELOP"">奥州一馬","a0_120_0060","False","","",""
+"Hazy_Script.txt:1722","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">奥州一馬<cspace=0px>[x0.3]
+<font=""MAIN"">Kazuma Oushu","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">奥州一馬<cspace=0px>[x0.3]
+<font=""MAIN"">Kazuma Oushu","a0_120_0060","False","","",""
 "Hazy_Script.txt:1723","<cspace=-4px><color=#ddd><font=""TELOP"">アシスタントプロデュース","<cspace=-4px><color=#ddd><font=""TELOP"">アシスタントプロデュース","a0_120_0061","False","","",""
-"Hazy_Script.txt:1724","<cspace=-4px><color=#ddd><font=""TELOP"">中村圭祐","<cspace=-4px><color=#ddd><font=""TELOP"">中村圭祐","a0_120_0062","False","","",""
+"Hazy_Script.txt:1724","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">中村圭祐<cspace=0px>[x0.3]
+<font=""MAIN"">Keisuke Nakamura","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">中村圭祐<cspace=0px>[x0.3]
+<font=""MAIN"">Keisuke Nakamura","a0_120_0062","False","","",""
 "Hazy_Script.txt:1725","<cspace=-4px><color=#ddd><font=""TELOP"">キャラクターデザイン","<cspace=-4px><color=#ddd><font=""TELOP"">キャラクターデザイン","a0_120_0063","False","","",""
-"Hazy_Script.txt:1726","<cspace=-4px><color=#ddd><font=""TELOP"">小林元","<cspace=-4px><color=#ddd><font=""TELOP"">小林元","a0_120_0064","False","","",""
+"Hazy_Script.txt:1726","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">小林 元<cspace=0px>[x0.3]
+<font=""MAIN"">Gen Kobayashi","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">小林 元<cspace=0px>[x0.3]
+<font=""MAIN"">Gen Kobayashi","a0_120_0064","False","","",""
 "Hazy_Script.txt:1727","<cspace=-4px><color=#ddd><font=""TELOP"">開　発","<cspace=-4px><color=#ddd><font=""TELOP"">開　発","a0_120_0065","False","","",""
-"Hazy_Script.txt:1728","<cspace=-4px><color=#ddd><font=""TELOP"">株式会社ジーン","<cspace=-4px><color=#ddd><font=""TELOP"">株式会社ジーン","a0_120_0066","False","","",""
+"Hazy_Script.txt:1728","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">株式会社ジーン<cspace=0px>[x0.3]
+<font=""MAIN"">xeen Inc.","<align=center><cspace=-4px><color=#ddd><font=""TELOP"">株式会社ジーン<cspace=0px>[x0.3]
+<font=""MAIN"">xeen Inc.","a0_120_0066","False","","",""
 "Hazy_Script.txt:1729","最初から","最初から","b0_010_0001","False","","",""
 "Hazy_Script.txt:1730","黒電話","黒電話","b0_010_0036","False","","",""
 "Hazy_Script.txt:1731","ファクシミリ","ファクシミリ","b0_010_0037","False","","",""
@@ -3607,7 +3619,7 @@
 "Hazy_Script.txt:1764","<cspace=-6px><font=""TELOP"">果てよ…","<cspace=-6px><font=""TELOP"">果てよ…","b0_010_0726","False","","",""
 "Hazy_Script.txt:1765","[a0.5]コロセ……","[a0.5]コロセ……","b0_010_0727","False","","",""
 "Hazy_Script.txt:1766","[a0.5]<size=200%>コロセ……！","[a0.5]<size=200%>コロセ……！","b0_010_0728","False","","",""
-"Hazy_Script.txt:1767","[a0.5]<size=200%>ヒダネを モツモノヲ……","[a0.5]<size=200%>ヒダネを モツモノヲ……","b0_010_0729","False","","",""
+"Hazy_Script.txt:1767","[a0.5]<size=200%>ヒダネヲ モツモノヲ……","[a0.5]<size=200%>ヒダネヲ モツモノヲ……","b0_010_0729","False","","",""
 "Hazy_Script.txt:1768","[a0.5]<size=200%>ミンナ コロセ……！","[a0.5]<size=200%>ミンナ コロセ……！","b0_010_0730","False","","",""
 "Hazy_Script.txt:1769","[c3]呪詛珠『送り拍子木』[c0]の 呪いの力で
 火 もしくは発火器具を持っている者を
@@ -3623,11 +3635,15 @@
 "Hazy_Script.txt:1770","<i>どす黒い粘液のような 重苦しい殺意が
 私の魂に 侵食してくる……。","<i>どす黒い粘液のような 重苦しい殺意が
 私の魂に 侵食してくる……。","b0_010_0732","False","","",""
-"Hazy_Script.txt:1771","[s0][a0.5]Now...","[s0][a0.5]Now...","b0_010_0733","False","","",""
-"Hazy_Script.txt:1772","[s0][a0.5]Kill...","[s0][a0.5]Kill...","b0_010_0734","False","","",""
-"Hazy_Script.txt:1773","Can you hear it, Curse Bearer?","Can you hear it, Curse Bearer?","b0_010_0735","False","","",""
-"Hazy_Script.txt:1774","You, who so strongly desires the Rite.","You, who so strongly desires the Rite.","b0_010_0736","False","","",""
-"Hazy_Script.txt:1775","Kill them.","Kill them.","b0_010_0737","False","","",""
+"Hazy_Script.txt:1771","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","b0_010_0733","False","","",""
+"Hazy_Script.txt:1772","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","b0_010_0734","False","","",""
+"Hazy_Script.txt:1773","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","b0_010_0735","False","","",""
+"Hazy_Script.txt:1774","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","b0_010_0736","False","","",""
+"Hazy_Script.txt:1775","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","b0_010_0737","False","","",""
 "Hazy_Script.txt:1776","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]志岐間春恵","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]志岐間春恵","b0_010_0738","False","","",""
 "Hazy_Script.txt:1777","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午前零時台","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午前零時台","b0_010_0739","False","","",""
 "Hazy_Script.txt:1778","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]志岐間邸応接間","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]志岐間邸応接間","b0_010_0740","False","","",""
@@ -3640,10 +3656,8 @@
 笑みを漏らすあなたを 初めて見た。","そんなに……うれしそうに
 笑みを漏らすあなたを 初めて見た。","b0_010_0744","False","","",""
 "Hazy_Script.txt:1783","……いい夢でも 見たのかな。","……いい夢でも 見たのかな。","b0_010_0745","False","","",""
-"Hazy_Script.txt:1784","<color=#ddd>Housewife","<color=#ddd>Housewife","b0_010_0746","False","","",""
-"Hazy_Script.txt:1785","<color=#ddd><cspace=-4px><font=""TELOP"">志岐間春恵<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=24px>[x0.4]Harue Shigima","<color=#ddd><cspace=-4px><font=""TELOP"">志岐間春恵<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=24px>[x0.4]Harue Shigima","b0_010_0747","False","","",""
+"Hazy_Script.txt:1784","<color=#ddd><cspace=-4px><font=""TELOP"">主婦","<color=#ddd><cspace=-4px><font=""TELOP"">主婦","b0_010_0746","False","","",""
+"Hazy_Script.txt:1785","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]志岐間春恵","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]志岐間春恵","b0_010_0747","False","","",""
 "Hazy_Script.txt:1786","……いいえ。","……いいえ。","b0_010_0748","False","","",""
 "Hazy_Script.txt:1787","夢じゃ ない……。","夢じゃ ない……。","b0_010_0749","False","","",""
 "Hazy_Script.txt:1788","オーケイ。じゃあ その話を
@@ -5370,10 +5384,8 @@
 "Hazy_Script.txt:2581","あ……はい。いいですよ。
 わたし [c4]灯野 あやめ[c0] っていいます。","あ……はい。いいですよ。
 わたし [c4]灯野 あやめ[c0] っていいます。","b0_020_0923","False","","",""
-"Hazy_Script.txt:2582","<color=#ddd>University Student","<color=#ddd>University Student","b0_020_0924","False","","",""
-"Hazy_Script.txt:2583","<color=#ddd><cspace=-4px><font=""TELOP"">灯野あやめ<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=30px>[x0.4]Ayame Tono","<color=#ddd><cspace=-4px><font=""TELOP"">灯野あやめ<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=30px>[x0.4]Ayame Tono","b0_020_0925","False","","",""
+"Hazy_Script.txt:2582","<color=#ddd><cspace=-4px><font=""TELOP"">大学生","<color=#ddd><cspace=-4px><font=""TELOP"">大学生","b0_020_0924","False","","",""
+"Hazy_Script.txt:2583","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]灯野あやめ","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]灯野あやめ","b0_020_0925","False","","",""
 "Hazy_Script.txt:2584","むむう。後ろの……あの女性は……。","むむう。後ろの……あの女性は……。","b0_020_0926","False","","",""
 "Hazy_Script.txt:2585","<i>女性の声……？ 誰……？","<i>女性の声……？ 誰……？","b0_020_0927","False","","",""
 "Hazy_Script.txt:2586","！","！","b0_020_0928","False","","",""
@@ -5619,8 +5631,8 @@
 関係ない話でしたねっ。忘れてください！","あ……おふたりが 呪主じゃないなら
 関係ない話でしたねっ。忘れてください！","b0_020_1019","False","","",""
 "Hazy_Script.txt:2678","……彼女の話を 聞いてみようか。","……彼女の話を 聞いてみようか。","b0_020_1020","False","","",""
-"Hazy_Script.txt:2679","灯野あやめ という少女……
-年齢は 20歳くらいだろうか。","灯野あやめ という少女……
+"Hazy_Script.txt:2679","灯野あやめ という女性……
+年齢は 20歳くらいだろうか。","灯野あやめ という女性……
 年齢は 20歳くらいだろうか。","b0_020_1021","False","","",""
 "Hazy_Script.txt:2680","こんな夜中に ひとりで出歩くのは
 度胸があるからなのか……それとも……。","こんな夜中に ひとりで出歩くのは
@@ -6636,11 +6648,15 @@
 "Hazy_Script.txt:3107","<i>どす黒い粘液のような 重苦しい殺意が
 俺の魂に 侵食してくる……。","<i>どす黒い粘液のような 重苦しい殺意が
 俺の魂に 侵食してくる……。","c0_010_1117","False","","",""
-"Hazy_Script.txt:3108","[s0][a0.5]Now...","[s0][a0.5]Now...","c0_010_1118","False","","",""
-"Hazy_Script.txt:3109","[s0][a0.5]Kill...","[s0][a0.5]Kill...","c0_010_1119","False","","",""
-"Hazy_Script.txt:3110","Can you hear it, Curse Bearer?","Can you hear it, Curse Bearer?","c0_010_1120","False","","",""
-"Hazy_Script.txt:3111","You, who so strongly desires the Rite.","You, who so strongly desires the Rite.","c0_010_1121","False","","",""
-"Hazy_Script.txt:3112","Kill them.","Kill them.","c0_010_1122","False","","",""
+"Hazy_Script.txt:3108","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","c0_010_1118","False","","",""
+"Hazy_Script.txt:3109","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","c0_010_1119","False","","",""
+"Hazy_Script.txt:3110","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","c0_010_1120","False","","",""
+"Hazy_Script.txt:3111","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","c0_010_1121","False","","",""
+"Hazy_Script.txt:3112","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","c0_010_1122","False","","",""
 "Hazy_Script.txt:3113","……ボス！ ……ボス！","……ボス！ ……ボス！","c0_010_1123","False","","",""
 "Hazy_Script.txt:3114","……ボス！ どうしたんですか！
 まさか 本当に 耄碌しちゃいました？","……ボス！ どうしたんですか！
@@ -7156,8 +7172,8 @@
 "Hazy_Script.txt:3345","いや……。","いや……。","c0_020_0964","False","","",""
 "Hazy_Script.txt:3346","……最後通告だよ。","……最後通告だよ。","c0_020_0965","False","","",""
 "Hazy_Script.txt:3347","並垣祐太郎と名乗る男。
-20歳の大学生らしいが……","並垣祐太郎と名乗る男。
-20歳の大学生らしいが……","c0_020_0966","False","","",""
+21歳の大学生らしいが……","並垣祐太郎と名乗る男。
+21歳の大学生らしいが……","c0_020_0966","False","","",""
 "Hazy_Script.txt:3348","やたら落ち着いてるし 俺らのことを観察してたし
 ……警戒しておいて いいだろう。","やたら落ち着いてるし 俺らのことを観察してたし
 ……警戒しておいて いいだろう。","c0_020_0967","False","","",""
@@ -7380,10 +7396,8 @@
 "Hazy_Script.txt:3457","こんなトコで 先生の姿を お見かけしたんで
 ちょいと 話を伺いたいなってことでね。","こんなトコで 先生の姿を お見かけしたんで
 ちょいと 話を伺いたいなってことでね。","c0_030_0453","False","","",""
-"Hazy_Script.txt:3458","<color=#ddd><cspace=-1px>Local History Researcher","<color=#ddd><cspace=-1px>Local History Researcher","c0_030_0454","False","","",""
-"Hazy_Script.txt:3459","<color=#ddd><cspace=-4px><font=""TELOP"">新石英樹<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=9px>[x0.4]Hideki Araishi","<color=#ddd><cspace=-4px><font=""TELOP"">新石英樹<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=9px>[x0.4]Hideki Araishi","c0_030_0455","False","","",""
+"Hazy_Script.txt:3458","<color=#ddd><cspace=-4px><font=""TELOP"">郷土史研究家","<color=#ddd><cspace=-4px><font=""TELOP"">郷土史研究家","c0_030_0454","False","","",""
+"Hazy_Script.txt:3459","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]新石英樹","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]新石英樹","c0_030_0455","False","","",""
 "Hazy_Script.txt:3460","さ……さっさとしてくれよ。
 私も 忙しいんだ。","さ……さっさとしてくれよ。
 私も 忙しいんだ。","c0_030_0456","False","","",""
@@ -7589,7 +7603,7 @@
 "Hazy_Script.txt:3540","……いいだろう。それならば 呪詛珠を
 集めれば 自ずと得られる情報だからな。","……いいだろう。それならば 呪詛珠を
 集めれば 自ずと得られる情報だからな。","c0_030_0536","False","","",""
-"Hazy_Script.txt:3541","未完","未完","c0_030_0537","False","","",""
+"Hazy_Script.txt:3541","<cspace=-3px><color=#ddd><font=""TELOP"">Incomplete","<cspace=-3px><color=#ddd><font=""TELOP"">Incomplete","c0_030_0537","False","","",""
 "Hazy_Script.txt:3542","早速だが……その呪詛珠
 回収させてもらいたい。","早速だが……その呪詛珠
 回収させてもらいたい。","c0_030_0538","False","","",""
@@ -8429,10 +8443,8 @@
 "Hazy_Script.txt:3912","…………。","…………。","d0_010_0349","False","","",""
 "Hazy_Script.txt:3913","……ありがとう。いいよ。","……ありがとう。いいよ。","d0_010_0350","False","","",""
 "Hazy_Script.txt:3914","……うん。いいよ。","……うん。いいよ。","d0_010_0351","False","","",""
-"Hazy_Script.txt:3915","<color=#ddd>High School Student","<color=#ddd>High School Student","d0_010_0352","False","","",""
-"Hazy_Script.txt:3916","<color=#ddd><cspace=-4px><font=""TELOP"">逆崎約子<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=5px>[x0.4]Yakko Sakazaki","<color=#ddd><cspace=-4px><font=""TELOP"">逆崎約子<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=5px>[x0.4]Yakko Sakazaki","d0_010_0353","False","","",""
+"Hazy_Script.txt:3915","<color=#ddd><cspace=-4px><font=""TELOP"">高校生","<color=#ddd><cspace=-4px><font=""TELOP"">高校生","d0_010_0352","False","","",""
+"Hazy_Script.txt:3916","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]逆崎約子","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]逆崎約子","d0_010_0353","False","","",""
 "Hazy_Script.txt:3917","では はじめます。","では はじめます。","d0_010_0354","False","","",""
 "Hazy_Script.txt:3918","これが こっくりさんの文字盤。
 これを使って やりとりするよ。","これが こっくりさんの文字盤。
@@ -8555,10 +8567,8 @@
 くっつきの《を》だった。","しかも……ちゃんと
 くっつきの《を》だった。","d0_010_0410","False","","",""
 "Hazy_Script.txt:3974","……うれしい。","……うれしい。","d0_010_0411","False","","",""
-"Hazy_Script.txt:3975","<color=#ddd>Psychic Girl","<color=#ddd>Psychic Girl","d0_010_0412","False","","",""
-"Hazy_Script.txt:3976","<color=#ddd><cspace=-4px><font=""TELOP"">黒鈴ミヲ<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=12px>[x0.4]Mio Kurosuzu","<color=#ddd><cspace=-4px><font=""TELOP"">黒鈴ミヲ<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=12px>[x0.4]Mio Kurosuzu","d0_010_0413","False","","",""
+"Hazy_Script.txt:3975","<color=#ddd><cspace=-4px><font=""TELOP"">霊感少女","<color=#ddd><cspace=-4px><font=""TELOP"">霊感少女","d0_010_0412","False","","",""
+"Hazy_Script.txt:3976","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]黒鈴ミヲ","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]黒鈴ミヲ","d0_010_0413","False","","",""
 "Hazy_Script.txt:3977","そうだよね。
 先生ですら よく間違えるもんね。","そうだよね。
 先生ですら よく間違えるもんね。","d0_010_0414","False","","",""
@@ -8705,11 +8715,15 @@
 "Hazy_Script.txt:4054","<i>どす黒い粘液のような 重苦しい殺意が
 わたしの魂に 侵食してくる……。","<i>どす黒い粘液のような 重苦しい殺意が
 わたしの魂に 侵食してくる……。","d0_010_0491","False","","",""
-"Hazy_Script.txt:4055","[s0][a0.5]Now...","[s0][a0.5]Now...","d0_010_0492","False","","",""
-"Hazy_Script.txt:4056","[s0][a0.5]Kill...","[s0][a0.5]Kill...","d0_010_0493","False","","",""
-"Hazy_Script.txt:4057","Can you hear it, Curse Bearer?","Can you hear it, Curse Bearer?","d0_010_0494","False","","",""
-"Hazy_Script.txt:4058","You, who so strongly desires the Rite.","You, who so strongly desires the Rite.","d0_010_0495","False","","",""
-"Hazy_Script.txt:4059","Kill them.","Kill them.","d0_010_0496","False","","",""
+"Hazy_Script.txt:4055","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","d0_010_0492","False","","",""
+"Hazy_Script.txt:4056","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","d0_010_0493","False","","",""
+"Hazy_Script.txt:4057","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","d0_010_0494","False","","",""
+"Hazy_Script.txt:4058","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
+呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","d0_010_0495","False","","",""
+"Hazy_Script.txt:4059","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","d0_010_0496","False","","",""
 "Hazy_Script.txt:4060","……じゃあ そろそろ
 本気の質問 いってみようか。","……じゃあ そろそろ
 本気の質問 いってみようか。","d0_010_0497","False","","",""
@@ -9339,7 +9353,7 @@
 "Hazy_Script.txt:4340","……偉そうに言ってたけど ここまで強い
 呪いの道具は 扱いが難しくて……。","……偉そうに言ってたけど ここまで強い
 呪いの道具は 扱いが難しくて……。","d0_020_0985","False","","",""
-"Hazy_Script.txt:4341","そうなの…？ これが……？","そうなの…？ これが……？","d0_020_0986","False","","",""
+"Hazy_Script.txt:4341","そうなの……？ これが……？","そうなの……？ これが……？","d0_020_0986","False","","",""
 "Hazy_Script.txt:4342","そのへんに捨てて 誰か良からぬ考えの人に
 渡っても 大変なことになるし……。","そのへんに捨てて 誰か良からぬ考えの人に
 渡っても 大変なことになるし……。","d0_020_0987","False","","",""
@@ -9714,10 +9728,8 @@
 "Hazy_Script.txt:4555","つうか 学生が夜遊びってのが
 まず いかんなア。","つうか 学生が夜遊びってのが
 まず いかんなア。","d0_030_0596","False","","",""
-"Hazy_Script.txt:4556","<color=#ddd>School Janitor","<color=#ddd>School Janitor","d0_030_0597","False","","",""
-"Hazy_Script.txt:4557","<color=#ddd><cspace=-4px><font=""TELOP"">葦宮 誠<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=-9px>[x0.4]Makoto Ashimiya","<color=#ddd><cspace=-4px><font=""TELOP"">葦宮 誠<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=-9px>[x0.4]Makoto Ashimiya","d0_030_0598","False","","",""
+"Hazy_Script.txt:4556","<color=#ddd><cspace=-4px><font=""TELOP"">校務員","<color=#ddd><cspace=-4px><font=""TELOP"">校務員","d0_030_0597","False","","",""
+"Hazy_Script.txt:4557","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]葦宮 誠","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]葦宮 誠","d0_030_0598","False","","",""
 "Hazy_Script.txt:4558","おめえさんは がさつ者だが……
 グレたりはしねエと 思っとったんだがなア。","おめえさんは がさつ者だが……
 グレたりはしねエと 思っとったんだがなア。","d0_030_0599","False","","",""
@@ -9770,8 +9782,8 @@
 学校にゃ黙っとくから すぐ帰れ。","……まアいいや。用が済んだなら
 学校にゃ黙っとくから すぐ帰れ。","d0_030_0619","False","","",""
 "Hazy_Script.txt:4579","……ってか さすがに こんな時間に
-ひとりで帰すワケにも いかねエか…。","……ってか さすがに こんな時間に
-ひとりで帰すワケにも いかねエか…。","d0_030_0620","False","","",""
+ひとりで帰すワケにも いかねエか……。","……ってか さすがに こんな時間に
+ひとりで帰すワケにも いかねエか……。","d0_030_0620","False","","",""
 "Hazy_Script.txt:4580","しゃーねエな。さっさと
 戸締まりしてくるから ちょっと待ってろ。","しゃーねエな。さっさと
 戸締まりしてくるから ちょっと待ってろ。","d0_030_0621","False","","",""
@@ -9846,10 +9858,8 @@
 "Hazy_Script.txt:4611","別の道から……誰か来る……。","別の道から……誰か来る……。","d0_030_0652","False","","",""
 "Hazy_Script.txt:4612","！……あれは……。","！……あれは……。","d0_030_0653","False","","",""
 "Hazy_Script.txt:4613","うわ……講師の [c4]新石先生[c0]だ……。","うわ……講師の [c4]新石先生[c0]だ……。","d0_030_0654","False","","",""
-"Hazy_Script.txt:4614","<color=#ddd>Part-time Teacher","<color=#ddd>Part-time Teacher","d0_030_0655","False","","",""
-"Hazy_Script.txt:4615","<color=#ddd><cspace=-4px><font=""TELOP"">新石英樹<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=9px>[x0.4]Hideki Araishi","<color=#ddd><cspace=-4px><font=""TELOP"">新石英樹<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=9px>[x0.4]Hideki Araishi","d0_030_0656","False","","",""
+"Hazy_Script.txt:4614","<color=#ddd><cspace=-4px><font=""TELOP"">非常勤講師","<color=#ddd><cspace=-4px><font=""TELOP"">非常勤講師","d0_030_0655","False","","",""
+"Hazy_Script.txt:4615","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]新石英樹","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]新石英樹","d0_030_0656","False","","",""
 "Hazy_Script.txt:4616","なんか キョロキョロしてる……
 ……何してるんだろう……。","なんか キョロキョロしてる……
 ……何してるんだろう……。","d0_030_0657","False","","",""
@@ -10745,65 +10755,65 @@
 "Hazy_Script.txt:5044","[s0][a0.5]だから……今 そこにある命を携え
 ただ 一歩一歩 踏みしめていってほしい……。","[s0][a0.5]だから……今 そこにある命を携え
 ただ 一歩一歩 踏みしめていってほしい……。","a1_020_0009","False","","",""
-"Hazy_Script.txt:5045","リヒタ。……岩井が 出てきたぞ。
-任意同行 かけるか？","リヒタ。……岩井が 出てきたぞ。
+"Hazy_Script.txt:5045","[s0.03]リヒタ。……岩井が 出てきたぞ。
+任意同行 かけるか？","[s0.03]リヒタ。……岩井が 出てきたぞ。
 任意同行 かけるか？","a1_020_0010","False","","",""
-"Hazy_Script.txt:5046","いや待て エリオ。家宅捜索できる 証拠が欲しい。
-少し泳がせよう。……追跡してくる。","いや待て エリオ。家宅捜索できる 証拠が欲しい。
+"Hazy_Script.txt:5046","[s0.03]いや待て エリオ。家宅捜索できる 証拠が欲しい。
+少し泳がせよう。……追跡してくる。","[s0.03]いや待て エリオ。家宅捜索できる 証拠が欲しい。
 少し泳がせよう。……追跡してくる。","a1_020_0011","False","","",""
-"Hazy_Script.txt:5047","……あいつが……誘拐犯……!?","……あいつが……誘拐犯……!?","a1_020_0012","False","","",""
-"Hazy_Script.txt:5048","……うう……そうです……。
-ぼくが やりました……。","……うう……そうです……。
+"Hazy_Script.txt:5047","[s0.03]……あいつが……誘拐犯……!?","[s0.03]……あいつが……誘拐犯……!?","a1_020_0012","False","","",""
+"Hazy_Script.txt:5048","[s0.03]……うう……そうです……。
+ぼくが やりました……。","[s0.03]……うう……そうです……。
 ぼくが やりました……。","a1_020_0013","False","","",""
-"Hazy_Script.txt:5049","だ……だから……助けてください！","だ……だから……助けてください！","a1_020_0014","False","","",""
-"Hazy_Script.txt:5050","あいつが……いつも
-ぼくの周りに……！","あいつが……いつも
+"Hazy_Script.txt:5049","[s0.03]だ……だから……助けてください！","[s0.03]だ……だから……助けてください！","a1_020_0014","False","","",""
+"Hazy_Script.txt:5050","[s0.03]あいつが……いつも
+ぼくの周りに……！","[s0.03]あいつが……いつも
 ぼくの周りに……！","a1_020_0015","False","","",""
-"Hazy_Script.txt:5051","……ごめんよ 美智代ちゃん……！
-あたし……何も知らなかった……！","……ごめんよ 美智代ちゃん……！
+"Hazy_Script.txt:5051","[s0.03]……ごめんよ 美智代ちゃん……！
+あたし……何も知らなかった……！","[s0.03]……ごめんよ 美智代ちゃん……！
 あたし……何も知らなかった……！","a1_020_0016","False","","",""
-"Hazy_Script.txt:5052","なんだって……!? 肇は……
-福永葉子ってヤツに……？","なんだって……!? 肇は……
+"Hazy_Script.txt:5052","[s0.03]なんだって……!? 肇は……
+福永葉子ってヤツに……？","[s0.03]なんだって……!? 肇は……
 福永葉子ってヤツに……？","a1_020_0017","False","","",""
-"Hazy_Script.txt:5053","どういうことだい!? アイツが そんな簡単に
-やられるタマじゃないのは アンタらも知ってるだろ！","どういうことだい!? アイツが そんな簡単に
+"Hazy_Script.txt:5053","[s0.03]どういうことだい!? アイツが そんな簡単に
+やられるタマじゃないのは アンタらも知ってるだろ！","[s0.03]どういうことだい!? アイツが そんな簡単に
 やられるタマじゃないのは アンタらも知ってるだろ！","a1_020_0018","False","","",""
-"Hazy_Script.txt:5054","そうなんですよね……。
-ボスも……なんか 隠してるようで……。","そうなんですよね……。
+"Hazy_Script.txt:5054","[s0.03]そうなんですよね……。
+ボスも……なんか 隠してるようで……。","[s0.03]そうなんですよね……。
 ボスも……なんか 隠してるようで……。","a1_020_0019","False","","",""
-"Hazy_Script.txt:5055","ふむ……。どうやら ハジメの
-家系に 秘密がありそうだね……。","ふむ……。どうやら ハジメの
+"Hazy_Script.txt:5055","[s0.03]ふむ……。どうやら ハジメの
+家系に 秘密がありそうだね……。","[s0.03]ふむ……。どうやら ハジメの
 家系に 秘密がありそうだね……。","a1_020_0020","False","","",""
-"Hazy_Script.txt:5056","……ちょっと 探ってみよう。
-任せておいてくれたまえ。","……ちょっと 探ってみよう。
+"Hazy_Script.txt:5056","[s0.03]……ちょっと 探ってみよう。
+任せておいてくれたまえ。","[s0.03]……ちょっと 探ってみよう。
 任せておいてくれたまえ。","a1_020_0021","False","","",""
-"Hazy_Script.txt:5057","……今日は 欠勤と聞いていましたが。
-わざわざ 何の用ですかな。","……今日は 欠勤と聞いていましたが。
+"Hazy_Script.txt:5057","[s0.03]……今日は 欠勤と聞いていましたが。
+わざわざ 何の用ですかな。","[s0.03]……今日は 欠勤と聞いていましたが。
 わざわざ 何の用ですかな。","a1_020_0022","False","","",""
-"Hazy_Script.txt:5058","いやあ。ふとしたことで……霊感って
-やつに 目覚めちゃったんだけど……","いやあ。ふとしたことで……霊感って
+"Hazy_Script.txt:5058","[s0.03]いやあ。ふとしたことで……霊感って
+やつに 目覚めちゃったんだけど……","[s0.03]いやあ。ふとしたことで……霊感って
 やつに 目覚めちゃったんだけど……","a1_020_0023","False","","",""
-"Hazy_Script.txt:5059","そしたら……うちの会長サマが 目に
-余るようになったもので 忠告をね……。","そしたら……うちの会長サマが 目に
+"Hazy_Script.txt:5059","[s0.03]そしたら……うちの会長サマが 目に
+余るようになったもので 忠告をね……。","[s0.03]そしたら……うちの会長サマが 目に
 余るようになったもので 忠告をね……。","a1_020_0024","False","","",""
-"Hazy_Script.txt:5060","……連絡くらい よこせよ。水くせえな。
-岩井に聞くまで 知らなかったぜ。","……連絡くらい よこせよ。水くせえな。
+"Hazy_Script.txt:5060","[s0.03]……連絡くらい よこせよ。水くせえな。
+岩井に聞くまで 知らなかったぜ。","[s0.03]……連絡くらい よこせよ。水くせえな。
 岩井に聞くまで 知らなかったぜ。","a1_020_0025","False","","",""
-"Hazy_Script.txt:5061","いやあ 悪いな。愛しの津詰警部を
-すっかり 忘れちまってたぜ。","いやあ 悪いな。愛しの津詰警部を
+"Hazy_Script.txt:5061","[s0.03]いやあ 悪いな。愛しの津詰警部を
+すっかり 忘れちまってたぜ。","[s0.03]いやあ 悪いな。愛しの津詰警部を
 すっかり 忘れちまってたぜ。","a1_020_0026","False","","",""
-"Hazy_Script.txt:5062","……何を 企んでやがる？","……何を 企んでやがる？","a1_020_0027","False","","",""
-"Hazy_Script.txt:5063","そんな 人聞きの悪いことを……。","そんな 人聞きの悪いことを……。","a1_020_0028","False","","",""
-"Hazy_Script.txt:5064","オレは ただの しがない
-いち校務員 葦宮誠ですぜ。","オレは ただの しがない
+"Hazy_Script.txt:5062","[s0.03]……何を 企んでやがる？","[s0.03]……何を 企んでやがる？","a1_020_0027","False","","",""
+"Hazy_Script.txt:5063","[s0.03]そんな 人聞きの悪いことを……。","[s0.03]そんな 人聞きの悪いことを……。","a1_020_0028","False","","",""
+"Hazy_Script.txt:5064","[s0.03]オレは ただの しがない
+いち校務員 葦宮誠ですぜ。","[s0.03]オレは ただの しがない
 いち校務員 葦宮誠ですぜ。","a1_020_0029","False","","",""
-"Hazy_Script.txt:5065","……そっちこそ どうなんだ？
-娘とは 仲良くやってんのかよ。","……そっちこそ どうなんだ？
+"Hazy_Script.txt:5065","[s0.03]……そっちこそ どうなんだ？
+娘とは 仲良くやってんのかよ。","[s0.03]……そっちこそ どうなんだ？
 娘とは 仲良くやってんのかよ。","a1_020_0030","False","","",""
-"Hazy_Script.txt:5066","……そりゃ まあ……
-ぼちぼちってトコだな……。","……そりゃ まあ……
+"Hazy_Script.txt:5066","[s0.03]……そりゃ まあ……
+ぼちぼちってトコだな……。","[s0.03]……そりゃ まあ……
 ぼちぼちってトコだな……。","a1_020_0031","False","","",""
-"Hazy_Script.txt:5067","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]終","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]終","a1_020_0032","False","","",""
+"Hazy_Script.txt:5067","<color=#ddd><font=""TELOP"">終","<color=#ddd><font=""TELOP"">終","a1_020_0032","False","","",""
 "Hazy_Script.txt:5068","★津詰から","★津詰から","a1_020_0033","False","","",""
 "Hazy_Script.txt:5069","★エンドクレジット","★エンドクレジット","a1_020_0034","False","","",""
 "Hazy_Script.txt:5070","最初から","最初から","b1_010_0001","False","","",""
@@ -10859,8 +10869,8 @@
 ひとつ確認しておきたい。","……ところで マダム。
 ひとつ確認しておきたい。","b1_010_0034","False","","",""
 "Hazy_Script.txt:5104","……なあに？","……なあに？","b1_010_0035","False","","",""
-"Hazy_Script.txt:5105","僕らは 滓魂の溜まった呪詛珠を
-奪い取ろうと 目論んでいるけれど……","僕らは 滓魂の溜まった呪詛珠を
+"Hazy_Script.txt:5105","僕らは 滓魂の貯まった呪詛珠を
+奪い取ろうと 目論んでいるけれど……","僕らは 滓魂の貯まった呪詛珠を
 奪い取ろうと 目論んでいるけれど……","b1_010_0036","False","","",""
 "Hazy_Script.txt:5106","奪い取らなくとも……呪主と直接交渉して 秘術を
 使わせてもらえるならば それでもいいかな？","奪い取らなくとも……呪主と直接交渉して 秘術を
@@ -11164,8 +11174,8 @@
 黒幕に 結びつくかもしれないの……？","じゃあ……そっちを 調べていけば
 黒幕に 結びつくかもしれないの……？","b1_010_0161","False","","",""
 "Hazy_Script.txt:5231","そうだね。僕らの目的が 黒幕捜しなら
-そっちから 調べていっただろう。","そうだね。僕らの目的が 黒幕捜しなら
-そっちから 調べていっただろう。","b1_010_0162","False","","",""
+そっちから 調べていただろう。","そうだね。僕らの目的が 黒幕捜しなら
+そっちから 調べていただろう。","b1_010_0162","False","","",""
 "Hazy_Script.txt:5232","まだまだ これから 呪い殺された被害者が
 発覚して 増えるかもしれない。","まだまだ これから 呪い殺された被害者が
 発覚して 増えるかもしれない。","b1_010_0163","False","","",""
@@ -11364,8 +11374,8 @@
 "Hazy_Script.txt:5307","交際した途端 手のひらを返したように
 態度が横柄になる例は よくある話だよ。","交際した途端 手のひらを返したように
 態度が横柄になる例は よくある話だよ。","b1_010_0238","False","","",""
-"Hazy_Script.txt:5308","そうでなくとも 白井稔子は
-生活に 相当 困っていたようだし……","そうでなくとも 白井稔子は
+"Hazy_Script.txt:5308","そうでなくとも 白石稔子は
+生活に 相当 困っていたようだし……","そうでなくとも 白石稔子は
 生活に 相当 困っていたようだし……","b1_010_0239","False","","",""
 "Hazy_Script.txt:5309","娘を 高校に進ませたいという 願いもあり
 甘い言葉に つい頼ってしまったんじゃあないかな。","娘を 高校に進ませたいという 願いもあり
@@ -11493,9 +11503,9 @@
 "Hazy_Script.txt:5360","うそぶくのは もう いいでしょう。
 そんな時間も ないはずです。","うそぶくのは もう いいでしょう。
 そんな時間も ないはずです。","b1_010_0291","False","","",""
-"Hazy_Script.txt:5361","あなたが 昨晩遭遇した私を 疑ったのと同じ理由で
-わたくしも あなたを 呪主だと 疑っていました。","あなたが 昨晩遭遇した私を 疑ったのと同じ理由で
-わたくしも あなたを 呪主だと 疑っていました。","b1_010_0292","False","","",""
+"Hazy_Script.txt:5361","あなたが 昨晩 わたくしを疑ったのと同じ理由で
+わたくしも あなたを 呪主だと疑っていました。","あなたが 昨晩 わたくしを疑ったのと同じ理由で
+わたくしも あなたを 呪主だと疑っていました。","b1_010_0292","False","","",""
 "Hazy_Script.txt:5362","そして今日 再び接触してきた時点で
 確信を得た。あなたは 呪主なのでしょう？","そして今日 再び接触してきた時点で
 確信を得た。あなたは 呪主なのでしょう？","b1_010_0293","False","","",""
@@ -11546,8 +11556,8 @@
 己の存在を増大させるために 人に取り憑く 邪念。","いいですか。呪いなどというものは 所詮……
 己の存在を増大させるために 人に取り憑く 邪念。","b1_010_0311","False","","",""
 "Hazy_Script.txt:5381","蘇りの秘術など……呪いが 呪主を
-たぶらかすための 絵空事に過ぎないのです。","蘇りの秘術など……呪いが 呪主を
-たぶらかすための 絵空事に過ぎないのです。","b1_010_0312","False","","",""
+誑かすための 絵空事に過ぎないのです。","蘇りの秘術など……呪いが 呪主を
+誑かすための 絵空事に過ぎないのです。","b1_010_0312","False","","",""
 "Hazy_Script.txt:5382","ご理解いただけたのならば……
 早急に 呪詛珠を渡していただきたい。","ご理解いただけたのならば……
 早急に 呪詛珠を渡していただきたい。","b1_010_0313","False","","",""
@@ -11605,8 +11615,8 @@
 "Hazy_Script.txt:5408","ただ……ヒハク石鹸が 呪詛珠を求めていて
 何かを企んでいるのは 間違いない。","ただ……ヒハク石鹸が 呪詛珠を求めていて
 何かを企んでいるのは 間違いない。","b1_010_0339","False","","",""
-"Hazy_Script.txt:5409","呪いについて知っているのに 滓魂の溜まってない
-呪詛珠を そこまで必死に 求めているとなると……","呪いについて知っているのに 滓魂の溜まってない
+"Hazy_Script.txt:5409","呪いについて知っているのに 滓魂の貯まってない
+呪詛珠を そこまで必死に 求めているとなると……","呪いについて知っているのに 滓魂の貯まってない
 呪詛珠を そこまで必死に 求めているとなると……","b1_010_0340","False","","",""
 "Hazy_Script.txt:5410","ヒハクが……今回の呪いの
 黒幕である可能性も 出てきたね。","ヒハクが……今回の呪いの
@@ -12610,8 +12620,8 @@
 "Hazy_Script.txt:5825","白石家のヤツが……根島事件と 何か
 関係があったってことか……？","白石家のヤツが……根島事件と 何か
 関係があったってことか……？","b1_020_0273","False","","",""
-"Hazy_Script.txt:5826","あるいは 怨みを忘れないように
-するため……とか？","あるいは 怨みを忘れないように
+"Hazy_Script.txt:5826","あるいは 恨みを忘れないように
+するため……とか？","あるいは 恨みを忘れないように
 するため……とか？","b1_020_0274","False","","",""
 "Hazy_Script.txt:5827","まさか……ここで 根島が
 絡んでくるとはな……。","まさか……ここで 根島が
@@ -12654,8 +12664,8 @@
 "Hazy_Script.txt:5841","……そうか。そこで すでに
 繋がりがあったのか。","……そうか。そこで すでに
 繋がりがあったのか。","b1_020_0289","False","","",""
-"Hazy_Script.txt:5842","マダムは そのために 根島史周から 怨みを
-買っていないかと……心配していたよ。","マダムは そのために 根島史周から 怨みを
+"Hazy_Script.txt:5842","マダムは そのために 根島史周から 恨みを
+買っていないかと……心配していたよ。","マダムは そのために 根島史周から 恨みを
 買っていないかと……心配していたよ。","b1_020_0290","False","","",""
 "Hazy_Script.txt:5843","…………ああ。
 そうか……なるほど……。","…………ああ。
@@ -12768,7 +12778,7 @@
 "Hazy_Script.txt:5885","いずれの術にも……「生け贄を捧げる」と
 いったことが 書かれている。なんとも物騒だ。","いずれの術にも……「生け贄を捧げる」と
 いったことが 書かれている。なんとも物騒だ。","b1_020_0333","False","","",""
-"Hazy_Script.txt:5886","蘇り……？","蘇り……？","b1_020_0334","False","","",""
+"Hazy_Script.txt:5886","蘇生……？","蘇生……？","b1_020_0334","False","","",""
 "Hazy_Script.txt:5887","洋の東西や 術の方式を問わず……人々が
 秘法に願うものは 変わらないようだ。","洋の東西や 術の方式を問わず……人々が
 秘法に願うものは 変わらないようだ。","b1_020_0335","False","","",""
@@ -12867,8 +12877,8 @@
 あんな 陰惨なコトをやった……ってことか？","根島は……黒魔術の 生け贄のために
 あんな 陰惨なコトをやった……ってことか？","b1_020_0375","False","","",""
 "Hazy_Script.txt:5928","……そうなる。","……そうなる。","b1_020_0376","False","","",""
-"Hazy_Script.txt:5929","根島の行った術は《蘇りの黒魔術》。
-岩井のやっていたものとは 違うがね。","根島の行った術は《蘇りの黒魔術》。
+"Hazy_Script.txt:5929","根島の行った術は《蘇生の黒魔術》。
+岩井のやっていたものとは 違うがね。","根島の行った術は《蘇生の黒魔術》。
 岩井のやっていたものとは 違うがね。","b1_020_0377","False","","",""
 "Hazy_Script.txt:5930","……警部の話では こんな魔道書は
 デタラメの インチキだそうだが……","……警部の話では こんな魔道書は
@@ -12877,9 +12887,9 @@
 本気で この通りに 行っていたわけだ。","少なくとも 根島や 岩井は……
 本気で この通りに 行っていたわけだ。","b1_020_0379","False","","",""
 "Hazy_Script.txt:5932","くそっ！ フザけやがって！
-あの男が《蘇りの黒魔術》だと……!?","くそっ！ フザけやがって！
-あの男が《蘇りの黒魔術》だと……!?","b1_020_0380","False","","",""
-"Hazy_Script.txt:5933","蘇り……!?","蘇り……!?","b1_020_0381","False","","",""
+あの男が《蘇生の黒魔術》だと……!?","くそっ！ フザけやがって！
+あの男が《蘇生の黒魔術》だと……!?","b1_020_0380","False","","",""
+"Hazy_Script.txt:5933","蘇生……!?","蘇生……!?","b1_020_0381","False","","",""
 "Hazy_Script.txt:5934","根島には 当時 蘇らせたい
 人でも いたのかね……？","根島には 当時 蘇らせたい
 人でも いたのかね……？","b1_020_0382","False","","",""
@@ -12955,8 +12965,8 @@
 ちょっと 刺激が強い話だったね。","マダム。しっかり。
 ちょっと 刺激が強い話だったね。","b1_020_0417","False","","",""
 "Hazy_Script.txt:5970","いや。だが実際は そうじゃなくて……。","いや。だが実際は そうじゃなくて……。","b1_020_0418","False","","",""
-"Hazy_Script.txt:5971","これでもし ヤツに 《蘇りの黒魔術》なんて
-目的が あったとするなら……","これでもし ヤツに 《蘇りの黒魔術》なんて
+"Hazy_Script.txt:5971","これでもし ヤツに 《蘇生の黒魔術》なんて
+目的が あったとするなら……","これでもし ヤツに 《蘇生の黒魔術》なんて
 目的が あったとするなら……","b1_020_0419","False","","",""
 "Hazy_Script.txt:5972","ひょっとすると……
 赤ん坊は ヤツの実の娘で……","ひょっとすると……
@@ -13119,8 +13129,8 @@
 "Hazy_Script.txt:6050","また 自身も警察に捕まり 服役した。
 その点で 警察にも 復讐したかったろう。","また 自身も警察に捕まり 服役した。
 その点で 警察にも 復讐したかったろう。","b1_020_0498","False","","",""
-"Hazy_Script.txt:6051","根島の怨みを晴らしつつ 警察に恥をかかせつつ
-かつ 生け贄を満たす方法……","根島の怨みを晴らしつつ 警察に恥をかかせつつ
+"Hazy_Script.txt:6051","根島の恨みを晴らしつつ 警察に恥をかかせつつ
+かつ 生け贄を満たす方法……","根島の恨みを晴らしつつ 警察に恥をかかせつつ
 かつ 生け贄を満たす方法……","b1_020_0499","False","","",""
 "Hazy_Script.txt:6052","そうか……！","そうか……！","b1_020_0500","False","","",""
 "Hazy_Script.txt:6053","その全部を満たすため 岩井は
@@ -13446,9 +13456,9 @@
 "Hazy_Script.txt:6213","誘拐事件のこと","誘拐事件のこと","b1_030_0062","False","","",""
 "Hazy_Script.txt:6214","残りの呪主のこと","残りの呪主のこと","b1_030_0063","False","","",""
 "Hazy_Script.txt:6215","利飛太のこと","利飛太のこと","b1_030_0064","False","","",""
-"Hazy_Script.txt:6216","公式発表が あったということは……
-岩井の 自供証拠の真実性は 高そうだね。","公式発表が あったということは……
-岩井の 自供証拠の真実性は 高そうだね。","b1_030_0065","False","","",""
+"Hazy_Script.txt:6216","公式発表が あったということは……岩井の
+手記の内容は 真実性が 高かったようだね。","公式発表が あったということは……岩井の
+手記の内容は 真実性が 高かったようだね。","b1_030_0065","False","","",""
 "Hazy_Script.txt:6217","誘拐犯も その共犯の少女も 死んでいるが
 ……あとは 警察が 処理してくれるはずだ。","誘拐犯も その共犯の少女も 死んでいるが
 ……あとは 警察が 処理してくれるはずだ。","b1_030_0066","False","","",""
@@ -13536,8 +13546,8 @@
 優秀なアシスタントは 常時募集中だ。","零細の 厳しいところだね。
 優秀なアシスタントは 常時募集中だ。","b1_030_0105","False","","",""
 "Hazy_Script.txt:6257","そして……根島史周も 呪主らしい。
-『片葉の葦』だったか。","そして……根島史周も 呪主らしい。
-『片葉の葦』だったか。","b1_030_0106","False","","",""
+『片葉の芦』だったか。","そして……根島史周も 呪主らしい。
+『片葉の芦』だったか。","b1_030_0106","False","","",""
 "Hazy_Script.txt:6258","滓魂を集める可能性でいったら
 ……もっとも高いだろう。","滓魂を集める可能性でいったら
 ……もっとも高いだろう。","b1_030_0107","False","","",""
@@ -14124,8 +14134,8 @@
 つまり 彼女も 呪詛珠を持っていたが……","むう……。
 つまり 彼女も 呪詛珠を持っていたが……","b1_030_0355","False","","",""
 "Hazy_Script.txt:6507","自分で呪い殺すのが イヤだったから……
-滓魂の溜まった呪詛珠を 奪おうとしていた？","自分で呪い殺すのが イヤだったから……
-滓魂の溜まった呪詛珠を 奪おうとしていた？","b1_030_0356","False","","",""
+滓魂の貯まった呪詛珠を 奪おうとしていた？","自分で呪い殺すのが イヤだったから……
+滓魂の貯まった呪詛珠を 奪おうとしていた？","b1_030_0356","False","","",""
 "Hazy_Script.txt:6508","であれば……あの言い方も
 納得いくな……。","であれば……あの言い方も
 納得いくな……。","b1_030_0357","False","","",""
@@ -14500,8 +14510,8 @@
 "Hazy_Script.txt:6659","使うことが……できるの？
 ……呪詛珠を。","使うことが……できるの？
 ……呪詛珠を。","b1_040_0094","False","","",""
-"Hazy_Script.txt:6660","えっと……確かに 昼間の間は 呪詛珠が
-無反応に なってましたけど……","えっと……確かに 昼間の間は 呪詛珠が
+"Hazy_Script.txt:6660","えっと……確かに 昼の間は 呪詛珠が
+無反応に なってましたけど……","えっと……確かに 昼の間は 呪詛珠が
 無反応に なってましたけど……","b1_040_0095","False","","",""
 "Hazy_Script.txt:6661","……もう 夕方ですから。","……もう 夕方ですから。","b1_040_0096","False","","",""
 "Hazy_Script.txt:6662","試しに 使ってみたら……
@@ -14601,8 +14611,8 @@
 "Hazy_Script.txt:6706","実は 今日 警察が追っていた
 あの 根島という男だけど……","実は 今日 警察が追っていた
 あの 根島という男だけど……","b1_040_0141","False","","",""
-"Hazy_Script.txt:6707","過去に逮捕された 津詰警部に 怨みを晴らすため
-娘を狙うと 言っていたらしくてね……。","過去に逮捕された 津詰警部に 怨みを晴らすため
+"Hazy_Script.txt:6707","過去に逮捕された 津詰警部に 恨みを晴らすため
+娘を狙うと 言っていたらしくてね……。","過去に逮捕された 津詰警部に 恨みを晴らすため
 娘を狙うと 言っていたらしくてね……。","b1_040_0142","False","","",""
 "Hazy_Script.txt:6708","は……!?","は……!?","b1_040_0143","False","","",""
 "Hazy_Script.txt:6709","なので 保護するために 警察がずっと
@@ -15257,8 +15267,8 @@
 "Hazy_Script.txt:7050","え……びっくり！ まさか 今さら
 正義の味方気取りですか……？","え……びっくり！ まさか 今さら
 正義の味方気取りですか……？","b1_040_0484","False","","",""
-"Hazy_Script.txt:7051","そっちも 滓魂の溜まった呪詛珠を
-奪おうとしていたくせに……？","そっちも 滓魂の溜まった呪詛珠を
+"Hazy_Script.txt:7051","そっちも 滓魂の貯まった呪詛珠を
+奪おうとしていたくせに……？","そっちも 滓魂の貯まった呪詛珠を
 奪おうとしていたくせに……？","b1_040_0485","False","","",""
 "Hazy_Script.txt:7052","…………。","…………。","b1_040_0486","False","","",""
 "Hazy_Script.txt:7053","あ。特に 言い返すことも ないようですので
@@ -15604,8 +15614,8 @@
 "Hazy_Script.txt:7199","……にしても ボス。本所七不思議の呪いに
 ちょっと 興味なさすぎじゃないですか……？","……にしても ボス。本所七不思議の呪いに
 ちょっと 興味なさすぎじゃないですか……？","c1_010_0092","False","","",""
-"Hazy_Script.txt:7200","うるせえな。紛らわしいのが
-いっぱいなんだもの！","うるせえな。紛らわしいのが
+"Hazy_Script.txt:7200","うるせえな。だって 紛らわしいのが
+いっぱいなんだもの！","うるせえな。だって 紛らわしいのが
 いっぱいなんだもの！","c1_010_0093","False","","",""
 "Hazy_Script.txt:7201","だが まあ……こうなってくると
 同じように 不可解な死に方をした……","だが まあ……こうなってくると
@@ -15655,8 +15665,8 @@
 "Hazy_Script.txt:7218","ああ……。根島が 日暮れと同時に……って
 言ってたのも そういう理由だったんだな。","ああ……。根島が 日暮れと同時に……って
 言ってたのも そういう理由だったんだな。","c1_010_0111","False","","",""
-"Hazy_Script.txt:7219","昼間の間は 呪詛珠を使えないって
-わかってたんですね。","昼間の間は 呪詛珠を使えないって
+"Hazy_Script.txt:7219","昼の間は 呪詛珠を使えないって
+わかってたんですね。","昼の間は 呪詛珠を使えないって
 わかってたんですね。","c1_010_0112","False","","",""
 "Hazy_Script.txt:7220","とにかく……日が暮れるまでに 決着つけてえな。
 残りの呪主を 全員 あぶり出すぞ。","とにかく……日が暮れるまでに 決着つけてえな。
@@ -15910,8 +15920,8 @@
 お粗末なことだな。","なんとまあ……
 お粗末なことだな。","c1_010_0209","False","","",""
 "Hazy_Script.txt:7317","昨今 刑務所の空きが 全然なくて
-割と 仮出獄が 多いそうですね。","昨今 刑務所の空きが 全然なくて
-割と 仮出獄が 多いそうですね。","c1_010_0210","False","","",""
+わりと 仮出獄が 多いそうですね。","昨今 刑務所の空きが 全然なくて
+わりと 仮出獄が 多いそうですね。","c1_010_0210","False","","",""
 "Hazy_Script.txt:7318","そのため……保護観察官も 全然
 間に合ってないのが 実態だそうです。","そのため……保護観察官も 全然
 間に合ってないのが 実態だそうです。","c1_010_0211","False","","",""
@@ -16803,8 +16813,8 @@
 "Hazy_Script.txt:7716","お嬢さんたち……奥田さんの
 連絡先は……教えてもらえないかな。","お嬢さんたち……奥田さんの
 連絡先は……教えてもらえないかな。","c1_020_0357","False","","",""
-"Hazy_Script.txt:7717","できれば 吉見やお守りついて
-直接会って 確認したいのだけど……。","できれば 吉見やお守りついて
+"Hazy_Script.txt:7717","できれば 吉見や お守りについて
+直接会って 確認したいのだけど……。","できれば 吉見や お守りについて
 直接会って 確認したいのだけど……。","c1_020_0358","False","","",""
 "Hazy_Script.txt:7718","どうでしょう……吉見さん以外の人に
 心を開くことは なさそうでしたけど……。","どうでしょう……吉見さん以外の人に
@@ -17556,8 +17566,8 @@
 "Hazy_Script.txt:8025","銃を下げて 少しは 落ち着いたか……？
 あんま 刺激してくれるなよ……。","銃を下げて 少しは 落ち着いたか……？
 あんま 刺激してくれるなよ……。","c1_040_0122","False","","",""
-"Hazy_Script.txt:8026","……って 襟尾のほうが 俺に対して
-思ってそうだがな。","……って 襟尾のほうが 俺に対して
+"Hazy_Script.txt:8026","……って エリオのほうが 俺に対して
+思ってそうだがな。","……って エリオのほうが 俺に対して
 思ってそうだがな。","c1_040_0123","False","","",""
 "Hazy_Script.txt:8027","……しかしまあ……ずいぶんな
 見た目の変わりようだな……。","……しかしまあ……ずいぶんな
@@ -19036,8 +19046,8 @@
 良いみたいです。","それを [c3]正しい順番[c0]で剥がせば
 良いみたいです。","c1_050_0357","False","","",""
 "Hazy_Script.txt:8709","お札の種類は [c3]《鮒》《提灯》《椎の葉》
-《太鼓》《葦の穂》[c0]の ５つなんですけど……","お札の種類は [c3]《鮒》《提灯》《椎の葉》
-《太鼓》《葦の穂》[c0]の ５つなんですけど……","c1_050_0358","False","","",""
+《太鼓》《芦の穂》[c0]の ５つなんですけど……","お札の種類は [c3]《鮒》《提灯》《椎の葉》
+《太鼓》《芦の穂》[c0]の ５つなんですけど……","c1_050_0358","False","","",""
 "Hazy_Script.txt:8710","５つの札を 正しい順番で……か。","５つの札を 正しい順番で……か。","c1_050_0359","False","","",""
 "Hazy_Script.txt:8711","これ……もし 間違えたら……
 ドカンといくやつ？","これ……もし 間違えたら……
@@ -19435,8 +19445,8 @@
 "Hazy_Script.txt:8882","……ん？ あれ？","……ん？ あれ？","d1_010_0018","False","","",""
 "Hazy_Script.txt:8883","……あ。起きた。","……あ。起きた。","d1_010_0019","False","","",""
 "Hazy_Script.txt:8884","あれ……？ 朝？
-えっと 私……。","あれ……？ 朝？
-えっと 私……。","d1_010_0020","False","","",""
+えっと わたし……。","あれ……？ 朝？
+えっと わたし……。","d1_010_0020","False","","",""
 "Hazy_Script.txt:8885","ダイジョブ？
 ……自分の名前 わかってる？","ダイジョブ？
 ……自分の名前 わかってる？","d1_010_0021","False","","",""
@@ -19476,8 +19486,8 @@
 逆崎約子です！","d1_010_0039","False","","",""
 "Hazy_Script.txt:8904","……よし。","……よし。","d1_010_0040","False","","",""
 "Hazy_Script.txt:8905","ああ……ミヲちゃん。そうだ
-ゆうべは ありがとう。大丈夫だった？","ああ……ミヲちゃん。そうだ
-ゆうべは ありがとう。大丈夫だった？","d1_010_0041","False","","",""
+昨夜は ありがとう。大丈夫だった？","ああ……ミヲちゃん。そうだ
+昨夜は ありがとう。大丈夫だった？","d1_010_0041","False","","",""
 "Hazy_Script.txt:8906","うん。生きてるよ。","うん。生きてるよ。","d1_010_0042","False","","",""
 "Hazy_Script.txt:8907","呪影を祓って 呪主を突き止めることは
 できなかったけど……どうにか 逃げ切った。","呪影を祓って 呪主を突き止めることは
@@ -19907,8 +19917,8 @@
 持ってるのが イタコさんとか 降霊術師だから。","ううん。降ろす霊に 波長を合わせる能力を
 持ってるのが イタコさんとか 降霊術師だから。","d1_010_0235","False","","",""
 "Hazy_Script.txt:9100","でも……テレビでやってるのは
-演出だけやつのも あるけどね……。","でも……テレビでやってるのは
-演出だけやつのも あるけどね……。","d1_010_0236","False","","",""
+演出だけのやつも あるけどね……。","でも……テレビでやってるのは
+演出だけのやつも あるけどね……。","d1_010_0236","False","","",""
 "Hazy_Script.txt:9101","なるほどな……。","なるほどな……。","d1_010_0237","False","","",""
 "Hazy_Script.txt:9102","実際……生前に 強い霊感を持っていた霊とか
 生前に 関係が深かった人の霊だとしても……","実際……生前に 強い霊感を持っていた霊とか
@@ -19953,8 +19963,8 @@
 "Hazy_Script.txt:9116","それについては 私もそうだから
 仕方ないところかな……。","それについては 私もそうだから
 仕方ないところかな……。","d1_010_0252","False","","",""
-"Hazy_Script.txt:9117","あ。でも……やっこちゃんも 割と 素質あるから
-信じて 訓練すれば きっと見えるようになるよ。","あ。でも……やっこちゃんも 割と 素質あるから
+"Hazy_Script.txt:9117","あ。でも……やっこちゃんも わりと素質あるから
+信じて 訓練すれば きっと見えるようになるよ。","あ。でも……やっこちゃんも わりと素質あるから
 信じて 訓練すれば きっと見えるようになるよ。","d1_010_0253","False","","",""
 "Hazy_Script.txt:9118","え……いや 遠慮しとく……。","え……いや 遠慮しとく……。","d1_010_0254","False","","",""
 "Hazy_Script.txt:9119","そういうのも ミヲちゃんの
@@ -20028,8 +20038,8 @@
 お節介な警官ってのが……","まず さっき少し話した
 お節介な警官ってのが……","d1_010_0282","False","","",""
 "Hazy_Script.txt:9147","数日前に 旧安田庭園で死んじまってた
-少年課の [c4]吉見[c0]ってヤツなんだけどさ。","数日前に 旧安田庭園で死んじまってた
-少年課の [c4]吉見[c0]ってヤツなんだけどさ。","d1_010_0283","False","","",""
+[c4]吉見[c0]ってヤツなんだけどさ。","数日前に 旧安田庭園で死んじまってた
+[c4]吉見[c0]ってヤツなんだけどさ。","d1_010_0283","False","","",""
 "Hazy_Script.txt:9148","全然 警察にゃ見えねえ 野蛮なヤローなんだが
 やたら面倒見がイイんで そいつとだけは なぜか話せて。","全然 警察にゃ見えねえ 野蛮なヤローなんだが
 やたら面倒見がイイんで そいつとだけは なぜか話せて。","d1_010_0284","False","","",""
@@ -20654,9 +20664,9 @@
 "Hazy_Script.txt:9409","あの……では 新石先生は《霊夜祭》という
 古い陰陽道の儀式は ご存知ありませんか？","あの……では 新石先生は《霊夜祭》という
 古い陰陽道の儀式は ご存知ありませんか？","d1_020_0056","False","","",""
-"Hazy_Script.txt:9410","？……なんだ それは。
-オカルトか？","？……なんだ それは。
-オカルトか？","d1_020_0057","False","","",""
+"Hazy_Script.txt:9410","な……なんのことだ……？
+どうせ オカルトだろ？","な……なんのことだ……？
+どうせ オカルトだろ？","d1_020_0057","False","","",""
 "Hazy_Script.txt:9411","黒鈴は 見た目通りに オカルトが大好きなようだが
 ……私は オカルトは専門外だ。","黒鈴は 見た目通りに オカルトが大好きなようだが
 ……私は オカルトは専門外だ。","d1_020_0058","False","","",""
@@ -20886,8 +20896,8 @@
 "Hazy_Script.txt:9513","それこそ……本所事変で死んだ [c3]９人の
 最期の瞬間[c0]の 出来事なのだ。","それこそ……本所事変で死んだ [c3]９人の
 最期の瞬間[c0]の 出来事なのだ。","d1_020_0160","False","","",""
-"Hazy_Script.txt:9514","だいたいが……恨みを抱えて
-死んでいくような内容だと思うが。","だいたいが……恨みを抱えて
+"Hazy_Script.txt:9514","だいたいが……怨みを抱えて
+死んでいくような内容だと思うが。","だいたいが……怨みを抱えて
 死んでいくような内容だと思うが。","d1_020_0161","False","","",""
 "Hazy_Script.txt:9515","犠牲になった９人が ９つの呪影となり
 ……やがて 七不思議として語られていった……。","犠牲になった９人が ９つの呪影となり
@@ -21594,8 +21604,8 @@
 "Hazy_Script.txt:9845","……どうだ？","……どうだ？","d1_030_0089","False","","",""
 "Hazy_Script.txt:9846","うん……。","うん……。","d1_030_0090","False","","",""
 "Hazy_Script.txt:9847","やっぱり……滓魂
-……少し 溜まってる……。","やっぱり……滓魂
-……少し 溜まってる……。","d1_030_0091","False","","",""
+……少し 貯まってる……。","やっぱり……滓魂
+……少し 貯まってる……。","d1_030_0091","False","","",""
 "Hazy_Script.txt:9848","えっ……!?","えっ……!?","d1_030_0092","False","","",""
 "Hazy_Script.txt:9849","どうして……？","どうして……？","d1_030_0093","False","","",""
 "Hazy_Script.txt:9850","わたし……何もしてないよ!?
@@ -22487,16 +22497,16 @@
 飛び降り自殺として処理された。","d1_030_0502","False","","",""
 "Hazy_Script.txt:10259","しかし……彼の心には 闇が残った。","しかし……彼の心には 闇が残った。","d1_030_0503","False","","",""
 "Hazy_Script.txt:10260","その日から 毎日……血まみれで 手足の折れた
-女学生が 恨みがましく彼の前に現れる夢を
+女学生が 怨みがましく彼の前に現れる夢を
 見るようになったのだ。","その日から 毎日……血まみれで 手足の折れた
-女学生が 恨みがましく彼の前に現れる夢を
+女学生が 怨みがましく彼の前に現れる夢を
 見るようになったのだ。","d1_030_0504","False","","",""
 "Hazy_Script.txt:10261","起きている間も……
 暗がりに 遺体の幻を見たり
-恨みがましい うめき声が聞こえたりして
+怨みがましい うめき声が聞こえたりして
 四六時中 自分を責め立てる……。","起きている間も……
 暗がりに 遺体の幻を見たり
-恨みがましい うめき声が聞こえたりして
+怨みがましい うめき声が聞こえたりして
 四六時中 自分を責め立てる……。","d1_030_0505","False","","",""
 "Hazy_Script.txt:10262","そんな幻聴 幻覚に悩まされ
 ほんの数日で ノイローゼになった。","そんな幻聴 幻覚に悩まされ
@@ -23964,9 +23974,9 @@
 "Hazy_Script.txt:10897","えっと……『置いてけ堀』が
 まったく わからなくて……","えっと……『置いてけ堀』が
 まったく わからなくて……","d1_050_0121","False","","",""
-"Hazy_Script.txt:10898","根島が持ってた『片葉の芦』も 誰かに
-持ち去られちゃったんですよね……。","根島が持ってた『片葉の芦』も 誰かに
-持ち去られちゃったんですよね……。","d1_050_0122","False","","",""
+"Hazy_Script.txt:10898","根島が持ってた『片葉の芦』も
+回収 できてないんですね……。","根島が持ってた『片葉の芦』も
+回収 できてないんですね……。","d1_050_0122","False","","",""
 "Hazy_Script.txt:10899","そうだな。……ったく。","そうだな。……ったく。","d1_050_0123","False","","",""
 "Hazy_Script.txt:10900","あと……『津軽の太鼓』も
 わからないのか……。","あと……『津軽の太鼓』も
@@ -24415,10 +24425,8 @@
 "Hazy_Script.txt:11112","そうだ……！
 アタシの名前は……[c4]蝶澤麻由[c0]だ！","そうだ……！
 アタシの名前は……[c4]蝶澤麻由[c0]だ！","e1_010_0090","False","","",""
-"Hazy_Script.txt:11113","<color=#ddd>Mysterious Woman","<color=#ddd>Mysterious Woman","e1_010_0091","False","","",""
-"Hazy_Script.txt:11114","<color=#ddd><cspace=-4px><font=""TELOP"">蝶澤麻由<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=7px>[x0.4]Mayu Chozawa","<color=#ddd><cspace=-4px><font=""TELOP"">蝶澤麻由<cspace=0px>
-<voffset=1.1em><font=""MAIN""><space=7px>[x0.4]Mayu Chozawa","e1_010_0092","False","","",""
+"Hazy_Script.txt:11113","<color=#ddd><cspace=-4px><font=""TELOP"">謎の美女","<color=#ddd><cspace=-4px><font=""TELOP"">謎の美女","e1_010_0091","False","","",""
+"Hazy_Script.txt:11114","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]蝶澤麻由","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]蝶澤麻由","e1_010_0092","False","","",""
 "Hazy_Script.txt:11115","アタシの名前は 蝶澤麻由で……","アタシの名前は 蝶澤麻由で……","e1_010_0093","False","","",""
 "Hazy_Script.txt:11116","そして……さっき 思い浮かんだ男……
 吉見肇の……婚約者だ。","そして……さっき 思い浮かんだ男……
@@ -24500,8 +24508,8 @@
 "Hazy_Script.txt:11145","<cspace=-6px><font=""TELOP"">許してくれ…","<cspace=-6px><font=""TELOP"">許してくれ…","e1_010_0123","False","","",""
 "Hazy_Script.txt:11146","<cspace=-6px><font=""TELOP"">出させぬ…","<cspace=-6px><font=""TELOP"">出させぬ…","e1_010_0124","False","","",""
 "Hazy_Script.txt:11147","うぅッ……！","うぅッ……！","e1_010_0125","False","","",""
-"Hazy_Script.txt:11148","<i>どこか 悔やましげな……[c4]怨みの記憶[c0]が
-頭に入り込んでくる……！","<i>どこか 悔やましげな……[c4]怨みの記憶[c0]が
+"Hazy_Script.txt:11148","<i>どこか 悔しげな……[c4]怨みの記憶[c0]が
+頭に入り込んでくる……！","<i>どこか 悔しげな……[c4]怨みの記憶[c0]が
 頭に入り込んでくる……！","e1_010_0126","False","","",""
 "Hazy_Script.txt:11149","<cspace=-6px><font=""TELOP"">悪意ある","<cspace=-6px><font=""TELOP"">悪意ある","e1_010_0127","False","","",""
 "Hazy_Script.txt:11150","<cspace=-6px><font=""TELOP"">呪いの主を","<cspace=-6px><font=""TELOP"">呪いの主を","e1_010_0128","False","","",""
@@ -24592,8 +24600,8 @@
 少しでも……会話から 情報を……！","e1_010_0167","False","","",""
 "Hazy_Script.txt:11190","<i>[s0][a0.5][x0.8][c3]弓岡の頭部を注視[c0]して 話を聞き出そう","<i>[s0][a0.5][x0.8][c3]弓岡の頭部を注視[c0]して 話を聞き出そう","e1_010_0168","False","","",""
 "Hazy_Script.txt:11191","[a0.5]「……はい。……の 隠し場所は
-　知らないそうです……。」","[a0.5]「……はい。……の 隠し場所は
-　知らないそうです……。」","e1_010_0169","False","","",""
+　知らないそうです……」","[a0.5]「……はい。……の 隠し場所は
+　知らないそうです……」","e1_010_0169","False","","",""
 "Hazy_Script.txt:11192","[a0.5]「吉見肇も……はい……
 　予定外でしたが どうにか……」","[a0.5]「吉見肇も……はい……
 　予定外でしたが どうにか……」","e1_010_0170","False","","",""
@@ -25464,7 +25472,7 @@
 "Hazy_Script.txt:11539","洗剤","洗剤","e1_010_0517","False","","",""
 "Hazy_Script.txt:11540","ペン","ペン","e1_010_0518","False","","",""
 "Hazy_Script.txt:11541","除光液","除光液","e1_010_0519","False","","",""
-"Hazy_Script.txt:11542","呪詛珠","呪詛珠","e1_010_0520","False","","",""
+"Hazy_Script.txt:11542","呪詛玉","呪詛玉","e1_010_0520","False","","",""
 "Hazy_Script.txt:11543","洗剤に浸したモップだ。長い柄を備えているから
 手を汚さずに 離れたところまで綺麗にできるだろう。","洗剤に浸したモップだ。長い柄を備えているから
 手を汚さずに 離れたところまで綺麗にできるだろう。","e1_010_0521","False","","",""
@@ -25512,8 +25520,8 @@
 インクが混じって もう除光液としては使えないけど。","マニキュアを落とすために使う 除光液だ。
 インクが混じって もう除光液としては使えないけど。","e1_010_0538","False","","",""
 "Hazy_Script.txt:11561","『送り提灯』の呪詛珠だ。
-滓魂は 溜まってはいない。","『送り提灯』の呪詛珠だ。
-滓魂は 溜まってはいない。","e1_010_0539","False","","",""
+滓魂は 貯まってはいない。","『送り提灯』の呪詛珠だ。
+滓魂は 貯まってはいない。","e1_010_0539","False","","",""
 "Hazy_Script.txt:11562","どうであれ……こんな呪いを アテにするのは
 間違ってる。使う気はない。","どうであれ……こんな呪いを アテにするのは
 間違ってる。使う気はない。","e1_010_0540","False","","",""
@@ -25573,8 +25581,8 @@
 "Hazy_Script.txt:11592","雑誌","雑誌","e1_010_0570","False","","",""
 "Hazy_Script.txt:11593","週刊誌","週刊誌","e1_010_0571","False","","",""
 "Hazy_Script.txt:11594","[x2][sruby50]興家 彰吾[c0]","[x2][sruby50]興家 彰吾[c0]","CHR01_ST_0001","False","","",""
-"Hazy_Script.txt:11595","[c4]年齢　[c0]25歳
-[c4]職業　[c0]会社員[c0]","[c4]年齢　[c0]25歳
+"Hazy_Script.txt:11595","[c4]性別　[c0]男
+[c4]職業　[c0]会社員[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]会社員[c0]","CHR01_ST_0002","False","","",""
 "Hazy_Script.txt:11596","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR01_ST_0003","False","","",""
 "Hazy_Script.txt:11597","[c4]呪影　[c0]置いてけ堀[c0]","[c4]呪影　[c0]置いてけ堀[c0]","CHR01_ST_0004","False","","",""
@@ -25602,8 +25610,8 @@
 結婚して 定年まで働くであろう人生に 疑問を持っていない。
 趣味はフォークギター。恋人募集中。","CHR01_ST_0005","False","","",""
 "Hazy_Script.txt:11599","[x2][sruby50]福永 葉子[c0]","[x2][sruby50]福永 葉子[c0]","CHR02_ST_0001","False","","",""
-"Hazy_Script.txt:11600","[c4]年齢　[c0]23歳
-[c4]職業　[c0]家事手伝い[c0]","[c4]年齢　[c0]23歳
+"Hazy_Script.txt:11600","[c4]性別　[c0]女
+[c4]職業　[c0]家事手伝い[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]家事手伝い[c0]","CHR02_ST_0002","False","","",""
 "Hazy_Script.txt:11601","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR02_ST_0003","False","","",""
 "Hazy_Script.txt:11602","短大卒業後 自宅で家事手伝いをしている女性。
@@ -25650,8 +25658,8 @@
 調査の末 [c4]吉見肇[c0]が晴曼の末裔であることを発見し 呪いで脅して『陰の書』の所在について口を割らせようとするも 彼の強い意志により失敗。晴曼の末裔であるため そのまま念のため呪殺した。
 いよいよ霊夜祭を実施するにあたり 呪詛珠を集めるには呪主である必要があるため 葉子自身も 害の少なそうな『置いてけ堀』の呪詛珠を入手。同じく晴曼の末裔である興家彰吾も危険因子として 事前にコンタクトを取って近くに置き 監視をしていたが 呪いが呼び起こされると同時に 興家の中に晴曼の精神が目覚める仕掛けのことは知らず 現れた晴曼によって即座に呪い殺されることとなり 彼女の計画は未然に阻止された。","CHR02_ST_0006","False","","",""
 "Hazy_Script.txt:11605","[x2][sruby50]志岐間 春恵[c0]","[x2][sruby50]志岐間 春恵[c0]","CHR03_ST_0001","False","","",""
-"Hazy_Script.txt:11606","[c4]年齢　[c0]36歳
-[c4]職業　[c0]主婦[c0]","[c4]年齢　[c0]36歳
+"Hazy_Script.txt:11606","[c4]性別　[c0]女
+[c4]職業　[c0]主婦[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]主婦[c0]","CHR03_ST_0002","False","","",""
 "Hazy_Script.txt:11607","[c4]呪影　[c0]送り拍子木[c0]","[c4]呪影　[c0]送り拍子木[c0]","CHR03_ST_0003","False","","",""
 "Hazy_Script.txt:11608","撞木橋近くの屋敷に住む主婦。
@@ -25697,8 +25705,8 @@
 現在は広い屋敷に ほぼひとり暮らし。家事は 長年勤めている
 通いの家政婦が行っているため 暇を持て余している有閑マダム。","CHR03_ST_0005","False","","",""
 "Hazy_Script.txt:11610","[x2][sruby50]櫂 利飛太[c0]","[x2][sruby50]櫂 利飛太[c0]","CHR04_ST_0001","False","","",""
-"Hazy_Script.txt:11611","[c4]年齢　[c0]28歳
-[c4]職業　[c0]私立探偵[c0]","[c4]年齢　[c0]28歳
+"Hazy_Script.txt:11611","[c4]性別　[c0]男
+[c4]職業　[c0]私立探偵[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]私立探偵[c0]","CHR04_ST_0002","False","","",""
 "Hazy_Script.txt:11612","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR04_ST_0003","False","","",""
 "Hazy_Script.txt:11613","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR04_ST_0004","False","","",""
@@ -25748,8 +25756,8 @@
 彼の身の回りの世話や 事務所の留守（おもにインコの世話）を
 すすんで行ってくれていることには いつも感謝している。","CHR04_ST_0007","False","","",""
 "Hazy_Script.txt:11617","[x2][sruby50]津詰 徹生[c0]","[x2][sruby50]津詰 徹生[c0]","CHR05_ST_0001","False","","",""
-"Hazy_Script.txt:11618","[c4]年齢　[c0]50歳
-[c4]職業　[c0]警部[c0]","[c4]年齢　[c0]50歳
+"Hazy_Script.txt:11618","[c4]性別　[c0]男
+[c4]職業　[c0]警部[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]警部[c0]","CHR05_ST_0002","False","","",""
 "Hazy_Script.txt:11619","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR05_ST_0003","False","","",""
 "Hazy_Script.txt:11620","[c4]呪影　[c0]落葉なき椎[c0]","[c4]呪影　[c0]落葉なき椎[c0]","CHR05_ST_0004","False","","",""
@@ -25787,8 +25795,8 @@
 また ひとり娘との話題の種を持つために流行りものにも意外と
 詳しいが これも捜査に必要な情報収集だとごまかしている。","CHR05_ST_0007","False","","",""
 "Hazy_Script.txt:11624","[x2][sruby50]襟尾 純[c0]","[x2][sruby50]襟尾 純[c0]","CHR06_ST_0001","False","","",""
-"Hazy_Script.txt:11625","[c4]年齢　[c0]28歳
-[c4]職業　[c0]刑事[c0]","[c4]年齢　[c0]28歳
+"Hazy_Script.txt:11625","[c4]性別　[c0]男
+[c4]職業　[c0]刑事[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]刑事[c0]","CHR06_ST_0002","False","","",""
 "Hazy_Script.txt:11626","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR06_ST_0003","False","","",""
 "Hazy_Script.txt:11627","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR06_ST_0004","False","","",""
@@ -25834,8 +25842,8 @@
 資料室に独りで籠り 過去の犯罪資料を読み耽っていた利飛太を
 当時ブームだったボウリングに誘ったのが 知り合うきっかけ。","CHR06_ST_0007","False","","",""
 "Hazy_Script.txt:11631","[x2][sruby50]吉見 肇[c0]","[x2][sruby50]吉見 肇[c0]","CHR07_ST_0001","False","","",""
-"Hazy_Script.txt:11632","[c4]年齢　[c0]27歳（死亡時）
-[c4]職業　[c0]生活安全課警察官[c0]","[c4]年齢　[c0]27歳（死亡時）
+"Hazy_Script.txt:11632","[c4]性別　[c0]男
+[c4]職業　[c0]生活安全課警察官[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]生活安全課警察官[c0]","CHR07_ST_0002","False","","",""
 "Hazy_Script.txt:11633","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR07_ST_0003","False","","",""
 "Hazy_Script.txt:11634","墨田署の生活安全課で おもに少年事件 少年育成の事案を
@@ -25865,8 +25873,8 @@
 提出した始末書の数も多く 出世は絶望的と言われている。
 学生時代から付き合っている婚約者がいる。","CHR07_ST_0005","False","","",""
 "Hazy_Script.txt:11636","[x2][sruby50]黒鈴 ミヲ[c0]","[x2][sruby50]黒鈴 ミヲ[c0]","CHR08_ST_0001","False","","",""
-"Hazy_Script.txt:11637","[c4]年齢　[c0]17歳
-[c4]職業　[c0]高校生[c0]","[c4]年齢　[c0]17歳
+"Hazy_Script.txt:11637","[c4]性別　[c0]女
+[c4]職業　[c0]高校生[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]高校生[c0]","CHR08_ST_0002","False","","",""
 "Hazy_Script.txt:11638","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR08_ST_0003","False","","",""
 "Hazy_Script.txt:11639","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR08_ST_0004","False","","",""
@@ -25907,8 +25915,8 @@
 何かバレているのではないかと 内心あたふたしている。
 よく言われる第一位は「カラスや黒猫と仲良さそう」。","CHR08_ST_0006","False","","",""
 "Hazy_Script.txt:11642","[x2][sruby50]逆崎 約子[c0]","[x2][sruby50]逆崎 約子[c0]","CHR09_ST_0001","False","","",""
-"Hazy_Script.txt:11643","[c4]年齢　[c0]17歳
-[c4]職業　[c0]高校生[c0]","[c4]年齢　[c0]17歳
+"Hazy_Script.txt:11643","[c4]性別　[c0]女
+[c4]職業　[c0]高校生[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]高校生[c0]","CHR09_ST_0002","False","","",""
 "Hazy_Script.txt:11644","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR09_ST_0003","False","","",""
 "Hazy_Script.txt:11645","[c4]呪影　[c0]馬鹿囃子（放棄済み）[c0]","[c4]呪影　[c0]馬鹿囃子（放棄済み）[c0]","CHR09_ST_0004","False","","",""
@@ -25951,8 +25959,8 @@
 幼い頃から 生意気な男子と喧嘩しては勝ち続けてきたという
 そのたくましい腕っ節に 彼女の母親は 今日も嘆きを隠せない。","CHR09_ST_0008","False","","",""
 "Hazy_Script.txt:11650","[x2][sruby50]白石 美智代[c0]","[x2][sruby50]白石 美智代[c0]","CHR10_ST_0001","False","","",""
-"Hazy_Script.txt:11651","[c4]年齢　[c0]17歳（死亡時）
-[c4]職業　[c0]高校生[c0]","[c4]年齢　[c0]17歳（死亡時）
+"Hazy_Script.txt:11651","[c4]性別　[c0]女
+[c4]職業　[c0]高校生[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]高校生[c0]","CHR10_ST_0002","False","","",""
 "Hazy_Script.txt:11652","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR10_ST_0003","False","","",""
 "Hazy_Script.txt:11653","都立駒形高校の２年生だった少女。
@@ -26007,8 +26015,8 @@
 すべてを打ち明けることはできないまま 月日が過ぎていた。
 父親の形見である古いお守りを 常に持ち歩いている。","CHR10_ST_0006","False","","",""
 "Hazy_Script.txt:11656","[x2][sruby50]奥田 瞳[c0]","[x2][sruby50]奥田 瞳[c0]","CHR11_ST_0001","False","","",""
-"Hazy_Script.txt:11657","[c4]年齢　[c0]17歳
-[c4]職業　[c0]高校生[c0]","[c4]年齢　[c0]17歳
+"Hazy_Script.txt:11657","[c4]性別　[c0]女
+[c4]職業　[c0]高校生[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]高校生[c0]","CHR11_ST_0002","False","","",""
 "Hazy_Script.txt:11658","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR11_ST_0003","False","","",""
 "Hazy_Script.txt:11659","駒形高校２年Ａ組に在籍しているが 登校は稀な不良生徒。
@@ -26042,8 +26050,8 @@
 取り巻きたちの中心にいるので 駒形高校のスケバンなどと
 言われているが 本人に自覚はなく どうでもいいと思っている。","CHR11_ST_0005","False","","",""
 "Hazy_Script.txt:11661","[x2][sruby50]城之内 耕兵[c0]","[x2][sruby50]城之内 耕兵[c0]","CHR12_ST_0001","False","","",""
-"Hazy_Script.txt:11662","[c4]年齢　[c0]32歳
-[c4]職業　[c0]高校教師[c0]","[c4]年齢　[c0]32歳
+"Hazy_Script.txt:11662","[c4]性別　[c0]男
+[c4]職業　[c0]高校教師[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]高校教師[c0]","CHR12_ST_0002","False","","",""
 "Hazy_Script.txt:11663","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR12_ST_0003","False","","",""
 "Hazy_Script.txt:11664","駒形高校の英語教師。２年Ｃ組の担任も務める。
@@ -26070,8 +26078,8 @@
 教師という職業も目指していたものではなく 唯一の取り柄を
 活かせるというだけで 生徒のことは完全に見下している。","CHR12_ST_0006","False","","",""
 "Hazy_Script.txt:11667","[x2][sruby50]葦宮 誠[c0]","[x2][sruby50]葦宮 誠[c0]","CHR13_ST_0001","False","","",""
-"Hazy_Script.txt:11668","[c4]年齢　[c0]56歳
-[c4]職業　[c0]高校職員[c0]","[c4]年齢　[c0]56歳
+"Hazy_Script.txt:11668","[c4]性別　[c0]男
+[c4]職業　[c0]高校職員[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]高校職員[c0]","CHR13_ST_0002","False","","",""
 "Hazy_Script.txt:11669","[c4]呪影　[c0]片葉の芦[c0]","[c4]呪影　[c0]片葉の芦[c0]","CHR13_ST_0003","False","","",""
 "Hazy_Script.txt:11670","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR13_ST_0004","False","","",""
@@ -26099,8 +26107,8 @@
 様々なウワサや憶測が 生徒たちの中で囁かれるようになった。
 いずれ駒形高校の七不思議として 語り継がれることになろう。","CHR13_ST_0007","False","","",""
 "Hazy_Script.txt:11674","[x2][sruby50]蝶澤 麻由[c0]","[x2][sruby50]蝶澤 麻由[c0]","CHR14_ST_0001","False","","",""
-"Hazy_Script.txt:11675","[c4]年齢　[c0]27歳
-[c4]職業　[c0]美容師[c0]","[c4]年齢　[c0]27歳
+"Hazy_Script.txt:11675","[c4]性別　[c0]女
+[c4]職業　[c0]美容師[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]美容師[c0]","CHR14_ST_0002","False","","",""
 "Hazy_Script.txt:11676","[c4]呪影　[c0]送り提灯[c0]","[c4]呪影　[c0]送り提灯[c0]","CHR14_ST_0003","False","","",""
 "Hazy_Script.txt:11677","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR14_ST_0004","False","","",""
@@ -26142,8 +26150,8 @@
 現在 行方が わからなくなっている。","
 現在 行方が わからなくなっている。","CHR14_ST_0007","False","","",""
 "Hazy_Script.txt:11681","[x2][sruby50]並垣 祐太郎[c0]","[x2][sruby50]並垣 祐太郎[c0]","CHR15_ST_0001","False","","",""
-"Hazy_Script.txt:11682","[c4]年齢　[c0]21歳
-[c4]職業　[c0]大学生[c0]","[c4]年齢　[c0]21歳
+"Hazy_Script.txt:11682","[c4]性別　[c0]男
+[c4]職業　[c0]大学生[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]大学生[c0]","CHR15_ST_0002","False","","",""
 "Hazy_Script.txt:11683","[c4]呪影　[c0]足洗い屋敷[c0]","[c4]呪影　[c0]足洗い屋敷[c0]","CHR15_ST_0003","False","","",""
 "Hazy_Script.txt:11684","[c4]呪影　[c0]足洗い屋敷（放棄済み）[c0]","[c4]呪影　[c0]足洗い屋敷（放棄済み）[c0]","CHR15_ST_0004","False","","",""
@@ -26169,8 +26177,8 @@
 そんな彼に 唯一優しく接してくれたのは 実家のお手伝いさんで
 昔一緒に食べた 賄いのバターご飯の味が 忘れられないらしい。","CHR15_ST_0007","False","","",""
 "Hazy_Script.txt:11688","[x2][sruby50]灯野 あやめ[c0]","[x2][sruby50]灯野 あやめ[c0]","CHR16_ST_0001","False","","",""
-"Hazy_Script.txt:11689","[c4]年齢　[c0]20歳
-[c4]職業　[c0]大学生[c0]","[c4]年齢　[c0]20歳
+"Hazy_Script.txt:11689","[c4]性別　[c0]女
+[c4]職業　[c0]大学生[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]大学生[c0]","CHR16_ST_0002","False","","",""
 "Hazy_Script.txt:11690","[c4]呪影　[c0]津軽の太鼓[c0]","[c4]呪影　[c0]津軽の太鼓[c0]","CHR16_ST_0003","False","","",""
 "Hazy_Script.txt:11691","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR16_ST_0004","False","","",""
@@ -26205,8 +26213,8 @@
 なかったが 実家が金持ちそうなので 誘いに応じている。しかし
 人間的にはそこまで尊敬できなかったため 飽き始めている。","CHR16_ST_0006","False","","",""
 "Hazy_Script.txt:11694","[x2][sruby50]新石 英樹[c0]","[x2][sruby50]新石 英樹[c0]","CHR17_ST_0001","False","","",""
-"Hazy_Script.txt:11695","[c4]年齢　[c0]40歳
-[c4]職業　[c0]郷土史研究家[c0]","[c4]年齢　[c0]40歳
+"Hazy_Script.txt:11695","[c4]性別　[c0]男
+[c4]職業　[c0]郷土史研究家[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]郷土史研究家[c0]","CHR17_ST_0002","False","","",""
 "Hazy_Script.txt:11696","[c4]呪影　[c0]消えずの行灯（放棄済み）[c0]","[c4]呪影　[c0]消えずの行灯（放棄済み）[c0]","CHR17_ST_0003","False","","",""
 "Hazy_Script.txt:11697","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR17_ST_0004","False","","",""
@@ -26248,8 +26256,8 @@
 そこで論文や原稿を執筆している姿が目撃される。
 著書に『未知への研究』『坂東史的入門』がある。","CHR17_ST_0007","False","","",""
 "Hazy_Script.txt:11701","[x2][sruby50]山森 ナツヱ[c0]","[x2][sruby50]山森 ナツヱ[c0]","CHR18_ST_0001","False","","",""
-"Hazy_Script.txt:11702","[c4]年齢　[c0]70歳
-[c4]職業　[c0]会社会長[c0]","[c4]年齢　[c0]70歳
+"Hazy_Script.txt:11702","[c4]性別　[c0]女
+[c4]職業　[c0]会社会長[c0]","[c4]性別　[c0]女
 [c4]職業　[c0]会社会長[c0]","CHR18_ST_0002","False","","",""
 "Hazy_Script.txt:11703","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR18_ST_0003","False","","",""
 "Hazy_Script.txt:11704","大手化学薬品会社《ヒハク石鹸》の元社長。２年前に現役引退し
@@ -26287,11 +26295,11 @@
 国民的人気歌手をいち早くＣＭに起用したりするなど 辣腕を
 振るい ヒハク石鹸を あっという間に一大ブランドにのし上げた。","CHR18_ST_0005","False","","",""
 "Hazy_Script.txt:11706","[x2][sruby50]弓岡 巧己[c0]","[x2][sruby50]弓岡 巧己[c0]","CHR19_ST_0001","False","","",""
-"Hazy_Script.txt:11707","[c4]年齢　[c0]35歳
-[c4]職業　[c0]ヒハク社の会長秘書[c0]","[c4]年齢　[c0]35歳
+"Hazy_Script.txt:11707","[c4]性別　[c0]男
+[c4]職業　[c0]ヒハク社の会長秘書[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]ヒハク社の会長秘書[c0]","CHR19_ST_0002","False","","",""
-"Hazy_Script.txt:11708","[c4]年齢　[c0]？？
-[c4]職業　[c0]？？？[c0]","[c4]年齢　[c0]？？
+"Hazy_Script.txt:11708","[c4]性別　[c0]男
+[c4]職業　[c0]？？？[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]？？？[c0]","CHR19_ST_0003","False","","",""
 "Hazy_Script.txt:11709","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR19_ST_0004","False","","",""
 "Hazy_Script.txt:11710","錦糸堀公園で 興家たちの様子を窺っていた男。","錦糸堀公園で 興家たちの様子を窺っていた男。","CHR19_ST_0005","False","","",""
@@ -26317,8 +26325,8 @@
 本社の従業員はもちろんのこと 工場や倉庫の臨時従業員や
 主要取引先まで 関係者の顔と名前は すべて把握している。","CHR19_ST_0006","False","","",""
 "Hazy_Script.txt:11712","[x2][sruby50]岩井 官吉郎[c0]","[x2][sruby50]岩井 官吉郎[c0]","CHR20_ST_0001","False","","",""
-"Hazy_Script.txt:11713","[c4]年齢　[c0]50歳
-[c4]職業　[c0]無職[c0]","[c4]年齢　[c0]50歳
+"Hazy_Script.txt:11713","[c4]性別　[c0]男
+[c4]職業　[c0]無職[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]無職[c0]","CHR20_ST_0002","False","","",""
 "Hazy_Script.txt:11714","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR20_ST_0003","False","","",""
 "Hazy_Script.txt:11715","[c4]白石美智代[c0]の母親・[c4]白石稔子[c0]の内縁の夫。
@@ -26351,8 +26359,8 @@
 美智代には 殺害は稔子がやったから誰にも言うなと念を押し 少年の遺体を 近くの川に投棄させた。少年の小さな亡骸は 本所を巡るいくつかの運河を渡って １週間後に隅田川で発見された。汚染された川を何日も漂っていたことで 証拠はほとんど残らなかった。
 それ以後 白石母娘は 罪を負った懺悔を 誰にも言えずに抱えて過ごすことになる。岩井は 生け贄こそ行わなくなったが魔術への傾倒は強まるばかりで 白石母娘は 金と暴力によってその協力を強いられる日々を 続けることとなった。","CHR20_ST_0006","False","","",""
 "Hazy_Script.txt:11718","[x2][sruby50]志岐間 修一[c0]","[x2][sruby50]志岐間 修一[c0]","CHR21_ST_0001","False","","",""
-"Hazy_Script.txt:11719","[c4]年齢　[c0]11歳（死亡時）
-[c4]職業　[c0]小学生[c0]","[c4]年齢　[c0]11歳（死亡時）
+"Hazy_Script.txt:11719","[c4]性別　[c0]男
+[c4]職業　[c0]小学生[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]小学生[c0]","CHR21_ST_0002","False","","",""
 "Hazy_Script.txt:11720","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR21_ST_0003","False","","",""
 "Hazy_Script.txt:11721","志岐間春恵のひとり息子。１年前に 誘拐されたのち
@@ -26360,9 +26368,9 @@
 殺害され 隅田川に放置された遺体が発見された。","CHR21_ST_0004","False","","",""
 "Hazy_Script.txt:11722","
 未解決事件となっていたが《本所連続怪死事件》の中で
-岩井 官吉郎が犯人であったことが判明した。","
+[c4]岩井官吉郎[c0]が犯人であったことが判明した。","
 未解決事件となっていたが《本所連続怪死事件》の中で
-岩井 官吉郎が犯人であったことが判明した。","CHR21_ST_0005","False","","",""
+[c4]岩井官吉郎[c0]が犯人であったことが判明した。","CHR21_ST_0005","False","","",""
 "Hazy_Script.txt:11723","
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 素直で正義感が強く「お母さんは僕が守るよ」と胸を叩く様子は
@@ -26383,8 +26391,8 @@
 なめどりが好きで 同級生たちと一緒にシール探しをしてみたいと
 ずっと思っていたことも 最期まで言い出せずにいた。","CHR21_ST_0006","False","","",""
 "Hazy_Script.txt:11724","[x2][sruby50]根島 史周[c0]","[x2][sruby50]根島 史周[c0]","CHR22_ST_0001","False","","",""
-"Hazy_Script.txt:11725","[c4]年齢　[c0]35歳（逮捕当時）
-[c4]職業　[c0]自営業[c0]","[c4]年齢　[c0]35歳（逮捕当時）
+"Hazy_Script.txt:11725","[c4]性別　[c0]男
+[c4]職業　[c0]自営業[c0]","[c4]性別　[c0]男
 [c4]職業　[c0]自営業[c0]","CHR22_ST_0002","False","","",""
 "Hazy_Script.txt:11726","[c4]呪影　[c0]なし[c0]","[c4]呪影　[c0]なし[c0]","CHR22_ST_0003","False","","",""
 "Hazy_Script.txt:11727","20年以上前に 《根島事件》と呼ばれる虐殺事件を起こして
@@ -26418,8 +26426,8 @@
 工程にためらいがあったのがいけなかったのだと思い もう一度 できるだけ手早くやってみた。でもやはりだめだった。同じように 合計で４回行った。いずれも使い終わった遺体は さらに細かく解体して 汚染された隅田川に棄てたが それで見つかることはなかった。しかし４回目の儀式でも特に効果が現れず 失意のまま後片付けをしているとき……かたわらにいる 痩せ細った赤ん坊に気がついた。そして根島は ひとこと つぶやいた。
 「お前が 篠なのか？」と……。","CHR22_ST_0005","False","","",""
 "Hazy_Script.txt:11729","[x2][sruby50]案内人[c0]","[x2][sruby50]案内人[c0]","CHR30_ST_0001","False","","",""
-"Hazy_Script.txt:11730","[c4]年齢　[c0]？？
-[c4]職業　[c0]？？？[c0]","[c4]年齢　[c0]？？
+"Hazy_Script.txt:11730","[c4]性別　[c0]？
+[c4]職業　[c0]？？？[c0]","[c4]性別　[c0]？
 [c4]職業　[c0]？？？[c0]","CHR30_ST_0002","False","","",""
 "Hazy_Script.txt:11731","[c4]呪影　[c0]？？？[c0]","[c4]呪影　[c0]？？？[c0]","CHR30_ST_0003","False","","",""
 "Hazy_Script.txt:11732","パラノマサイトを導く案内人。
@@ -26782,14 +26790,14 @@
 導くように浮かび上がるのだという。
 この現象は 灯りを持たない者を 行き先へ案内してくれている ありがたいもので
 あるとする説や ついていった者を道に
-迷わせる怪異とする説 あるいは恨みをもって死んだ者が 迷い人を あの世へ導くものであるとする説などがある。","
+迷わせる怪異とする説 あるいは怨みをもって死んだ者が 迷い人を あの世へ導くものであるとする説などがある。","
 [c3]法恩寺[c0]近くの暗い夜道を歩いていると
 少し先に 人もないのに提灯の灯りが
 ぼうっと浮かぶ。誘われるまま その灯りに近寄ると ふっと消え 真っ暗闇になったと思ったら さらに少し先に 同じ灯りが
 導くように浮かび上がるのだという。
 この現象は 灯りを持たない者を 行き先へ案内してくれている ありがたいもので
 あるとする説や ついていった者を道に
-迷わせる怪異とする説 あるいは恨みをもって死んだ者が 迷い人を あの世へ導くものであるとする説などがある。","DOC07_ST_0004","False","","",""
+迷わせる怪異とする説 あるいは怨みをもって死んだ者が 迷い人を あの世へ導くものであるとする説などがある。","DOC07_ST_0004","False","","",""
 "Hazy_Script.txt:11778","[c4]■ 呪詛珠と呪いの力[c0]
 <indent=200>呪主となった者を 当人の持つ呪いの死に方によって
 死亡させる。</indent>","[c4]■ 呪詛珠と呪いの力[c0]
@@ -27106,7 +27114,7 @@
 ","DOC12_ST_0008","False","","",""
 "Hazy_Script.txt:11824","お駒は気立ての良い女だった。ちょいと肝っ玉が据わっているが
 よく働き つましくも幸せな暮らしが続いていた。
-……夫が 首を括るまでは。
+……夫が 首を縊るまでは。
 人々を誑かしただって？ 誰が信じるもんか。
 お駒は夫の濡れ衣を晴らすと腹を決めた。そんな折に すり寄って
 きたのが留蔵であった。ここいらでは見たことのない男だ。
@@ -27121,7 +27129,7 @@
 後の祭り。
 血の海に転がるは 片手片足を斬り落とされた 女の骸……。","お駒は気立ての良い女だった。ちょいと肝っ玉が据わっているが
 よく働き つましくも幸せな暮らしが続いていた。
-……夫が 首を括るまでは。
+……夫が 首を縊るまでは。
 人々を誑かしただって？ 誰が信じるもんか。
 お駒は夫の濡れ衣を晴らすと腹を決めた。そんな折に すり寄って
 きたのが留蔵であった。ここいらでは見たことのない男だ。
@@ -27171,7 +27179,7 @@
 怒りに任せて女を斬り捨てたのが不味かった。
 無礼討ちも認められず 臍を噛んだが もう遅い。だが 納得できぬ。
 今にして お上に利用されていたという怒りが沸々と湧き上がる。
-この恨み 忘れるものか。傍らでは 行灯が静かに瞬いていた[y1]<cspace=1px>──<cspace=-1px>[y1]
+この怨み 忘れるものか。傍らでは 行灯が静かに瞬いていた[y1]<cspace=1px>──<cspace=-1px>[y1]
 鐘が六つを打つ頃 男は腹を切った。だが それ以来である。
 まだ屋台が開く前から 行灯が燈っている……。
 風もないのに 行灯が忽然と消えては ゆらゆらと瞬く……。
@@ -27185,7 +27193,7 @@
 怒りに任せて女を斬り捨てたのが不味かった。
 無礼討ちも認められず 臍を噛んだが もう遅い。だが 納得できぬ。
 今にして お上に利用されていたという怒りが沸々と湧き上がる。
-この恨み 忘れるものか。傍らでは 行灯が静かに瞬いていた[y1]<cspace=1px>──<cspace=-1px>[y1]
+この怨み 忘れるものか。傍らでは 行灯が静かに瞬いていた[y1]<cspace=1px>──<cspace=-1px>[y1]
 鐘が六つを打つ頃 男は腹を切った。だが それ以来である。
 まだ屋台が開く前から 行灯が燈っている……。
 風もないのに 行灯が忽然と消えては ゆらゆらと瞬く……。
@@ -27225,7 +27233,7 @@
 コマが仕事に出ている間は トキがよく世話になっていた。
 幼いトキは 晴曼が語った《蘇りの秘術》の話を聞いてはいたが
 理解はしておらず 物語として千斎翁に教えてあげていた。
-千斎翁はその話に感化されて筆を取ると 一心不乱に
+千斎翁はその話に感化されて筆を執ると 一心不乱に
 一枚の浮世絵を描き上げる。蘇りを題材としたその絵の評判は
 たちまちに 町に広がった。商魂たくましい甚吉は その話に乗り
 浮世絵と関連する根付を作って 蘇りにまつわる小噺やら
@@ -27255,13 +27263,13 @@
 動きにくくなるとして 蘆乃が仕向けさせたことであった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 甚吉の件が広まると 秘術は妄言であったのかと人々は興を失う。
-しかし家老の工作を目撃していた[c4]踊り子[c0]が 触れ回ったことで
+しかし家老の工作を目撃していた[c4]踊子[c0]が 触れ回ったことで
 本所は騒然となる。家老は 噂を留めるために娘を捕え 取引を
 持ち掛けた。栄誉に目がくらみ 作り話であったと吹聴して回る娘。
 そうして こしらえてもらった舞台に立ったが 口封じのため
 膠の塗られたお面を付けられ まんまと殺されてしまった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
-コマは 夫の甚吉が首をくくるなど 端から信じていなかった。
+コマは 夫の甚吉が首を縊るなど 端から信じていなかった。
 誰かの仕業に違いないと 大名家に関係する者の 名前や住処などの
 詳しい情報をしつこく嗅ぎ回り ひとりひとりあたっていった。
 これ以上 事を荒立たせるわけにはいかぬと 家老は
@@ -27297,7 +27305,7 @@
 晴曼は 自身の探求心が悲劇を引き起こした責任を感じるとともに
 《蘇りの秘術》が なぜ禁忌の術として扱われていたのかを痛感し
 この術は封印せねばならないと決意する。
-蘇れるようにしておいたのも それを果たすためだった。
+蘇られるようにしておいたのも それを果たすためだった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 しかし 封じるべき『禄命簿』は すでに行方知れずとなっている。
 そこで 甚吉の作った根付９つに 残った滓魂を籠めて法具とし
@@ -27339,7 +27347,7 @@
 コマが仕事に出ている間は トキがよく世話になっていた。
 幼いトキは 晴曼が語った《蘇りの秘術》の話を聞いてはいたが
 理解はしておらず 物語として千斎翁に教えてあげていた。
-千斎翁はその話に感化されて筆を取ると 一心不乱に
+千斎翁はその話に感化されて筆を執ると 一心不乱に
 一枚の浮世絵を描き上げる。蘇りを題材としたその絵の評判は
 たちまちに 町に広がった。商魂たくましい甚吉は その話に乗り
 浮世絵と関連する根付を作って 蘇りにまつわる小噺やら
@@ -27369,13 +27377,13 @@
 動きにくくなるとして 蘆乃が仕向けさせたことであった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 甚吉の件が広まると 秘術は妄言であったのかと人々は興を失う。
-しかし家老の工作を目撃していた[c4]踊り子[c0]が 触れ回ったことで
+しかし家老の工作を目撃していた[c4]踊子[c0]が 触れ回ったことで
 本所は騒然となる。家老は 噂を留めるために娘を捕え 取引を
 持ち掛けた。栄誉に目がくらみ 作り話であったと吹聴して回る娘。
 そうして こしらえてもらった舞台に立ったが 口封じのため
 膠の塗られたお面を付けられ まんまと殺されてしまった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
-コマは 夫の甚吉が首をくくるなど 端から信じていなかった。
+コマは 夫の甚吉が首を縊るなど 端から信じていなかった。
 誰かの仕業に違いないと 大名家に関係する者の 名前や住処などの
 詳しい情報をしつこく嗅ぎ回り ひとりひとりあたっていった。
 これ以上 事を荒立たせるわけにはいかぬと 家老は
@@ -27411,7 +27419,7 @@
 晴曼は 自身の探求心が悲劇を引き起こした責任を感じるとともに
 《蘇りの秘術》が なぜ禁忌の術として扱われていたのかを痛感し
 この術は封印せねばならないと決意する。
-蘇れるようにしておいたのも それを果たすためだった。
+蘇られるようにしておいたのも それを果たすためだった。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 しかし 封じるべき『禄命簿』は すでに行方知れずとなっている。
 そこで 甚吉の作った根付９つに 残った滓魂を籠めて法具とし
@@ -27522,7 +27530,7 @@
 《蘇りの秘術》は この滓魂を贄として反魂を成す術であるが
 それに必要な量は 蘇生させたい者が いつ死んだかによって変わり
 より遠い過去に死んだ者ほど 多くの滓魂を必要とする。","DOC19_ST_0002","False","","",""
-"Hazy_Script.txt:11858","[c4][x1.3]FILE 23[c0]","[c4][x1.3]FILE 23[c0]","DOC20_ST_0001","False","","",""
+"Hazy_Script.txt:11858","[c4][x1.3]FILE23[c0]","[c4][x1.3]FILE23[c0]","DOC20_ST_0001","False","","",""
 "Hazy_Script.txt:11859","最後までプレイしていただき 誠にありがとうございました。
 また 新たなパラノマサイトを ご披露できる日を
 心より 楽しみにしております。（ナカゴシ）","最後までプレイしていただき 誠にありがとうございました。
@@ -27606,9 +27614,9 @@
 "Hazy_Script.txt:11869","[c4][x1.3]霊夜祭[c0]","[c4][x1.3]霊夜祭[c0]","DOC25_ST_0001","False","","",""
 "Hazy_Script.txt:11870","霊的効力を 一時的に高める場を形成するための術式。
 場にある特定の霊力を高めるほかにも その地に存在していた
-恨みや思念を増幅させる といった使い方もされる。","霊的効力を 一時的に高める場を形成するための術式。
+怨みや思念を増幅させる といった使い方もされる。","霊的効力を 一時的に高める場を形成するための術式。
 場にある特定の霊力を高めるほかにも その地に存在していた
-恨みや思念を増幅させる といった使い方もされる。","DOC25_ST_0002","False","","",""
+怨みや思念を増幅させる といった使い方もされる。","DOC25_ST_0002","False","","",""
 "Hazy_Script.txt:11871","
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 霊夜祭の効力は 術者の霊力に左右されるが 時間や範囲を
@@ -27623,7 +27631,7 @@
 志岐間春恵の息子 志岐間修一（当時11）が 下校中に誘拐され
 その日の夜に 身代金を要求された。当初は ただの身代金目的と
 思われたが 親族に警察関係者が多いことも有名であったため
-警察に怨みを持つ者の犯行が有力とされた。
+警察に恨みを持つ者の犯行が有力とされた。
 実際 警察庁幹部の孫が誘拐されたのは 警察の沽券に関わると
 大規模な捜査が行われ 最新設備による電話の逆探知も行われた。
 しかし いっこうに犯人の尻尾を掴めないことが報道されるうちに
@@ -27641,7 +27649,7 @@
 志岐間春恵の息子 志岐間修一（当時11）が 下校中に誘拐され
 その日の夜に 身代金を要求された。当初は ただの身代金目的と
 思われたが 親族に警察関係者が多いことも有名であったため
-警察に怨みを持つ者の犯行が有力とされた。
+警察に恨みを持つ者の犯行が有力とされた。
 実際 警察庁幹部の孫が誘拐されたのは 警察の沽券に関わると
 大規模な捜査が行われ 最新設備による電話の逆探知も行われた。
 しかし いっこうに犯人の尻尾を掴めないことが報道されるうちに
