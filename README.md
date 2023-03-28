@@ -1,9 +1,9 @@
-# 《灵异视界 FILE23 本所七大不可思议》文本翻译
+# 《灵异视界 FILE23 本所七大不可思议》文本翻译汉化
 
 [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml) [![CC-BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ## 基本说明
-本项目是对《灵异视界 FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的文本翻译。所有文本基于 [百度翻译](https://fanyi.baidu.com/) 和 [有道翻译](https://fanyi.youdao.com/) **机翻汉化**。
+本项目是对《灵异视界 FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的文本翻译汉化。所有文本基于 [百度翻译](https://fanyi.baidu.com/) 和 [有道翻译](https://fanyi.youdao.com/) **机翻汉化**。
 
 本补丁基于Steam版制作，理论上可用于Switch版，但未经测试。
 

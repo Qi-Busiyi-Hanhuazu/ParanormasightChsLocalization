@@ -21,12 +21,13 @@ jobs:
           name: patch
           path: |
             out/patch/*
+      - run: tail -n +2 README.md > NEW_README.md
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
           artifacts: "out/patch-text.zip"
-          bodyFile: README.md
-          name: "《灵异视界 FILE23 本所七大不可思议》文本翻译"
+          bodyFile: NEW_README.md
+          name: "《灵异视界 FILE23 本所七大不可思议》文本翻译汉化"
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}
