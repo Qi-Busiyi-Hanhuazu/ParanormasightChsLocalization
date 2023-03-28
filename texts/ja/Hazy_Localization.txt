@@ -410,5 +410,5 @@ option_warnig_text,※タイトル画面で変更できます
 option_keyconfig_conflict,キーコンフィグが競合しているので保存できません。
 option_keyconfig_conflict_back,戻る
 savedata_alldelete_text,全てのデータを消去しました。
-title_warning_text,＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。 
+title_warning_text,＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。
 
