@@ -47,8 +47,8 @@ option_game_viblation,振动
 option_game_speed,信息速度
 option_game_brightness,画面的亮度
 option_game_brightness_message,请调整亮度，使右侧的图像的形状能清楚地看到
-option_game_language_button1,简体中文
-option_game_language_button2,日语
+option_game_language_button1,English
+option_game_language_button2,简体中文
 option_toggle_on,ON
 option_toggle_off,OFF
 option_game_speed_low,慢的
