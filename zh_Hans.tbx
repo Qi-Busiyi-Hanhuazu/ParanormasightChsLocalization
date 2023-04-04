@@ -126,6 +126,10 @@
                 <langSet xml:lang="ja"><tig><term>疳の虫</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>抽风</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>やっこ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>约子</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
