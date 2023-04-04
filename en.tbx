@@ -116,6 +116,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>禄命簿</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>疳の虫</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
