@@ -138,6 +138,10 @@
                 <langSet xml:lang="ja"><tig><term>オカルト</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>超自然现象</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>霊感</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>通灵感</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
