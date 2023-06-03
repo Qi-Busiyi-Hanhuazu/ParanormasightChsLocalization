@@ -140,6 +140,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>呪主</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>心霊対策室</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>変死体</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
