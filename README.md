@@ -8,7 +8,7 @@
 本补丁基于 Steam 版制作，理论上可用于其他平台版本，但未经测试。
 
 ## 使用方式
-请分别下载字体补丁（`patch-font.zip`）和文本补丁（`patch-text.zip`），然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。
+请分别下载字体补丁（`patch-font.zip`）和文本补丁（`patch-text.zip`），然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
 
 ## 相关链接
 - **[>>> 字体补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/publish/patch-font.zip)**
