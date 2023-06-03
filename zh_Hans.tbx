@@ -146,6 +146,14 @@
                 <langSet xml:lang="ja"><tig><term>呪主</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>咒主</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>心霊対策室</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>心灵对策室</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>変死体</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>可疑尸体</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
