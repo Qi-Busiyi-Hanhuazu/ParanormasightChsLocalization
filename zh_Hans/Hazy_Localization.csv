@@ -77,11 +77,11 @@ AUTO按钮显示
 保存
 
 保存"
-"Hazy_Localization.txt:22","セーブするスロットを選んでください","请选择要保存的插槽","save_subtitle","False","","","
+"Hazy_Localization.txt:22","セーブするスロットを選んでください","请选择存档位置","save_subtitle","False","","","
 请选择要保存的插槽
 
 请选择保存的插槽。"
-"Hazy_Localization.txt:23","スロット{0}に 上書きいたしますか？","是否要覆盖插槽{0}？","save_message","False","","","
+"Hazy_Localization.txt:23","スロット{0}に 上書きいたしますか？","是否要覆盖存档{0}？","save_message","False","","","
 是否要覆盖插槽{0}？
 
 要覆盖在插槽{0}上吗？"
@@ -89,11 +89,11 @@ AUTO按钮显示
 载入
 
 路"
-"Hazy_Localization.txt:25","ロードするスロットを選んでください","请选择要加载的插槽","load_subtitle","False","","","
+"Hazy_Localization.txt:25","ロードするスロットを選んでください","请选择要读取的存档","load_subtitle","False","","","
 请选择要加载的插槽
 
 选择一个插槽来加载。"
-"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？","是否要加载插槽{0}？","load_message","False","","","
+"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？","是否要加载存档{0}？","load_message","False","","","
 是否要加载插槽{0}？
 
 加载时隙{0}吗？"
@@ -101,7 +101,7 @@ AUTO按钮显示
 自动保存
 
 自动救援"
-"Hazy_Localization.txt:28","スロット{0}","插槽{0}","save_slotname","False","","","
+"Hazy_Localization.txt:28","スロット{0}","存档{0}","save_slotname","False","","","
 插槽{0}
 
 时隙{0}"
