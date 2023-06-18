@@ -17,6 +17,7 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>ナツヱ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>山森ナツヱ</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>送り拍子木</term></tig></langSet>
@@ -29,10 +30,12 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>パラノマサイト</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>游戏标题。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>あやめ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>灯野あやめ</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>落葉なき椎</term></tig></langSet>
@@ -49,6 +52,7 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>ミヲ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>黒鈴ミヲ</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>灯野あやめ</term></tig></langSet>
@@ -77,10 +81,12 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>こっくりさん</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>是日本一种源自西洋“桌灵转”的占卜。一般认为是动物灵的占卜，是都市传说的常见题材。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>アオサギ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>アオサギ探偵堂</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>下町人情</term></tig></langSet>
@@ -97,6 +103,7 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>オゴポゴ</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>叶子的狗。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>蘇りの秘術</term></tig></langSet>
@@ -105,6 +112,7 @@
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>祐太郎</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
+                <descrip>字库里没有“祐”</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>山森ナツヱ</term></tig></langSet>
@@ -152,11 +160,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>本所七不思議</term></tig></langSet>
-                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>七不思議</term></tig></langSet>
-                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
