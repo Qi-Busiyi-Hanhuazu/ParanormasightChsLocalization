@@ -112,7 +112,7 @@ msgbox_open_update_page,打开更新页面
 msgbox_game_end,保存结束游戏。[r]可以吗？
 msgbox_init_option_settings,要将显示中的标签设置<br>恢复到初始状态吗？
 game_title_game_start,游戏开始
-copywriter,<size=50%>Translated by Xzonn and his friends<br><br><size=100%>©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
+copywriter,<size=50%>Translated by Xzonn and his friends (rev. {{ version }})<br><br><size=100%>©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
 option_alldel_btn_message,所有数据都将被清除。[r]真的可以吗？<br>
 menu_storychart_message,回到故事图表。可以吗？[r][c3]※如果是还没有结束的章节的话[r]又要从头再来。
 menu_btn_title,返回标题

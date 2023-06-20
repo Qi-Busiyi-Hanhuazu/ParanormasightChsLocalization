@@ -12,6 +12,8 @@ jobs:
           ref: master
           fetch-depth: 1
       - name: Create Patch
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
         run: |
           bin/ParanormasightChsLocalizationHelper
           compress-archive out/patch/* out/patch-text.zip -force
