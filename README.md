@@ -9,14 +9,16 @@
 
 ## 更新历史
 - 0.9.1（2023-06-20）：
-  - 游戏中需要输入名字的地方现在可以识别简体中文和拼音。**注意：由于存储空间的原因，使用补丁后输入假名会被视为错误答案，可改用日文汉字或罗马音输入。**
   - 在标题页面新增了版本号标识。
+- 0.9.2（2023-06-23）：
+  - 修改了游戏开始时询问名字的流程，使其更合理。
+  - 游戏中需要输入名字的地方现在可以识别简体中文和拼音。**注意：由于存储空间的原因，使用补丁后输入假名会被视为错误答案，可改用日文汉字或罗马音输入。**（0.9.1版本由于代码原因，实际上未实现此功能。）
 
 ## 使用方式
 请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。若为开发版本，请分别下载字体补丁（`patch-font.zip`）和文本补丁（`patch-text.zip`）。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
 
 ## 相关链接
-- **[>>> 0.9.1 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.1/patch-0.9.1.zip)**
+- **[>>> 0.9.2 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.2/patch-0.9.2.zip)**
 - [开发版本补丁下载](https://github.com/Xzonn/ParanormasightChsLocalization/releases/tag/publish)
 - [补丁生成工具](https://github.com/Xzonn/ParanormasightChsLocalizationHelper)
 - [翻译项目网站](https://weblate.xzonn.top/projects/paranormasight/)

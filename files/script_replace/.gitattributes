@@ -1,2 +1,2 @@
-*.from text
-*.to text
+*.from text eol=crlf
+*.to text eol=crlf
