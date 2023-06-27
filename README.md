@@ -17,6 +17,9 @@
 ## 使用方式
 请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。若为开发版本，请分别下载字体补丁（`patch-font.zip`）和文本补丁（`patch-text.zip`）。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
 
+## 已知问题
+- **由于游戏本身的限制，一些字符无法输入到文本框中。游戏开始阶段输入名字时，请尽可能重新输入并确认，以免游戏直接读取Steam昵称导致无法输入。如果您已经遇到了这个问题，请尝试暂时修改Steam昵称。**
+
 ## 相关链接
 - **[>>> 0.9.2 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.2/patch-0.9.2.zip)**
 - [开发版本补丁下载](https://github.com/Xzonn/ParanormasightChsLocalization/releases/tag/publish)
