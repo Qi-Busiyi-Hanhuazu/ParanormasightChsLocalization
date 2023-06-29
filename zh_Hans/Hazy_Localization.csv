@@ -36,7 +36,7 @@ AUTO按钮显示
 选项
 
 选项卡页面上创建或编辑条目"
-"Hazy_Localization.txt:11","ゲーム終了","游戏结束","menu_btn_end","False","","","
+"Hazy_Localization.txt:11","ゲーム終了","结束游戏","menu_btn_end","False","","","
 游戏结束
 
 游戏结束"
@@ -69,7 +69,7 @@ AUTO按钮显示
 攻略信息
 
 攻略信息"
-"Hazy_Localization.txt:20","更新された資料はありません","没有更新的资料","doclist_nothing_message","False","","","
+"Hazy_Localization.txt:20","更新された資料はありません","没有新的资料","doclist_nothing_message","False","","","
 没有更新的资料。
 
 没有更新的资料"
@@ -137,11 +137,11 @@ AUTO按钮显示
 初始化此选项卡
 
 初始化这个标签"
-"Hazy_Localization.txt:37","セーブデータ全消去","保存数据全部删除","option_btn_alldelete_savedata","False","","","
+"Hazy_Localization.txt:37","セーブデータ全消去","删除所有存档","option_btn_alldelete_savedata","False","","","
 保存数据全部删除
 
 保存数据全部删除"
-"Hazy_Localization.txt:38","すべて反映","全部反映","option_btn_enter","False","","","
+"Hazy_Localization.txt:38","すべて反映","全部应用","option_btn_enter","False","","","
 全部反映
 
 全部反映"
@@ -181,11 +181,11 @@ SE音量"
 信息速度
 
 信息速度"
-"Hazy_Localization.txt:48","画面の明るさ","画面的亮度","option_game_brightness","False","","","
+"Hazy_Localization.txt:48","画面の明るさ","画面亮度","option_game_brightness","False","","","
 画面的亮度
 
 屏幕亮度"
-"Hazy_Localization.txt:49","右側の画像の形がギリギリわかる程度に 明るさを調整してください","请调整亮度，使右侧的图像的形状能清楚地看到","option_game_brightness_message","False","","","
+"Hazy_Localization.txt:49","右側の画像の形がギリギリわかる程度に 明るさを調整してください","请将画面亮度调节到刚好能看到右侧的图像","option_game_brightness_message","False","","","
 请调整亮度，使右侧的图像的形状能清楚地看到
 
 请调整亮度，直到你能看清右边图像的形状。"
@@ -196,7 +196,7 @@ SE音量"
 简体中文"
 "Hazy_Localization.txt:52","ON","ON","option_toggle_on","False","","",""
 "Hazy_Localization.txt:53","OFF","OFF","option_toggle_off","False","","",""
-"Hazy_Localization.txt:54","遅い","慢的","option_game_speed_low","False","","","
+"Hazy_Localization.txt:54","遅い","慢速","option_game_speed_low","False","","","
 慢的
 
 慢"
@@ -216,7 +216,7 @@ SE音量"
 黑暗
 
 暗淡"
-"Hazy_Localization.txt:59","やや暗い","有点暗","option_game_screen_littledark","False","","","
+"Hazy_Localization.txt:59","やや暗い","稍暗","option_game_screen_littledark","False","","","
 有点暗
 
 微暗"
@@ -224,7 +224,7 @@ SE音量"
 普通
 
 普通"
-"Hazy_Localization.txt:61","やや明るい","稍微亮一点","option_game_screen_littlebright","False","","","
+"Hazy_Localization.txt:61","やや明るい","稍亮","option_game_screen_littlebright","False","","","
 稍微亮一点
 
 有点亮"
@@ -236,7 +236,7 @@ SE音量"
 视频设置
 
 视频设置"
-"Hazy_Localization.txt:64","描画解像度","绘图分辨率","option_video_render_resolution","False","","","
+"Hazy_Localization.txt:64","描画解像度","渲染分辨率","option_video_render_resolution","False","","","
 绘图分辨率
 
 绘制分辨率"
@@ -268,7 +268,7 @@ SE音量"
 高
 
 高"
-"Hazy_Localization.txt:72","描画負荷設定","绘图负荷设定","option_video_render_load","False","","","
+"Hazy_Localization.txt:72","描画負荷設定","渲染负载设定","option_video_render_load","False","","","
 绘图负荷设定
 
 绘图负载设置"
