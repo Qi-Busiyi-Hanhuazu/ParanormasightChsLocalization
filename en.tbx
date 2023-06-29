@@ -166,6 +166,11 @@
                 <langSet xml:lang="ja"><tig><term>七不思議</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>エリオ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <descrip>襟尾纯</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
