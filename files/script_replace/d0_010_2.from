@@ -1,0 +1,5 @@
+864.chr.mv(id=coin,x=-0.048,z=0.533,time=1,ease=InOutCubic)
+865.sys.vib(power=1,time=0.5)
+866.snd.pl(type=se,src=Sound/se/se_slide)
+867.sys.wa(time=2)
+868.chr.mv(id=coin,x=-0.15,z=0.496,time=1.0,ease=InOutCubic)
