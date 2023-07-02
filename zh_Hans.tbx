@@ -179,6 +179,10 @@
                 <langSet xml:lang="zh_Hans"><tig><term>襟尾</term></tig></langSet>
                 <descrip>襟尾纯</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>呪いの力</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>诅咒之力</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
