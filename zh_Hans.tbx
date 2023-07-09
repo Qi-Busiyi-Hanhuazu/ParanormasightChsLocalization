@@ -187,6 +187,10 @@
                 <langSet xml:lang="ja"><tig><term>駄菓子せんのや</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>粗点心千野屋</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>案内人</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>向导</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
