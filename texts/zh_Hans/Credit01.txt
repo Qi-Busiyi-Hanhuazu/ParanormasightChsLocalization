@@ -263,5 +263,5 @@
 
 <line-height=140px><font=TELOP><size=130%><cspace=-5px>制作·著作
 [N:src=Images/logo w=1000 x=-424 y=-80]
-
+<line-height=80px><font=TELOP><size=130%><cspace=0px>
 Translated by 七不思议汉化组
