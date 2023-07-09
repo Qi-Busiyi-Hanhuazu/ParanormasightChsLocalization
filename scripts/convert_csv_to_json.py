@@ -38,6 +38,8 @@ for language in languages:
       continue
 
     sheet_name = file_name.removesuffix(".txt")
+    if not os.path.exists(f"{language}/{sheet_name}.csv"):
+      continue
     chinese = get_sheet(language, sheet_name)
 
     writer = open(f"{DIR_ORIGINAL}/{language}/{file_name}", "w", -1, "utf-8-sig")
