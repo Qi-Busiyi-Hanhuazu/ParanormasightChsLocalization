@@ -181,7 +181,21 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>案内人</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>ボス</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <descrip>襟尾对津诘的称呼。</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>ナカゴシ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>リヒタ</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <descrip>棹利飞太</descrip>
             </termEntry>
         </body>
     </text>
