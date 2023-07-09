@@ -1,0 +1,265 @@
+[c=#F0F0F0]
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>脚本・演出
+<line-height=80px><font=TELOP><size=300%><cspace=0px>石山貴也
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Takanari Ishiyama
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>キャラクターデザイナー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>小林 元
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Gen Kobayashi
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>ミュージック
+<line-height=80px><font=TELOP><size=300%><cspace=0px>岩﨑英則
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Hidenori Iwasaki
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>サウンドデザイナー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>長谷川 綺
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Aya Hasegawa
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>堀畑直幹
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Naoki Horihata
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>大石峰生
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Takao Oishi
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>開　発
+<line-height=80px><font=TELOP><size=300%><cspace=-6px>株式会社ジーン
+<line-height=100px><font=MAIN><size=100%><cspace=0px>xeen Inc.
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>開発プロデューサー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>河上和弘
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kazuhiro Kawakami
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>開発ディレクター
+<line-height=80px><font=TELOP><size=300%><cspace=0px>奥野義仁
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Yoshihito Okuno
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>アートディレクター
+<line-height=80px><font=TELOP><size=300%><cspace=0px>隅水淳子
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Junko Sumimizu
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>リードプログラマー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>滝下直樹
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Naoki Takishita
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>プログラマー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>川西一寿
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kazuhisa Kawanishi
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>細川翔登
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Shoto Hosokawa
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>三好正行
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Masayuki Miyoshi
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>浪指翔太
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Shota Namizashi
+
+
+
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>クリエイティブアドバイザー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>岡村 礁
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Sho Okamura
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>テクニカルディレクター
+<line-height=80px><font=TELOP><size=300%><cspace=0px>岩澤洋介
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Yosuke Iwasawa
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>プロジェクトマネージャー(サウンド)
+<line-height=80px><font=TELOP><size=300%><cspace=0px>小林征夢
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Masamu Kobayashi
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>宣伝プロデューサー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>笠井正彦
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Masahiko Kasai
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>宣　伝
+<line-height=80px><font=TELOP><size=300%><cspace=0px>黒田葉月
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Hazuki Kuroda
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>ＱＡ
+<line-height=80px><font=TELOP><size=300%><cspace=0px>尾村浩之
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Hiroyuki Omura
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>森下 晃
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Akira Morishita
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>岡本伸也
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Shinya Okamoto
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>石川 卓
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Suguru Ishikawa
+
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>賀川拓海
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Takumi Kagawa
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>山中和貴
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kazuki Yamanaka
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>テクニカルＱＡ
+<line-height=80px><font=TELOP><size=300%><cspace=0px>清水隆裕
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Takahiro Shimizu
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>田上綾真
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Ryoma Tagami
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>ガイドラインＱＡ
+<line-height=80px><font=TELOP><size=300%><cspace=0px>谷口 昇
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Noboru Taniguchi
+
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>髙橋哲也
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Tetsuya Takahashi
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>佐藤 純
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Jun Sato
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>片野龍馬
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Ryoma Katano
+
+<line-height=100px><font=MAIN><size=100%><cspace=0px>...and the entire QA staff
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>レーティングアドバイザー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>伊藤美里
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Miri Ito
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>グローバルマーケティングディレクター
+<line-height=80px><font=MAIN><size=240%><cspace=-4px>Ned Browning<cspace=0px>
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>グローバルビジネスマネージャー
+<line-height=80px><font=MAIN><size=240%><cspace=-4px>Hideki Miwa<cspace=0px>
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>アシスタントビジネスマネージャー
+<line-height=80px><font=MAIN><size=240%><cspace=-4px>Imogen Wright<cspace=0px>
+
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>プロジェクトマネージャー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>廣川祐子
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Yuko Hirokawa
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>シニア・マネージャー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>宮路賢一
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kenichi Miyaji
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>ディビジョン・ディレクター
+<line-height=80px><font=TELOP><size=300%><cspace=0px>広野 啓
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kei Hirono
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>開発協力
+<line-height=80px><font=TELOP><size=300%><cspace=-8px>株式会社サクセス
+<line-height=100px><font=MAIN><size=100%><cspace=0px>SUCCESS Corporation
+
+<line-height=80px><font=TELOP><size=300%><cspace=-8px>株式会社デジタルハーツ
+<line-height=100px><font=MAIN><size=100%><cspace=0px>DIGITAL HEARTS Co., Ltd.
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>濱田雄偉
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Yui Hamada
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>亀岡夏海
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Natsumi Kameoka
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>里見 勉
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Tsutomu Satomi
+
+<line-height=80px><font=TELOP><size=300%><cspace=0px>井野健太郎
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kentaro Ino
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>協　力
+<line-height=80px><font=TELOP><size=300%><cspace=0px>墨田区<cspace=0px>
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Sumida City
+
+<line-height=80px><font=TELOP><size=300%><cspace=-22px>一般社団法人 墨田区観光協会<cspace=0px>
+<line-height=100px><font=MAIN><size=100%><cspace=0px>'VISIT SUMIDA' TOURISM OFFICE
+
+
+
+
+
+
+
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>アシスタントプロデューサー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>中村圭佑
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Keisuke Nakamura
+
+
+
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>プロデューサー
+<line-height=80px><font=TELOP><size=300%><cspace=0px>奥州一馬
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Kazuma Oushu
+
+
+
+
+
+
+
+
+
+<line-height=150px><font=TELOP><size=130%><cspace=-5px>ディレクター
+<line-height=80px><font=TELOP><size=300%><cspace=0px>石山貴也
+<line-height=100px><font=MAIN><size=100%><cspace=0px>Takanari Ishiyama
+
+
+
+
+
+
+
+
+
+
+
+
+[N:src=Images/titlelogo_jp w=1600 x=-700]
+[N:src=Images/titlelogosub_jp w=1600 x=-700 y=60]
+
+
+
+
+
+<line-height=140px><font=TELOP><size=130%><cspace=-5px>制作・著作
+[N:src=Images/logo w=1000 x=-424 y=-80]
