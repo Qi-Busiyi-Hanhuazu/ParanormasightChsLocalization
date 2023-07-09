@@ -198,7 +198,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>ナカゴシ</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>河越</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>名河越</term></tig></langSet>
+                <note from="translator">名河越忏。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>リヒタ</term></tig></langSet>
