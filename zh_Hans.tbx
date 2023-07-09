@@ -205,6 +205,11 @@
                 <langSet xml:lang="zh_Hans"><tig><term>利飞太</term></tig></langSet>
                 <descrip>棹利飞太</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>ヒハク</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>飞白</term></tig></langSet>
+                <descrip>飞白肥皂。</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
