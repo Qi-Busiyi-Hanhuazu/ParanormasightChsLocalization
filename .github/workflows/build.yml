@@ -20,7 +20,7 @@ jobs:
       - name: Upload patch
         uses: actions/upload-artifact@v3
         with:
-          name: patch
+          name: patch-text
           path: |
             out/patch/*
       - run: tail -n +2 README.md > NEW_README.md
@@ -31,5 +31,6 @@ jobs:
           artifacts: "out/patch-text.zip"
           bodyFile: NEW_README.md
           name: "《灵异视界 FILE23 本所七大不可思议》文本翻译汉化"
+          prerelease: true
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}
