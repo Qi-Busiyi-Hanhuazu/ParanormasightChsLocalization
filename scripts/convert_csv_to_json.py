@@ -42,7 +42,7 @@ for language in languages:
       continue
     chinese = get_sheet(language, sheet_name)
 
-    writer = open(f"{DIR_ORIGINAL}/{language}/{file_name}", "w", -1, "utf-8-sig")
+    writer = open(f"{DIR_ORIGINAL}/{language}/{file_name}", "w", -1, "utf-8-sig", newline="\n")
 
     for line in original_messages:
       msgidx, *_ = line.split(",")
@@ -68,5 +68,5 @@ for language in languages:
     character_table += "".join(chinese.values())
     character_table = " 　\n" + "".join(sorted(set(character_table))).strip()
 
-    with open(f"{DIR_FILES}/CharacterTable-{language}.txt", "w", -1, "utf-8") as writer:
+    with open(f"{DIR_FILES}/CharacterTable-{language}.txt", "w", -1, "utf-8", newline="\n") as writer:
       writer.write(character_table)
