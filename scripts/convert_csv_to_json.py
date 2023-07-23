@@ -66,7 +66,15 @@ for language in languages:
         character_table += reader.read()
     
     character_table += "".join(chinese.values())
-    character_table = " 　\n" + "".join(sorted(set(character_table))).strip()
+    new_character_table = ""
+    last_unicode_higher_byte = 0
+    for char in sorted(set(character_table)):
+      char_unicode_higher_byte = ord(char) // 256
+      if char_unicode_higher_byte != last_unicode_higher_byte:
+        new_character_table += "\n"
+        last_unicode_higher_byte = char_unicode_higher_byte
+      if char != "\n":
+        new_character_table += char
 
     with open(f"{DIR_FILES}/CharacterTable-{language}.txt", "w", -1, "utf-8", newline="\n") as writer:
-      writer.write(character_table)
+      writer.write(new_character_table)
