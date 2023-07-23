@@ -213,10 +213,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>駒形高校</term></tig></langSet>
-                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>南割下水通り</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>葦宮のおっちゃん</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
