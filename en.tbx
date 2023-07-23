@@ -204,8 +204,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>センコー</term></tig></langSet>
-                <langSet xml:lang="en"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
                 <descrip>先公，奥田对老师的称呼。中文里似乎没有不良学生对老师的蔑称，所以先翻译成了“老东西”。</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>オカルトブーム</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
