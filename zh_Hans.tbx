@@ -231,6 +231,18 @@
                 <langSet xml:lang="ja"><tig><term>葦宮のおっちゃん</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>苇宫大叔</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>アオサギ探偵堂</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>苍鹭侦探堂</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>錦糸堀</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>锦丝堀</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>セイマン</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>晴曼</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
