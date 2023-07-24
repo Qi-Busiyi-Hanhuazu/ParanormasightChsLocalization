@@ -23,13 +23,15 @@ jobs:
           name: patch-text
           path: |
             out/patch/*
-      - run: tail -n +2 README.md > NEW_README.md
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
           artifacts: "out/patch-text.zip"
-          bodyFile: NEW_README.md
+          body: |
+            [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml)
+
+            本页面下方的链接为自动构建并发布的开发版本补丁。此版本补丁可能存在较多问题，仅供测试使用。
           name: "《灵异视界 FILE23 本所七大不可思议》文本翻译汉化"
           prerelease: true
           tag: publish
