@@ -9,9 +9,11 @@
 
 目前，本项目正处于校对阶段，仅供试玩。如遇到文字不通顺的地方，请等待后续版本或参与翻译校对。
 
-本补丁基于 Steam 版制作，无法直接用于其他平台版本。
+本补丁基于 Steam 商店的 1.1 版制作（生成版本 ID：11663925），无法直接用于其他平台版本。
 
 ## 更新历史
+- 0.9.5（2023-07-27）：
+  - 匹配游戏 1.1 版本。
 - 0.9.4（2023-07-09）：
   - 修改了“狐狗狸”的文字盘。
   - 改进了姓名输入的判断方式。
@@ -55,7 +57,7 @@
 日文游戏中的棋盘使用了假名，英文游戏棋盘使用了字母。为了避免纯英文字母太长，汉化版的棋盘修改为了汉语拼音。这一改动仅为了方便理解，对游戏流程几乎没有影响。
 
 ## 相关链接
-- **[>>> 0.9.4 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.4/patch-0.9.4.zip)**
+- **[>>> 0.9.5 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.5/patch-0.9.5.zip)**
 - [开发版本补丁下载](https://github.com/Xzonn/ParanormasightChsLocalization/releases/tag/publish)
 - [补丁生成工具](https://github.com/Xzonn/ParanormasightChsLocalizationHelper)
 - [翻译项目网站](https://weblate.xzonn.top/projects/paranormasight/)
