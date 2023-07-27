@@ -93,10 +93,16 @@ AUTO按钮显示
 请选择要加载的插槽
 
 选择一个插槽来加载。"
-"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？","是否要加载存档{0}？","load_message","False","","","
-是否要加载插槽{0}？
+"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？
+[c3]※ロードすると ストーリーの進行状態も戻ります。
+※本作は データを戻さずとも 全要素が遊べます。","是否要加载存档{0}？","load_message","False","","","
+加载时隙{0}吗？  
+[c3]※加载的话故事的进行状态也返回。  
+※本作品即使不返回数据全要素也能玩。
 
-加载时隙{0}吗？"
+是否要加载插槽{0}？  
+[c3]※加载后故事的进行状态也会返回。  
+※本作品即使不返回数据全部要素也能玩。"
 "Hazy_Localization.txt:27","オートセーブ","自动保存","save_autosave","False","","","
 自动保存
 
@@ -280,149 +286,153 @@ SE音量"
 稍微低负荷
 
 略低的负荷"
-"Hazy_Localization.txt:75","画面解像度","画面分辨率","option_video_screen_resolution","False","","","
+"Hazy_Localization.txt:75","色収差","色差","option_video_chromaticaberration","False","","","
+色差
+
+色差"
+"Hazy_Localization.txt:76","画面解像度","画面分辨率","option_video_screen_resolution","False","","","
 画面分辨率
 
 屏幕分辨率"
-"Hazy_Localization.txt:76","画面モード","画面模式","option_video_screen_mode","False","","","
+"Hazy_Localization.txt:77","画面モード","画面模式","option_video_screen_mode","False","","","
 画面模式
 
 画面模式"
-"Hazy_Localization.txt:77","ウインドウ","窗口","option_video_window","False","","","
+"Hazy_Localization.txt:78","ウインドウ","窗口","option_video_window","False","","","
 窗口
 
 窗口"
-"Hazy_Localization.txt:78","ボーダーレス","无边框","option_video_borderless","False","","","
+"Hazy_Localization.txt:79","ボーダーレス","无边框","option_video_borderless","False","","","
 无边框
 
 无国界"
-"Hazy_Localization.txt:79","フルスクリーン","全屏","option_video_full_screen","False","","","
+"Hazy_Localization.txt:80","フルスクリーン","全屏","option_video_full_screen","False","","","
 全屏
 
 全面屏幕"
-"Hazy_Localization.txt:80","1280×720","1280×720","option_video_1","False","","","
+"Hazy_Localization.txt:81","1280×720","1280×720","option_video_1","False","","","
 1280×720
 
 1280×720"
-"Hazy_Localization.txt:81","1366×768","1366×768","option_video_2","False","","","
+"Hazy_Localization.txt:82","1366×768","1366×768","option_video_2","False","","","
 1366×768
 
 1366×768"
-"Hazy_Localization.txt:82","1600×900","1600×900","option_video_3","False","","","
+"Hazy_Localization.txt:83","1600×900","1600×900","option_video_3","False","","","
 1600×900
 
 1600×900"
-"Hazy_Localization.txt:83","1920×1080","1920×1080","option_video_4","False","","","
+"Hazy_Localization.txt:84","1920×1080","1920×1080","option_video_4","False","","","
 1920×1080
 
 1920×1080"
-"Hazy_Localization.txt:84","コントロール設定","控制器设置","option_controller_title","False","","","
+"Hazy_Localization.txt:85","コントロール設定","控制器设置","option_controller_title","False","","","
 控件设置
 
 控制设定"
-"Hazy_Localization.txt:85","コントローラー持ち方","拿控制器的方法","option_controller_hold","False","","","
+"Hazy_Localization.txt:86","コントローラー持ち方","拿控制器的方法","option_controller_hold","False","","","
 拿控制器的方法
 
 控制器持法"
-"Hazy_Localization.txt:86","視点操作(上下)","视角操作（上下）","option_controller_view1","False","","","
+"Hazy_Localization.txt:87","視点操作(上下)","视角操作（上下）","option_controller_view1","False","","","
 视点操作（上下）
 
 视点操作（上下）"
-"Hazy_Localization.txt:87","視点操作(左右)","视角操作（左右）","option_controller_view2","False","","","
+"Hazy_Localization.txt:88","視点操作(左右)","视角操作（左右）","option_controller_view2","False","","","
 视点操作（左右）
 
 视点操作（左右）"
-"Hazy_Localization.txt:88","決定ボタンの設定","确定按钮设置","option_controller_button","False","","","
+"Hazy_Localization.txt:89","決定ボタンの設定","确定按钮设置","option_controller_button","False","","","
 确定按钮的设定
 
 设置确定按钮"
-"Hazy_Localization.txt:89","通常","正常","normal","False","","","
+"Hazy_Localization.txt:90","通常","正常","normal","False","","","
 正常
 
 通常"
-"Hazy_Localization.txt:90","上下反転","上下反转","option_controller_flip_ud","False","","","
+"Hazy_Localization.txt:91","上下反転","上下反转","option_controller_flip_ud","False","","","
 上下翻转
 
 垂直翻转"
-"Hazy_Localization.txt:91","左右反転","左右反转","option_controller_flip_lr","False","","","
+"Hazy_Localization.txt:92","左右反転","左右反转","option_controller_flip_lr","False","","","
 左右反转
 
 水平翻转"
-"Hazy_Localization.txt:92","変更","更改","change","False","","","
+"Hazy_Localization.txt:93","変更","更改","change","False","","","
 更改
 
 变更"
-"Hazy_Localization.txt:93","決定／キャンセルボタンの割り当てを変更します。<br>","更改决定／取消按钮的分配。<br>","option_controller_message","False","","","
+"Hazy_Localization.txt:94","決定／キャンセルボタンの割り当てを変更します。<br>","更改决定／取消按钮的分配。<br>","option_controller_message","False","","","
 更改决定/取消按钮的分配。<br>
 
 更改“确定”>“取消”按钮的分配。<br>"
-"Hazy_Localization.txt:94","決定","决定","keyconfig_enter","False","","","
+"Hazy_Localization.txt:95","決定","决定","keyconfig_enter","False","","","
 决定
 
 确定"
-"Hazy_Localization.txt:95","選択:上","选择：上","keyconfig_select_up","False","","","
+"Hazy_Localization.txt:96","選択:上","选择：上","keyconfig_select_up","False","","","
 选择：上
 
 选择：顶部"
-"Hazy_Localization.txt:96","選択:下","选择：下","keyconfig_select_down","False","","","
+"Hazy_Localization.txt:97","選択:下","选择：下","keyconfig_select_down","False","","","
 选择：下
 
 选择：下"
-"Hazy_Localization.txt:97","選択:左","选择：左","keyconfig_select_left","False","","","
+"Hazy_Localization.txt:98","選択:左","选择：左","keyconfig_select_left","False","","","
 选择：左
 
 选择：左"
-"Hazy_Localization.txt:98","選択:右","选择：右","keyconfig_select_right","False","","","
+"Hazy_Localization.txt:99","選択:右","选择：右","keyconfig_select_right","False","","","
 选择：右
 
 选择：右"
-"Hazy_Localization.txt:99","カーソル:上","光标：上","keyconfig_camera_up","False","","","
+"Hazy_Localization.txt:100","カーソル:上","光标：上","keyconfig_camera_up","False","","","
 光标：上
 
 光标：上"
-"Hazy_Localization.txt:100","カーソル:下","光标：下","keyconfig_camera_down","False","","","
+"Hazy_Localization.txt:101","カーソル:下","光标：下","keyconfig_camera_down","False","","","
 光标：下
 
 光标：向下"
-"Hazy_Localization.txt:101","カーソル:左","光标：左","keyconfig_camera_left","False","","","
+"Hazy_Localization.txt:102","カーソル:左","光标：左","keyconfig_camera_left","False","","","
 光标：左
 
 光标：左"
-"Hazy_Localization.txt:102","カーソル:右","光标：右","keyconfig_camera_right","False","","","
+"Hazy_Localization.txt:103","カーソル:右","光标：右","keyconfig_camera_right","False","","","
 光标：右
 
 光标：向右"
-"Hazy_Localization.txt:103","呪詛行使","行使诅咒","keyconfig_skill","False","","","
+"Hazy_Localization.txt:104","呪詛行使","行使诅咒","keyconfig_skill","False","","","
 行使诅咒
 
 行使咒语"
-"Hazy_Localization.txt:104","メニュー","菜单","keyconfig_menu","False","","","
+"Hazy_Localization.txt:105","メニュー","菜单","keyconfig_menu","False","","","
 菜单
 
 菜单"
-"Hazy_Localization.txt:105","AUTO","AUTO","keyconfig_auto","False","","",""
-"Hazy_Localization.txt:106","キーボード操作のキーコンフィグ","键盘操作按键设置","keyconfig_title","False","","","
+"Hazy_Localization.txt:106","AUTO","AUTO","keyconfig_auto","False","","",""
+"Hazy_Localization.txt:107","キーボード操作のキーコンフィグ","键盘操作按键设置","keyconfig_title","False","","","
 键盘操作键配置
 
 键盘操作的按键组合"
-"Hazy_Localization.txt:107","入力したキーは使用できません。","输入的键不能使用。","keyconfig_conflict","False","","","
+"Hazy_Localization.txt:108","入力したキーは使用できません。","输入的键不能使用。","keyconfig_conflict","False","","","
 输入的键不能使用。
 
 输入的密钥不可用。"
-"Hazy_Localization.txt:108","設定するキーを入力してください。<br>（ESC でキャンセル）","请输入要设置的键。<br>（ESC取消）","keyconfig_dialog_title","False","","","
+"Hazy_Localization.txt:109","設定するキーを入力してください。<br>（ESC でキャンセル）","请输入要设置的键。<br>（ESC取消）","keyconfig_dialog_title","False","","","
 请输入要设置的键。<br>（ESC取消）
 
 请输入设定键。<br>（ESC取消）"
-"Hazy_Localization.txt:109","Now Loading...","Now Loading...","nowloading","False","","",""
-"Hazy_Localization.txt:110","設定を変更せずに 終了いたしますか？","不更改设置就结束吗？","option_return_msg","False","","","
+"Hazy_Localization.txt:110","Now Loading...","Now Loading...","nowloading","False","","",""
+"Hazy_Localization.txt:111","設定を変更せずに 終了いたしますか？","不更改设置就结束吗？","option_return_msg","False","","","
 不更改设置就结束吗？
 
 不变更设定就结束吗？"
-"Hazy_Localization.txt:111","更新ページを開く","打开更新页面","msgbox_open_update_page","False","","","
+"Hazy_Localization.txt:112","更新ページを開く","打开更新页面","msgbox_open_update_page","False","","","
 打开更新页面
 
 打开更新页"
-"Hazy_Localization.txt:112","セーブして ゲームを終了いたします。
+"Hazy_Localization.txt:113","セーブして ゲームを終了いたします。
 よろしいですか？","保存之后结束游戏。
 可以吗？","msgbox_game_end","False","","","
 保存结束游戏。  
@@ -430,27 +440,31 @@ SE音量"
 
 保存后游戏结束。  
 可以吗？"
-"Hazy_Localization.txt:113","表示中のタブの設定を<br>初期状態に戻しますか？","要将当前显示的标签的设置<br>恢复到初始状态吗？","msgbox_init_option_settings","False","","","
+"Hazy_Localization.txt:114","表示中のタブの設定を<br>初期状態に戻しますか？","要将当前显示的标签的设置<br>恢复到初始状态吗？","msgbox_init_option_settings","False","","","
 <br>要将显示中的标签设置恢复到初始状态吗？
 
 <br>是否将显示中的标签设置还原为初始状态？"
-"Hazy_Localization.txt:114","ゲームスタート","游戏开始","game_title_game_start","False","","","
+"Hazy_Localization.txt:115","ゲームスタート","游戏开始","game_title_game_start","False","","","
 游戏开始
 
 游戏开始"
-"Hazy_Localization.txt:115","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","<size=50%>Translated by 七不思议汉化组 (rev. {{ version }})<br><br><size=100%>©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","copywriter","False","","","
+"Hazy_Localization.txt:116","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","<size=50%>Translated by 七不思议汉化组 (rev. {{ version }})<br><br><size=100%>©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","copywriter","False","","","
 ©2023 SQUARE ENIX CO.， LTD. All Rights Reserved.
 
 ©2023 SQUARE ENIX CO.， LTD. All Rights Reserved。"
-"Hazy_Localization.txt:116","全てのデータが消去されます。
-本当によろしいですか？<br>","所有数据都将被清除。
-真的可以吗？<br>","option_alldel_btn_message","False","","","
-所有数据都将被清除。  
-真的可以吗？<br>
+"Hazy_Localization.txt:117","全てのデータを 消去いたします。
+本当によろしいですか？
+[c3]※本作は データを消さずとも 全要素が遊べます。","我会删除所有的数据。
+真的可以吗？
+[c3]※本作品即使不消除数据也能玩全要素。","option_alldel_btn_message","False","","","
+我会删除所有的数据。  
+真的可以吗？  
+[c3]※本作品即使不消除数据也能玩全要素。
 
-所有数据都会被删除。  
-真的可以吗？<br>"
-"Hazy_Localization.txt:117","ストーリーチャートに 戻ります。よろしいですか？
+删除所有数据。  
+真的可以吗？  
+[c3]※本作品即使不消除数据也能玩全部要素。"
+"Hazy_Localization.txt:118","ストーリーチャートに 戻ります。よろしいですか？
 [c3]※まだ終了していないチャプターの場合は
 また最初からやり直しになります。","将会回到故事图表。可以吗？
 [c3]※如果是还没有结束的章节的话，
@@ -462,11 +476,11 @@ SE音量"
 返回到故事图表。可以吗？  
 [c3]※还没有结束的章节的情况下  
 从最开始又要重新做了。"
-"Hazy_Localization.txt:118","タイトルへ戻る","返回标题","menu_btn_title","False","","","
+"Hazy_Localization.txt:119","タイトルへ戻る","返回标题","menu_btn_title","False","","","
 返回标题
 
 回到标题"
-"Hazy_Localization.txt:119","セーブして タイトル画面に戻ります。
+"Hazy_Localization.txt:120","セーブして タイトル画面に戻ります。
 よろしいですか？","保存后回到标题画面。
 可以吗？","menu_title_message","False","","","
 保存后回到标题画面。  
@@ -474,809 +488,809 @@ SE音量"
 
 保存并返回标题画面。  
 可以吗？"
-"Hazy_Localization.txt:120","ゲームを終了いたしますか？","要结束游戏吗？","title_exit_dialog","False","","","
+"Hazy_Localization.txt:121","ゲームを終了いたしますか？","要结束游戏吗？","title_exit_dialog","False","","","
 要结束游戏吗？
 
 游戏结束吗？"
-"Hazy_Localization.txt:121","演出をスキップいたしますか？","要跳过演出吗？","cancel_scroll_message","False","","","
+"Hazy_Localization.txt:122","演出をスキップいたしますか？","要跳过演出吗？","cancel_scroll_message","False","","","
 要跳过演出吗？
 
 跳过演出吗？"
-"Hazy_Localization.txt:122","【{0}】","【{0}】","option_keyconfig_subtitle","False","","","
+"Hazy_Localization.txt:123","【{0}】","【{0}】","option_keyconfig_subtitle","False","","","
 {0}】
 
 【{0}】"
-"Hazy_Localization.txt:123","PARANORMASIGHT","灵异视界","ac01_title","False","","",""
-"Hazy_Localization.txt:124","すべての実績を獲得する","取得全部成就","ac01_detail","False","","","
+"Hazy_Localization.txt:124","PARANORMASIGHT","灵异视界","ac01_title","False","","",""
+"Hazy_Localization.txt:125","すべての実績を獲得する","取得全部成就","ac01_detail","False","","","
 取得全部业绩
 
 取得全部实绩"
-"Hazy_Localization.txt:125","東京なめどり連合","东京反舌鸟联合","ac02_title","False","","","
+"Hazy_Localization.txt:126","東京なめどり連合","东京反舌鸟联合","ac02_title","False","","","
 东京斜交联合
 
 东京三角联盟"
-"Hazy_Localization.txt:126","なめどりシールをコンプリートした","完成了反舌鸟贴纸","ac02_detail","False","","","
+"Hazy_Localization.txt:127","なめどりシールをコンプリートした","完成了反舌鸟贴纸","ac02_detail","False","","","
 完美地制作了舔舐贴纸
 
 完成倾斜密封"
-"Hazy_Localization.txt:127","本所事変完全掌握","完全掌握本所事变","ac03_title","False","","","
+"Hazy_Localization.txt:128","本所事変完全掌握","完全掌握本所事变","ac03_title","False","","","
 完全掌握本所事变
 
 完全掌握本所事变"
-"Hazy_Localization.txt:128","ストーリーをコンプリートした","完成了故事","ac03_detail","False","","","
+"Hazy_Localization.txt:129","ストーリーをコンプリートした","完成了故事","ac03_detail","False","","","
 把故事完整了
 
 完成故事"
-"Hazy_Localization.txt:129","本所の人脈通","本所的人脉通","ac04_title","False","","","
+"Hazy_Localization.txt:130","本所の人脈通","本所的人脉通","ac04_title","False","","","
 本所的人脉通
 
 本所の人脈通"
-"Hazy_Localization.txt:130","人物リストをコンプリートした","完成了人物列表","ac04_detail","False","","","
+"Hazy_Localization.txt:131","人物リストをコンプリートした","完成了人物列表","ac04_detail","False","","","
 完成人物列表
 
 完整地列出了人物列表"
-"Hazy_Localization.txt:131","本所の情報屋","本所的情报屋","ac05_title","False","","","
+"Hazy_Localization.txt:132","本所の情報屋","本所的情报屋","ac05_title","False","","","
 本所的情报贩子
 
 本所的情报店"
-"Hazy_Localization.txt:132","資料をコンプリートした","完成了资料","ac05_detail","False","","","
+"Hazy_Localization.txt:133","資料をコンプリートした","完成了资料","ac05_detail","False","","","
 整理了资料
 
 资料完成了"
-"Hazy_Localization.txt:133","本所七不思議制覇","本所七大不可思议称霸","ac06_title","False","","","
+"Hazy_Localization.txt:134","本所七不思議制覇","本所七大不可思议称霸","ac06_title","False","","","
 本所七大不可思议称霸
 
 本所七大不可思议称霸"
-"Hazy_Localization.txt:134","呪影をコンプリートした","完成了咒影","ac06_detail","False","","","
+"Hazy_Localization.txt:135","呪影をコンプリートした","完成了咒影","ac06_detail","False","","","
 完整了咒影
 
 完成咒影"
-"Hazy_Localization.txt:135","なめどりエキスパート","反舌鸟专家","ac07_title","False","","","
+"Hazy_Localization.txt:136","なめどりエキスパート","反舌鸟专家","ac07_title","False","","","
 斜度专家
 
 舔舐专家"
-"Hazy_Localization.txt:136","なめどりシールを１５種類獲得した","获得了１５种反舌鸟贴纸","ac07_detail","False","","","
+"Hazy_Localization.txt:137","なめどりシールを１５種類獲得した","获得了１５种反舌鸟贴纸","ac07_detail","False","","","
 获得了15种舔舐贴纸。
 
 获得了15种斜向密封"
-"Hazy_Localization.txt:137","責務完遂","完成职责","ac08_title","False","","","
+"Hazy_Localization.txt:138","責務完遂","完成职责","ac08_title","False","","","
 完成职责
 
 完成职责"
-"Hazy_Localization.txt:138","興家彰吾のエンディングを迎えた","迎来了兴家彰吾的结局","ac08_detail","False","","","
+"Hazy_Localization.txt:139","興家彰吾のエンディングを迎えた","迎来了兴家彰吾的结局","ac08_detail","False","","","
 迎来了兴家彰吾的结局
 
 迎来了兴家彰吾的结局"
-"Hazy_Localization.txt:139","なめどりコレクター","反舌鸟收集家","ac09_title","False","","","
+"Hazy_Localization.txt:140","なめどりコレクター","反舌鸟收集家","ac09_title","False","","","
 倾斜收集器
 
 收藏爱好者"
-"Hazy_Localization.txt:140","なめどりシールを１０種類獲得した","获得了１０种反舌鸟贴纸","ac09_detail","False","","","
+"Hazy_Localization.txt:141","なめどりシールを１０種類獲得した","获得了１０种反舌鸟贴纸","ac09_detail","False","","","
 获得了10种舔舐贴纸。
 
 获得了10种斜向密封"
-"Hazy_Localization.txt:141","真夜中の恐怖","半夜的恐怖","ac10_title","False","","","
+"Hazy_Localization.txt:142","真夜中の恐怖","半夜的恐怖","ac10_title","False","","","
 半夜的恐怖
 
 深夜的恐惧"
-"Hazy_Localization.txt:142","真夜中にゲームをプレイする","半夜玩游戏","ac10_detail","False","","","
+"Hazy_Localization.txt:143","真夜中にゲームをプレイする","半夜玩游戏","ac10_detail","False","","","
 半夜玩游戏
 
 半夜玩游戏"
-"Hazy_Localization.txt:143","ベテラン探究者","资深探究者","ac11_title","False","","","
+"Hazy_Localization.txt:144","ベテラン探究者","资深探究者","ac11_title","False","","","
 资深探究者
 
 老练的探究者"
-"Hazy_Localization.txt:144","プレイ時間が１０時間に達した","游戏时间达到１０小时","ac11_detail","False","","","
+"Hazy_Localization.txt:145","プレイ時間が１０時間に達した","游戏时间达到１０小时","ac11_detail","False","","","
 游戏时间达到10小时
 
 玩了十个小时"
-"Hazy_Localization.txt:145","脱三日坊主","脱离三天热度","ac12_title","False","","","
+"Hazy_Localization.txt:146","脱三日坊主","脱离三天热度","ac12_title","False","","","
 脱三分钟热度
 
 三天打鱼两天晒网"
-"Hazy_Localization.txt:146","３日後にゲームをプレイする","３天后玩游戏","ac12_detail","False","","","
+"Hazy_Localization.txt:147","３日後にゲームをプレイする","３天后玩游戏","ac12_detail","False","","","
 三天后玩游戏
 
 三天后玩游戏"
-"Hazy_Localization.txt:147","志岐間春恵の伝説","志岐间春惠的传说","ac13_title","False","","","
+"Hazy_Localization.txt:148","志岐間春恵の伝説","志岐间春惠的传说","ac13_title","False","","","
 志岐间春惠的传说
 
 志岐间春惠的传说"
-"Hazy_Localization.txt:148","志岐間春恵のエンディングを迎えた","迎来了志岐间春惠的结局","ac13_detail","False","","","
+"Hazy_Localization.txt:149","志岐間春恵のエンディングを迎えた","迎来了志岐间春惠的结局","ac13_detail","False","","","
 迎来了志岐间春惠的结局
 
 迎来了志岐间春惠的结局"
-"Hazy_Localization.txt:149","襟尾純の選択","襟尾纯的选择","ac14_title","False","","","
+"Hazy_Localization.txt:150","襟尾純の選択","襟尾纯的选择","ac14_title","False","","","
 襟尾纯的选择
 
 选择襟尾纯"
-"Hazy_Localization.txt:150","津詰徹生のエンディングを迎えた","迎来了津诘彻生的结局","ac14_detail","False","","","
+"Hazy_Localization.txt:151","津詰徹生のエンディングを迎えた","迎来了津诘彻生的结局","ac14_detail","False","","","
 迎来了津诘彻生的结局
 
 迎来了津诘彻生的结局"
-"Hazy_Localization.txt:151","白石美智代の怨讐","白石美智代的怨恨","ac15_title","False","","","
+"Hazy_Localization.txt:152","白石美智代の怨讐","白石美智代的怨恨","ac15_title","False","","","
 白石美智代的怨恨
 
 白石美智代的恩怨"
-"Hazy_Localization.txt:152","逆崎約子のエンディングを迎えた","迎来了逆崎约子的结局","ac15_detail","False","","","
+"Hazy_Localization.txt:153","逆崎約子のエンディングを迎えた","迎来了逆崎约子的结局","ac15_detail","False","","","
 迎来了逆崎约子的结局
 
 迎来了逆崎约子的结局"
-"Hazy_Localization.txt:153","根島史周の追慕","根岛史周的追悼","ac16_title","False","","","
+"Hazy_Localization.txt:154","根島史周の追慕","根岛史周的追悼","ac16_title","False","","","
 根岛史周的追悼
 
 根岛史周的追悼"
-"Hazy_Localization.txt:154","葦宮バッドエンドを迎えた","迎来了苇宫的坏结局","ac16_detail","False","","","
+"Hazy_Localization.txt:155","葦宮バッドエンドを迎えた","迎来了苇宫的坏结局","ac16_detail","False","","","
 苇宫迎来了坏结局
 
 迎来了苇宫的结局"
-"Hazy_Localization.txt:155","灯野あやめの本懐","灯野菖蒲的夙愿","ac17_title","False","","","
+"Hazy_Localization.txt:156","灯野あやめの本懐","灯野菖蒲的夙愿","ac17_title","False","","","
 灯野菖蒲的夙愿
 
 灯野菖蒲的本怀"
-"Hazy_Localization.txt:156","あやめバッドエンドを迎えた","迎来了菖蒲的坏结局","ac17_detail","False","","","
+"Hazy_Localization.txt:157","あやめバッドエンドを迎えた","迎来了菖蒲的坏结局","ac17_detail","False","","","
 迎来了菖蒲节
 
 菖蒲迎来了坏结局"
-"Hazy_Localization.txt:157","なめどりビギナー","反舌鸟初学者","ac18_title","False","","","
+"Hazy_Localization.txt:158","なめどりビギナー","反舌鸟初学者","ac18_title","False","","","
 舔舐初学者
 
 斜齿轮"
-"Hazy_Localization.txt:158","なめどりシールを５種類獲得した","获得了５种反舌鸟贴纸","ac18_detail","False","","","
+"Hazy_Localization.txt:159","なめどりシールを５種類獲得した","获得了５种反舌鸟贴纸","ac18_detail","False","","","
 获得了五种舔舐贴纸。
 
 获得了5种斜纹贴纸"
-"Hazy_Localization.txt:159","ヒヨっ子なめどり","雏鸟反舌鸟","ac19_title","False","","","
+"Hazy_Localization.txt:160","ヒヨっ子なめどり","雏鸟反舌鸟","ac19_title","False","","","
 舔小鸡
 
 小白脸小白脸"
-"Hazy_Localization.txt:160","なめどりシールを１種類獲得した","获得了１种反舌鸟贴纸","ac19_detail","False","","","
+"Hazy_Localization.txt:161","なめどりシールを１種類獲得した","获得了１种反舌鸟贴纸","ac19_detail","False","","","
 获得了一种斜向密封
 
 获得了一种舔舐贴纸"
-"Hazy_Localization.txt:161","殺したのは誰？","是谁杀的？","ac20_title","False","","","
+"Hazy_Localization.txt:162","殺したのは誰？","是谁杀的？","ac20_title","False","","","
 是谁杀的？
 
 是谁杀的？"
-"Hazy_Localization.txt:162","案内人の質問に正解する","正确回答向导的问题","ac20_detail","False","","","
+"Hazy_Localization.txt:163","案内人の質問に正解する","正确回答向导的问题","ac20_detail","False","","","
 正确回答向导的问题
 
 答对向导的提问"
-"Hazy_Localization.txt:163","蘇りの秘術","复活秘术","ac21_title","False","","","
+"Hazy_Localization.txt:164","蘇りの秘術","复活秘术","ac21_title","False","","","
 复活秘术
 
 复活秘术"
-"Hazy_Localization.txt:164","序章をクリアした","完成了序章","ac21_detail","False","","","
+"Hazy_Localization.txt:165","序章をクリアした","完成了序章","ac21_detail","False","","","
 完成了序章
 
 完成序章"
-"Hazy_Localization.txt:165","志岐間春恵の願い","志岐间春惠的愿望","ac22_title","False","","","
+"Hazy_Localization.txt:166","志岐間春恵の願い","志岐间春惠的愿望","ac22_title","False","","","
 志岐间春惠的愿望
 
 志岐间春惠的愿望"
-"Hazy_Localization.txt:166","１章志岐間篇をクリアした","完成了第１章志岐间篇","ac22_detail","False","","","
+"Hazy_Localization.txt:167","１章志岐間篇をクリアした","完成了第１章志岐间篇","ac22_detail","False","","","
 1章志岐间篇通关了
 
 第1章志岐间篇通关"
-"Hazy_Localization.txt:167","津詰徹生の捜査","津诘彻生的搜查","ac23_title","False","","","
+"Hazy_Localization.txt:168","津詰徹生の捜査","津诘彻生的搜查","ac23_title","False","","","
 津诘彻生的搜查
 
 津诘彻生的搜查"
-"Hazy_Localization.txt:168","１章津詰篇をクリアした","完成了第１章津诘篇","ac23_detail","False","","","
+"Hazy_Localization.txt:169","１章津詰篇をクリアした","完成了第１章津诘篇","ac23_detail","False","","","
 1章津诘篇通关
 
 读完了第一章诘篇"
-"Hazy_Localization.txt:169","逆崎約子の友情","逆崎约子的友情","ac24_title","False","","","
+"Hazy_Localization.txt:170","逆崎約子の友情","逆崎约子的友情","ac24_title","False","","","
 逆崎约子的友情
 
 逆崎約子の友情"
-"Hazy_Localization.txt:170","１章逆崎篇をクリアした","完成了第１章逆崎篇","ac24_detail","False","","","
+"Hazy_Localization.txt:171","１章逆崎篇をクリアした","完成了第１章逆崎篇","ac24_detail","False","","","
 第1章逆崎篇通关
 
 完成了第1章逆崎篇"
-"Hazy_Localization.txt:171","志岐間春恵の覚悟","志岐间春惠的觉悟","ac25_title","False","","","
+"Hazy_Localization.txt:172","志岐間春恵の覚悟","志岐间春惠的觉悟","ac25_title","False","","","
 志岐间春惠的觉悟
 
 志岐間春恵の覚悟"
-"Hazy_Localization.txt:172","２章志岐間篇をクリアした","完成了第２章志岐间篇","ac25_detail","False","","","
+"Hazy_Localization.txt:173","２章志岐間篇をクリアした","完成了第２章志岐间篇","ac25_detail","False","","","
 2章志岐间篇通关了
 
 第2章志岐间篇通关"
-"Hazy_Localization.txt:173","津詰徹生の後悔","津诘彻生的后悔","ac26_title","False","","","
+"Hazy_Localization.txt:174","津詰徹生の後悔","津诘彻生的后悔","ac26_title","False","","","
 津诘彻生的后悔
 
 津詰徹生の後悔"
-"Hazy_Localization.txt:174","２章津詰篇をクリアした","完成了第２章津诘篇","ac26_detail","False","","","
+"Hazy_Localization.txt:175","２章津詰篇をクリアした","完成了第２章津诘篇","ac26_detail","False","","","
 完成第2章津诘篇
 
 读完了第二章诘篇"
-"Hazy_Localization.txt:175","逆崎約子の正義","逆崎约子的正义","ac27_title","False","","","
+"Hazy_Localization.txt:176","逆崎約子の正義","逆崎约子的正义","ac27_title","False","","","
 逆崎约子的正义
 
 逆崎约子的正义"
-"Hazy_Localization.txt:176","２章逆崎篇をクリアした","完成了第２章逆崎篇","ac27_detail","False","","","
+"Hazy_Localization.txt:177","２章逆崎篇をクリアした","完成了第２章逆崎篇","ac27_detail","False","","","
 第2章逆崎篇通关
 
 完成了第2章逆崎篇"
-"Hazy_Localization.txt:177","蝶澤麻由の脱出","蝶泽麻由的逃脱","ac28_title","False","","","
+"Hazy_Localization.txt:178","蝶澤麻由の脱出","蝶泽麻由的逃脱","ac28_title","False","","","
 蝶泽麻由的逃脱
 
 蝶泽麻由的逃脱"
-"Hazy_Localization.txt:178","２章蝶澤篇をクリアした","完成了第２章蝶泽篇","ac28_detail","False","","","
+"Hazy_Localization.txt:179","２章蝶澤篇をクリアした","完成了第２章蝶泽篇","ac28_detail","False","","","
 第2章蝶泽篇通关
 
 完成了第2章蝶泽篇"
-"Hazy_Localization.txt:179","興家彰吾の油断","兴家彰吾的疏忽","ac29_title","False","","","
+"Hazy_Localization.txt:180","興家彰吾の油断","兴家彰吾的疏忽","ac29_title","False","","","
 兴家彰吾的疏忽大意
 
 兴家彰吾的疏忽大意"
-"Hazy_Localization.txt:180","興家彰吾が死亡した","兴家彰吾死亡","ac29_detail","False","","","
+"Hazy_Localization.txt:181","興家彰吾が死亡した","兴家彰吾死亡","ac29_detail","False","","","
 兴家彰吾死了
 
 兴家彰吾死了"
-"Hazy_Localization.txt:181","消えずの興家彰吾","不灭的兴家彰吾","ac30_title","False","","","
+"Hazy_Localization.txt:182","消えずの興家彰吾","不灭的兴家彰吾","ac30_title","False","","","
 不灭的兴家彰吾
 
 永不消失的兴家彰吾"
-"Hazy_Localization.txt:182","興家彰吾が死亡した","兴家彰吾死亡","ac30_detail","False","","","
+"Hazy_Localization.txt:183","興家彰吾が死亡した","兴家彰吾死亡","ac30_detail","False","","","
 兴家彰吾死了
 
 兴家彰吾死了"
-"Hazy_Localization.txt:183","足洗い興家彰吾","洗脚兴家彰吾","ac31_title","False","","","
+"Hazy_Localization.txt:184","足洗い興家彰吾","洗脚兴家彰吾","ac31_title","False","","","
 洗脚兴家彰吾
 
 兴家彰吾洗脚"
-"Hazy_Localization.txt:184","興家彰吾が死亡した","兴家彰吾死亡","ac31_detail","False","","","
+"Hazy_Localization.txt:185","興家彰吾が死亡した","兴家彰吾死亡","ac31_detail","False","","","
 兴家彰吾死了
 
 兴家彰吾死了"
-"Hazy_Localization.txt:185","送り興家彰吾","送行兴家彰吾","ac32_title","False","","","
+"Hazy_Localization.txt:186","送り興家彰吾","送行兴家彰吾","ac32_title","False","","","
 送兴家彰吾
 
 送兴家彰吾"
-"Hazy_Localization.txt:186","興家彰吾が死亡した","兴家彰吾死亡","ac32_detail","False","","","
+"Hazy_Localization.txt:187","興家彰吾が死亡した","兴家彰吾死亡","ac32_detail","False","","","
 兴家彰吾死了
 
 兴家彰吾死了"
-"Hazy_Localization.txt:187","足洗い津詰徹生","洗脚津诘彻生","ac33_title","False","","","
+"Hazy_Localization.txt:188","足洗い津詰徹生","洗脚津诘彻生","ac33_title","False","","","
 洗脚津诘彻生
 
 津诘彻生"
-"Hazy_Localization.txt:188","津詰徹生が死亡した","津诘彻生死亡","ac33_detail","False","","","
+"Hazy_Localization.txt:189","津詰徹生が死亡した","津诘彻生死亡","ac33_detail","False","","","
 津诘彻生死亡
 
 津诘彻生死了"
-"Hazy_Localization.txt:189","片葉の逆崎約子","片叶的逆崎约子","ac34_title","False","","","
+"Hazy_Localization.txt:190","片葉の逆崎約子","片叶的逆崎约子","ac34_title","False","","","
 片叶的逆崎约子
 
 片叶逆崎约子"
-"Hazy_Localization.txt:190","逆崎約子が死亡した","逆崎约子死亡","ac34_detail","False","","","
+"Hazy_Localization.txt:191","逆崎約子が死亡した","逆崎约子死亡","ac34_detail","False","","","
 逆崎约子死了
 
 逆崎约子死亡了"
-"Hazy_Localization.txt:191","消えずの逆崎約子","不灭的逆崎约子","ac35_title","False","","","
+"Hazy_Localization.txt:192","消えずの逆崎約子","不灭的逆崎约子","ac35_title","False","","","
 不消失的逆崎约子
 
 没有消失的逆崎约子"
-"Hazy_Localization.txt:192","逆崎約子が死亡した","逆崎约子死亡","ac35_detail","False","","","
+"Hazy_Localization.txt:193","逆崎約子が死亡した","逆崎约子死亡","ac35_detail","False","","","
 逆崎约子死了
 
 逆崎约子死亡了"
-"Hazy_Localization.txt:193","AUTO切り替え(ボタン表示時)","AUTO切换（显示按钮时）","operation_auto","False","","","
+"Hazy_Localization.txt:194","AUTO切り替え(ボタン表示時)","AUTO切换（显示按钮时）","operation_auto","False","","","
 AUTO切换（显示按钮时）
 
 自动切换（按钮显示时）"
-"Hazy_Localization.txt:194","視点拡大","放大视野","operation_expansion","False","","","
+"Hazy_Localization.txt:195","視点拡大","放大视野","operation_expansion","False","","","
 放大视点
 
 扩大视角"
-"Hazy_Localization.txt:195","視点縮小","缩小视野","operation_shrink","False","","","
+"Hazy_Localization.txt:196","視点縮小","缩小视野","operation_shrink","False","","","
 缩小视点
 
 缩小视角"
-"Hazy_Localization.txt:196","カーソル移動","光标移动","operation_cursor_move","False","","","
+"Hazy_Localization.txt:197","カーソル移動","光标移动","operation_cursor_move","False","","","
 光标移动
 
 移动光标"
-"Hazy_Localization.txt:197","項目選択","选择项目","operation_item_select","False","","","
+"Hazy_Localization.txt:198","項目選択","选择项目","operation_item_select","False","","","
 选择项目
 
 项目选择"
-"Hazy_Localization.txt:198","視点移動/","视角移动/","operation_perspective_move","False","","","
+"Hazy_Localization.txt:199","視点移動/","视角移动/","operation_perspective_move","False","","","
 视点移动/
 
 视点移动/"
-"Hazy_Localization.txt:199","スクロール","滚动","operation_scroll","False","","","
+"Hazy_Localization.txt:200","スクロール","滚动","operation_scroll","False","","","
 滚动
 
 滚动"
-"Hazy_Localization.txt:200","視点拡大/縮小","视角放大/缩小","operation_scaling","False","","","
+"Hazy_Localization.txt:201","視点拡大/縮小","视角放大/缩小","operation_scaling","False","","","
 放大/缩小视点
 
 视点扩大/缩小"
-"Hazy_Localization.txt:201","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","触摸屏也可以操作<br>（用两根手指滑动来移动视角）","operation_screen","False","","","
+"Hazy_Localization.txt:202","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","触摸屏也可以操作<br>（用两根手指滑动来移动视角）","operation_screen","False","","","
 触摸屏也可以操作<br>（视点移动用两根手指滑动）
 
 也可以用触摸屏操作<br>（用两根手指滑动视角）"
-"Hazy_Localization.txt:202","？？？","？？？","documentlist_disable_title","False","","","
+"Hazy_Localization.txt:203","？？？","？？？","documentlist_disable_title","False","","","
 ？？？
 
 ？？？"
-"Hazy_Localization.txt:203","？？？","？？？","save_charaname_unknown","False","","","
+"Hazy_Localization.txt:204","？？？","？？？","save_charaname_unknown","False","","","
 ？？？
 
 ？？？"
-"Hazy_Localization.txt:204","興家 彰吾","兴家彰吾","txid_chr01_st","False","","","
+"Hazy_Localization.txt:205","興家 彰吾","兴家彰吾","txid_chr01_st","False","","","
 兴家彰吾
 
 兴家彰吾"
-"Hazy_Localization.txt:205","福永 葉子","福永叶子","txid_chr02_st","False","","","
+"Hazy_Localization.txt:206","福永 葉子","福永叶子","txid_chr02_st","False","","","
 福永叶子
 
 福永叶子"
-"Hazy_Localization.txt:206","志岐間 春恵","志岐间春惠","txid_chr03_st","False","","","
+"Hazy_Localization.txt:207","志岐間 春恵","志岐间春惠","txid_chr03_st","False","","","
 志岐间春惠
 
 志岐间春惠"
-"Hazy_Localization.txt:207","櫂 利飛太","櫂利飞太","txid_chr04_st","False","","","
+"Hazy_Localization.txt:208","櫂 利飛太","櫂利飞太","txid_chr04_st","False","","","
 棹利飞太
 
 棹利飞太"
-"Hazy_Localization.txt:208","津詰 徹生","津诘彻生","txid_chr05_st","False","","","
+"Hazy_Localization.txt:209","津詰 徹生","津诘彻生","txid_chr05_st","False","","","
 津诘彻生
 
 津诘彻生"
-"Hazy_Localization.txt:209","襟尾 純","襟尾纯","txid_chr06_st","False","","","
+"Hazy_Localization.txt:210","襟尾 純","襟尾纯","txid_chr06_st","False","","","
 襟尾纯
 
 襟尾纯"
-"Hazy_Localization.txt:210","吉見 肇","吉见肇","txid_chr07_st","False","","","
+"Hazy_Localization.txt:211","吉見 肇","吉见肇","txid_chr07_st","False","","","
 吉见肇
 
 吉见肇"
-"Hazy_Localization.txt:211","黒鈴 ミヲ","黑铃美绪","txid_chr08_st","False","","","
+"Hazy_Localization.txt:212","黒鈴 ミヲ","黑铃美绪","txid_chr08_st","False","","","
 黑铃美绪
 
 黑铃美绪"
-"Hazy_Localization.txt:212","逆崎 約子","逆崎约子","txid_chr09_st","False","","","
+"Hazy_Localization.txt:213","逆崎 約子","逆崎约子","txid_chr09_st","False","","","
 逆崎约子
 
 逆崎约子"
-"Hazy_Localization.txt:213","白石 美智代","白石美智代","txid_chr10_st","False","","","
+"Hazy_Localization.txt:214","白石 美智代","白石美智代","txid_chr10_st","False","","","
 白石美智代
 
 白石美智代"
-"Hazy_Localization.txt:214","奥田 瞳","奥田瞳","txid_chr11_st","False","","","
+"Hazy_Localization.txt:215","奥田 瞳","奥田瞳","txid_chr11_st","False","","","
 奥田瞳
 
 奥田瞳"
-"Hazy_Localization.txt:215","城之内 耕兵","城之内耕兵","txid_chr12_st","False","","","
+"Hazy_Localization.txt:216","城之内 耕兵","城之内耕兵","txid_chr12_st","False","","","
 城之内耕兵
 
 城之内耕兵"
-"Hazy_Localization.txt:216","葦宮 誠","苇宫诚","txid_chr13_st","False","","","
+"Hazy_Localization.txt:217","葦宮 誠","苇宫诚","txid_chr13_st","False","","","
 苇宫诚
 
 苇宫诚"
-"Hazy_Localization.txt:217","蝶澤 麻由","蝶泽麻由","txid_chr14_st","False","","","
+"Hazy_Localization.txt:218","蝶澤 麻由","蝶泽麻由","txid_chr14_st","False","","","
 蝶泽麻由
 
 蝶泽麻由"
-"Hazy_Localization.txt:218","並垣 祐太郎","并垣祐太郎","txid_chr15_st","False","","","
+"Hazy_Localization.txt:219","並垣 祐太郎","并垣祐太郎","txid_chr15_st","False","","","
 并垣佑太郎
 
 并垣佑太郎"
-"Hazy_Localization.txt:219","灯野 あやめ","灯野菖蒲","txid_chr16_st","False","","","
+"Hazy_Localization.txt:220","灯野 あやめ","灯野菖蒲","txid_chr16_st","False","","","
 灯野菖蒲
 
 灯野菖蒲"
-"Hazy_Localization.txt:220","新石 英樹","新石英树","txid_chr17_st","False","","","
+"Hazy_Localization.txt:221","新石 英樹","新石英树","txid_chr17_st","False","","","
 新石英树
 
 新石英树"
-"Hazy_Localization.txt:221","山森 ナツヱ","山森夏江","txid_chr18_st","False","","","
+"Hazy_Localization.txt:222","山森 ナツヱ","山森夏江","txid_chr18_st","False","","","
 山森夏江
 
 山森夏江"
-"Hazy_Localization.txt:222","弓岡 巧己","弓冈巧己","txid_chr19_st","False","","","
+"Hazy_Localization.txt:223","弓岡 巧己","弓冈巧己","txid_chr19_st","False","","","
 弓冈巧己
 
 弓冈巧己"
-"Hazy_Localization.txt:223","岩井 官吉郎","岩井官吉郎","txid_chr20_st","False","","","
+"Hazy_Localization.txt:224","岩井 官吉郎","岩井官吉郎","txid_chr20_st","False","","","
 岩井官吉郎
 
 岩井官吉郎"
-"Hazy_Localization.txt:224","志岐間 修一","志岐间修一","txid_chr21_st","False","","","
+"Hazy_Localization.txt:225","志岐間 修一","志岐间修一","txid_chr21_st","False","","","
 志岐间修一
 
 志岐间修一"
-"Hazy_Localization.txt:225","根島 史周","根岛史周","txid_chr22_st","False","","","
+"Hazy_Localization.txt:226","根島 史周","根岛史周","txid_chr22_st","False","","","
 根岛史周
 
 根岛史周"
-"Hazy_Localization.txt:226","案内人","向导","txid_chr30_st","False","","","
+"Hazy_Localization.txt:227","案内人","向导","txid_chr30_st","False","","","
 向导
 
 向导"
-"Hazy_Localization.txt:227","ゲームの遊び方","游戏的玩法","txid_doc01_st","False","","","
+"Hazy_Localization.txt:228","ゲームの遊び方","游戏的玩法","txid_doc01_st","False","","","
 游戏的玩法
 
 游戏的玩法"
-"Hazy_Localization.txt:228","本所七不思議","本所七大不可思议","txid_doc04_st","False","","","
+"Hazy_Localization.txt:229","本所七不思議","本所七大不可思议","txid_doc04_st","False","","","
 本所七大不可思议
 
 本所七大不可思议"
-"Hazy_Localization.txt:229","『置いてけ堀』","“置行堀”","txid_doc05_st","False","","","
+"Hazy_Localization.txt:230","『置いてけ堀』","“置行堀”","txid_doc05_st","False","","","
 “置行堀”
 
 “置行堀。”"
-"Hazy_Localization.txt:230","『馬鹿囃子』","“马鹿囃子”","txid_doc06_st","False","","","
+"Hazy_Localization.txt:231","『馬鹿囃子』","“马鹿囃子”","txid_doc06_st","False","","","
 “马鹿杂曲”
 
 “马鹿杂曲”"
-"Hazy_Localization.txt:231","『送り提灯』","“送行提灯”","txid_doc07_st","False","","","
+"Hazy_Localization.txt:232","『送り提灯』","“送行提灯”","txid_doc07_st","False","","","
 “送行提灯”
 
 “送行提灯”"
-"Hazy_Localization.txt:232","『送り拍子木』","“送行拍子木”","txid_doc08_st","False","","","
+"Hazy_Localization.txt:233","『送り拍子木』","“送行拍子木”","txid_doc08_st","False","","","
 “送行拍子木”
 
 “送行拍子木”"
-"Hazy_Localization.txt:233","『落葉なき椎』","“落叶秃椎”","txid_doc09_st","False","","","
+"Hazy_Localization.txt:234","『落葉なき椎』","“落叶秃椎”","txid_doc09_st","False","","","
 “落叶秃椎”
 
 “落叶秃椎”"
-"Hazy_Localization.txt:234","『津軽の太鼓』","“津轻太鼓”","txid_doc10_st","False","","","
+"Hazy_Localization.txt:235","『津軽の太鼓』","“津轻太鼓”","txid_doc10_st","False","","","
 “津轻太鼓”
 
 “津轻太鼓”"
-"Hazy_Localization.txt:235","『足洗い屋敷』","“足洗邸”","txid_doc11_st","False","","","
+"Hazy_Localization.txt:236","『足洗い屋敷』","“足洗邸”","txid_doc11_st","False","","","
 “足洗邸”
 
 “足洗邸”"
-"Hazy_Localization.txt:236","『片葉の芦』","“片叶芦苇”","txid_doc12_st","False","","","
+"Hazy_Localization.txt:237","『片葉の芦』","“片叶芦苇”","txid_doc12_st","False","","","
 “片叶芦苇”
 
 “片叶芦苇”"
-"Hazy_Localization.txt:237","『消えずの行灯』","“不灭行灯”","txid_doc13_st","False","","","
+"Hazy_Localization.txt:238","『消えずの行灯』","“不灭行灯”","txid_doc13_st","False","","","
 “不灭行灯”
 
 “永不熄灭的灯笼”"
-"Hazy_Localization.txt:238","蘇りの秘術","复活秘术","txid_doc15_st","False","","","
+"Hazy_Localization.txt:239","蘇りの秘術","复活秘术","txid_doc15_st","False","","","
 复活秘术
 
 复活秘术"
-"Hazy_Localization.txt:239","呪影／呪主","咒影／咒主","txid_doc17_st","False","","","
+"Hazy_Localization.txt:240","呪影／呪主","咒影／咒主","txid_doc17_st","False","","","
 咒影/咒主
 
 诅咒之影"
-"Hazy_Localization.txt:240","呪詛珠","诅咒珠","txid_doc18_st","False","","","
+"Hazy_Localization.txt:241","呪詛珠","诅咒珠","txid_doc18_st","False","","","
 诅咒珠
 
 诅咒珠"
-"Hazy_Localization.txt:241","滓魂","魂渣","txid_doc19_st","False","","","
+"Hazy_Localization.txt:242","滓魂","魂渣","txid_doc19_st","False","","","
 魂渣
 
 烂灵魂"
-"Hazy_Localization.txt:242","禄命簿","禄命簿","txid_doc22_st","False","","","
+"Hazy_Localization.txt:243","禄命簿","禄命簿","txid_doc22_st","False","","","
 禄命簿
 
 禄命簿"
-"Hazy_Localization.txt:243","禄命簿・陰の書","禄命簿·阴之书","txid_doc48_st","False","","","
+"Hazy_Localization.txt:244","禄命簿・陰の書","禄命簿·阴之书","txid_doc48_st","False","","","
 禄命簿·阴之书
 
 禄命簿"
-"Hazy_Localization.txt:244","霊夜祭","灵夜祭","txid_doc25_st","False","","","
+"Hazy_Localization.txt:245","霊夜祭","灵夜祭","txid_doc25_st","False","","","
 灵夜祭
 
 灵夜祭"
-"Hazy_Localization.txt:245","陰陽師","阴阳师","txid_doc42_st","False","","","
+"Hazy_Localization.txt:246","陰陽師","阴阳师","txid_doc42_st","False","","","
 阴阳师
 
 阴阳师"
-"Hazy_Localization.txt:246","西洋黒魔術","西洋黑魔法","txid_doc49_st","False","","","
+"Hazy_Localization.txt:247","西洋黒魔術","西洋黑魔法","txid_doc49_st","False","","","
 西洋黑魔法
 
 黑魔法"
-"Hazy_Localization.txt:247","本所事変","本所事变","txid_doc14_st","False","","","
+"Hazy_Localization.txt:248","本所事変","本所事变","txid_doc14_st","False","","","
 本所事变
 
 本所事变"
-"Hazy_Localization.txt:248","東京都墨田区","东京都墨田区","txid_doc02_st","False","","","
+"Hazy_Localization.txt:249","東京都墨田区","东京都墨田区","txid_doc02_st","False","","","
 东京都墨田区
 
 墨田区"
-"Hazy_Localization.txt:249","FILE23","FILE23","txid_doc20_st","False","","",""
-"Hazy_Localization.txt:250","本所","本所","txid_doc03_st","False","","","
+"Hazy_Localization.txt:250","FILE23","FILE23","txid_doc20_st","False","","",""
+"Hazy_Localization.txt:251","本所","本所","txid_doc03_st","False","","","
 吹
 
 本所"
-"Hazy_Localization.txt:251","隅田川","隅田川","txid_doc27_st","False","","","
+"Hazy_Localization.txt:252","隅田川","隅田川","txid_doc27_st","False","","","
 隅田川
 
 隅田川"
-"Hazy_Localization.txt:252","両国橋","两国桥","txid_doc28_st","False","","","
+"Hazy_Localization.txt:253","両国橋","两国桥","txid_doc28_st","False","","","
 两国桥
 
 两国桥"
-"Hazy_Localization.txt:253","駒形橋","驹形桥","txid_doc29_st","False","","","
+"Hazy_Localization.txt:254","駒形橋","驹形桥","txid_doc29_st","False","","","
 驹形桥
 
 驹形桥"
-"Hazy_Localization.txt:254","南割下水通り","南割下水大街","txid_doc30_st","False","","","
-南割下水道
+"Hazy_Localization.txt:255","南割下水通り","南割下水大街","txid_doc30_st","False","","","
+南割下水大街
 
-南割下水道"
-"Hazy_Localization.txt:255","錦糸堀公園","锦丝堀公园","txid_doc31_st","False","","","
+南割下水大街"
+"Hazy_Localization.txt:256","錦糸堀公園","锦丝堀公园","txid_doc31_st","False","","","
 锦丝堀公园
 
 锦丝堀公园"
-"Hazy_Localization.txt:256","旧安田庭園","旧安田庭园","txid_doc32_st","False","","","
+"Hazy_Localization.txt:257","旧安田庭園","旧安田庭园","txid_doc32_st","False","","","
 旧安田庭园
 
 旧安田庭园"
-"Hazy_Localization.txt:257","緑町公園","绿町公园","txid_doc33_st","False","","","
+"Hazy_Localization.txt:258","緑町公園","绿町公园","txid_doc33_st","False","","","
 绿町公园
 
 绿町公园"
-"Hazy_Localization.txt:258","ヒハク石鹸","飞白肥皂","txid_doc23_st","False","","","
+"Hazy_Localization.txt:259","ヒハク石鹸","飞白肥皂","txid_doc23_st","False","","","
 飞白肥皂
 
 香皂"
-"Hazy_Localization.txt:259","駒形高校","驹形高中","txid_doc34_st","False","","","
+"Hazy_Localization.txt:260","駒形高校","驹形高中","txid_doc34_st","False","","","
 驹形高中
 
 驹形高中"
-"Hazy_Localization.txt:260","志岐間邸","志岐间邸","txid_doc35_st","False","","","
+"Hazy_Localization.txt:261","志岐間邸","志岐间邸","txid_doc35_st","False","","","
 志岐间邸
 
 志岐间府"
-"Hazy_Localization.txt:261","喫茶店 黒桔梗","咖啡店黑桔梗","txid_doc36_st","False","","","
+"Hazy_Localization.txt:262","喫茶店 黒桔梗","咖啡店黑桔梗","txid_doc36_st","False","","","
 咖啡店黑桔梗
 
 咖啡店黑桔梗"
-"Hazy_Localization.txt:262","駄菓子せんのや","粗点心千野屋","txid_doc37_st","False","","","
+"Hazy_Localization.txt:263","駄菓子せんのや","粗点心千野屋","txid_doc37_st","False","","","
 粗点心铺
 
 不是粗点心吗"
-"Hazy_Localization.txt:263","アオサギ探偵堂","苍鹭侦探堂","txid_doc41_st","False","","","
+"Hazy_Localization.txt:264","アオサギ探偵堂","苍鹭侦探堂","txid_doc41_st","False","","","
 苍鹭侦探堂
 
 苍鹭侦探堂"
-"Hazy_Localization.txt:264","心霊対策室","心灵对策室","txid_doc40_st","False","","","
+"Hazy_Localization.txt:265","心霊対策室","心灵对策室","txid_doc40_st","False","","","
 心灵对策室
 
 心霊対策室"
-"Hazy_Localization.txt:265","オカルトブーム","超自然现象热潮","txid_doc16_st","False","","","
+"Hazy_Localization.txt:266","オカルトブーム","超自然现象热潮","txid_doc16_st","False","","","
 神秘风潮
 
 神秘吊杆"
-"Hazy_Localization.txt:266","こっくりさん","狐狗狸","txid_doc24_st","False","","","
+"Hazy_Localization.txt:267","こっくりさん","狐狗狸","txid_doc24_st","False","","","
 狐狗狸
 
 狐狗狸先生"
-"Hazy_Localization.txt:267","少年非行","少年失足","txid_doc43_st","False","","","
+"Hazy_Localization.txt:268","少年非行","少年失足","txid_doc43_st","False","","","
 少年失足
 
 少年非行"
-"Hazy_Localization.txt:268","電話ボックス","电话亭","txid_doc21_st","False","","","
+"Hazy_Localization.txt:269","電話ボックス","电话亭","txid_doc21_st","False","","","
 电话亭
 
 电话亭"
-"Hazy_Localization.txt:269","葛飾北斎","葛饰北斋","txid_doc38_st","False","","","
+"Hazy_Localization.txt:270","葛飾北斎","葛饰北斋","txid_doc38_st","False","","","
 葛饰北斋
 
 葛饰北斋"
-"Hazy_Localization.txt:270","根島事件まとめ","根岛事件总结","txid_doc46_st","False","","","
+"Hazy_Localization.txt:271","根島事件まとめ","根岛事件总结","txid_doc46_st","False","","","
 根岛事件总结
 
 根岛事件总结"
-"Hazy_Localization.txt:271","志岐間誘拐事件まとめ","志岐间绑架事件总结","txid_doc26_st","False","","","
+"Hazy_Localization.txt:272","志岐間誘拐事件まとめ","志岐间绑架事件总结","txid_doc26_st","False","","","
 志岐间绑架事件总结
 
 志岐间诱拐案汇总"
-"Hazy_Localization.txt:272","白石美智代関連のメモ","白石美智代相关的笔记","txid_doc45_st","False","","","
+"Hazy_Localization.txt:273","白石美智代関連のメモ","白石美智代相关的笔记","txid_doc45_st","False","","","
 白石美智代相关的笔记
 
 白石美智代相关笔记"
-"Hazy_Localization.txt:273","吉見肇関連のメモ","吉见肇相关的笔记","txid_doc44_st","False","","","
+"Hazy_Localization.txt:274","吉見肇関連のメモ","吉见肇相关的笔记","txid_doc44_st","False","","","
 吉见肇相关的笔记
 
 吉见肇相关的笔记"
-"Hazy_Localization.txt:274","判明している呪主のメモ","已知的咒主的笔记","txid_doc47_st","False","","","
+"Hazy_Localization.txt:275","判明している呪主のメモ","已知的咒主的笔记","txid_doc47_st","False","","","
 明白的咒主的笔记
 
 已经判明的咒主的笔记"
-"Hazy_Localization.txt:275","なめどり","反舌鸟","txid_doc39_st","False","","","
+"Hazy_Localization.txt:276","なめどり","反舌鸟","txid_doc39_st","False","","","
 反舌鸟
 
 倾斜"
-"Hazy_Localization.txt:276","興家彰吾","兴家彰吾","txid_strych_name_01","False","","","
+"Hazy_Localization.txt:277","興家彰吾","兴家彰吾","txid_strych_name_01","False","","","
 兴家彰吾
 
 兴家彰吾"
-"Hazy_Localization.txt:277","志岐間春恵","志岐间春惠","txid_strych_name_02","False","","","
+"Hazy_Localization.txt:278","志岐間春恵","志岐间春惠","txid_strych_name_02","False","","","
 志岐间春惠
 
 志岐间春惠"
-"Hazy_Localization.txt:278","津詰徹生","津诘彻生","txid_strych_name_03","False","","","
+"Hazy_Localization.txt:279","津詰徹生","津诘彻生","txid_strych_name_03","False","","","
 津诘彻生
 
 津詰徹生"
-"Hazy_Localization.txt:279","逆崎約子","逆崎约子","txid_strych_name_04","False","","","
+"Hazy_Localization.txt:280","逆崎約子","逆崎约子","txid_strych_name_04","False","","","
 逆崎约子
 
 逆崎約子"
-"Hazy_Localization.txt:280","蝶澤麻由","蝶泽麻由","txid_strych_name_05","False","","","
+"Hazy_Localization.txt:281","蝶澤麻由","蝶泽麻由","txid_strych_name_05","False","","","
 蝶泽麻由
 
 蝶泽麻由"
-"Hazy_Localization.txt:281","「錦糸堀公園 Part1」","“锦丝堀公园 Part1”","txid_strych_title_a0_010","False","","","
+"Hazy_Localization.txt:282","「錦糸堀公園 Part1」","“锦丝堀公园 Part1”","txid_strych_title_a0_010","False","","","
 “锦丝堀公园Part1”
 
 “锦丝堀公园Part1”"
-"Hazy_Localization.txt:282","「錦糸堀公園 Part2」","“锦丝堀公园 Part2”","txid_strych_title_a0_020","False","","","
+"Hazy_Localization.txt:283","「錦糸堀公園 Part2」","“锦丝堀公园 Part2”","txid_strych_title_a0_020","False","","","
 “锦丝堀公园Part2”
 
 “锦丝堀公园Part2”"
-"Hazy_Localization.txt:283","「錦糸堀公園 Part3」","“锦丝堀公园 Part3”","txid_strych_title_a0_030","False","","","
+"Hazy_Localization.txt:284","「錦糸堀公園 Part3」","“锦丝堀公园 Part3”","txid_strych_title_a0_030","False","","","
 “锦丝堀公园Part3”
 
 “锦丝堀公园Part3”"
-"Hazy_Localization.txt:284","「七不思議巡り Part1」","“七大不可思议巡游 Part1”","txid_strych_title_a0_040","False","","","
+"Hazy_Localization.txt:285","「七不思議巡り Part1」","“七大不可思议巡游 Part1”","txid_strych_title_a0_040","False","","","
 “七大不可思议巡游Part1”
 
 “七大不可思议之旅Part1”"
-"Hazy_Localization.txt:285","「七不思議巡り Part2」","“七大不可思议巡游 Part2”","txid_strych_title_a0_060","False","","","
+"Hazy_Localization.txt:286","「七不思議巡り Part2」","“七大不可思议巡游 Part2”","txid_strych_title_a0_060","False","","","
 “七大不可思议巡游Part2”
 
 “七大不可思议之旅Part2”"
-"Hazy_Localization.txt:286","「錦糸堀公園 Part3'」","“锦丝堀公园 Part3'”","txid_strych_title_a0_110","False","","","
+"Hazy_Localization.txt:287","「錦糸堀公園 Part3'」","“锦丝堀公园 Part3'”","txid_strych_title_a0_110","False","","","
 “锦丝堀公园Part3'”
 
 “锦丝堀公园Part3”"
-"Hazy_Localization.txt:287","「錦糸堀公園 Part4」","“锦丝堀公园 Part4”","txid_strych_title_a0_120","False","","","
+"Hazy_Localization.txt:288","「錦糸堀公園 Part4」","“锦丝堀公园 Part4”","txid_strych_title_a0_120","False","","","
 “锦丝堀公园Part4”
 
 “锦丝堀公园Part4”"
-"Hazy_Localization.txt:288","「解除」","“解除”","txid_strych_title_a1_010","False","","","
+"Hazy_Localization.txt:289","「解除」","“解除”","txid_strych_title_a1_010","False","","","
 “解除。”
 
 取消"
-"Hazy_Localization.txt:289","「もうひとつの結末」","“另一个结局”","txid_strych_title_a1_020","False","","","
+"Hazy_Localization.txt:290","「もうひとつの結末」","“另一个结局”","txid_strych_title_a1_020","False","","","
 “另一个结局”
 
 “另一种结局。”"
-"Hazy_Localization.txt:290","「夢じゃない」","“这不是梦”","txid_strych_title_b0_010","False","","","
+"Hazy_Localization.txt:291","「夢じゃない」","“这不是梦”","txid_strych_title_b0_010","False","","","
 “这不是梦。”
 
 “不是梦。”"
-"Hazy_Localization.txt:291","「面白い話」","“有趣的故事”","txid_strych_title_b0_020","False","","","
+"Hazy_Localization.txt:292","「面白い話」","“有趣的故事”","txid_strych_title_b0_020","False","","","
 “有趣的故事”
 
 “有趣的故事。”"
-"Hazy_Localization.txt:292","「もし このまま」","“如果就这样”","txid_strych_title_b0_030","False","","","
+"Hazy_Localization.txt:293","「もし このまま」","“如果就这样”","txid_strych_title_b0_030","False","","","
 “如果就这样。”
 
 “如果就这样”"
-"Hazy_Localization.txt:293","「そういう世界も ある」","“也有这样的世界”","txid_strych_title_b1_010","False","","","
+"Hazy_Localization.txt:294","「そういう世界も ある」","“也有这样的世界”","txid_strych_title_b1_010","False","","","
 “也有这样的世界。”
 
 “也有这样的世界”"
-"Hazy_Localization.txt:294","「捕まろうが 死のうが」","“是被捕还是死”","txid_strych_title_b1_020","False","","","
+"Hazy_Localization.txt:295","「捕まろうが 死のうが」","“是被捕还是死”","txid_strych_title_b1_020","False","","","
 “不管捕还是死。”
 
 “不管抓还是死。”"
-"Hazy_Localization.txt:295","「あの子……苦手？」","“那个孩子……不擅长？”","txid_strych_title_b1_030","False","","","
+"Hazy_Localization.txt:296","「あの子……苦手？」","“那个孩子……不擅长？”","txid_strych_title_b1_030","False","","","
 “那个孩子……不擅长？”
 
 “那孩子……不擅长？”"
-"Hazy_Localization.txt:296","「最終手段」","“最终手段”","txid_strych_title_b1_040","False","","","
+"Hazy_Localization.txt:297","「最終手段」","“最终手段”","txid_strych_title_b1_040","False","","","
 “最终手段”
 
 “最终手段”"
-"Hazy_Localization.txt:297","「志岐間春恵の伝説」","“志岐间春惠的传说”","txid_strych_title_b1_050","False","","","
+"Hazy_Localization.txt:298","「志岐間春恵の伝説」","“志岐间春惠的传说”","txid_strych_title_b1_050","False","","","
 “志岐间春惠的传说”
 
 “志岐间春惠的传说”"
-"Hazy_Localization.txt:298","「灯野あやめの本懐」","“灯野菖蒲的夙愿”","txid_strych_title_b1_055","False","","","
+"Hazy_Localization.txt:299","「灯野あやめの本懐」","“灯野菖蒲的夙愿”","txid_strych_title_b1_055","False","","","
 “灯野菖蒲的夙愿”
 
 “灯野菖蒲的本愿。”"
-"Hazy_Localization.txt:299","「現場検証」","“现场验证”","txid_strych_title_c0_010","False","","","
+"Hazy_Localization.txt:300","「現場検証」","“现场验证”","txid_strych_title_c0_010","False","","","
 “现场验证。”
 
 “现场验证”"
-"Hazy_Localization.txt:300","「呪主捜索 Part1」","“咒主搜索 Part1”","txid_strych_title_c0_020","False","","","
+"Hazy_Localization.txt:301","「呪主捜索 Part1」","“咒主搜索 Part1”","txid_strych_title_c0_020","False","","","
 “咒主搜索Part1”
 
 “咒主搜索Part1”"
-"Hazy_Localization.txt:301","「呪主捜索 Part2」","“咒主搜索 Part2”","txid_strych_title_c0_030","False","","","
+"Hazy_Localization.txt:302","「呪主捜索 Part2」","“咒主搜索 Part2”","txid_strych_title_c0_030","False","","","
 “咒主搜索Part2”
 
 “咒主搜索Part2”"
-"Hazy_Localization.txt:302","「予告電話」","“预告电话”","txid_strych_title_c0_040","False","","","
+"Hazy_Localization.txt:303","「予告電話」","“预告电话”","txid_strych_title_c0_040","False","","","
 “预告电话”
 
 “预告电话。”"
-"Hazy_Localization.txt:303","「状況整理」","“状况整理”","txid_strych_title_c1_010","False","","","
+"Hazy_Localization.txt:304","「状況整理」","“状况整理”","txid_strych_title_c1_010","False","","","
 “状况整理”
 
 “整理状况”"
-"Hazy_Localization.txt:304","「高級寿司」","“高级寿司”","txid_strych_title_c1_020","False","","","
+"Hazy_Localization.txt:305","「高級寿司」","“高级寿司”","txid_strych_title_c1_020","False","","","
 “高级寿司”
 
 “高级寿司。”"
-"Hazy_Localization.txt:305","「暫時待機」","“暂时待机”","txid_strych_title_c1_030","False","","","
+"Hazy_Localization.txt:306","「暫時待機」","“暂时待机”","txid_strych_title_c1_030","False","","","
 “暂时待机”
 
 “暂时待命。”"
-"Hazy_Localization.txt:306","「大捕物」","“大抓捕”","txid_strych_title_c1_040","False","","","
+"Hazy_Localization.txt:307","「大捕物」","“大抓捕”","txid_strych_title_c1_040","False","","","
 “大捕物”
 
 “大捕物。”"
-"Hazy_Localization.txt:307","「根島史周の追慕」","“根岛史周的追悼”","txid_strych_title_c1_045","False","","","
+"Hazy_Localization.txt:308","「根島史周の追慕」","“根岛史周的追悼”","txid_strych_title_c1_045","False","","","
 “根岛史周的追悼”
 
 “根岛史周的追悼。”"
-"Hazy_Localization.txt:308","「結末」","“结局”","txid_strych_title_c1_050","False","","","
+"Hazy_Localization.txt:309","「結末」","“结局”","txid_strych_title_c1_050","False","","","
 “结局”
 
 “结局。”"
-"Hazy_Localization.txt:309","「こっくりさん」","“狐狗狸”","txid_strych_title_d0_010","False","","","
+"Hazy_Localization.txt:310","「こっくりさん」","“狐狗狸”","txid_strych_title_d0_010","False","","","
 “狐狗狸先生”
 
 “狐狸猫。”"
-"Hazy_Localization.txt:310","「大事なことは ふたつ」","“有两件重要的事”","txid_strych_title_d0_020","False","","","
+"Hazy_Localization.txt:311","「大事なことは ふたつ」","“有两件重要的事”","txid_strych_title_d0_020","False","","","
 “有两件重要的事。”
 
 “有两件事很重要。”"
-"Hazy_Localization.txt:311","「駒形高校からの脱出」","“从驹形高中逃脱”","txid_strych_title_d0_030","False","","","
+"Hazy_Localization.txt:312","「駒形高校からの脱出」","“从驹形高中逃脱”","txid_strych_title_d0_030","False","","","
 “从驹形高中逃脱”
 
 “逃离驹形高中。”"
-"Hazy_Localization.txt:312","「脱出失敗」","“逃脱失败”","txid_strych_title_d0_035","False","","","
+"Hazy_Localization.txt:313","「脱出失敗」","“逃脱失败”","txid_strych_title_d0_035","False","","","
 “逃脱失败”
 
 “逃脱失败。”"
-"Hazy_Localization.txt:313","「脱出成功」","“逃脱成功”","txid_strych_title_d0_040","False","","","
+"Hazy_Localization.txt:314","「脱出成功」","“逃脱成功”","txid_strych_title_d0_040","False","","","
 “成功逃脱”
 
 “成功逃脱。”"
-"Hazy_Localization.txt:314","「奥田ちゃんって」","“多亏奥田”","txid_strych_title_d1_010","False","","","
+"Hazy_Localization.txt:315","「奥田ちゃんって」","“多亏奥田”","txid_strych_title_d1_010","False","","","
 “奥田。”
 
 “奥田君？”"
-"Hazy_Localization.txt:315","「セイマン」","“晴曼”","txid_strych_title_d1_020","False","","","
+"Hazy_Localization.txt:316","「セイマン」","“晴曼”","txid_strych_title_d1_020","False","","","
 塞曼
 
 “圣女。”"
-"Hazy_Localization.txt:316","「またね」","“再见”","txid_strych_title_d1_030","False","","","
+"Hazy_Localization.txt:317","「またね」","“再见”","txid_strych_title_d1_030","False","","","
 “再见。”
 
 “再见。”"
-"Hazy_Localization.txt:317","「白石美智代の怨讐」","“白石美智代的恩怨”","txid_strych_title_d1_035","False","","","
+"Hazy_Localization.txt:318","「白石美智代の怨讐」","“白石美智代的恩怨”","txid_strych_title_d1_035","False","","","
 “白石美智代的恩怨。”
 
 白石美智代的怨恨"
-"Hazy_Localization.txt:318","「やってやります」","“一起来做吧”","txid_strych_title_d1_040","False","","","
+"Hazy_Localization.txt:319","「やってやります」","“一起来做吧”","txid_strych_title_d1_040","False","","","
 “我会做的。”
 
 “我会做的。”"
-"Hazy_Localization.txt:319","「決戦の前」","“决战前”","txid_strych_title_d1_050","False","","","
+"Hazy_Localization.txt:320","「決戦の前」","“决战前”","txid_strych_title_d1_050","False","","","
 “决战前”
 
 “决战之前。”"
-"Hazy_Localization.txt:320","「幽暗」","“幽暗”","txid_strych_title_e1_010","False","","","
+"Hazy_Localization.txt:321","「幽暗」","“幽暗”","txid_strych_title_e1_010","False","","","
 “幽暗。”
 
 幽暗"
-"Hazy_Localization.txt:321","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_010","False","","","
+"Hazy_Localization.txt:322","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_010","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:322","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:323","[c3]～前回のあらすじ～[c0]
 《本所七不思議》を探して 福永葉子とともに
 錦糸堀公園を捜索する 興家彰吾は
 彼女の明かすオカルト話に まんまと
@@ -1296,19 +1310,19 @@ AUTO切换（显示按钮时）
 兴家彰吾搜查锦丝堀公园  
 她所揭示的神秘故事  
 被吸引了进去。"
-"Hazy_Localization.txt:323","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_030","False","","","
+"Hazy_Localization.txt:324","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_030","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:324","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_040","False","","","
+"Hazy_Localization.txt:325","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_040","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:325","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_060","False","","","
+"Hazy_Localization.txt:326","★出ないテキスト","★不出现的文本","txtid_strych_text1_a0_060","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:326","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:327","[c3]～前回のあらすじ～[c0]
 突き動かされるような衝動のままに
 我を失った福永葉子を 必死に呼び続け
 なんとしてでも呼び覚まそうとする 興家彰吾。
@@ -1328,7 +1342,7 @@ AUTO切换（显示按钮时）
 她拼命地呼唤失去理智的福永叶子，  
 无论如何也要唤醒兴家彰吾。  
 那个想法能传达给她吗……！？"
-"Hazy_Localization.txt:327","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:328","[c3]～前回のあらすじ～[c0]
 異変のあった福永葉子を心配した興家彰吾は
 今日の七不思議捜索の 中止を決めた。
 ごねる福永葉子を説得するため 興家彰吾は
@@ -1348,14 +1362,14 @@ AUTO切换（显示按钮时）
 决定停止今天的七大不可思议搜索。  
 兴家彰吾为了说服沉默的福永叶子  
 决定一个人继续搜索。"
-"Hazy_Localization.txt:328","土御門晴曼の《魂》《肉体》《精神》が
+"Hazy_Localization.txt:329","土御門晴曼の《魂》《肉体》《精神》が
 揃ったところに これは現れる。
 ここに解除の術は発動し 秘術も呪いも
 すべてが祓われ 消し去られる……。","土御门晴曼的“魂”“肉体”“精神”
 集齐了之后就会出现。
 在此发动解除之术后，无论是秘术还是诅咒，
 一切都被驱除、消失……","txtid_strych_text1_a1_010","False","","","
-土御门晴曼的“灵魂”“肉体”“精神”  
+土御门晴曼的“魂”“肉体”“精神”  
 集齐了就会出现。  
 解除之术，秘术，诅咒，  
 一切都被驱除、消失……
@@ -1364,11 +1378,11 @@ AUTO切换（显示按钮时）
 这个出现在统一的地方。  
 这里发动了解除之术，秘术和诅咒  
 全部被驱除消失……"
-"Hazy_Localization.txt:329","★出ないテキスト","★不出现的文本","txtid_strych_text1_a1_020","False","","","
+"Hazy_Localization.txt:330","★出ないテキスト","★不出现的文本","txtid_strych_text1_a1_020","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:330","昨年 息子が誘拐され 捜査の不手際で
+"Hazy_Localization.txt:331","昨年 息子が誘拐され 捜査の不手際で
 殺害されてしまったという志岐間春恵は 
 未解決の誘拐事件の調査を 探偵に依頼。
 深夜に 自宅で調査の報告を受けていると
@@ -1388,7 +1402,7 @@ AUTO切换（显示按钮时）
 委托侦探调查未解决的诱拐事件。  
 当我深夜在家听取调查报告时，  
 “那个”突然降临……"
-"Hazy_Localization.txt:331","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:332","[c3]～前回のあらすじ～[c0]
 『送り拍子木』の呪いは受けたが それは
 使わず 呪詛珠を奪うことで 蘇りの秘術を
 使おうという提案に乗った志岐間春恵は
@@ -1408,7 +1422,7 @@ AUTO切换（显示按钮时）
 不用诅咒，夺取诅咒，复活秘术  
 志岐间春惠接受了这个提议，  
 送棹利飞太去了咒主的探索。"
-"Hazy_Localization.txt:332","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:333","[c3]～前回のあらすじ～[c0]
 呪主と疑わしい複数の報告を受けた春恵。
 同じく 呪詛珠を狙っているという
 灯野あやめの存在を気にしながらも
@@ -1428,7 +1442,7 @@ AUTO切换（显示按钮时）
 同样的诅咒。  
 灯野菖蒲的存在，  
 继续将探索咒主的任务交给棹利飞太。"
-"Hazy_Localization.txt:333","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:334","[c3]～前回のあらすじ～[c0]
 滓魂の溜まった呪詛珠を得るために
 夜通し情報収集を続ける利飛太。
 春恵は 我が子の蘇生という大願成就の可能性に
@@ -1448,7 +1462,7 @@ AUTO切换（显示按钮时）
 利飞太继续连夜收集情报。  
 春惠认为有可能实现自己孩子复活的大愿  
 迎来了失眠的早晨。"
-"Hazy_Localization.txt:334","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:335","[c3]～前回のあらすじ～[c0]
 誘拐事件の重要参考人である白石美智代の
 自宅を訪れ 彼女が複雑な事情を抱えていた
 ことを知った春恵と利飛太は
@@ -1468,7 +1482,7 @@ AUTO切换（显示按钮时）
 我去了她家里，发现她有复杂的情况  
 知道了的春惠和利飞太  
 在那里遇到了两名男性。"
-"Hazy_Localization.txt:335","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:336","[c3]～前回のあらすじ～[c0]
 刑事と 白石家に突入して 呪い殺されていた
 岩井官吉郎が残していた手記を発見し
 誘拐事件の全貌が明らかになった。
@@ -1488,7 +1502,7 @@ AUTO切换（显示按钮时）
 发现了岩井官吉郎留下的手记  
 绑架事件的全貌终于浮出水面。  
 但春惠并不满足。"
-"Hazy_Localization.txt:336","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:337","[c3]～前回のあらすじ～[c0]
 救出した蝶澤麻由とともに 弓岡を問い詰め
 新たな呪主の情報入手を試みたが
 特に有益な情報は得られなかった。
@@ -1508,15 +1522,15 @@ AUTO切换（显示按钮时）
 试图得到新的咒主的情报，  
 没有得到特别有用的信息。  
 于是回到志岐间家……"
-"Hazy_Localization.txt:337","★出ないテキスト","★不出现的文本","txtid_strych_text1_b1_050","False","","","
+"Hazy_Localization.txt:338","★出ないテキスト","★不出现的文本","txtid_strych_text1_b1_050","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:338","★出ないテキスト","★不出现的文本","txtid_strych_text1_b1_055","False","","","
+"Hazy_Localization.txt:339","★出ないテキスト","★不出现的文本","txtid_strych_text1_b1_055","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:339","警視庁捜査一課の警部 津詰徹生は
+"Hazy_Localization.txt:340","警視庁捜査一課の警部 津詰徹生は
 警察官の謎の怪死事件の調査のため
 部下の襟尾純とともに 現場である
 旧安田庭園を訪れていた……。","警视厅搜查一课的警部津诘彻生
@@ -1532,7 +1546,7 @@ AUTO切换（显示按钮时）
 为了调查警察的神秘怪死事件  
 和部下襟尾纯一起在现场  
 访问了旧安田庭园……"
-"Hazy_Localization.txt:340","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:341","[c3]～前回のあらすじ～[c0]
 警察官・吉見肇が変死した現場にて
 状況の整理を行っていた津詰と襟尾。
 《蘇りの秘術》を否定する津詰だが そこに
@@ -1552,7 +1566,7 @@ AUTO切换（显示按钮时）
 津诘和襟尾正在整理情况。  
 津诘否定“复活秘术”  
 “落叶秃椎”的咒影出现了。"
-"Hazy_Localization.txt:341","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:342","[c3]～前回のあらすじ～[c0]
 未曾有の惨事を回避するため 呪詛珠を
 一刻も早く回収すると決めた 津詰と襟尾。
 並垣祐太郎から『足洗い屋敷』の呪詛珠を
@@ -1572,7 +1586,7 @@ AUTO切换（显示按钮时）
 津诘和襟尾决定尽快回收。  
 并垣佑太郎诅咒“足洗邸”  
 回收后，两人前往下一个地方。"
-"Hazy_Localization.txt:342","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:343","[c3]～前回のあらすじ～[c0]
 『消えずの行灯』の呪主だった新石英樹を
 説得し これで合計３つの呪詛珠を回収した。
 津詰と襟尾は 残る呪主を見つけるべく
@@ -1592,7 +1606,7 @@ AUTO切换（显示按钮时）
 经过一番劝说，一共收回了三颗诅咒珠。  
 津诘和襟尾应该找到剩下的咒主  
 继续在镇内搜索。"
-"Hazy_Localization.txt:343","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:344","[c3]～前回のあらすじ～[c0]
 呪詛珠の回収もままならない状態で
 吉見肇の変死事件や 根島の殺人予告など
 問題が山積する中 襟尾に各種確認を任せて
@@ -1612,7 +1626,7 @@ AUTO切换（显示按钮时）
 吉见肇的离奇死亡事件和根岛的杀人预告等  
 把各种确认交给问题堆积如山的中襟尾  
 现在是休息一会儿的时候。"
-"Hazy_Localization.txt:344","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:345","[c3]～前回のあらすじ～[c0]
 日暮れまでがタイムリミットである以上
 時間を無駄にはできない。
 そんな中 津詰と襟尾は 駒形高校と
@@ -1632,7 +1646,7 @@ AUTO切换（显示按钮时）
 不能浪费时间。  
 中津诘和襟尾是驹形高中  
 决定前往白石家进行调查。"
-"Hazy_Localization.txt:345","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:346","[c3]～前回のあらすじ～[c0]
 白石家で 岩井官吉郎の死とともに
 いくつもの新事実を知った 津詰と襟尾。
 白石美智代ならば 根島史周の隠れ家を知って
@@ -1652,7 +1666,7 @@ AUTO切换（显示按钮时）
 津诘和襟尾得知了许多新事实。  
 白石美智代知道根岛史周的藏身之处  
 接到有消息后，我急忙赶往高中。"
-"Hazy_Localization.txt:346","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:347","[c3]～前回のあらすじ～[c0]
 白石美智代から 根島史周の隠れ家を
 聞くことができた襟尾と津詰は
 本部にも増援を要請して 根島確保のため
@@ -1672,11 +1686,11 @@ AUTO切换（显示按钮时）
 襟尾和津诘听到了  
 为了确保根岛，我们向总部请求增援。  
 展开了大抓捕。"
-"Hazy_Localization.txt:347","★出ないテキスト","★不出现的文本","txtid_strych_text1_c1_045","False","","","
+"Hazy_Localization.txt:348","★出ないテキスト","★不出现的文本","txtid_strych_text1_c1_045","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:348","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:349","[c3]～前回のあらすじ～[c0]
 灯野あやめと会って 全部ハッキリさせる。
 そう決意する津詰と襟尾は 捜索を続けていた。
 本所七不思議の呪い……晴曼と蘆乃の因縁は
@@ -1696,7 +1710,7 @@ AUTO切换（显示按钮时）
 下定决心的津诘和襟尾继续搜索。  
 本所七大不可思议的诅咒……晴曼和芦乃的渊源  
 到底会迎来怎样的结局呢……"
-"Hazy_Localization.txt:349","投身自殺をした友人を蘇らせたいと願い
+"Hazy_Localization.txt:350","投身自殺をした友人を蘇らせたいと願い
 《蘇りの秘術》を探す逆崎約子は
 その情報を得るために
 同級生の黒鈴ミヲと共に 深夜の教室で
@@ -1716,7 +1730,7 @@ AUTO切换（显示按钮时）
 为了得到这些信息  
 和同学黑铃美绪一起在深夜的教室里  
 尝试“狐狗狸”……"
-"Hazy_Localization.txt:350","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:351","[c3]～前回のあらすじ～[c0]
 こっくりさんで得た情報によると
 友人・白石美智代は 自殺ではないらしい。
 さらに《蘇りの秘術》の場所を訊ねると
@@ -1736,7 +1750,7 @@ AUTO切换（显示按钮时）
 朋友白石美智代好像不是自杀。  
 然后我问他“复活秘术”在哪里，  
 咒影突然出现……"
-"Hazy_Localization.txt:351","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:352","[c3]～前回のあらすじ～[c0]
 『馬鹿囃子』の呪いを受けた 逆崎約子に
 《蘇りの秘術》は諦めようと説得するミヲ。
 すでに 学校に他の呪影の影響も出ていたため
@@ -1756,15 +1770,15 @@ AUTO切换（显示按钮时）
 美绪说服她放弃“复活秘术”。  
 学校已经受到了其他咒影的影响，  
 两人急忙溜出教室。"
-"Hazy_Localization.txt:352","★出ないテキスト","★不出现的文本","txtid_strych_text1_d0_035","False","","","
+"Hazy_Localization.txt:353","★出ないテキスト","★不出现的文本","txtid_strych_text1_d0_035","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:353","★出ないテキスト","★不出现的文本","txtid_strych_text1_d0_040","False","","","
+"Hazy_Localization.txt:354","★出ないテキスト","★不出现的文本","txtid_strych_text1_d0_040","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:354","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:355","[c3]～前回のあらすじ～[c0]
 親友を生き返らせるには 代償が要る……。
 手にした呪いと どう向き合うべきか
 整理がつかないまま帰路についた逆崎約子。
@@ -1784,7 +1798,7 @@ AUTO切换（显示按钮时）
 应该如何面对手中的诅咒？  
 还没整理好就踏上归途的逆崎约子。  
 在黑铃美绪的担心中度过了一夜。"
-"Hazy_Localization.txt:355","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:356","[c3]～前回のあらすじ～[c0]
 今回の事件の発端である《蘇りの秘術》。
 その噂を広めた当事者である新石英樹に
 話を聞くため ふたりは彼のいきつけで
@@ -1804,7 +1818,7 @@ AUTO切换（显示按钮时）
 向传播这个谣言的当事人——新石英树  
 为了听他说话，两人按照他的习惯  
 前往某咖啡店“黑桔梗”。"
-"Hazy_Localization.txt:356","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:357","[c3]～前回のあらすじ～[c0]
 『禄命簿・陰の書』があれば 秘術の呪いを
 止める方法がわかるかもしれない。
 有力な手がかりを得ることができた約子らは
@@ -1824,11 +1838,11 @@ AUTO切换（显示按钮时）
 也许会知道阻止的方法。  
 约子等人找到了有力的线索  
 他要去驹形高中告诉津诘。"
-"Hazy_Localization.txt:357","★出ないテキスト","★不出现的文本","txtid_strych_text1_d1_035","False","","","
+"Hazy_Localization.txt:358","★出ないテキスト","★不出现的文本","txtid_strych_text1_d1_035","False","","","
 ★不出现的文本
 
 ★不出现的教材"
-"Hazy_Localization.txt:358","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:359","[c3]～前回のあらすじ～[c0]
 本当の自分を取り戻した約子は 改めて
 ミヲと共に 今回の呪いを止めるために
 『禄命簿・陰の書』の探索を行うが
@@ -1848,7 +1862,7 @@ AUTO切换（显示按钮时）
 为了和美绪一起阻止这次的诅咒  
 探索“禄命簿·阴之书”  
 那个线索实在太少了……"
-"Hazy_Localization.txt:359","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:360","[c3]～前回のあらすじ～[c0]
 吉見の婚約者 蝶澤と共に 津詰たちに
 これまでの情報を報告する 約子とミヲ。
 すべての話を まとめていくことで
@@ -1868,11 +1882,11 @@ AUTO切换（显示按钮时）
 报告到目前为止的情报的约子和美绪。  
 通过总结所有的内容  
 终于看到最终目的了……"
-"Hazy_Localization.txt:360","？？？","？？？","txtid_strych_text1_e1_010","False","","","
+"Hazy_Localization.txt:361","？？？","？？？","txtid_strych_text1_e1_010","False","","","
 ？？？
 
 ？？？"
-"Hazy_Localization.txt:361","ごく普通の会社員・興家彰吾は 先日知り合った
+"Hazy_Localization.txt:362","ごく普通の会社員・興家彰吾は 先日知り合った
 福永葉子と共に 深夜の錦糸堀公園で
 《本所七不思議》を探索していた。突如倒れ
 意識を失った興家は 状況をひとつずつ思い
@@ -1892,7 +1906,7 @@ AUTO切换（显示按钮时）
 探索“本所七大不可思议”。突然倒下  
 失去意识的兴家开始思考每个情况，  
 我一边拿一边陪她讲福永叶子的神秘故事。"
-"Hazy_Localization.txt:362","福永葉子が本所七不思議を調べていたのは
+"Hazy_Localization.txt:363","福永葉子が本所七不思議を調べていたのは
 《蘇りの秘術》を求めてのことだった。
 江戸から伝わる七不思議と 死者を蘇らせる
 という幻の秘術の関係について話していると
@@ -1912,7 +1926,7 @@ AUTO切换（显示按钮时）
 从江户流传下来的七大不可思议与让死者复活  
 的幻象秘术之间的关系  
 突然，福永叶子的样子有些异常……"
-"Hazy_Localization.txt:363","前触れもなく不可解な最期を遂げた福永葉子。
+"Hazy_Localization.txt:364","前触れもなく不可解な最期を遂げた福永葉子。
 異常現象に困惑する興家だったが 彼女を復活
 させるべく 蘇りの秘術を手に入れることを誓う。
 すると そこに弓岡巧己と名乗る男が現れ
@@ -1932,7 +1946,7 @@ AUTO切换（显示按钮时）
 发誓要得到复活秘术。  
 然后在那里出现了一个自称是弓冈巧己的男人  
 目标是把兴家得到的诅咒珠交给他。"
-"Hazy_Localization.txt:364","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
+"Hazy_Localization.txt:365","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
 もう後には引けないと 夜明けまでに
 残りの滓魂を集めることを決意。
 本所七不思議の地を巡り 各地で遭遇する
@@ -1952,7 +1966,7 @@ AUTO切换（显示按钮时）
 决心收集剩下的魂渣。  
 巡游本所七大不可思议之地，在各地遭遇。  
 经历了事情之后踏实地积攒了魂渣。"
-"Hazy_Localization.txt:365","興家彰吾は 《両国橋》と《旧安田庭園》でも
+"Hazy_Localization.txt:366","興家彰吾は 《両国橋》と《旧安田庭園》でも
 呪主と遭遇し どうにか難関を突破して
 必要な滓魂を溜めきった。
 しかしその後 呪詛珠に変化があり
@@ -1972,7 +1986,7 @@ AUTO切换（显示按钮时）
 积攒了必要的魂渣。  
 但是后来诅咒发生了变化  
 兴家就这样一去不复返了……"
-"Hazy_Localization.txt:366","興家彰吾の辛抱強い呼びかけによって
+"Hazy_Localization.txt:367","興家彰吾の辛抱強い呼びかけによって
 福永葉子は 無事に我に返った。
 しかし 何を見て 何が起こったのかは
 まったく覚えていないという。
@@ -1992,7 +2006,7 @@ AUTO切换（显示按钮时）
 但是我们看到了什么，发生了什么  
 他说完全不记得了。  
 听了这件事，兴家决定停止搜索。"
-"Hazy_Localization.txt:367","福永葉子との約束のため ひとり
+"Hazy_Localization.txt:368","福永葉子との約束のため ひとり
 本所七不思議の捜索をしていた興家彰吾。
 しかし 翌朝に公園で発見されたものは
 変わり果てた姿となった 彼の遺体だった……。","兴家彰吾为了与福永叶子的约定，
@@ -2008,14 +2022,14 @@ AUTO切换（显示按钮时）
 兴家彰吾正在搜查本所七大不可思议事件。  
 但是第二天早上在公园里发现的  
 他的遗体已经面目全非……"
-"Hazy_Localization.txt:368","土御門晴曼の《魂》《肉体》《精神》が
+"Hazy_Localization.txt:369","土御門晴曼の《魂》《肉体》《精神》が
 揃ったところに これは現れる。
 ここに解除の術は発動し 秘術も呪いも
 すべてが祓われ 消し去られるのだった。","土御门晴曼的“魂”“肉体”“精神”
 集齐了之后就会出现。
 在此发动解除之术后，无论是秘术还是诅咒，
 一切都被驱除、消失了。","txtid_strych_text2_a1_010","False","","","
-土御门晴曼的“灵魂”“肉体”“精神”  
+土御门晴曼的“魂”“肉体”“精神”  
 集齐了就会出现。  
 解除之术，秘术，诅咒，  
 一切都被驱除了。
@@ -2024,7 +2038,7 @@ AUTO切换（显示按钮时）
 这个出现在统一的地方。  
 这里发动了解除之术，秘术和诅咒  
 一切都被驱除了。"
-"Hazy_Localization.txt:369","[c5]【エンディング＃６】[c0]
+"Hazy_Localization.txt:370","[c5]【エンディング＃６】[c0]
 そこは 秘術も呪いも無かった いつもの世界。
 関わった人々は どう生きていくのか……。
 あなたが救った町を どうか見届けてから
@@ -2044,7 +2058,7 @@ AUTO切换（显示按钮时）
 相关的人们会怎样生活下去呢……  
 在看到你拯救的城市之后  
 我希望你离开。"
-"Hazy_Localization.txt:370","『送り拍子木』の呪いを受けたことで
+"Hazy_Localization.txt:371","『送り拍子木』の呪いを受けたことで
 《蘇りの秘術》を使う機会を得た志岐間春恵。
 誘拐事件の調査を依頼した探偵・櫂利飛太は
 呪いを使わずに秘術を使うため ほかの呪主の
@@ -2064,7 +2078,7 @@ AUTO切换（显示按钮时）
 委托调查诱拐事件的侦探棹利飞太  
 为了不使用诅咒而使用秘术，  
 提议剥夺诅咒。"
-"Hazy_Localization.txt:371","利飛太から 呪主探索の報告を受ける春恵。
+"Hazy_Localization.txt:372","利飛太から 呪主探索の報告を受ける春恵。
 彼女にとって因縁の深い隅田川の流れを見て
 本当にこれでいいのかと 心が揺れ動く。
 さらに 灯野あやめという女性も 呪詛珠を
@@ -2084,7 +2098,7 @@ AUTO切换（显示按钮时）
 这样真的好吗，心在动摇。  
 还有一个叫灯野菖蒲的女人  
 只因为知道对方瞄准了自己而焦躁不安。"
-"Hazy_Localization.txt:372","呪主の捜索は 利飛太に一任して
+"Hazy_Localization.txt:373","呪主の捜索は 利飛太に一任して
 ひとまず帰宅する春恵だったが
 やはり 心はどこか落ち着かないままだった。","春惠把搜索咒主的工作
 全权委托给利飞太后回到了家中。
@@ -2096,7 +2110,7 @@ AUTO切换（显示按钮时）
 把搜索咒主的任务交给利飞太。  
 春惠先回家了。  
 心里还是无法平静。"
-"Hazy_Localization.txt:373","ヒハク石鹸や 灯野あやめの動向を気にするも
+"Hazy_Localization.txt:374","ヒハク石鹸や 灯野あやめの動向を気にするも
 呪主についての有力な情報が得られないことに
 苛立ちを隠せない春恵。
 その一方で 誘拐事件の重要参考人としてあがった
@@ -2116,7 +2130,7 @@ AUTO切换（显示按钮时）
 春惠难掩焦躁。  
 另一方面作为诱拐事件的重要证人被提出来了  
 对白石美智代进行调查。"
-"Hazy_Localization.txt:374","誘拐事件の犯人だった 岩井官吉郎は
+"Hazy_Localization.txt:375","誘拐事件の犯人だった 岩井官吉郎は
 自宅で 白石美智代によって呪い殺されていた。
 西洋黒魔術の研究をしていたという岩井と
 根島史周や ヒハク石鹸との繋がりが見えるが
@@ -2136,7 +2150,7 @@ AUTO切换（显示按钮时）
 和研究西洋黑魔法的岩井  
 可以看到根岛史周和飞白肥皂的联系  
 尽管如此，春惠的兴趣还是在于复活秘术。"
-"Hazy_Localization.txt:375","誘拐事件の調査は完了し 蘇りの秘術に注力する
+"Hazy_Localization.txt:376","誘拐事件の調査は完了し 蘇りの秘術に注力する
 利飛太と春恵は 再び 七不思議を巡る。
 駄菓子に夢中になる利飛太を眺めたり
 ファクシミリで謎のＳＯＳを受信しながらも
@@ -2156,7 +2170,7 @@ AUTO切换（显示按钮时）
 看着利飞太沉迷于粗点心，  
 通过传真接收神秘的SOS信号，  
 把诅咒的目标锁定在灯野菖蒲身上。"
-"Hazy_Localization.txt:376","根島を呪い殺したことで 呪詛珠が使えると
+"Hazy_Localization.txt:377","根島を呪い殺したことで 呪詛珠が使えると
 気付いた灯野あやめは 呪主である春恵を狙い
 志岐間邸を訪れた。春恵もまた 滓魂の貯まった
 あやめの呪詛珠を奪うために 言葉を投げる。
@@ -2176,7 +2190,7 @@ AUTO切换（显示按钮时）
 访问了志岐间家。春惠也是渣滓堆积  
 为了夺走菖蒲的诅咒，他说。  
 两人的互相试探将会有怎样的展开呢？"
-"Hazy_Localization.txt:377","[c5]【エンディング＃３】[c0]
+"Hazy_Localization.txt:378","[c5]【エンディング＃３】[c0]
 一貫して 息子の蘇生を願い続けていた春恵は
 灯野あやめを呪い殺して 呪詛珠を奪った。
 願いを叶えた春恵が 幸せなのかは わからないが
@@ -2196,7 +2210,7 @@ AUTO切换（显示按钮时）
 诅咒了灯野菖蒲，夺走了诅咒珠。  
 虽然不知道实现了愿望的春惠是否幸福  
 利飞太想至少要见证传说。"
-"Hazy_Localization.txt:378","[c5]【エンディング＃４】[c0]
+"Hazy_Localization.txt:379","[c5]【エンディング＃４】[c0]
 根島史周や 志岐間春恵を呪い殺して得た呪詛珠で
 灯野あやめは 自らの宿願を果たす。
 しかし 遙か昔の魂の復活を遂げようとも 彼女は
@@ -2216,7 +2230,7 @@ AUTO切换（显示按钮时）
 灯野菖蒲实现了自己的夙愿。  
 但是，即使她想要复活那个遥远的灵魂，  
 连那个肉体也没有复活的方法。"
-"Hazy_Localization.txt:379","警察官・吉見肇が変死した事案を
+"Hazy_Localization.txt:380","警察官・吉見肇が変死した事案を
 部下の襟尾純とともに捜査する 津詰徹生。
 現場となった旧安田庭園で 状況の整理を
 していると突然 本所七不思議『落葉なき椎』の
@@ -2236,7 +2250,7 @@ AUTO切换（显示按钮时）
 在作为现场的旧安田庭园整理状况  
 突然，本所七大不可思议的“落叶秃椎”  
 咒影出现附身在津诘身上。"
-"Hazy_Localization.txt:380","図らずも呪主となった津詰は 襟尾に
+"Hazy_Localization.txt:381","図らずも呪主となった津詰は 襟尾に
 秘匿部署《心霊対策室》の存在を明かす。
 ふたりは この惨事を未然に防ぐため
 呪詛珠の回収に動き出し まずは両国橋で
@@ -2256,7 +2270,7 @@ AUTO切换（显示按钮时）
 为了防止惨剧的发生  
 开始回收诅咒。首先，在两国桥  
 成功回收“足洗邸”。"
-"Hazy_Localization.txt:381","緑町公園で遭遇した 郷土研究家の
+"Hazy_Localization.txt:382","緑町公園で遭遇した 郷土研究家の
 新石英樹は『消えずの行灯』の呪主だった。
 《蘇りの秘術》についての知識を持つ
 新石からは まだ情報を引き出したいが
@@ -2276,7 +2290,7 @@ AUTO切换（显示按钮时）
 拥有关于“复活秘术”的知识  
 我们还想从新石头中提取信息  
 这里只是收回诅咒。"
-"Hazy_Localization.txt:382","錦糸堀公園にて 男の遺体を発見した津詰。
+"Hazy_Localization.txt:383","錦糸堀公園にて 男の遺体を発見した津詰。
 ほかにも変死体が見つかり 状況は回りだす。
 そんな中 因縁の相手である根島史周から
 津詰に連絡が入り 自身も呪主であることと
@@ -2296,7 +2310,7 @@ AUTO切换（显示按钮时）
 从中因缘的对手根岛史周开始  
 津诘收到联络，自己也是咒主。  
 被宣布在日落时大量杀人。"
-"Hazy_Localization.txt:383","呪詛珠の回収が捗らなかったこともあり
+"Hazy_Localization.txt:384","呪詛珠の回収が捗らなかったこともあり
 呪詛による被害者が出てしまった。
 まずは襟尾とともに状況確認をする津詰。
 やることは多いが できることが少ない中
@@ -2316,7 +2330,7 @@ AUTO切换（显示按钮时）
 津诘首先和襟尾一起确认情况。  
 做的事情很多，但能做的事情很少。  
 总之下定决心，哪怕只是一点点也要向前迈进。"
-"Hazy_Localization.txt:384","黒鈴ミヲと接触し情報交換を行った津詰は
+"Hazy_Localization.txt:385","黒鈴ミヲと接触し情報交換を行った津詰は
 校務員の葦宮が 根島の可能性が高いと踏む。
 一方 現場に残されていた遺留品から
 白石美智代が本当に復活し 復讐を進めて
@@ -2336,7 +2350,7 @@ AUTO切换（显示按钮时）
 另一方面，从现场遗留的物品来看，  
 白石美智代真的复活了  
 也开始产生了怀疑……"
-"Hazy_Localization.txt:385","白石美智代が事故死である可能性が
+"Hazy_Localization.txt:386","白石美智代が事故死である可能性が
 高いとの情報を受けつつ
 黒鈴ミヲ 逆崎約子と合流した津詰と襟尾は
 根島史周の隠れ家を知るために
@@ -2356,7 +2370,7 @@ AUTO切换（显示按钮时）
 和黑铃美绪逆崎约子会合的津诘和襟尾  
 为了了解根岛史周的藏身之处  
 试图和白石美智代接触。"
-"Hazy_Localization.txt:386","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
+"Hazy_Localization.txt:387","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
 本当に 大量殺人を行える呪詛を持つのか
 当時の事情を聞きながら 確保の隙を窺う。
 やがて 根島の取った行動によって
@@ -2376,7 +2390,7 @@ AUTO切换（显示按钮时）
 一边询问当时的情况，一边寻找确保的空隙。  
 后来根岛采取了行动，  
 这种状况发生了很大的变化。"
-"Hazy_Localization.txt:387","[c5]【エンディング＃２】[c0]
+"Hazy_Localization.txt:388","[c5]【エンディング＃２】[c0]
 大捕物の末 根島を捕り逃がしてしまった津詰らは
 ついに発見出来ないまま 予告の時間を迎える。
 呪詛による 未曾有の大惨事を迎えた世間の中で
@@ -2396,7 +2410,7 @@ AUTO切换（显示按钮时）
 终于在没有发现的情况下迎来了预告的时间。  
 在遭受前所未有的诅咒惨案的社会中，  
 根岛史周实现了自己的所有目的。"
-"Hazy_Localization.txt:388","[c5]【エンディング＃５】[c0]
+"Hazy_Localization.txt:389","[c5]【エンディング＃５】[c0]
 津詰の犠牲により 灯野あやめの確保に成功し
 『禄命簿・陰の書』を解き明かす襟尾とミヲ。
 しかしそこに現れた 最後の呪主 福永葉子が
@@ -2416,7 +2430,7 @@ AUTO切换（显示按钮时）
 解开“禄命簿·阴之书”的襟尾和美绪。  
 但是最后的咒主福永叶子出现了，  
 夺走两人身上的诅咒，惨剧开始了。"
-"Hazy_Localization.txt:389","不審な自殺を遂げた友人・白石美智代を
+"Hazy_Localization.txt:390","不審な自殺を遂げた友人・白石美智代を
 蘇らせたいと願う 逆崎約子。
 級友の黒鈴ミヲと行った こっくりさんで
 《蘇りの秘術》の場所を問いかけたが
@@ -2436,7 +2450,7 @@ AUTO切换（显示按钮时）
 和同学黑铃美绪一起去的狐狗狸。  
 我问他“复活秘术”在哪里，  
 反而会受到“马鹿杂曲”的诅咒。"
-"Hazy_Localization.txt:390","『馬鹿囃子』の呪いを受けたショックで
+"Hazy_Localization.txt:391","『馬鹿囃子』の呪いを受けたショックで
 気を失っていた逆崎約子。
 ミヲは そんな彼女を心配するとともに
 呪いを伴う《蘇りの秘術》は諦めて すぐに
@@ -2456,7 +2470,7 @@ AUTO切换（显示按钮时）
 美绪在担心她的同时  
 我放弃了带有诅咒的“复活秘术”，  
 催促他逃离学校。"
-"Hazy_Localization.txt:391","校舎からの脱出途中 約子とミヲは
+"Hazy_Localization.txt:392","校舎からの脱出途中 約子とミヲは
 幾度も 怪しげな出来事に遭遇する。
 いったい 誰によって何が行われているのか
 まったく分からない中で 逆崎約子は
@@ -2476,7 +2490,7 @@ AUTO切换（显示按钮时）
 到底是谁在做什么？  
 在完全不明白中逆崎约子  
 慎重地选择行动，总算踏上归途。"
-"Hazy_Localization.txt:392","ミヲも葦宮も出て来ないことに心配して
+"Hazy_Localization.txt:393","ミヲも葦宮も出て来ないことに心配して
 校舎に戻ることに決めた約子。
 だが そこで見たものは
 友人の無残な姿であった……。","约子担心美绪和苇宫都没有出来，
@@ -2492,7 +2506,7 @@ AUTO切换（显示按钮时）
 决定回到校舍的约子。  
 但是我们在那里看到的  
 是朋友惨不忍睹的样子……"
-"Hazy_Localization.txt:393","どうにか 自宅まで帰り着いた逆崎約子。
+"Hazy_Localization.txt:394","どうにか 自宅まで帰り着いた逆崎約子。
 学校に残ったミヲのことが 心配になるが
 激しい眠気に襲われたため 捜索は明日にして
 すぐに休むことにした……。","逆崎约子总算回到了家。
@@ -2508,7 +2522,7 @@ AUTO切换（显示按钮时）
 虽然担心留在学校的美绪  
 由于睡意太浓，搜索只能明天进行。  
 我决定马上休息……"
-"Hazy_Localization.txt:394","教師の城之内が死んでいるのが発見され
+"Hazy_Localization.txt:395","教師の城之内が死んでいるのが発見され
 昨夜 校内に別の呪主が潜んでいたことが判明。
 一方 奥田瞳からの情報により
 白石美智代の置かれていた過酷な境遇も
@@ -2528,7 +2542,7 @@ AUTO切换（显示按钮时）
 另一方面，根据奥田瞳的情报  
 白石美智代所处的残酷境遇  
 说明后约子动摇了。"
-"Hazy_Localization.txt:395","《本所事変》に『禄命簿・陰の書』……
+"Hazy_Localization.txt:396","《本所事変》に『禄命簿・陰の書』……
 新石から多くの情報を得ることができ
 少しずつ 事件の全貌が見えてきた。
 これらの手がかりを使って
@@ -2548,7 +2562,7 @@ AUTO切换（显示按钮时）
 一点一点地看到了事件的全貌。  
 用这些线索  
 可能会接近事态的解决。"
-"Hazy_Localization.txt:396","白石美智代は 約子の中にいた。
+"Hazy_Localization.txt:397","白石美智代は 約子の中にいた。
 約子の持つ呪詛珠で 復讐を果たしていた。
 白石美智代から情報を得るために 再び
 こっくりさんを行い ようやく事情を知る……。
@@ -2568,7 +2582,7 @@ AUTO切换（显示按钮时）
 为了从白石美智代那里得到情报，  
 狐狸，狗，狸猫，终于知道了事情的原由……  
 在下次见面之前，请不要忘记。"
-"Hazy_Localization.txt:397","[c5]【エンディング＃１】[c0]
+"Hazy_Localization.txt:398","[c5]【エンディング＃１】[c0]
 白石美智代を蘇らせるために
 《蘇りの秘術》を狙っていた並垣。
 だが 力ずくでも呪詛珠を奪おうとした
@@ -2588,7 +2602,7 @@ AUTO切换（显示按钮时）
 以“复活秘术”为目标的并垣。  
 但是即使用力也要夺取诅咒珠  
 出现在他面前的是白石本人……？"
-"Hazy_Localization.txt:398","監禁から脱出した 蝶澤麻由と合流して
+"Hazy_Localization.txt:399","監禁から脱出した 蝶澤麻由と合流して
 ヒハクの弓岡を問い詰めていくミヲと約子。
 その中で 吉見肇と白石美智代が 晴曼の末裔で
 ふたつのお守りを集めれば『陰の書』が
@@ -2608,7 +2622,7 @@ AUTO切换（显示按钮时）
 其中吉见肇和白石美智代是晴曼的后裔  
 如果你收集这两个护身符，“阴之书”就会  
 知道了到手的事。"
-"Hazy_Localization.txt:399","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
+"Hazy_Localization.txt:400","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
 すべての標的が 灯野あやめに集中していく。
 約子とミヲが『禄命簿・陰の書』を手に入れ
 この呪いを止められるのかどうかについても
@@ -2628,7 +2642,7 @@ AUTO切换（显示按钮时）
 约子和美绪拿到了“禄命簿·阴之书”  
 我们是否能阻止这种诅咒  
 就交给津诘他们行动了……"
-"Hazy_Localization.txt:400","記憶がない状態で 見知らぬ場所で目覚めた
+"Hazy_Localization.txt:401","記憶がない状態で 見知らぬ場所で目覚めた
 蝶澤麻由だったが 周囲を調べるうちに
 ヒハクの弓岡の仕業だったことを思い出すと
 その場の工夫と 何者かの天啓によって
@@ -2648,11 +2662,11 @@ AUTO切换（显示按钮时）
 这是飞白的弓冈干的。  
 在当时的努力和某人的启发下  
 逃离了被监禁的废弃工厂。"
-"Hazy_Localization.txt:401","権利表記","权利标记","title_rights_notation","False","","","
+"Hazy_Localization.txt:402","権利表記","权利标记","title_rights_notation","False","","","
 权利标记
 
 权利标记"
-"Hazy_Localization.txt:402","シナリオが更新されましたので
+"Hazy_Localization.txt:403","シナリオが更新されましたので
 チャプターの先頭から始めます。","由于剧情更新了，
 因此从章节的开头开始。","story_savedata_update","False","","","
 因为剧本被更新了所以  
@@ -2660,47 +2674,47 @@ AUTO切换（显示按钮时）
 
 因为剧本已经更新了，  
 所以从章节的开头开始。"
-"Hazy_Localization.txt:403","オートセーブを ロードいたしますか？","要加载自动保存吗？","load_message_autosave","False","","","
+"Hazy_Localization.txt:404","オートセーブを ロードいたしますか？","要加载自动保存吗？","load_message_autosave","False","","","
 要加载自动保存吗？
 
 加载自动保存吗？"
-"Hazy_Localization.txt:404","別の画面に移動できません","无法转到其他屏幕","android_back_overlay","False","","","
+"Hazy_Localization.txt:405","別の画面に移動できません","无法转到其他屏幕","android_back_overlay","False","","","
 无法转到其他屏幕
 
 你无法移动到另一个屏幕。"
-"Hazy_Localization.txt:405","はじめる","开始","storychart_detail_start","False","","","
+"Hazy_Localization.txt:406","はじめる","开始","storychart_detail_start","False","","","
 开始，开始
 
 开始"
-"Hazy_Localization.txt:406","はじめから","从最初开始","storychart_detail_first","False","","","
+"Hazy_Localization.txt:407","はじめから","从最初开始","storychart_detail_first","False","","","
 从最开始
 
 从头开始"
-"Hazy_Localization.txt:407","途中から","从中途开始","storychart_detail_continue","False","","","
+"Hazy_Localization.txt:408","途中から","从中途开始","storychart_detail_continue","False","","","
 从中途开始
 
 从中途开始"
-"Hazy_Localization.txt:408","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","保存数据损坏，<br>读取失败。<br>初始化保存数据。","reset_savedata","False","","","
+"Hazy_Localization.txt:409","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","保存数据损坏，<br>读取失败。<br>初始化保存数据。","reset_savedata","False","","","
 因为保存数据损坏了<br>读取失败了。<br>初始化保存数据。
 
 读取失败，原因是保存数据损坏。<br>初始化保存数据。<br>"
-"Hazy_Localization.txt:409","※タイトル画面で変更できます","※可以在标题画面变更","option_warnig_text","False","","","
+"Hazy_Localization.txt:410","※タイトル画面で変更できます","※可以在标题画面变更","option_warnig_text","False","","","
 ※标题画面可以变更
 
 ※可以在标题画面上变更"
-"Hazy_Localization.txt:410","キーコンフィグが競合しているので保存できません。","存在按键冲突，不能保存。","option_keyconfig_conflict","False","","","
+"Hazy_Localization.txt:411","キーコンフィグが競合しているので保存できません。","存在按键冲突，不能保存。","option_keyconfig_conflict","False","","","
 因为关键符号在竞争，所以不能保存。
 
 密钥配置冲突，无法保存。"
-"Hazy_Localization.txt:411","戻る","后退","option_keyconfig_conflict_back","False","","","
+"Hazy_Localization.txt:412","戻る","后退","option_keyconfig_conflict_back","False","","","
 后退
 
 返回"
-"Hazy_Localization.txt:412","全てのデータを消去しました。","删除了所有的数据。","savedata_alldelete_text","False","","","
+"Hazy_Localization.txt:413","全てのデータを消去しました。","删除了所有的数据。","savedata_alldelete_text","False","","","
 我删除了所有的数据。
 
 删除了所有的数据。"
-"Hazy_Localization.txt:413","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","＜致未成年人＞<br>请在事先征得监护人同意后，<br>再使用这个游戏。  <br><br>游戏使用方法（如使用时间等），<br>请和监护人好好商量后再决定。","title_warning_text","False","","","
+"Hazy_Localization.txt:414","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","＜致未成年人＞<br>请在事先征得监护人同意后，<br>再使用这个游戏。  <br><br>游戏使用方法（如使用时间等），<br>请和监护人好好商量后再决定。","title_warning_text","False","","","
 <给未成年人><br>事先征得监护人同意后，<br>请使用这个游戏。<br><br>游戏使用方法（使用时间等）请和<br>监护人好好商量后决定。
 
 <给未成年人> <br>请事先征得监护人的同意后，使用这个游戏。<br>游戏利用方法<br><br>利用时间等<br>，请与监护人好好商量后决定。"

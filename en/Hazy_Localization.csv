@@ -24,7 +24,12 @@
 "Hazy_Localization.txt:23","スロット{0}に 上書きいたしますか？","Do you wish to overwrite slot {0}?","save_message","False","","",""
 "Hazy_Localization.txt:24","ロード","Load","load_title","False","","",""
 "Hazy_Localization.txt:25","ロードするスロットを選んでください","Select a slot to load","load_subtitle","False","","",""
-"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？","Do you wish to load slot {0}?","load_message","False","","",""
+"Hazy_Localization.txt:26","スロット{0}を ロードいたしますか？
+[c3]※ロードすると ストーリーの進行状態も戻ります。
+※本作は データを戻さずとも 全要素が遊べます。","Do you wish to load slot {0}?
+[c3]*This will revert any current story progress.
+*It is possible to experience all the story has to
+offer without reloading your data.","load_message","False","","",""
 "Hazy_Localization.txt:27","オートセーブ","Autosave","save_autosave","False","","",""
 "Hazy_Localization.txt:28","スロット{0}","Slot {0}","save_slotname","False","","",""
 "Hazy_Localization.txt:29","データなし","No data","save_nodata","False","","",""
@@ -73,645 +78,649 @@
 "Hazy_Localization.txt:72","描画負荷設定","Rendering Load","option_video_render_load","False","","",""
 "Hazy_Localization.txt:73","低負荷","Minimal","low_load","False","","",""
 "Hazy_Localization.txt:74","やや低負荷","Economic","slightly_low_load","False","","",""
-"Hazy_Localization.txt:75","画面解像度","Standard","option_video_screen_resolution","False","","",""
-"Hazy_Localization.txt:76","画面モード","Display Mode","option_video_screen_mode","False","","",""
-"Hazy_Localization.txt:77","ウインドウ","Windowed","option_video_window","False","","",""
-"Hazy_Localization.txt:78","ボーダーレス","Borderless","option_video_borderless","False","","",""
-"Hazy_Localization.txt:79","フルスクリーン","Fullscreen","option_video_full_screen","False","","",""
-"Hazy_Localization.txt:80","1280×720","1280×720","option_video_1","False","","",""
-"Hazy_Localization.txt:81","1366×768","1366×768","option_video_2","False","","",""
-"Hazy_Localization.txt:82","1600×900","1600×900","option_video_3","False","","",""
-"Hazy_Localization.txt:83","1920×1080","1920×1080","option_video_4","False","","",""
-"Hazy_Localization.txt:84","コントロール設定","Controls Settings","option_controller_title","False","","",""
-"Hazy_Localization.txt:85","コントローラー持ち方","Controller Mode","option_controller_hold","False","","",""
-"Hazy_Localization.txt:86","視点操作(上下)","Camera (Vertical)","option_controller_view1","False","","",""
-"Hazy_Localization.txt:87","視点操作(左右)","Camera (Horizontal)","option_controller_view2","False","","",""
-"Hazy_Localization.txt:88","決定ボタンの設定","Confirm Button Settings","option_controller_button","False","","",""
-"Hazy_Localization.txt:89","通常","Standard","normal","False","","",""
-"Hazy_Localization.txt:90","上下反転","Inverted","option_controller_flip_ud","False","","",""
-"Hazy_Localization.txt:91","左右反転","Inverted","option_controller_flip_lr","False","","",""
-"Hazy_Localization.txt:92","変更","Rebind","change","False","","",""
-"Hazy_Localization.txt:93","決定／キャンセルボタンの割り当てを変更します。<br>","Switch Confirm/Cancel Buttons<br>","option_controller_message","False","","",""
-"Hazy_Localization.txt:94","決定","Confirm","keyconfig_enter","False","","",""
-"Hazy_Localization.txt:95","選択:上","Up (Selection)","keyconfig_select_up","False","","",""
-"Hazy_Localization.txt:96","選択:下","Down (Selection)","keyconfig_select_down","False","","",""
-"Hazy_Localization.txt:97","選択:左","Left (Selection)","keyconfig_select_left","False","","",""
-"Hazy_Localization.txt:98","選択:右","Right (Selection)","keyconfig_select_right","False","","",""
-"Hazy_Localization.txt:99","カーソル:上","Up (Cursor)","keyconfig_camera_up","False","","",""
-"Hazy_Localization.txt:100","カーソル:下","Down (Cursor)","keyconfig_camera_down","False","","",""
-"Hazy_Localization.txt:101","カーソル:左","Left (Cursor)","keyconfig_camera_left","False","","",""
-"Hazy_Localization.txt:102","カーソル:右","Right (Cursor)","keyconfig_camera_right","False","","",""
-"Hazy_Localization.txt:103","呪詛行使","Use Curse","keyconfig_skill","False","","",""
-"Hazy_Localization.txt:104","メニュー","Menu","keyconfig_menu","False","","",""
-"Hazy_Localization.txt:105","AUTO","Auto","keyconfig_auto","False","","",""
-"Hazy_Localization.txt:106","キーボード操作のキーコンフィグ","Key Bindings","keyconfig_title","False","","",""
-"Hazy_Localization.txt:107","入力したキーは使用できません。","This key cannot be used.","keyconfig_conflict","False","","",""
-"Hazy_Localization.txt:108","設定するキーを入力してください。<br>（ESC でキャンセル）","Press key to bind.<br>(Esc to cancel)","keyconfig_dialog_title","False","","",""
-"Hazy_Localization.txt:109","Now Loading...","Now Loading...","nowloading","False","","",""
-"Hazy_Localization.txt:110","設定を変更せずに 終了いたしますか？","Exit without making changes?","option_return_msg","False","","",""
-"Hazy_Localization.txt:111","更新ページを開く","Open updates page","msgbox_open_update_page","False","","",""
-"Hazy_Localization.txt:112","セーブして ゲームを終了いたします。
+"Hazy_Localization.txt:75","色収差","Chromatic Aberration","option_video_chromaticaberration","False","","",""
+"Hazy_Localization.txt:76","画面解像度","Standard","option_video_screen_resolution","False","","",""
+"Hazy_Localization.txt:77","画面モード","Display Mode","option_video_screen_mode","False","","",""
+"Hazy_Localization.txt:78","ウインドウ","Windowed","option_video_window","False","","",""
+"Hazy_Localization.txt:79","ボーダーレス","Borderless","option_video_borderless","False","","",""
+"Hazy_Localization.txt:80","フルスクリーン","Fullscreen","option_video_full_screen","False","","",""
+"Hazy_Localization.txt:81","1280×720","1280×720","option_video_1","False","","",""
+"Hazy_Localization.txt:82","1366×768","1366×768","option_video_2","False","","",""
+"Hazy_Localization.txt:83","1600×900","1600×900","option_video_3","False","","",""
+"Hazy_Localization.txt:84","1920×1080","1920×1080","option_video_4","False","","",""
+"Hazy_Localization.txt:85","コントロール設定","Controls Settings","option_controller_title","False","","",""
+"Hazy_Localization.txt:86","コントローラー持ち方","Controller Mode","option_controller_hold","False","","",""
+"Hazy_Localization.txt:87","視点操作(上下)","Camera (Vertical)","option_controller_view1","False","","",""
+"Hazy_Localization.txt:88","視点操作(左右)","Camera (Horizontal)","option_controller_view2","False","","",""
+"Hazy_Localization.txt:89","決定ボタンの設定","Confirm Button Settings","option_controller_button","False","","",""
+"Hazy_Localization.txt:90","通常","Standard","normal","False","","",""
+"Hazy_Localization.txt:91","上下反転","Inverted","option_controller_flip_ud","False","","",""
+"Hazy_Localization.txt:92","左右反転","Inverted","option_controller_flip_lr","False","","",""
+"Hazy_Localization.txt:93","変更","Rebind","change","False","","",""
+"Hazy_Localization.txt:94","決定／キャンセルボタンの割り当てを変更します。<br>","Switch Confirm/Cancel Buttons<br>","option_controller_message","False","","",""
+"Hazy_Localization.txt:95","決定","Confirm","keyconfig_enter","False","","",""
+"Hazy_Localization.txt:96","選択:上","Up (Selection)","keyconfig_select_up","False","","",""
+"Hazy_Localization.txt:97","選択:下","Down (Selection)","keyconfig_select_down","False","","",""
+"Hazy_Localization.txt:98","選択:左","Left (Selection)","keyconfig_select_left","False","","",""
+"Hazy_Localization.txt:99","選択:右","Right (Selection)","keyconfig_select_right","False","","",""
+"Hazy_Localization.txt:100","カーソル:上","Up (Cursor)","keyconfig_camera_up","False","","",""
+"Hazy_Localization.txt:101","カーソル:下","Down (Cursor)","keyconfig_camera_down","False","","",""
+"Hazy_Localization.txt:102","カーソル:左","Left (Cursor)","keyconfig_camera_left","False","","",""
+"Hazy_Localization.txt:103","カーソル:右","Right (Cursor)","keyconfig_camera_right","False","","",""
+"Hazy_Localization.txt:104","呪詛行使","Use Curse","keyconfig_skill","False","","",""
+"Hazy_Localization.txt:105","メニュー","Menu","keyconfig_menu","False","","",""
+"Hazy_Localization.txt:106","AUTO","Auto","keyconfig_auto","False","","",""
+"Hazy_Localization.txt:107","キーボード操作のキーコンフィグ","Key Bindings","keyconfig_title","False","","",""
+"Hazy_Localization.txt:108","入力したキーは使用できません。","This key cannot be used.","keyconfig_conflict","False","","",""
+"Hazy_Localization.txt:109","設定するキーを入力してください。<br>（ESC でキャンセル）","Press key to bind.<br>(Esc to cancel)","keyconfig_dialog_title","False","","",""
+"Hazy_Localization.txt:110","Now Loading...","Now Loading...","nowloading","False","","",""
+"Hazy_Localization.txt:111","設定を変更せずに 終了いたしますか？","Exit without making changes?","option_return_msg","False","","",""
+"Hazy_Localization.txt:112","更新ページを開く","Open updates page","msgbox_open_update_page","False","","",""
+"Hazy_Localization.txt:113","セーブして ゲームを終了いたします。
 よろしいですか？","Do you wish to save and quit the game?","msgbox_game_end","False","","",""
-"Hazy_Localization.txt:113","表示中のタブの設定を<br>初期状態に戻しますか？","Do you wish to restore all settings on this page to their defaults?","msgbox_init_option_settings","False","","",""
-"Hazy_Localization.txt:114","ゲームスタート","Start Game","game_title_game_start","False","","",""
-"Hazy_Localization.txt:115","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","copywriter","False","","",""
-"Hazy_Localization.txt:116","全てのデータが消去されます。
-本当によろしいですか？<br>","All game data will be deleted.
-Are you sure you wish to do this?<br>","option_alldel_btn_message","False","","",""
-"Hazy_Localization.txt:117","ストーリーチャートに 戻ります。よろしいですか？
+"Hazy_Localization.txt:114","表示中のタブの設定を<br>初期状態に戻しますか？","Do you wish to restore all settings on this page to their defaults?","msgbox_init_option_settings","False","","",""
+"Hazy_Localization.txt:115","ゲームスタート","Start Game","game_title_game_start","False","","",""
+"Hazy_Localization.txt:116","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","©2023 SQUARE ENIX CO., LTD. All Rights Reserved.","copywriter","False","","",""
+"Hazy_Localization.txt:117","全てのデータを 消去いたします。
+本当によろしいですか？
+[c3]※本作は データを消さずとも 全要素が遊べます。","All game data will be deleted.
+Are you sure you wish to do this?
+[c3]*It is possible to experience all the story has to
+offer without deleting your data.","option_alldel_btn_message","False","","",""
+"Hazy_Localization.txt:118","ストーリーチャートに 戻ります。よろしいですか？
 [c3]※まだ終了していないチャプターの場合は
 また最初からやり直しになります。","Do you wish to return to the Story Chart?
 [c3]Any incomplete chapters must be restarted from the beginning.","menu_storychart_message","False","","",""
-"Hazy_Localization.txt:118","タイトルへ戻る","Return to Title","menu_btn_title","False","","",""
-"Hazy_Localization.txt:119","セーブして タイトル画面に戻ります。
+"Hazy_Localization.txt:119","タイトルへ戻る","Return to Title","menu_btn_title","False","","",""
+"Hazy_Localization.txt:120","セーブして タイトル画面に戻ります。
 よろしいですか？","Do you wish to save the game and return to the title screen?","menu_title_message","False","","",""
-"Hazy_Localization.txt:120","ゲームを終了いたしますか？","Do you wish to quit the game?","title_exit_dialog","False","","",""
-"Hazy_Localization.txt:121","演出をスキップいたしますか？","Do you wish to skip the performance?","cancel_scroll_message","False","","",""
-"Hazy_Localization.txt:122","【{0}】","[{0}]","option_keyconfig_subtitle","False","","",""
-"Hazy_Localization.txt:123","PARANORMASIGHT","PARANORMA SIGHT","ac01_title","False","","",""
-"Hazy_Localization.txt:124","すべての実績を獲得する","Acquire all other achievements.","ac01_detail","False","","",""
-"Hazy_Localization.txt:125","東京なめどり連合","Mocking Bird Bancho","ac02_title","False","","",""
-"Hazy_Localization.txt:126","なめどりシールをコンプリートした","Acquire a complete collection of Mocking Bird stickers.","ac02_detail","False","","",""
-"Hazy_Localization.txt:127","本所事変完全掌握","Case Closed","ac03_title","False","","",""
-"Hazy_Localization.txt:128","ストーリーをコンプリートした","Complete the story.","ac03_detail","False","","",""
-"Hazy_Localization.txt:129","本所の人脈通","Honjo's Ace Detective","ac04_title","False","","",""
-"Hazy_Localization.txt:130","人物リストをコンプリートした","Collect all information on Persons of Interest.","ac04_detail","False","","",""
-"Hazy_Localization.txt:131","本所の情報屋","Honjo's Biggest Know-It-All","ac05_title","False","","",""
-"Hazy_Localization.txt:132","資料をコンプリートした","Collect all Files.","ac05_detail","False","","",""
-"Hazy_Localization.txt:133","本所七不思議制覇","Master of the Seven Mysteries","ac06_title","False","","",""
-"Hazy_Localization.txt:134","呪影をコンプリートした","Acquire all Curse Echoes.","ac06_detail","False","","",""
-"Hazy_Localization.txt:135","なめどりエキスパート","Mocking Bird Maniac","ac07_title","False","","",""
-"Hazy_Localization.txt:136","なめどりシールを１５種類獲得した","Collect 15 Mocking Bird stickers.","ac07_detail","False","","",""
-"Hazy_Localization.txt:137","責務完遂","Obligation Fulfilled","ac08_title","False","","",""
-"Hazy_Localization.txt:138","興家彰吾のエンディングを迎えた","Reach Shogo Okiie's ending.","ac08_detail","False","","",""
-"Hazy_Localization.txt:139","なめどりコレクター","Mocking Bird Collector","ac09_title","False","","",""
-"Hazy_Localization.txt:140","なめどりシールを１０種類獲得した","Collect 10 Mocking Bird stickers.","ac09_detail","False","","",""
-"Hazy_Localization.txt:141","真夜中の恐怖","Night Terrors","ac10_title","False","","",""
-"Hazy_Localization.txt:142","真夜中にゲームをプレイする","Play the game in the middle of the night.","ac10_detail","False","","",""
-"Hazy_Localization.txt:143","ベテラン探究者","Veteran Investigator","ac11_title","False","","",""
-"Hazy_Localization.txt:144","プレイ時間が１０時間に達した","Accumulate 10 hours of playtime.","ac11_detail","False","","",""
-"Hazy_Localization.txt:145","脱三日坊主","Don't Be a Quitter","ac12_title","False","","",""
-"Hazy_Localization.txt:146","３日後にゲームをプレイする","Play the game again after 3 days.","ac12_detail","False","","",""
-"Hazy_Localization.txt:147","志岐間春恵の伝説","Harue's Legacy","ac13_title","False","","",""
-"Hazy_Localization.txt:148","志岐間春恵のエンディングを迎えた","Reach Harue Shigima's ending.","ac13_detail","False","","",""
-"Hazy_Localization.txt:149","襟尾純の選択","Erio's Choice","ac14_title","False","","",""
-"Hazy_Localization.txt:150","津詰徹生のエンディングを迎えた","Reach Tetsuo Tsutsumi's ending.","ac14_detail","False","","",""
-"Hazy_Localization.txt:151","白石美智代の怨讐","Michiyo's Grudge","ac15_title","False","","",""
-"Hazy_Localization.txt:152","逆崎約子のエンディングを迎えた","Reach Yakko Sakazaki's ending.","ac15_detail","False","","",""
-"Hazy_Localization.txt:153","根島史周の追慕","Nejima's Reminiscence","ac16_title","False","","",""
-"Hazy_Localization.txt:154","葦宮バッドエンドを迎えた","Reach Ashimiya's bad ending.","ac16_detail","False","","",""
-"Hazy_Localization.txt:155","灯野あやめの本懐","Ayame's Aspiration","ac17_title","False","","",""
-"Hazy_Localization.txt:156","あやめバッドエンドを迎えた","Reach Ayame's bad ending.","ac17_detail","False","","",""
-"Hazy_Localization.txt:157","なめどりビギナー","Mocking Bird Enthusiast","ac18_title","False","","",""
-"Hazy_Localization.txt:158","なめどりシールを５種類獲得した","Collect 5 Mocking Bird stickers.","ac18_detail","False","","",""
-"Hazy_Localization.txt:159","ヒヨっ子なめどり","Mocking Chick","ac19_title","False","","",""
-"Hazy_Localization.txt:160","なめどりシールを１種類獲得した","Collect your first Mocking Bird sticker.","ac19_detail","False","","",""
-"Hazy_Localization.txt:161","殺したのは誰？","Whodunit","ac20_title","False","","",""
-"Hazy_Localization.txt:162","案内人の質問に正解する","Answer the Storyteller's question correctly.","ac20_detail","False","","",""
-"Hazy_Localization.txt:163","蘇りの秘術","The Rite of Resurrection","ac21_title","False","","",""
-"Hazy_Localization.txt:164","序章をクリアした","Complete the prologue.","ac21_detail","False","","",""
-"Hazy_Localization.txt:165","志岐間春恵の願い","Harue's Wish","ac22_title","False","","",""
-"Hazy_Localization.txt:166","１章志岐間篇をクリアした","Complete the Harue branch of Chapter 1.","ac22_detail","False","","",""
-"Hazy_Localization.txt:167","津詰徹生の捜査","Tsutsumi's Investigation","ac23_title","False","","",""
-"Hazy_Localization.txt:168","１章津詰篇をクリアした","Complete the Tsutsumi branch of Chapter 1.","ac23_detail","False","","",""
-"Hazy_Localization.txt:169","逆崎約子の友情","Yakko's Friendship","ac24_title","False","","",""
-"Hazy_Localization.txt:170","１章逆崎篇をクリアした","Complete the Yakko branch of Chapter 1.","ac24_detail","False","","",""
-"Hazy_Localization.txt:171","志岐間春恵の覚悟","Harue's Resolve","ac25_title","False","","",""
-"Hazy_Localization.txt:172","２章志岐間篇をクリアした","Complete the Harue branch of Chapter 2.","ac25_detail","False","","",""
-"Hazy_Localization.txt:173","津詰徹生の後悔","Tsutsumi's Regret","ac26_title","False","","",""
-"Hazy_Localization.txt:174","２章津詰篇をクリアした","Complete the Tsutsumi branch of Chapter 2.","ac26_detail","False","","",""
-"Hazy_Localization.txt:175","逆崎約子の正義","Yakko's Righteousness","ac27_title","False","","",""
-"Hazy_Localization.txt:176","２章逆崎篇をクリアした","Complete the Yakko branch of Chapter 2.","ac27_detail","False","","",""
-"Hazy_Localization.txt:177","蝶澤麻由の脱出","Mayu's Escape","ac28_title","False","","",""
-"Hazy_Localization.txt:178","２章蝶澤篇をクリアした","Complete the Mayu branch of Chapter 2.","ac28_detail","False","","",""
-"Hazy_Localization.txt:179","興家彰吾の油断","Shogo's Blunder","ac29_title","False","","",""
-"Hazy_Localization.txt:180","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac29_detail","False","","",""
-"Hazy_Localization.txt:181","消えずの興家彰吾","Everburning Shogo","ac30_title","False","","",""
-"Hazy_Localization.txt:182","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac30_detail","False","","",""
-"Hazy_Localization.txt:183","足洗い興家彰吾","Foot-Washing Shogo","ac31_title","False","","",""
-"Hazy_Localization.txt:184","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac31_detail","False","","",""
-"Hazy_Localization.txt:185","送り興家彰吾","Haunting Shogo","ac32_title","False","","",""
-"Hazy_Localization.txt:186","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac32_detail","False","","",""
-"Hazy_Localization.txt:187","足洗い津詰徹生","Foot-Washing Tsutsumi","ac33_title","False","","",""
-"Hazy_Localization.txt:188","津詰徹生が死亡した","Witness the death of Tetsuo Tsutsumi.","ac33_detail","False","","",""
-"Hazy_Localization.txt:189","片葉の逆崎約子","One-Sided Yakko","ac34_title","False","","",""
-"Hazy_Localization.txt:190","逆崎約子が死亡した","Witness the death of Yakko Sakazaki.","ac34_detail","False","","",""
-"Hazy_Localization.txt:191","消えずの逆崎約子","Everburning Yakko","ac35_title","False","","",""
-"Hazy_Localization.txt:192","逆崎約子が死亡した","Witness the death of Yakko Sakazaki.","ac35_detail","False","","",""
-"Hazy_Localization.txt:193","AUTO切り替え(ボタン表示時)","Auto On/Off (While button is displayed)","operation_auto","False","","",""
-"Hazy_Localization.txt:194","視点拡大","Zoom In","operation_expansion","False","","",""
-"Hazy_Localization.txt:195","視点縮小","Zoom Out","operation_shrink","False","","",""
-"Hazy_Localization.txt:196","カーソル移動","Move Cursor","operation_cursor_move","False","","",""
-"Hazy_Localization.txt:197","項目選択","Select Object","operation_item_select","False","","",""
-"Hazy_Localization.txt:198","視点移動/","Move Camera/","operation_perspective_move","False","","",""
-"Hazy_Localization.txt:199","スクロール","Scroll","operation_scroll","False","","",""
-"Hazy_Localization.txt:200","視点拡大/縮小","Zoom Out/In","operation_scaling","False","","",""
-"Hazy_Localization.txt:201","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","<align=""left"">Controllable via touch screen<br>(Swipe with two fingers to move<br>camera)","operation_screen","False","","",""
-"Hazy_Localization.txt:202","？？？","???","documentlist_disable_title","False","","",""
-"Hazy_Localization.txt:203","？？？","???","save_charaname_unknown","False","","",""
-"Hazy_Localization.txt:204","興家 彰吾","Shogo Okiie","txid_chr01_st","False","","",""
-"Hazy_Localization.txt:205","福永 葉子","Yoko Fukunaga","txid_chr02_st","False","","",""
-"Hazy_Localization.txt:206","志岐間 春恵","Harue Shigima","txid_chr03_st","False","","",""
-"Hazy_Localization.txt:207","櫂 利飛太","Richter Kai","txid_chr04_st","False","","",""
-"Hazy_Localization.txt:208","津詰 徹生","Tetsuo Tsutsumi","txid_chr05_st","False","","",""
-"Hazy_Localization.txt:209","襟尾 純","Jun Erio","txid_chr06_st","False","","",""
-"Hazy_Localization.txt:210","吉見 肇","Hajime Yoshimi","txid_chr07_st","False","","",""
-"Hazy_Localization.txt:211","黒鈴 ミヲ","Mio Kurosuzu","txid_chr08_st","False","","",""
-"Hazy_Localization.txt:212","逆崎 約子","Yakko Sakazaki","txid_chr09_st","False","","",""
-"Hazy_Localization.txt:213","白石 美智代","Michiyo Shiraishi","txid_chr10_st","False","","",""
-"Hazy_Localization.txt:214","奥田 瞳","Hitomi Okuda","txid_chr11_st","False","","",""
-"Hazy_Localization.txt:215","城之内 耕兵","Kohei Jonouchi","txid_chr12_st","False","","",""
-"Hazy_Localization.txt:216","葦宮 誠","Makoto Ashimiya","txid_chr13_st","False","","",""
-"Hazy_Localization.txt:217","蝶澤 麻由","Mayu Chozawa","txid_chr14_st","False","","",""
-"Hazy_Localization.txt:218","並垣 祐太郎","Yutaro Namigaki","txid_chr15_st","False","","",""
-"Hazy_Localization.txt:219","灯野 あやめ","Ayame Tono","txid_chr16_st","False","","",""
-"Hazy_Localization.txt:220","新石 英樹","Hideki Araishi","txid_chr17_st","False","","",""
-"Hazy_Localization.txt:221","山森 ナツヱ","Natsue Yamamori","txid_chr18_st","False","","",""
-"Hazy_Localization.txt:222","弓岡 巧己","Takumi Yumioka","txid_chr19_st","False","","",""
-"Hazy_Localization.txt:223","岩井 官吉郎","Kankichiro Iwai","txid_chr20_st","False","","",""
-"Hazy_Localization.txt:224","志岐間 修一","Shuichi Shigima","txid_chr21_st","False","","",""
-"Hazy_Localization.txt:225","根島 史周","Fumichika Nejima","txid_chr22_st","False","","",""
-"Hazy_Localization.txt:226","案内人","The Storyteller","txid_chr30_st","False","","",""
-"Hazy_Localization.txt:227","ゲームの遊び方","How to Play","txid_doc01_st","False","","",""
-"Hazy_Localization.txt:228","本所七不思議","The Seven Mysteries of Honjo","txid_doc04_st","False","","",""
-"Hazy_Localization.txt:229","『置いてけ堀』","The Whispering Canal","txid_doc05_st","False","","",""
-"Hazy_Localization.txt:230","『馬鹿囃子』","The Fool's Procession","txid_doc06_st","False","","",""
-"Hazy_Localization.txt:231","『送り提灯』","The Beckoning Light","txid_doc07_st","False","","",""
-"Hazy_Localization.txt:232","『送り拍子木』","The Haunting Clappers","txid_doc08_st","False","","",""
-"Hazy_Localization.txt:233","『落葉なき椎』","The Evergreen Beech","txid_doc09_st","False","","",""
-"Hazy_Localization.txt:234","『津軽の太鼓』","The Taiko of Tsugaru","txid_doc10_st","False","","",""
-"Hazy_Localization.txt:235","『足洗い屋敷』","The Foot-Washing Mansion","txid_doc11_st","False","","",""
-"Hazy_Localization.txt:236","『片葉の芦』","The One-Sided Reed","txid_doc12_st","False","","",""
-"Hazy_Localization.txt:237","『消えずの行灯』","The Everburning Lantern","txid_doc13_st","False","","",""
-"Hazy_Localization.txt:238","蘇りの秘術","The Rite of Resurrection","txid_doc15_st","False","","",""
-"Hazy_Localization.txt:239","呪影／呪主","Curse Echoes/Curse Bearers","txid_doc17_st","False","","",""
-"Hazy_Localization.txt:240","呪詛珠","Curse Stones","txid_doc18_st","False","","",""
-"Hazy_Localization.txt:241","滓魂","Soul Dregs","txid_doc19_st","False","","",""
-"Hazy_Localization.txt:242","禄命簿","The Record of Fates","txid_doc22_st","False","","",""
-"Hazy_Localization.txt:243","禄命簿・陰の書","The Record of Fates Yin Scroll","txid_doc48_st","False","","",""
-"Hazy_Localization.txt:244","霊夜祭","The Feast of Shadows","txid_doc25_st","False","","",""
-"Hazy_Localization.txt:245","陰陽師","Onmyoji","txid_doc42_st","False","","",""
-"Hazy_Localization.txt:246","西洋黒魔術","Western Black Magic","txid_doc49_st","False","","",""
-"Hazy_Localization.txt:247","本所事変","The Honjo Incident","txid_doc14_st","False","","",""
-"Hazy_Localization.txt:248","東京都墨田区","Sumida City, Tokyo","txid_doc02_st","False","","",""
-"Hazy_Localization.txt:249","FILE23","File23","txid_doc20_st","False","","",""
-"Hazy_Localization.txt:250","本所","Honjo","txid_doc03_st","False","","",""
-"Hazy_Localization.txt:251","隅田川","Sumida River","txid_doc27_st","False","","",""
-"Hazy_Localization.txt:252","両国橋","Ryogoku Bridge","txid_doc28_st","False","","",""
-"Hazy_Localization.txt:253","駒形橋","Komagata Bridge","txid_doc29_st","False","","",""
-"Hazy_Localization.txt:254","南割下水通り","South Warigesui Street","txid_doc30_st","False","","",""
-"Hazy_Localization.txt:255","錦糸堀公園","Kinshibori Park","txid_doc31_st","False","","",""
-"Hazy_Localization.txt:256","旧安田庭園","Former Yasuda Gardens","txid_doc32_st","False","","",""
-"Hazy_Localization.txt:257","緑町公園","Midoricho Park","txid_doc33_st","False","","",""
-"Hazy_Localization.txt:258","ヒハク石鹸","Hihaku Soaps","txid_doc23_st","False","","",""
-"Hazy_Localization.txt:259","駒形高校","Komagata High School","txid_doc34_st","False","","",""
-"Hazy_Localization.txt:260","志岐間邸","Shigima Residence","txid_doc35_st","False","","",""
-"Hazy_Localization.txt:261","喫茶店 黒桔梗","Kurokikyo Cafe","txid_doc36_st","False","","",""
-"Hazy_Localization.txt:262","駄菓子せんのや","Candy Shop Sennoya","txid_doc37_st","False","","",""
-"Hazy_Localization.txt:263","アオサギ探偵堂","Azure Heron Agency","txid_doc41_st","False","","",""
-"Hazy_Localization.txt:264","心霊対策室","Paranormal Affairs Bureau","txid_doc40_st","False","","",""
-"Hazy_Localization.txt:265","オカルトブーム","Occult Craze","txid_doc16_st","False","","",""
-"Hazy_Localization.txt:266","こっくりさん","Spirit Board","txid_doc24_st","False","","",""
-"Hazy_Localization.txt:267","少年非行","Juvenile Delinquency","txid_doc43_st","False","","",""
-"Hazy_Localization.txt:268","電話ボックス","Telephone Booth","txid_doc21_st","False","","",""
-"Hazy_Localization.txt:269","葛飾北斎","Katsushika Hokusai","txid_doc38_st","False","","",""
-"Hazy_Localization.txt:270","根島事件まとめ","The Nejima Murders (Overview)","txid_doc46_st","False","","",""
-"Hazy_Localization.txt:271","志岐間誘拐事件まとめ","The Shigima Kidnapping (Overview)","txid_doc26_st","False","","",""
-"Hazy_Localization.txt:272","白石美智代関連のメモ","Notes on Michiyo Shiraishi","txid_doc45_st","False","","",""
-"Hazy_Localization.txt:273","吉見肇関連のメモ","Notes on Hajime Yoshimi","txid_doc44_st","False","","",""
-"Hazy_Localization.txt:274","判明している呪主のメモ","Notes on Known Curse Bearers","txid_doc47_st","False","","",""
-"Hazy_Localization.txt:275","なめどり","Mocking Birds","txid_doc39_st","False","","",""
-"Hazy_Localization.txt:276","興家彰吾","Shogo Okiie","txid_strych_name_01","False","","",""
-"Hazy_Localization.txt:277","志岐間春恵","Harue Shigima","txid_strych_name_02","False","","",""
-"Hazy_Localization.txt:278","津詰徹生","Tetsuo Tsutsumi","txid_strych_name_03","False","","",""
-"Hazy_Localization.txt:279","逆崎約子","Yakko Sakazaki","txid_strych_name_04","False","","",""
-"Hazy_Localization.txt:280","蝶澤麻由","Mayu Chozawa","txid_strych_name_05","False","","",""
-"Hazy_Localization.txt:281","「錦糸堀公園 Part1」","Kinshibori Park (Part 1)","txid_strych_title_a0_010","False","","",""
-"Hazy_Localization.txt:282","「錦糸堀公園 Part2」","Kinshibori Park (Part 2)","txid_strych_title_a0_020","False","","",""
-"Hazy_Localization.txt:283","「錦糸堀公園 Part3」","Kinshibori Park (Part 3)","txid_strych_title_a0_030","False","","",""
-"Hazy_Localization.txt:284","「七不思議巡り Part1」","Quest for the Seven Mysteries (Part 1)","txid_strych_title_a0_040","False","","",""
-"Hazy_Localization.txt:285","「七不思議巡り Part2」","Quest for the Seven Mysteries (Part 2)","txid_strych_title_a0_060","False","","",""
-"Hazy_Localization.txt:286","「錦糸堀公園 Part3'」","Kinshibori Park (Part 3')","txid_strych_title_a0_110","False","","",""
-"Hazy_Localization.txt:287","「錦糸堀公園 Part4」","Kinshibori Park (Part 4)","txid_strych_title_a0_120","False","","",""
-"Hazy_Localization.txt:288","「解除」","Cleansing","txid_strych_title_a1_010","False","","",""
-"Hazy_Localization.txt:289","「もうひとつの結末」","Another Conclusion","txid_strych_title_a1_020","False","","",""
-"Hazy_Localization.txt:290","「夢じゃない」","Not Dreams","txid_strych_title_b0_010","False","","",""
-"Hazy_Localization.txt:291","「面白い話」","A Nice Thought","txid_strych_title_b0_020","False","","",""
-"Hazy_Localization.txt:292","「もし このまま」","No More Curses","txid_strych_title_b0_030","False","","",""
-"Hazy_Localization.txt:293","「そういう世界も ある」","Life Can Be Tough","txid_strych_title_b1_010","False","","",""
-"Hazy_Localization.txt:294","「捕まろうが 死のうが」","Dead or Alive","txid_strych_title_b1_020","False","","",""
-"Hazy_Localization.txt:295","「あの子……苦手？」","Too Much to Handle","txid_strych_title_b1_030","False","","",""
-"Hazy_Localization.txt:296","「最終手段」","Last Resort","txid_strych_title_b1_040","False","","",""
-"Hazy_Localization.txt:297","「志岐間春恵の伝説」","Harue's Legacy","txid_strych_title_b1_050","False","","",""
-"Hazy_Localization.txt:298","「灯野あやめの本懐」","Ayame's Aspiration","txid_strych_title_b1_055","False","","",""
-"Hazy_Localization.txt:299","「現場検証」","Crime Scene Investigation","txid_strych_title_c0_010","False","","",""
-"Hazy_Localization.txt:300","「呪主捜索 Part1」","The Hunt for the Curse Bearers - Part 1","txid_strych_title_c0_020","False","","",""
-"Hazy_Localization.txt:301","「呪主捜索 Part2」","The Hunt for the Curse Bearers - Part 2","txid_strych_title_c0_030","False","","",""
-"Hazy_Localization.txt:302","「予告電話」","A Threatening Phone Call","txid_strych_title_c0_040","False","","",""
-"Hazy_Localization.txt:303","「状況整理」","Sorting Things Out","txid_strych_title_c1_010","False","","",""
-"Hazy_Localization.txt:304","「高級寿司」","Fancy Sushi","txid_strych_title_c1_020","False","","",""
-"Hazy_Localization.txt:305","「暫時待機」","Standing By","txid_strych_title_c1_030","False","","",""
-"Hazy_Localization.txt:306","「大捕物」","Manhunt","txid_strych_title_c1_040","False","","",""
-"Hazy_Localization.txt:307","「根島史周の追慕」","Nejima's Reminiscence","txid_strych_title_c1_045","False","","",""
-"Hazy_Localization.txt:308","「結末」","Conclusion","txid_strych_title_c1_050","False","","",""
-"Hazy_Localization.txt:309","「こっくりさん」","Spirit Board","txid_strych_title_d0_010","False","","",""
-"Hazy_Localization.txt:310","「大事なことは ふたつ」","Two Things to Remember","txid_strych_title_d0_020","False","","",""
-"Hazy_Localization.txt:311","「駒形高校からの脱出」","Escape from Komagata High","txid_strych_title_d0_030","False","","",""
-"Hazy_Localization.txt:312","「脱出失敗」","Failure to Escape","txid_strych_title_d0_035","False","","",""
-"Hazy_Localization.txt:313","「脱出成功」","A Successful Getaway","txid_strych_title_d0_040","False","","",""
-"Hazy_Localization.txt:314","「奥田ちゃんって」","Hitomi's Help","txid_strych_title_d1_010","False","","",""
-"Hazy_Localization.txt:315","「セイマン」","Seiman","txid_strych_title_d1_020","False","","",""
-"Hazy_Localization.txt:316","「またね」","I'll See You Again","txid_strych_title_d1_030","False","","",""
-"Hazy_Localization.txt:317","「白石美智代の怨讐」","Michiyo's Grudge","txid_strych_title_d1_035","False","","",""
-"Hazy_Localization.txt:318","「やってやります」","Let's Do This","txid_strych_title_d1_040","False","","",""
-"Hazy_Localization.txt:319","「決戦の前」","Preparing for Battle","txid_strych_title_d1_050","False","","",""
-"Hazy_Localization.txt:320","「幽暗」","Darkness","txid_strych_title_e1_010","False","","",""
-"Hazy_Localization.txt:321","★出ないテキスト","★","txtid_strych_text1_a0_010","False","","",""
-"Hazy_Localization.txt:322","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:121","ゲームを終了いたしますか？","Do you wish to quit the game?","title_exit_dialog","False","","",""
+"Hazy_Localization.txt:122","演出をスキップいたしますか？","Do you wish to skip the performance?","cancel_scroll_message","False","","",""
+"Hazy_Localization.txt:123","【{0}】","[{0}]","option_keyconfig_subtitle","False","","",""
+"Hazy_Localization.txt:124","PARANORMASIGHT","PARANORMA SIGHT","ac01_title","False","","",""
+"Hazy_Localization.txt:125","すべての実績を獲得する","Acquire all other achievements.","ac01_detail","False","","",""
+"Hazy_Localization.txt:126","東京なめどり連合","Mocking Bird Bancho","ac02_title","False","","",""
+"Hazy_Localization.txt:127","なめどりシールをコンプリートした","Acquire a complete collection of Mocking Bird stickers.","ac02_detail","False","","",""
+"Hazy_Localization.txt:128","本所事変完全掌握","Case Closed","ac03_title","False","","",""
+"Hazy_Localization.txt:129","ストーリーをコンプリートした","Complete the story.","ac03_detail","False","","",""
+"Hazy_Localization.txt:130","本所の人脈通","Honjo's Ace Detective","ac04_title","False","","",""
+"Hazy_Localization.txt:131","人物リストをコンプリートした","Collect all information on Persons of Interest.","ac04_detail","False","","",""
+"Hazy_Localization.txt:132","本所の情報屋","Honjo's Biggest Know-It-All","ac05_title","False","","",""
+"Hazy_Localization.txt:133","資料をコンプリートした","Collect all Files.","ac05_detail","False","","",""
+"Hazy_Localization.txt:134","本所七不思議制覇","Master of the Seven Mysteries","ac06_title","False","","",""
+"Hazy_Localization.txt:135","呪影をコンプリートした","Acquire all Curse Echoes.","ac06_detail","False","","",""
+"Hazy_Localization.txt:136","なめどりエキスパート","Mocking Bird Maniac","ac07_title","False","","",""
+"Hazy_Localization.txt:137","なめどりシールを１５種類獲得した","Collect 15 Mocking Bird stickers.","ac07_detail","False","","",""
+"Hazy_Localization.txt:138","責務完遂","Obligation Fulfilled","ac08_title","False","","",""
+"Hazy_Localization.txt:139","興家彰吾のエンディングを迎えた","Reach Shogo Okiie's ending.","ac08_detail","False","","",""
+"Hazy_Localization.txt:140","なめどりコレクター","Mocking Bird Collector","ac09_title","False","","",""
+"Hazy_Localization.txt:141","なめどりシールを１０種類獲得した","Collect 10 Mocking Bird stickers.","ac09_detail","False","","",""
+"Hazy_Localization.txt:142","真夜中の恐怖","Night Terrors","ac10_title","False","","",""
+"Hazy_Localization.txt:143","真夜中にゲームをプレイする","Play the game in the middle of the night.","ac10_detail","False","","",""
+"Hazy_Localization.txt:144","ベテラン探究者","Veteran Investigator","ac11_title","False","","",""
+"Hazy_Localization.txt:145","プレイ時間が１０時間に達した","Accumulate 10 hours of playtime.","ac11_detail","False","","",""
+"Hazy_Localization.txt:146","脱三日坊主","Don't Be a Quitter","ac12_title","False","","",""
+"Hazy_Localization.txt:147","３日後にゲームをプレイする","Play the game again after 3 days.","ac12_detail","False","","",""
+"Hazy_Localization.txt:148","志岐間春恵の伝説","Harue's Legacy","ac13_title","False","","",""
+"Hazy_Localization.txt:149","志岐間春恵のエンディングを迎えた","Reach Harue Shigima's ending.","ac13_detail","False","","",""
+"Hazy_Localization.txt:150","襟尾純の選択","Erio's Choice","ac14_title","False","","",""
+"Hazy_Localization.txt:151","津詰徹生のエンディングを迎えた","Reach Tetsuo Tsutsumi's ending.","ac14_detail","False","","",""
+"Hazy_Localization.txt:152","白石美智代の怨讐","Michiyo's Grudge","ac15_title","False","","",""
+"Hazy_Localization.txt:153","逆崎約子のエンディングを迎えた","Reach Yakko Sakazaki's ending.","ac15_detail","False","","",""
+"Hazy_Localization.txt:154","根島史周の追慕","Nejima's Reminiscence","ac16_title","False","","",""
+"Hazy_Localization.txt:155","葦宮バッドエンドを迎えた","Reach Ashimiya's bad ending.","ac16_detail","False","","",""
+"Hazy_Localization.txt:156","灯野あやめの本懐","Ayame's Aspiration","ac17_title","False","","",""
+"Hazy_Localization.txt:157","あやめバッドエンドを迎えた","Reach Ayame's bad ending.","ac17_detail","False","","",""
+"Hazy_Localization.txt:158","なめどりビギナー","Mocking Bird Enthusiast","ac18_title","False","","",""
+"Hazy_Localization.txt:159","なめどりシールを５種類獲得した","Collect 5 Mocking Bird stickers.","ac18_detail","False","","",""
+"Hazy_Localization.txt:160","ヒヨっ子なめどり","Mocking Chick","ac19_title","False","","",""
+"Hazy_Localization.txt:161","なめどりシールを１種類獲得した","Collect your first Mocking Bird sticker.","ac19_detail","False","","",""
+"Hazy_Localization.txt:162","殺したのは誰？","Whodunit","ac20_title","False","","",""
+"Hazy_Localization.txt:163","案内人の質問に正解する","Answer the Storyteller's question correctly.","ac20_detail","False","","",""
+"Hazy_Localization.txt:164","蘇りの秘術","The Rite of Resurrection","ac21_title","False","","",""
+"Hazy_Localization.txt:165","序章をクリアした","Complete the prologue.","ac21_detail","False","","",""
+"Hazy_Localization.txt:166","志岐間春恵の願い","Harue's Wish","ac22_title","False","","",""
+"Hazy_Localization.txt:167","１章志岐間篇をクリアした","Complete the Harue branch of Chapter 1.","ac22_detail","False","","",""
+"Hazy_Localization.txt:168","津詰徹生の捜査","Tsutsumi's Investigation","ac23_title","False","","",""
+"Hazy_Localization.txt:169","１章津詰篇をクリアした","Complete the Tsutsumi branch of Chapter 1.","ac23_detail","False","","",""
+"Hazy_Localization.txt:170","逆崎約子の友情","Yakko's Friendship","ac24_title","False","","",""
+"Hazy_Localization.txt:171","１章逆崎篇をクリアした","Complete the Yakko branch of Chapter 1.","ac24_detail","False","","",""
+"Hazy_Localization.txt:172","志岐間春恵の覚悟","Harue's Resolve","ac25_title","False","","",""
+"Hazy_Localization.txt:173","２章志岐間篇をクリアした","Complete the Harue branch of Chapter 2.","ac25_detail","False","","",""
+"Hazy_Localization.txt:174","津詰徹生の後悔","Tsutsumi's Regret","ac26_title","False","","",""
+"Hazy_Localization.txt:175","２章津詰篇をクリアした","Complete the Tsutsumi branch of Chapter 2.","ac26_detail","False","","",""
+"Hazy_Localization.txt:176","逆崎約子の正義","Yakko's Righteousness","ac27_title","False","","",""
+"Hazy_Localization.txt:177","２章逆崎篇をクリアした","Complete the Yakko branch of Chapter 2.","ac27_detail","False","","",""
+"Hazy_Localization.txt:178","蝶澤麻由の脱出","Mayu's Escape","ac28_title","False","","",""
+"Hazy_Localization.txt:179","２章蝶澤篇をクリアした","Complete the Mayu branch of Chapter 2.","ac28_detail","False","","",""
+"Hazy_Localization.txt:180","興家彰吾の油断","Shogo's Blunder","ac29_title","False","","",""
+"Hazy_Localization.txt:181","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac29_detail","False","","",""
+"Hazy_Localization.txt:182","消えずの興家彰吾","Everburning Shogo","ac30_title","False","","",""
+"Hazy_Localization.txt:183","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac30_detail","False","","",""
+"Hazy_Localization.txt:184","足洗い興家彰吾","Foot-Washing Shogo","ac31_title","False","","",""
+"Hazy_Localization.txt:185","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac31_detail","False","","",""
+"Hazy_Localization.txt:186","送り興家彰吾","Haunting Shogo","ac32_title","False","","",""
+"Hazy_Localization.txt:187","興家彰吾が死亡した","Witness the death of Shogo Okiie.","ac32_detail","False","","",""
+"Hazy_Localization.txt:188","足洗い津詰徹生","Foot-Washing Tsutsumi","ac33_title","False","","",""
+"Hazy_Localization.txt:189","津詰徹生が死亡した","Witness the death of Tetsuo Tsutsumi.","ac33_detail","False","","",""
+"Hazy_Localization.txt:190","片葉の逆崎約子","One-Sided Yakko","ac34_title","False","","",""
+"Hazy_Localization.txt:191","逆崎約子が死亡した","Witness the death of Yakko Sakazaki.","ac34_detail","False","","",""
+"Hazy_Localization.txt:192","消えずの逆崎約子","Everburning Yakko","ac35_title","False","","",""
+"Hazy_Localization.txt:193","逆崎約子が死亡した","Witness the death of Yakko Sakazaki.","ac35_detail","False","","",""
+"Hazy_Localization.txt:194","AUTO切り替え(ボタン表示時)","Auto On/Off (While button is displayed)","operation_auto","False","","",""
+"Hazy_Localization.txt:195","視点拡大","Zoom In","operation_expansion","False","","",""
+"Hazy_Localization.txt:196","視点縮小","Zoom Out","operation_shrink","False","","",""
+"Hazy_Localization.txt:197","カーソル移動","Move Cursor","operation_cursor_move","False","","",""
+"Hazy_Localization.txt:198","項目選択","Select Object","operation_item_select","False","","",""
+"Hazy_Localization.txt:199","視点移動/","Move Camera/","operation_perspective_move","False","","",""
+"Hazy_Localization.txt:200","スクロール","Scroll","operation_scroll","False","","",""
+"Hazy_Localization.txt:201","視点拡大/縮小","Zoom Out/In","operation_scaling","False","","",""
+"Hazy_Localization.txt:202","タッチスクリーンでも操作可能<br>(視点移動は2本指でスワイプ)","<align=""left"">Controllable via touch screen<br>(Swipe with two fingers to move<br>camera)","operation_screen","False","","",""
+"Hazy_Localization.txt:203","？？？","???","documentlist_disable_title","False","","",""
+"Hazy_Localization.txt:204","？？？","???","save_charaname_unknown","False","","",""
+"Hazy_Localization.txt:205","興家 彰吾","Shogo Okiie","txid_chr01_st","False","","",""
+"Hazy_Localization.txt:206","福永 葉子","Yoko Fukunaga","txid_chr02_st","False","","",""
+"Hazy_Localization.txt:207","志岐間 春恵","Harue Shigima","txid_chr03_st","False","","",""
+"Hazy_Localization.txt:208","櫂 利飛太","Richter Kai","txid_chr04_st","False","","",""
+"Hazy_Localization.txt:209","津詰 徹生","Tetsuo Tsutsumi","txid_chr05_st","False","","",""
+"Hazy_Localization.txt:210","襟尾 純","Jun Erio","txid_chr06_st","False","","",""
+"Hazy_Localization.txt:211","吉見 肇","Hajime Yoshimi","txid_chr07_st","False","","",""
+"Hazy_Localization.txt:212","黒鈴 ミヲ","Mio Kurosuzu","txid_chr08_st","False","","",""
+"Hazy_Localization.txt:213","逆崎 約子","Yakko Sakazaki","txid_chr09_st","False","","",""
+"Hazy_Localization.txt:214","白石 美智代","Michiyo Shiraishi","txid_chr10_st","False","","",""
+"Hazy_Localization.txt:215","奥田 瞳","Hitomi Okuda","txid_chr11_st","False","","",""
+"Hazy_Localization.txt:216","城之内 耕兵","Kohei Jonouchi","txid_chr12_st","False","","",""
+"Hazy_Localization.txt:217","葦宮 誠","Makoto Ashimiya","txid_chr13_st","False","","",""
+"Hazy_Localization.txt:218","蝶澤 麻由","Mayu Chozawa","txid_chr14_st","False","","",""
+"Hazy_Localization.txt:219","並垣 祐太郎","Yutaro Namigaki","txid_chr15_st","False","","",""
+"Hazy_Localization.txt:220","灯野 あやめ","Ayame Tono","txid_chr16_st","False","","",""
+"Hazy_Localization.txt:221","新石 英樹","Hideki Araishi","txid_chr17_st","False","","",""
+"Hazy_Localization.txt:222","山森 ナツヱ","Natsue Yamamori","txid_chr18_st","False","","",""
+"Hazy_Localization.txt:223","弓岡 巧己","Takumi Yumioka","txid_chr19_st","False","","",""
+"Hazy_Localization.txt:224","岩井 官吉郎","Kankichiro Iwai","txid_chr20_st","False","","",""
+"Hazy_Localization.txt:225","志岐間 修一","Shuichi Shigima","txid_chr21_st","False","","",""
+"Hazy_Localization.txt:226","根島 史周","Fumichika Nejima","txid_chr22_st","False","","",""
+"Hazy_Localization.txt:227","案内人","The Storyteller","txid_chr30_st","False","","",""
+"Hazy_Localization.txt:228","ゲームの遊び方","How to Play","txid_doc01_st","False","","",""
+"Hazy_Localization.txt:229","本所七不思議","The Seven Mysteries of Honjo","txid_doc04_st","False","","",""
+"Hazy_Localization.txt:230","『置いてけ堀』","The Whispering Canal","txid_doc05_st","False","","",""
+"Hazy_Localization.txt:231","『馬鹿囃子』","The Fool's Procession","txid_doc06_st","False","","",""
+"Hazy_Localization.txt:232","『送り提灯』","The Beckoning Light","txid_doc07_st","False","","",""
+"Hazy_Localization.txt:233","『送り拍子木』","The Haunting Clappers","txid_doc08_st","False","","",""
+"Hazy_Localization.txt:234","『落葉なき椎』","The Evergreen Beech","txid_doc09_st","False","","",""
+"Hazy_Localization.txt:235","『津軽の太鼓』","The Taiko of Tsugaru","txid_doc10_st","False","","",""
+"Hazy_Localization.txt:236","『足洗い屋敷』","The Foot-Washing Mansion","txid_doc11_st","False","","",""
+"Hazy_Localization.txt:237","『片葉の芦』","The One-Sided Reed","txid_doc12_st","False","","",""
+"Hazy_Localization.txt:238","『消えずの行灯』","The Everburning Lantern","txid_doc13_st","False","","",""
+"Hazy_Localization.txt:239","蘇りの秘術","The Rite of Resurrection","txid_doc15_st","False","","",""
+"Hazy_Localization.txt:240","呪影／呪主","Curse Echoes/Curse Bearers","txid_doc17_st","False","","",""
+"Hazy_Localization.txt:241","呪詛珠","Curse Stones","txid_doc18_st","False","","",""
+"Hazy_Localization.txt:242","滓魂","Soul Dregs","txid_doc19_st","False","","",""
+"Hazy_Localization.txt:243","禄命簿","The Record of Fates","txid_doc22_st","False","","",""
+"Hazy_Localization.txt:244","禄命簿・陰の書","The Record of Fates Yin Scroll","txid_doc48_st","False","","",""
+"Hazy_Localization.txt:245","霊夜祭","The Feast of Shadows","txid_doc25_st","False","","",""
+"Hazy_Localization.txt:246","陰陽師","Onmyoji","txid_doc42_st","False","","",""
+"Hazy_Localization.txt:247","西洋黒魔術","Western Black Magic","txid_doc49_st","False","","",""
+"Hazy_Localization.txt:248","本所事変","The Honjo Incident","txid_doc14_st","False","","",""
+"Hazy_Localization.txt:249","東京都墨田区","Sumida City, Tokyo","txid_doc02_st","False","","",""
+"Hazy_Localization.txt:250","FILE23","File23","txid_doc20_st","False","","",""
+"Hazy_Localization.txt:251","本所","Honjo","txid_doc03_st","False","","",""
+"Hazy_Localization.txt:252","隅田川","Sumida River","txid_doc27_st","False","","",""
+"Hazy_Localization.txt:253","両国橋","Ryogoku Bridge","txid_doc28_st","False","","",""
+"Hazy_Localization.txt:254","駒形橋","Komagata Bridge","txid_doc29_st","False","","",""
+"Hazy_Localization.txt:255","南割下水通り","South Warigesui Street","txid_doc30_st","False","","",""
+"Hazy_Localization.txt:256","錦糸堀公園","Kinshibori Park","txid_doc31_st","False","","",""
+"Hazy_Localization.txt:257","旧安田庭園","Former Yasuda Gardens","txid_doc32_st","False","","",""
+"Hazy_Localization.txt:258","緑町公園","Midoricho Park","txid_doc33_st","False","","",""
+"Hazy_Localization.txt:259","ヒハク石鹸","Hihaku Soaps","txid_doc23_st","False","","",""
+"Hazy_Localization.txt:260","駒形高校","Komagata High School","txid_doc34_st","False","","",""
+"Hazy_Localization.txt:261","志岐間邸","Shigima Residence","txid_doc35_st","False","","",""
+"Hazy_Localization.txt:262","喫茶店 黒桔梗","Kurokikyo Cafe","txid_doc36_st","False","","",""
+"Hazy_Localization.txt:263","駄菓子せんのや","Candy Shop Sennoya","txid_doc37_st","False","","",""
+"Hazy_Localization.txt:264","アオサギ探偵堂","Azure Heron Agency","txid_doc41_st","False","","",""
+"Hazy_Localization.txt:265","心霊対策室","Paranormal Affairs Bureau","txid_doc40_st","False","","",""
+"Hazy_Localization.txt:266","オカルトブーム","Occult Craze","txid_doc16_st","False","","",""
+"Hazy_Localization.txt:267","こっくりさん","Spirit Board","txid_doc24_st","False","","",""
+"Hazy_Localization.txt:268","少年非行","Juvenile Delinquency","txid_doc43_st","False","","",""
+"Hazy_Localization.txt:269","電話ボックス","Telephone Booth","txid_doc21_st","False","","",""
+"Hazy_Localization.txt:270","葛飾北斎","Katsushika Hokusai","txid_doc38_st","False","","",""
+"Hazy_Localization.txt:271","根島事件まとめ","The Nejima Murders (Overview)","txid_doc46_st","False","","",""
+"Hazy_Localization.txt:272","志岐間誘拐事件まとめ","The Shigima Kidnapping (Overview)","txid_doc26_st","False","","",""
+"Hazy_Localization.txt:273","白石美智代関連のメモ","Notes on Michiyo Shiraishi","txid_doc45_st","False","","",""
+"Hazy_Localization.txt:274","吉見肇関連のメモ","Notes on Hajime Yoshimi","txid_doc44_st","False","","",""
+"Hazy_Localization.txt:275","判明している呪主のメモ","Notes on Known Curse Bearers","txid_doc47_st","False","","",""
+"Hazy_Localization.txt:276","なめどり","Mocking Birds","txid_doc39_st","False","","",""
+"Hazy_Localization.txt:277","興家彰吾","Shogo Okiie","txid_strych_name_01","False","","",""
+"Hazy_Localization.txt:278","志岐間春恵","Harue Shigima","txid_strych_name_02","False","","",""
+"Hazy_Localization.txt:279","津詰徹生","Tetsuo Tsutsumi","txid_strych_name_03","False","","",""
+"Hazy_Localization.txt:280","逆崎約子","Yakko Sakazaki","txid_strych_name_04","False","","",""
+"Hazy_Localization.txt:281","蝶澤麻由","Mayu Chozawa","txid_strych_name_05","False","","",""
+"Hazy_Localization.txt:282","「錦糸堀公園 Part1」","Kinshibori Park (Part 1)","txid_strych_title_a0_010","False","","",""
+"Hazy_Localization.txt:283","「錦糸堀公園 Part2」","Kinshibori Park (Part 2)","txid_strych_title_a0_020","False","","",""
+"Hazy_Localization.txt:284","「錦糸堀公園 Part3」","Kinshibori Park (Part 3)","txid_strych_title_a0_030","False","","",""
+"Hazy_Localization.txt:285","「七不思議巡り Part1」","Quest for the Seven Mysteries (Part 1)","txid_strych_title_a0_040","False","","",""
+"Hazy_Localization.txt:286","「七不思議巡り Part2」","Quest for the Seven Mysteries (Part 2)","txid_strych_title_a0_060","False","","",""
+"Hazy_Localization.txt:287","「錦糸堀公園 Part3'」","Kinshibori Park (Part 3')","txid_strych_title_a0_110","False","","",""
+"Hazy_Localization.txt:288","「錦糸堀公園 Part4」","Kinshibori Park (Part 4)","txid_strych_title_a0_120","False","","",""
+"Hazy_Localization.txt:289","「解除」","Cleansing","txid_strych_title_a1_010","False","","",""
+"Hazy_Localization.txt:290","「もうひとつの結末」","Another Conclusion","txid_strych_title_a1_020","False","","",""
+"Hazy_Localization.txt:291","「夢じゃない」","Not Dreams","txid_strych_title_b0_010","False","","",""
+"Hazy_Localization.txt:292","「面白い話」","A Nice Thought","txid_strych_title_b0_020","False","","",""
+"Hazy_Localization.txt:293","「もし このまま」","No More Curses","txid_strych_title_b0_030","False","","",""
+"Hazy_Localization.txt:294","「そういう世界も ある」","Life Can Be Tough","txid_strych_title_b1_010","False","","",""
+"Hazy_Localization.txt:295","「捕まろうが 死のうが」","Dead or Alive","txid_strych_title_b1_020","False","","",""
+"Hazy_Localization.txt:296","「あの子……苦手？」","Too Much to Handle","txid_strych_title_b1_030","False","","",""
+"Hazy_Localization.txt:297","「最終手段」","Last Resort","txid_strych_title_b1_040","False","","",""
+"Hazy_Localization.txt:298","「志岐間春恵の伝説」","Harue's Legacy","txid_strych_title_b1_050","False","","",""
+"Hazy_Localization.txt:299","「灯野あやめの本懐」","Ayame's Aspiration","txid_strych_title_b1_055","False","","",""
+"Hazy_Localization.txt:300","「現場検証」","Crime Scene Investigation","txid_strych_title_c0_010","False","","",""
+"Hazy_Localization.txt:301","「呪主捜索 Part1」","The Hunt for the Curse Bearers - Part 1","txid_strych_title_c0_020","False","","",""
+"Hazy_Localization.txt:302","「呪主捜索 Part2」","The Hunt for the Curse Bearers - Part 2","txid_strych_title_c0_030","False","","",""
+"Hazy_Localization.txt:303","「予告電話」","A Threatening Phone Call","txid_strych_title_c0_040","False","","",""
+"Hazy_Localization.txt:304","「状況整理」","Sorting Things Out","txid_strych_title_c1_010","False","","",""
+"Hazy_Localization.txt:305","「高級寿司」","Fancy Sushi","txid_strych_title_c1_020","False","","",""
+"Hazy_Localization.txt:306","「暫時待機」","Standing By","txid_strych_title_c1_030","False","","",""
+"Hazy_Localization.txt:307","「大捕物」","Manhunt","txid_strych_title_c1_040","False","","",""
+"Hazy_Localization.txt:308","「根島史周の追慕」","Nejima's Reminiscence","txid_strych_title_c1_045","False","","",""
+"Hazy_Localization.txt:309","「結末」","Conclusion","txid_strych_title_c1_050","False","","",""
+"Hazy_Localization.txt:310","「こっくりさん」","Spirit Board","txid_strych_title_d0_010","False","","",""
+"Hazy_Localization.txt:311","「大事なことは ふたつ」","Two Things to Remember","txid_strych_title_d0_020","False","","",""
+"Hazy_Localization.txt:312","「駒形高校からの脱出」","Escape from Komagata High","txid_strych_title_d0_030","False","","",""
+"Hazy_Localization.txt:313","「脱出失敗」","Failure to Escape","txid_strych_title_d0_035","False","","",""
+"Hazy_Localization.txt:314","「脱出成功」","A Successful Getaway","txid_strych_title_d0_040","False","","",""
+"Hazy_Localization.txt:315","「奥田ちゃんって」","Hitomi's Help","txid_strych_title_d1_010","False","","",""
+"Hazy_Localization.txt:316","「セイマン」","Seiman","txid_strych_title_d1_020","False","","",""
+"Hazy_Localization.txt:317","「またね」","I'll See You Again","txid_strych_title_d1_030","False","","",""
+"Hazy_Localization.txt:318","「白石美智代の怨讐」","Michiyo's Grudge","txid_strych_title_d1_035","False","","",""
+"Hazy_Localization.txt:319","「やってやります」","Let's Do This","txid_strych_title_d1_040","False","","",""
+"Hazy_Localization.txt:320","「決戦の前」","Preparing for Battle","txid_strych_title_d1_050","False","","",""
+"Hazy_Localization.txt:321","「幽暗」","Darkness","txid_strych_title_e1_010","False","","",""
+"Hazy_Localization.txt:322","★出ないテキスト","★","txtid_strych_text1_a0_010","False","","",""
+"Hazy_Localization.txt:323","[c3]～前回のあらすじ～[c0]
 《本所七不思議》を探して 福永葉子とともに
 錦糸堀公園を捜索する 興家彰吾は
 彼女の明かすオカルト話に まんまと
 引き込まれていくのだった。","[c3]Summary of previous events[c0]
 Shogo Okiie is with Yoko Fukunaga at Kinshibori Park searching for one of the Seven Mysteries of Honjo. His interest in the occult starts to grow as he learns more about it from Yoko.","txtid_strych_text1_a0_020","False","","",""
-"Hazy_Localization.txt:323","★出ないテキスト","★","txtid_strych_text1_a0_030","False","","",""
-"Hazy_Localization.txt:324","★出ないテキスト","★","txtid_strych_text1_a0_040","False","","",""
-"Hazy_Localization.txt:325","★出ないテキスト","★","txtid_strych_text1_a0_060","False","","",""
-"Hazy_Localization.txt:326","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:324","★出ないテキスト","★","txtid_strych_text1_a0_030","False","","",""
+"Hazy_Localization.txt:325","★出ないテキスト","★","txtid_strych_text1_a0_040","False","","",""
+"Hazy_Localization.txt:326","★出ないテキスト","★","txtid_strych_text1_a0_060","False","","",""
+"Hazy_Localization.txt:327","[c3]～前回のあらすじ～[c0]
 突き動かされるような衝動のままに
 我を失った福永葉子を 必死に呼び続け
 なんとしてでも呼び覚まそうとする 興家彰吾。
 その思いは 彼女に届くのか……!?","[c3]Summary of previous events[c0]
 Shogo cries Yoko's name in a desperate attempt to wake her as she lies, unmoving, on the ground. Will his pleas get through to her?","txtid_strych_text1_a0_110","False","","",""
-"Hazy_Localization.txt:327","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:328","[c3]～前回のあらすじ～[c0]
 異変のあった福永葉子を心配した興家彰吾は
 今日の七不思議捜索の 中止を決めた。
 ごねる福永葉子を説得するため 興家彰吾は
 ひとりで もう少し捜索を続けることにした。","[c3]Summary of previous events[c0]
 Worried about Yoko after her bizarre incident, Shogo decides to call off their investigation into the Mysteries for the night. Despite her stubborn objections, he manages to persuade her by offering to continue the search on his own.","txtid_strych_text1_a0_120","False","","",""
-"Hazy_Localization.txt:328","土御門晴曼の《魂》《肉体》《精神》が
+"Hazy_Localization.txt:329","土御門晴曼の《魂》《肉体》《精神》が
 揃ったところに これは現れる。
 ここに解除の術は発動し 秘術も呪いも
 すべてが祓われ 消し去られる……。","When the body, soul, and mind of Seiman Tsuchimikado have all been brought together, the Rite of Cleansing is activated, dispelling all rituals and curses that have previously been performed...","txtid_strych_text1_a1_010","False","","",""
-"Hazy_Localization.txt:329","★出ないテキスト","★","txtid_strych_text1_a1_020","False","","",""
-"Hazy_Localization.txt:330","昨年 息子が誘拐され 捜査の不手際で
+"Hazy_Localization.txt:330","★出ないテキスト","★","txtid_strych_text1_a1_020","False","","",""
+"Hazy_Localization.txt:331","昨年 息子が誘拐され 捜査の不手際で
 殺害されてしまったという志岐間春恵は 
 未解決の誘拐事件の調査を 探偵に依頼。
 深夜に 自宅で調査の報告を受けていると
 《それ》は 突然訪れた……。","When the son of Harue Shigima was kidnapped, a botched investigation by the police resulted in the child's murder. One year later, Harue has hired a private investigator to help resolve the unsettled case. Late at night, while speaking to the detective at her home, something strange suddenly appears...","txtid_strych_text1_b0_010","False","","",""
-"Hazy_Localization.txt:331","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:332","[c3]～前回のあらすじ～[c0]
 『送り拍子木』の呪いは受けたが それは
 使わず 呪詛珠を奪うことで 蘇りの秘術を
 使おうという提案に乗った志岐間春恵は
 櫂利飛太を 呪主の探索に送り出した。","[c3]Summary of previous events[c0]
 Despite having obtained the curse of the Haunting Clappers, Harue Shigima is determined to use the Rite of Resurrection by stealing the remaining curse stones. She instructs her private investigator Richter to find the other curse bearers.","txtid_strych_text1_b0_020","False","","",""
-"Hazy_Localization.txt:332","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:333","[c3]～前回のあらすじ～[c0]
 呪主と疑わしい複数の報告を受けた春恵。
 同じく 呪詛珠を狙っているという
 灯野あやめの存在を気にしながらも
 引き続き 櫂利飛太に呪主探索を一任する。","[c3]Summary of previous events[c0]
 Harue has received multiple reports about other suspected curse bearers. Although concerned about Ayame Tono, who is apparently also after the curse stones, she entrusts Richter to continue his investigation.","txtid_strych_text1_b0_030","False","","",""
-"Hazy_Localization.txt:333","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:334","[c3]～前回のあらすじ～[c0]
 滓魂の溜まった呪詛珠を得るために
 夜通し情報収集を続ける利飛太。
 春恵は 我が子の蘇生という大願成就の可能性に
 眠れぬ朝を迎える。","[c3]Summary of previous events[c0]
 Throughout the night, Richter continues to gather information about the curse stones, while Harue lies awake until dawn, preoccupied by the prospect of bringing her lost child back to life.","txtid_strych_text1_b1_010","False","","",""
-"Hazy_Localization.txt:334","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:335","[c3]～前回のあらすじ～[c0]
 誘拐事件の重要参考人である白石美智代の
 自宅を訪れ 彼女が複雑な事情を抱えていた
 ことを知った春恵と利飛太は
 そこで ふたりの男性と遭遇する。","[c3]Summary of previous events[c0]
 Harue and Richter visit Michiyo's home, having determined her to be a key player in the unresolved kidnapping case from a year before. As the complicated story begins to unravel, they encounter two men.","txtid_strych_text1_b1_020","False","","",""
-"Hazy_Localization.txt:335","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:336","[c3]～前回のあらすじ～[c0]
 刑事と 白石家に突入して 呪い殺されていた
 岩井官吉郎が残していた手記を発見し
 誘拐事件の全貌が明らかになった。
 しかし それでは 春恵は満たされなかった。","[c3]Summary of previous events[c0]
 Harue and Richter break into the Shiraishi residence with the detectives. They find a journal left behind by the deceased Iwai, finally revealing the mystery behind the kidnapping. However, Harue remains unsatisfied.","txtid_strych_text1_b1_030","False","","",""
-"Hazy_Localization.txt:336","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:337","[c3]～前回のあらすじ～[c0]
 救出した蝶澤麻由とともに 弓岡を問い詰め
 新たな呪主の情報入手を試みたが
 特に有益な情報は得られなかった。
 そこで志岐間邸に戻ると……","[c3]Summary of previous events[c0]
 Harue and Richter rescue Mayu Chozawa and interrogate her along with Takumi Yumioka. Yet they fail to gain any particularly useful information about the curse bearers. They decide to return to Harue's home when...","txtid_strych_text1_b1_040","False","","",""
-"Hazy_Localization.txt:337","★出ないテキスト","★","txtid_strych_text1_b1_050","False","","",""
-"Hazy_Localization.txt:338","★出ないテキスト","★","txtid_strych_text1_b1_055","False","","",""
-"Hazy_Localization.txt:339","警視庁捜査一課の警部 津詰徹生は
+"Hazy_Localization.txt:338","★出ないテキスト","★","txtid_strych_text1_b1_050","False","","",""
+"Hazy_Localization.txt:339","★出ないテキスト","★","txtid_strych_text1_b1_055","False","","",""
+"Hazy_Localization.txt:340","警視庁捜査一課の警部 津詰徹生は
 警察官の謎の怪死事件の調査のため
 部下の襟尾純とともに 現場である
 旧安田庭園を訪れていた……。","Tetsuo Tsutsumi, chief inspector of the Metropolitan Police Department, First Investigative Division, is investigating the mysterious death of a fellow officer. He visits the scene of the incident, the Former Yasuda Gardens, with his subordinate Jun Erio.","txtid_strych_text1_c0_010","False","","",""
-"Hazy_Localization.txt:340","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:341","[c3]～前回のあらすじ～[c0]
 警察官・吉見肇が変死した現場にて
 状況の整理を行っていた津詰と襟尾。
 《蘇りの秘術》を否定する津詰だが そこに
 『落葉なき椎』の呪影が現れた。","[c3]Summary of previous events[c0]
 Tsutsumi and Jun are sorting through the facts at the scene of Officer Hajime Yoshimi's mysterious death. Tsutsumi denies the existence of the Rite of Resurrection—until the curse echo of the Evergreen Beech appears before them.","txtid_strych_text1_c0_020","False","","",""
-"Hazy_Localization.txt:341","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:342","[c3]～前回のあらすじ～[c0]
 未曾有の惨事を回避するため 呪詛珠を
 一刻も早く回収すると決めた 津詰と襟尾。
 並垣祐太郎から『足洗い屋敷』の呪詛珠を
 回収したふたりは 次の場所に向かう。","[c3]Summary of previous events[c0]
 Tsutsumi and Erio decide to collect the curse stones as soon as possible, before they become the cause of an unprecedented tragedy. The two obtain the Foot-Washing Mansion from Yutaro Namigaki and head to their next destination.","txtid_strych_text1_c0_030","False","","",""
-"Hazy_Localization.txt:342","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:343","[c3]～前回のあらすじ～[c0]
 『消えずの行灯』の呪主だった新石英樹を
 説得し これで合計３つの呪詛珠を回収した。
 津詰と襟尾は 残る呪主を見つけるべく
 町内の捜索を続ける。","[c3]Summary of previous events[c0]
 After persuading Araishi, the curse bearer of the Everburning Lantern, to give up his stone, Tsutsumi and Erio have obtained three curse stones in total. They continue their investigation of the town in search of the remaining curse bearers.","txtid_strych_text1_c0_040","False","","",""
-"Hazy_Localization.txt:343","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:344","[c3]～前回のあらすじ～[c0]
 呪詛珠の回収もままならない状態で
 吉見肇の変死事件や 根島の殺人予告など
 問題が山積する中 襟尾に各種確認を任せて
 今のうちに少しでも休憩する津詰であった。","[c3]Summary of previous events[c0]
 Hajime Yoshimi's death, Nejima's threat of mass murder—the problems just pile up, putting the detectives' goal of collecting all the curse stones in jeopardy. Tsutsumi leaves Erio to handle the investigation while he catches a quick break.","txtid_strych_text1_c1_010","False","","",""
-"Hazy_Localization.txt:344","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:345","[c3]～前回のあらすじ～[c0]
 日暮れまでがタイムリミットである以上
 時間を無駄にはできない。
 そんな中 津詰と襟尾は 駒形高校と
 白石家に 調査の足を向けることにした。","[c3]Summary of previous events[c0]
 With dusk fast approaching, they have no time to waste. With that in mind, Tsutsumi and Erio direct their investigation toward Komagata High School and the Shiraishi residence.","txtid_strych_text1_c1_020","False","","",""
-"Hazy_Localization.txt:345","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:346","[c3]～前回のあらすじ～[c0]
 白石家で 岩井官吉郎の死とともに
 いくつもの新事実を知った 津詰と襟尾。
 白石美智代ならば 根島史周の隠れ家を知って
 いるとの情報を受け 急いで高校へと向かった。","[c3]Summary of previous events[c0]
 At the Shiraishi home, Tsutsumi and Erio learn the truth about many things, including the death of Kankichiro Iwai. They hurry to the high school after learning that Michiyo Shiraishi knew the whereabouts of Nejima's hideout.","txtid_strych_text1_c1_030","False","","",""
-"Hazy_Localization.txt:346","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:347","[c3]～前回のあらすじ～[c0]
 白石美智代から 根島史周の隠れ家を
 聞くことができた襟尾と津詰は
 本部にも増援を要請して 根島確保のため
 大捕物を繰り広げるのだった。","[c3]Summary of previous events[c0]
 Having learned the location of Nejima's hideout from Michiyo, Tsutsumi and Erio request backup from HQ for Nejima's arrest as their manhunt picks up speed.","txtid_strych_text1_c1_040","False","","",""
-"Hazy_Localization.txt:347","★出ないテキスト","★","txtid_strych_text1_c1_045","False","","",""
-"Hazy_Localization.txt:348","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:348","★出ないテキスト","★","txtid_strych_text1_c1_045","False","","",""
+"Hazy_Localization.txt:349","[c3]～前回のあらすじ～[c0]
 灯野あやめと会って 全部ハッキリさせる。
 そう決意する津詰と襟尾は 捜索を続けていた。
 本所七不思議の呪い……晴曼と蘆乃の因縁は
 果たして どのような結末を迎えるのか……。","[c3]Summary of previous events[c0]
 Tsutsumi and Erio continue their investigation, deciding to meet with Ayame Tono to get to the bottom of it all. What will be the conclusion to the curses of the Seven Mysteries of Honjo...to Seiman and Ashino's intertwined fates?","txtid_strych_text1_c1_050","False","","",""
-"Hazy_Localization.txt:349","投身自殺をした友人を蘇らせたいと願い
+"Hazy_Localization.txt:350","投身自殺をした友人を蘇らせたいと願い
 《蘇りの秘術》を探す逆崎約子は
 その情報を得るために
 同級生の黒鈴ミヲと共に 深夜の教室で
 《こっくりさん》を試みるのだった……。","Yakko Sakazaki searches for the Rite of Resurrection, hoping to revive her friend who jumped to her death. To get the information she needs, she meets with her classmate Mio Kurosuzu in their classroom at midnight to attempt using a spirit board.","txtid_strych_text1_d0_010","False","","",""
-"Hazy_Localization.txt:350","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:351","[c3]～前回のあらすじ～[c0]
 こっくりさんで得た情報によると
 友人・白石美智代は 自殺ではないらしい。
 さらに《蘇りの秘術》の場所を訊ねると
 突然 呪影が現れて……。","[c3]Summary of previous events[c0]
 The information they gain from the spirit board suggests that Michiyo's death was not a suicide. When they continue to press the spirit board for the location of the Rite of Resurrection, a curse echo suddenly appears...","txtid_strych_text1_d0_020","False","","",""
-"Hazy_Localization.txt:351","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:352","[c3]～前回のあらすじ～[c0]
 『馬鹿囃子』の呪いを受けた 逆崎約子に
 《蘇りの秘術》は諦めようと説得するミヲ。
 すでに 学校に他の呪影の影響も出ていたため
 ふたりは 急いで教室を抜け出した。","[c3]Summary of previous events[c0]
 After Yakko acquires the curse of the Fool's Procession, Mio tries to persuade her to give up on going after the Rite of Resurrection. The effects of other curse echoes are already appearing at the school, so the two hurry to get out of the classroom.","txtid_strych_text1_d0_030","False","","",""
-"Hazy_Localization.txt:352","★出ないテキスト","★","txtid_strych_text1_d0_035","False","","",""
-"Hazy_Localization.txt:353","★出ないテキスト","★","txtid_strych_text1_d0_040","False","","",""
-"Hazy_Localization.txt:354","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:353","★出ないテキスト","★","txtid_strych_text1_d0_035","False","","",""
+"Hazy_Localization.txt:354","★出ないテキスト","★","txtid_strych_text1_d0_040","False","","",""
+"Hazy_Localization.txt:355","[c3]～前回のあらすじ～[c0]
 親友を生き返らせるには 代償が要る……。
 手にした呪いと どう向き合うべきか
 整理がつかないまま帰路についた逆崎約子。
 黒鈴ミヲを心配しながら 一夜が明けた。","[c3]Summary of previous events[c0]
 Bringing her friend back from the dead means she'll have to pay the price... Yakko makes it home safely, but still isn't sure about how to proceed with her curse. She worries about Mio as the night passes.","txtid_strych_text1_d1_010","False","","",""
-"Hazy_Localization.txt:355","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:356","[c3]～前回のあらすじ～[c0]
 今回の事件の発端である《蘇りの秘術》。
 その噂を広めた当事者である新石英樹に
 話を聞くため ふたりは彼のいきつけで
 あるという喫茶店《黒桔梗》に向かう。","[c3]Summary of previous events[c0]
 The Rite of Resurrection is the inception of this whole affair. Yakko and Mio decide to confront the man responsible for spreading rumors of it in the first place: Hideki Araishi. They find him at his frequent stomping grounds, the Kurokikyo Cafe.","txtid_strych_text1_d1_020","False","","",""
-"Hazy_Localization.txt:356","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:357","[c3]～前回のあらすじ～[c0]
 『禄命簿・陰の書』があれば 秘術の呪いを
 止める方法がわかるかもしれない。
 有力な手がかりを得ることができた約子らは
 津詰に伝えるため 駒形高校へ向かうのだった。","[c3]Summary of previous events[c0]
 The Record of Fates Yin Scroll may contain a way to put a stop to the curse. Yakko and Mio head back to Komagata High School to share this information with Tsutsumi.","txtid_strych_text1_d1_030","False","","",""
-"Hazy_Localization.txt:357","★出ないテキスト","★","txtid_strych_text1_d1_035","False","","",""
-"Hazy_Localization.txt:358","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:358","★出ないテキスト","★","txtid_strych_text1_d1_035","False","","",""
+"Hazy_Localization.txt:359","[c3]～前回のあらすじ～[c0]
 本当の自分を取り戻した約子は 改めて
 ミヲと共に 今回の呪いを止めるために
 『禄命簿・陰の書』の探索を行うが
 その手がかりは あまりにも少なかった……。","[c3]Summary of previous events[c0]
 Having regained control of herself, Yakko rejoins Mio on their search for the Record of Fates Yin Scroll so that they can stop the curse. However, they find themselves with scarcely any leads to follow...","txtid_strych_text1_d1_040","False","","",""
-"Hazy_Localization.txt:359","[c3]～前回のあらすじ～[c0]
+"Hazy_Localization.txt:360","[c3]～前回のあらすじ～[c0]
 吉見の婚約者 蝶澤と共に 津詰たちに
 これまでの情報を報告する 約子とミヲ。
 すべての話を まとめていくことで
 いよいよ最終目的が見えてくる……。","[c3]Summary of previous events[c0]
 Together with Yoshimi's fiancée Mayu, Yakko and Mio report all they've learned so far to Tsutsumi and the others. Putting all their stories together, they can see their final objective at long last...","txtid_strych_text1_d1_050","False","","",""
-"Hazy_Localization.txt:360","？？？","???","txtid_strych_text1_e1_010","False","","",""
-"Hazy_Localization.txt:361","ごく普通の会社員・興家彰吾は 先日知り合った
+"Hazy_Localization.txt:361","？？？","???","txtid_strych_text1_e1_010","False","","",""
+"Hazy_Localization.txt:362","ごく普通の会社員・興家彰吾は 先日知り合った
 福永葉子と共に 深夜の錦糸堀公園で
 《本所七不思議》を探索していた。突如倒れ
 意識を失った興家は 状況をひとつずつ思い
 出しながら 福永葉子のオカルト話に付き合う。","Shogo Okiie, a completely ordinary office worker, and his recent acquaintance, Yoko Fukunaga, have both gone to Kinshibori Park late at night to investigate the Seven Mysteries of Honjo when Shogo suddenly falls unconscious. Upon reawakening, he gradually regains his grasp on the current situation while discussing the occult with Yoko.","txtid_strych_text2_a0_010","False","","",""
-"Hazy_Localization.txt:362","福永葉子が本所七不思議を調べていたのは
+"Hazy_Localization.txt:363","福永葉子が本所七不思議を調べていたのは
 《蘇りの秘術》を求めてのことだった。
 江戸から伝わる七不思議と 死者を蘇らせる
 という幻の秘術の関係について話していると
 突如 福永葉子の様子に異変があり……。","Yoko reveals that she is searching for the Mysteries because she wants the Rite of Resurrection, a secret art originating from the Edo period. As she explains how the two are related, something strange suddenly occurs...","txtid_strych_text2_a0_020","False","","",""
-"Hazy_Localization.txt:363","前触れもなく不可解な最期を遂げた福永葉子。
+"Hazy_Localization.txt:364","前触れもなく不可解な最期を遂げた福永葉子。
 異常現象に困惑する興家だったが 彼女を復活
 させるべく 蘇りの秘術を手に入れることを誓う。
 すると そこに弓岡巧己と名乗る男が現れ
 興家の手に入れた呪詛珠を渡せと狙う。","After Yoko meets an untimely and inexplicable death, Shogo vows to bring her back through the Rite of Resurrection. Just then, a man named Takumi Yumioka appears and demands that Shogo give him the curse stone he has just obtained.","txtid_strych_text2_a0_030","False","","",""
-"Hazy_Localization.txt:364","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
+"Hazy_Localization.txt:365","弓岡巧己を呪い殺し 滓魂を手に入れた興家は
 もう後には引けないと 夜明けまでに
 残りの滓魂を集めることを決意。
 本所七不思議の地を巡り 各地で遭遇する
 出来事を経て 着実に滓魂を溜めていく。","Shogo kills Takumi Yumioka and takes his soul dregs. Realizing he is unable to undo his actions, he strengthens his resolve to gather the remaining soul dregs before dawn. He travels throughout Honjo searching for the Seven Mysteries, accumulating more soul dregs with each of his encounters.","txtid_strych_text2_a0_040","False","","",""
-"Hazy_Localization.txt:365","興家彰吾は 《両国橋》と《旧安田庭園》でも
+"Hazy_Localization.txt:366","興家彰吾は 《両国橋》と《旧安田庭園》でも
 呪主と遭遇し どうにか難関を突破して
 必要な滓魂を溜めきった。
 しかしその後 呪詛珠に変化があり
 興家は そのまま帰らぬ人となる……。","Shogo manages to best the curse bearers he meets at Ryogoku Bridge and the Former Yasuda Gardens, collecting the soul dregs he requires. However, something happens to his curse stone, and he is delivered to a grisly fate...","txtid_strych_text2_a0_060","False","","",""
-"Hazy_Localization.txt:366","興家彰吾の辛抱強い呼びかけによって
+"Hazy_Localization.txt:367","興家彰吾の辛抱強い呼びかけによって
 福永葉子は 無事に我に返った。
 しかし 何を見て 何が起こったのかは
 まったく覚えていないという。
 その話を聞いて 興家は捜索の中止を決める。","Thanks to Shogo's perseverance, Yoko Fukunaga finally regains consciousness. But when Shogo learns that she has no memory of what happened to her, he decides to call off their search.","txtid_strych_text2_a0_110","False","","",""
-"Hazy_Localization.txt:367","福永葉子との約束のため ひとり
+"Hazy_Localization.txt:368","福永葉子との約束のため ひとり
 本所七不思議の捜索をしていた興家彰吾。
 しかし 翌朝に公園で発見されたものは
 変わり果てた姿となった 彼の遺体だった……。","Shogo keeps his promise to Yoko and continues investigating the Seven Mysteries of Honjo alone. However, come morning, his corpse is discovered in the park...","txtid_strych_text2_a0_120","False","","",""
-"Hazy_Localization.txt:368","土御門晴曼の《魂》《肉体》《精神》が
+"Hazy_Localization.txt:369","土御門晴曼の《魂》《肉体》《精神》が
 揃ったところに これは現れる。
 ここに解除の術は発動し 秘術も呪いも
 すべてが祓われ 消し去られるのだった。","When the body, soul, and mind of Seiman Tsuchimikado have all been brought together, the Rite of Cleansing is activated, dispelling all rituals and curses that have previously been performed.","txtid_strych_text2_a1_010","False","","",""
-"Hazy_Localization.txt:369","[c5]【エンディング＃６】[c0]
+"Hazy_Localization.txt:370","[c5]【エンディング＃６】[c0]
 そこは 秘術も呪いも無かった いつもの世界。
 関わった人々は どう生きていくのか……。
 あなたが救った町を どうか見届けてから
 去ってほしい。","[c5]Ending 6[c0]
 There were never any rituals, there were never any curses, there was only the ordinary world. Where will those involved go from here? Look upon the town you have saved...and once you have seen it, I ask that you leave.","txtid_strych_text2_a1_020","False","","",""
-"Hazy_Localization.txt:370","『送り拍子木』の呪いを受けたことで
+"Hazy_Localization.txt:371","『送り拍子木』の呪いを受けたことで
 《蘇りの秘術》を使う機会を得た志岐間春恵。
 誘拐事件の調査を依頼した探偵・櫂利飛太は
 呪いを使わずに秘術を使うため ほかの呪主の
 呪詛珠を奪うことを提案するのだった。","Harue Shigima has acquired the curse of the Haunting Clappers, giving her the opportunity to use the Rite of Resurrection. To do so, they first need to obtain all the curse stones from the other curse bearers. Richter Kai, her private investigator, suggests stealing them.","txtid_strych_text2_b0_010","False","","",""
-"Hazy_Localization.txt:371","利飛太から 呪主探索の報告を受ける春恵。
+"Hazy_Localization.txt:372","利飛太から 呪主探索の報告を受ける春恵。
 彼女にとって因縁の深い隅田川の流れを見て
 本当にこれでいいのかと 心が揺れ動く。
 さらに 灯野あやめという女性も 呪詛珠を
 狙っていると知り 気ばかりが焦るのだった。","In his search for the other curse bearers, Richter decides to look around a place Harue Shigima holds a deep connection to: the Sumida River. However, his resolve is shaken by the discovery that a girl named Ayame Tono is also pursuing the curse stones.","txtid_strych_text2_b0_020","False","","",""
-"Hazy_Localization.txt:372","呪主の捜索は 利飛太に一任して
+"Hazy_Localization.txt:373","呪主の捜索は 利飛太に一任して
 ひとまず帰宅する春恵だったが
 やはり 心はどこか落ち着かないままだった。","As Richter continues his search for the other curse bearers, Harue returns home, only to find herself incapable of settling her restless mind.","txtid_strych_text2_b0_030","False","","",""
-"Hazy_Localization.txt:373","ヒハク石鹸や 灯野あやめの動向を気にするも
+"Hazy_Localization.txt:374","ヒハク石鹸や 灯野あやめの動向を気にするも
 呪主についての有力な情報が得られないことに
 苛立ちを隠せない春恵。
 その一方で 誘拐事件の重要参考人としてあがった
 白石美智代について調べを進めていく。","Harue is concerned about the activities of both Ayame and the company Hihaku Soaps, and frustrated that no solid information about the curse bearers has been found. She also begins looking into Michiyo Shiraishi, whose connection to the unresolved kidnapping case has come to light.","txtid_strych_text2_b1_010","False","","",""
-"Hazy_Localization.txt:374","誘拐事件の犯人だった 岩井官吉郎は
+"Hazy_Localization.txt:375","誘拐事件の犯人だった 岩井官吉郎は
 自宅で 白石美智代によって呪い殺されていた。
 西洋黒魔術の研究をしていたという岩井と
 根島史周や ヒハク石鹸との繋がりが見えるが
 それでも春恵の興味は 蘇りの秘術にあった。","Michiyo used a curse to kill Kankichiro Iwai, the perpetrator of the kidnapping, at her home. Although they discover Iwai's involvement with Western black magic and his connection to both Fumichika Nejima and Hihaku Soaps, Harue remains focused on the Rite of Resurrection.","txtid_strych_text2_b1_020","False","","",""
-"Hazy_Localization.txt:375","誘拐事件の調査は完了し 蘇りの秘術に注力する
+"Hazy_Localization.txt:376","誘拐事件の調査は完了し 蘇りの秘術に注力する
 利飛太と春恵は 再び 七不思議を巡る。
 駄菓子に夢中になる利飛太を眺めたり
 ファクシミリで謎のＳＯＳを受信しながらも
 呪詛珠の狙いを 灯野あやめに絞っていく。","With the mystery behind the kidnapping resolved, Harue and Richter return their attention to the Rite of Resurrection and continue looking into the Seven Mysteries of Honjo. Richter blows off some steam at a nearby candy shop, a mysterious SOS message is sent to Harue by fax, and they finally close in on Ayame.","txtid_strych_text2_b1_030","False","","",""
-"Hazy_Localization.txt:376","根島を呪い殺したことで 呪詛珠が使えると
+"Hazy_Localization.txt:377","根島を呪い殺したことで 呪詛珠が使えると
 気付いた灯野あやめは 呪主である春恵を狙い
 志岐間邸を訪れた。春恵もまた 滓魂の貯まった
 あやめの呪詛珠を奪うために 言葉を投げる。
 ふたりの探りあいは どのような展開を描くのか。","Ayame learns that she can use her curse stone when she murders Nejima. She then pays the Shigima residence a visit, and Harue reveals her intentions to steal the soul dregs collected by Ayame. How will their conflict play out?","txtid_strych_text2_b1_040","False","","",""
-"Hazy_Localization.txt:377","[c5]【エンディング＃３】[c0]
+"Hazy_Localization.txt:378","[c5]【エンディング＃３】[c0]
 一貫して 息子の蘇生を願い続けていた春恵は
 灯野あやめを呪い殺して 呪詛珠を奪った。
 願いを叶えた春恵が 幸せなのかは わからないが
 せめて伝説を見届けようと思う 利飛太だった。","[c5]Ending 3[c0]
 Determined to resurrect her lost child, Harue murders Ayame and takes her curse stone. Richter, wondering whether or not Harue is happy that her desires have come true, decides to see the story through to its end.","txtid_strych_text2_b1_050","False","","",""
-"Hazy_Localization.txt:378","[c5]【エンディング＃４】[c0]
+"Hazy_Localization.txt:379","[c5]【エンディング＃４】[c0]
 根島史周や 志岐間春恵を呪い殺して得た呪詛珠で
 灯野あやめは 自らの宿願を果たす。
 しかし 遙か昔の魂の復活を遂げようとも 彼女は
 その肉体までも復活させる術は 持たなかった。","[c5]Ending 4[c0]
 After killing both Nejima and Harue, Ayame collects their curse stones, and her desire is at long last fulfilled. However, even if she manages to revive that long lost soul, she has no way to revive its body.","txtid_strych_text2_b1_055","False","","",""
-"Hazy_Localization.txt:379","警察官・吉見肇が変死した事案を
+"Hazy_Localization.txt:380","警察官・吉見肇が変死した事案を
 部下の襟尾純とともに捜査する 津詰徹生。
 現場となった旧安田庭園で 状況の整理を
 していると突然 本所七不思議『落葉なき椎』の
 呪影が現れ 津詰に取り憑くのだった。","Tsutsumi and Erio look into the circumstances surrounding the death of officer Hajime Yoshimi. While going over the facts at the scene of the incident, the curse echo of the Seven Mysteries of Honjo, the Evergreen Beech, suddenly appears and possesses Tsutsumi.","txtid_strych_text2_c0_010","False","","",""
-"Hazy_Localization.txt:380","図らずも呪主となった津詰は 襟尾に
+"Hazy_Localization.txt:381","図らずも呪主となった津詰は 襟尾に
 秘匿部署《心霊対策室》の存在を明かす。
 ふたりは この惨事を未然に防ぐため
 呪詛珠の回収に動き出し まずは両国橋で
 『足洗い屋敷』の回収に成功する。","Tsutsumi, who has unexpectedly become a curse bearer, tells Erio about the secret Paranormal Affairs Bureau. The two set out to gather the curse stones themselves to stop them from being used by those with ill intentions. First, they successfully obtain the Foot-Washing Mansion at Ryogoku Bridge.","txtid_strych_text2_c0_020","False","","",""
-"Hazy_Localization.txt:381","緑町公園で遭遇した 郷土研究家の
+"Hazy_Localization.txt:382","緑町公園で遭遇した 郷土研究家の
 新石英樹は『消えずの行灯』の呪主だった。
 《蘇りの秘術》についての知識を持つ
 新石からは まだ情報を引き出したいが
 ここでは呪詛珠を回収するにとどまった。","At Midoricho Park, they run into a local researcher named Hideki Araishi, who turns out to be the curse bearer of the Everburning Lantern. They try to probe Araishi for information because he is well-versed on the Rite of Resurrection, but end up only obtaining his curse stone.","txtid_strych_text2_c0_030","False","","",""
-"Hazy_Localization.txt:382","錦糸堀公園にて 男の遺体を発見した津詰。
+"Hazy_Localization.txt:383","錦糸堀公園にて 男の遺体を発見した津詰。
 ほかにも変死体が見つかり 状況は回りだす。
 そんな中 因縁の相手である根島史周から
 津詰に連絡が入り 自身も呪主であることと
 日没時に大量殺人することを宣言される。","Things take a turn when Tsutsumi discovers a man's corpse at Kinshibori Park and Erio learns that another mysterious corpse has been found elsewhere in the city. Tsutsumi is then contacted by Fumichika Nejima, a ghost from his past. Nejima reveals that he is also a curse bearer, declaring that he will carry out a mass murder at sunset.","txtid_strych_text2_c0_040","False","","",""
-"Hazy_Localization.txt:383","呪詛珠の回収が捗らなかったこともあり
+"Hazy_Localization.txt:384","呪詛珠の回収が捗らなかったこともあり
 呪詛による被害者が出てしまった。
 まずは襟尾とともに状況確認をする津詰。
 やることは多いが できることが少ない中
 とにかく少しでも前に進むことを決意する。","Progress on collecting the curse stones grinds to a halt while more victims of the curses emerge. Tsutsumi and Erio focus on sorting out the situation at hand. There is much that needs doing but little that can be done, yet they still resolve to keep trying in any way they can.","txtid_strych_text2_c1_010","False","","",""
-"Hazy_Localization.txt:384","黒鈴ミヲと接触し情報交換を行った津詰は
+"Hazy_Localization.txt:385","黒鈴ミヲと接触し情報交換を行った津詰は
 校務員の葦宮が 根島の可能性が高いと踏む。
 一方 現場に残されていた遺留品から
 白石美智代が本当に復活し 復讐を進めて
 いるという疑念も 浮かんできていた……。","After exchanging information with Mio Kurosuzu, Tsutsumi determines that Makoto Ashimiya, an employee of the school, is very likely to be Nejima. Meanwhile, the possessions left at the scene raise suspicions that Michiyo Shiraishi really has risen from the dead to carry out her revenge...","txtid_strych_text2_c1_020","False","","",""
-"Hazy_Localization.txt:385","白石美智代が事故死である可能性が
+"Hazy_Localization.txt:386","白石美智代が事故死である可能性が
 高いとの情報を受けつつ
 黒鈴ミヲ 逆崎約子と合流した津詰と襟尾は
 根島史周の隠れ家を知るために
 白石美智代との接触を図るのだった。","Tsutsumi and Erio meet up with Mio and her friend Yakko Sakazaki. They learn that Michiyo's death was most likely an accident, and plan to make contact with her to get the location of Nejima's hideout.","txtid_strych_text2_c1_030","False","","",""
-"Hazy_Localization.txt:386","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
+"Hazy_Localization.txt:387","葦宮誠こと根島史周を追い詰めた津詰と襟尾。
 本当に 大量殺人を行える呪詛を持つのか
 当時の事情を聞きながら 確保の隙を窺う。
 やがて 根島の取った行動によって
 この状況は 大きく揺れ動くのだった。","Tsutsumi and Jun chase after Ashimiya, aka Nejima. They try to gauge whether he actually has a curse that could carry out a mass murder, biding their time until they have a clear shot at arresting him. In the end, Nejima's actions bring things to a head.","txtid_strych_text2_c1_040","False","","",""
-"Hazy_Localization.txt:387","[c5]【エンディング＃２】[c0]
+"Hazy_Localization.txt:388","[c5]【エンディング＃２】[c0]
 大捕物の末 根島を捕り逃がしてしまった津詰らは
 ついに発見出来ないまま 予告の時間を迎える。
 呪詛による 未曾有の大惨事を迎えた世間の中で
 根島史周は 己のすべての目的を成就する。","[c5]Ending 2[c0]
 Tsutsumi's hunt for Nejima ends with him evading capture, and the time foretold by Nejima's threat comes without them discovering what they need. Nejima achieves all he set out to do as his curse wreaks untold havoc and destruction on the innocent public.","txtid_strych_text2_c1_045","False","","",""
-"Hazy_Localization.txt:388","[c5]【エンディング＃５】[c0]
+"Hazy_Localization.txt:389","[c5]【エンディング＃５】[c0]
 津詰の犠牲により 灯野あやめの確保に成功し
 『禄命簿・陰の書』を解き明かす襟尾とミヲ。
 しかしそこに現れた 最後の呪主 福永葉子が
 ふたりから呪詛珠を奪い去り 惨劇が始まった。","[c5]Ending 5[c0]
 Thanks to Tsutsumi's sacrifice, Erio and Mio succeed in apprehending Ayame and uncovering the secrets of the Record of Fates Yin Scroll. However, the final curse bearer, Yoko Fukunaga, appears just then. She steals their curse stones, using them to bring tragedy down upon the city.","txtid_strych_text2_c1_050","False","","",""
-"Hazy_Localization.txt:389","不審な自殺を遂げた友人・白石美智代を
+"Hazy_Localization.txt:390","不審な自殺を遂げた友人・白石美智代を
 蘇らせたいと願う 逆崎約子。
 級友の黒鈴ミヲと行った こっくりさんで
 《蘇りの秘術》の場所を問いかけたが
 逆に『馬鹿囃子』の呪いを受けてしまう。","Yakko Sakazaki wishes to bring her friend, Michiyo Shiraishi, back from the dead after her suspicious suicide. She joins up with her classmate Mio Kurosuzu to ask a spirit board about the location of the Rite of Resurrection—but instead, she is cursed with the Fool's Procession.","txtid_strych_text2_d0_010","False","","",""
-"Hazy_Localization.txt:390","『馬鹿囃子』の呪いを受けたショックで
+"Hazy_Localization.txt:391","『馬鹿囃子』の呪いを受けたショックで
 気を失っていた逆崎約子。
 ミヲは そんな彼女を心配するとともに
 呪いを伴う《蘇りの秘術》は諦めて すぐに
 学校から脱出しようと促すのだった。","Yakko faints briefly from the shock of being taken by the curse of the Fool's Procession. Worried about Yakko, Mio urges her to give up on the Rite of Resurrection and the curses, and to flee the school with her right away.","txtid_strych_text2_d0_020","False","","",""
-"Hazy_Localization.txt:391","校舎からの脱出途中 約子とミヲは
+"Hazy_Localization.txt:392","校舎からの脱出途中 約子とミヲは
 幾度も 怪しげな出来事に遭遇する。
 いったい 誰によって何が行われているのか
 まったく分からない中で 逆崎約子は
 慎重に行動を選び どうにか帰路につくのだった。","While escaping from the school, Yakko and Mio encounter several other strange occurrences. Yakko must tread carefully, not knowing what is happening or who is causing it, but she finally makes it out and heads home.","txtid_strych_text2_d0_030","False","","",""
-"Hazy_Localization.txt:392","ミヲも葦宮も出て来ないことに心配して
+"Hazy_Localization.txt:393","ミヲも葦宮も出て来ないことに心配して
 校舎に戻ることに決めた約子。
 だが そこで見たものは
 友人の無残な姿であった……。","Yakko decides to return to the school, concerned that Mio and Mr. Ashimiya haven't made it out. But there, she discovers that a cruel fate has befallen her friend...","txtid_strych_text2_d0_035","False","","",""
-"Hazy_Localization.txt:393","どうにか 自宅まで帰り着いた逆崎約子。
+"Hazy_Localization.txt:394","どうにか 自宅まで帰り着いた逆崎約子。
 学校に残ったミヲのことが 心配になるが
 激しい眠気に襲われたため 捜索は明日にして
 すぐに休むことにした……。","Yakko makes it home in one piece. She worries about Mio, who she left at school, but beset by an overpowering drowsiness, puts off further investigation until the next day...","txtid_strych_text2_d0_040","False","","",""
-"Hazy_Localization.txt:394","教師の城之内が死んでいるのが発見され
+"Hazy_Localization.txt:395","教師の城之内が死んでいるのが発見され
 昨夜 校内に別の呪主が潜んでいたことが判明。
 一方 奥田瞳からの情報により
 白石美智代の置かれていた過酷な境遇も
 明かされ 約子に動揺が走る。","Their teacher Mr. Jonouchi is found dead, and it becomes apparent that another curse bearer was at the school that night. Also, Hitomi Okuda tells them about the horrible things Michiyo went through, leaving Yakko feeling shaken.","txtid_strych_text2_d1_010","False","","",""
-"Hazy_Localization.txt:395","《本所事変》に『禄命簿・陰の書』……
+"Hazy_Localization.txt:396","《本所事変》に『禄命簿・陰の書』……
 新石から多くの情報を得ることができ
 少しずつ 事件の全貌が見えてきた。
 これらの手がかりを使って
 事態の解決に 近づけるかもしれない。","They gain a wealth of information from Mr. Araishi about everything from the Honjo Incident to the Record of Fates Yin Scroll, and start to see the big picture. These clues could bring them one step closer to settling everything once and for all.","txtid_strych_text2_d1_020","False","","",""
-"Hazy_Localization.txt:396","白石美智代は 約子の中にいた。
+"Hazy_Localization.txt:397","白石美智代は 約子の中にいた。
 約子の持つ呪詛珠で 復讐を果たしていた。
 白石美智代から情報を得るために 再び
 こっくりさんを行い ようやく事情を知る……。
 また会う時まで どうか忘れないで。","Michiyo's spirit has been inside of Yakko all along, using Yakko's curse stone to carry out her revenge. They use the spirit board to gain information from Michiyo once more, and finally learn what's really going on.
 ""Please... Don't forget me...""","txtid_strych_text2_d1_030","False","","",""
-"Hazy_Localization.txt:397","[c5]【エンディング＃１】[c0]
+"Hazy_Localization.txt:398","[c5]【エンディング＃１】[c0]
 白石美智代を蘇らせるために
 《蘇りの秘術》を狙っていた並垣。
 だが 力ずくでも呪詛珠を奪おうとした
 彼の前に現れたのは 白石本人で……？","[c5]Ending 1[c0]
 Yutaro Namigaki is pursuing the Rite of Resurrection to bring Michiyo back to life. But when he tries to take a curse stone by force, Michiyo herself appears before him...","txtid_strych_text2_d1_035","False","","",""
-"Hazy_Localization.txt:398","監禁から脱出した 蝶澤麻由と合流して
+"Hazy_Localization.txt:399","監禁から脱出した 蝶澤麻由と合流して
 ヒハクの弓岡を問い詰めていくミヲと約子。
 その中で 吉見肇と白石美智代が 晴曼の末裔で
 ふたつのお守りを集めれば『陰の書』が
 手に入ることを知るのだった。","Mio and Yakko meet up with Mayu Chozawa, who has escaped confinement, and question Takumi Yumioka of Hihaku. In doing so, they learn that Michiyo and Hajime Yoshimi are both descendants of Seiman, and that collecting both their talismans will allow them to obtain the Yin Scroll.","txtid_strych_text2_d1_040","False","","",""
-"Hazy_Localization.txt:399","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
+"Hazy_Localization.txt:400","江戸の術師 晴曼と蘆乃の因縁が 現代に渦巻く。
 すべての標的が 灯野あやめに集中していく。
 約子とミヲが『禄命簿・陰の書』を手に入れ
 この呪いを止められるのかどうかについても
 津詰たちの行動に 預けられることとなった……。","The intertwined fates of two onmyoji from the Edo period, Seiman and Ashino, come to a head in the present day. All signs point to Ayame Tono. Yakko and Mio obtain the Record of Fates Yin Scroll, but whether or not they can put a stop to the curse depends on Tsutsumi and the others...","txtid_strych_text2_d1_050","False","","",""
-"Hazy_Localization.txt:400","記憶がない状態で 見知らぬ場所で目覚めた
+"Hazy_Localization.txt:401","記憶がない状態で 見知らぬ場所で目覚めた
 蝶澤麻由だったが 周囲を調べるうちに
 ヒハクの弓岡の仕業だったことを思い出すと
 その場の工夫と 何者かの天啓によって
 監禁されていた廃工場を脱出するのだった。","Mayu Chozawa awakes in an unrecognizable place, unable to remember anything. As she observes her surroundings, she remembers what Takumi Yumioka did to her. Through her own resourcefulness, and a bit of divine intervention, Mayu manages to escape the abandoned factory.","txtid_strych_text2_e1_010","False","","",""
-"Hazy_Localization.txt:401","権利表記","Copyright Information","title_rights_notation","False","","",""
-"Hazy_Localization.txt:402","シナリオが更新されましたので
+"Hazy_Localization.txt:402","権利表記","Copyright Information","title_rights_notation","False","","",""
+"Hazy_Localization.txt:403","シナリオが更新されましたので
 チャプターの先頭から始めます。","The story has been updated, so the chapter will start from the beginning.","story_savedata_update","False","","",""
-"Hazy_Localization.txt:403","オートセーブを ロードいたしますか？","Do you wish to load autosave data?","load_message_autosave","False","","",""
-"Hazy_Localization.txt:404","別の画面に移動できません","Cannot change screens.","android_back_overlay","False","","",""
-"Hazy_Localization.txt:405","はじめる","Start","storychart_detail_start","False","","",""
-"Hazy_Localization.txt:406","はじめから","Restart","storychart_detail_first","False","","",""
-"Hazy_Localization.txt:407","途中から","Resume","storychart_detail_continue","False","","",""
-"Hazy_Localization.txt:408","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","The save data has been corrupted and is unable to be read.<br>Save data will be reformatted.","reset_savedata","False","","",""
-"Hazy_Localization.txt:409","※タイトル画面で変更できます","Can be changed from title screen.","option_warnig_text","False","","",""
-"Hazy_Localization.txt:410","キーコンフィグが競合しているので保存できません。","Key bindings cannot be saved due to a conflict.","option_keyconfig_conflict","False","","",""
-"Hazy_Localization.txt:411","戻る","Back","option_keyconfig_conflict_back","False","","",""
-"Hazy_Localization.txt:412","全てのデータを消去しました。","All data has been deleted.","savedata_alldelete_text","False","","",""
-"Hazy_Localization.txt:413","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","★","title_warning_text","False","","",""
+"Hazy_Localization.txt:404","オートセーブを ロードいたしますか？","Do you wish to load autosave data?","load_message_autosave","False","","",""
+"Hazy_Localization.txt:405","別の画面に移動できません","Cannot change screens.","android_back_overlay","False","","",""
+"Hazy_Localization.txt:406","はじめる","Start","storychart_detail_start","False","","",""
+"Hazy_Localization.txt:407","はじめから","Restart","storychart_detail_first","False","","",""
+"Hazy_Localization.txt:408","途中から","Resume","storychart_detail_continue","False","","",""
+"Hazy_Localization.txt:409","セーブデータが破損しているため<br> 読み込みに失敗しました。<br> セーブデータを初期化します。","The save data has been corrupted and is unable to be read.<br>Save data will be reformatted.","reset_savedata","False","","",""
+"Hazy_Localization.txt:410","※タイトル画面で変更できます","Can be changed from title screen.","option_warnig_text","False","","",""
+"Hazy_Localization.txt:411","キーコンフィグが競合しているので保存できません。","Key bindings cannot be saved due to a conflict.","option_keyconfig_conflict","False","","",""
+"Hazy_Localization.txt:412","戻る","Back","option_keyconfig_conflict_back","False","","",""
+"Hazy_Localization.txt:413","全てのデータを消去しました。","All data has been deleted.","savedata_alldelete_text","False","","",""
+"Hazy_Localization.txt:414","＜未成年者の方へ＞<br> あらかじめ保護者の同意を得てから、 <br>このゲームをご利用ください。  <br><br>ゲーム利用方法（利用時間等）は、<br> 保護者とよく相談して決めてください。","★","title_warning_text","False","","",""
