@@ -23,7 +23,7 @@ save_subtitle,请选择存档位置
 save_message,是否要覆盖存档{0}？
 load_title,载入
 load_subtitle,请选择要读取的存档
-load_message,是否要加载存档{0}？
+load_message,是否要加载存档{0}？[r][c3]※加载存档的话，当前故事的进行状态也会回到存档时。[r]※本作品即使不读取旧存档也可以游玩全部要素。
 save_autosave,自动保存
 save_slotname,存档{0}
 save_nodata,无数据
