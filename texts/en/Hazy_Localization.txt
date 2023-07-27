@@ -23,7 +23,7 @@ save_subtitle,Select a save slot
 save_message,Do you wish to overwrite slot {0}?
 load_title,Load
 load_subtitle,Select a slot to load
-load_message,Do you wish to load slot {0}?
+load_message,Do you wish to load slot {0}?[r][c3]*This will revert any current story progress.[r]*It is possible to experience all the story has to[r]offer without reloading your data.
 save_autosave,Autosave
 save_slotname,Slot {0}
 save_nodata,No data
@@ -72,6 +72,7 @@ high,High
 option_video_render_load,Rendering Load
 low_load,Minimal
 slightly_low_load,Economic
+option_video_chromaticaberration,Chromatic Aberration
 option_video_screen_resolution,Standard
 option_video_screen_mode,Display Mode
 option_video_window,Windowed
@@ -113,7 +114,7 @@ msgbox_game_end,Do you wish to save and quit the game?
 msgbox_init_option_settings,Do you wish to restore all settings on this page to their defaults?
 game_title_game_start,Start Game
 copywriter,©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
-option_alldel_btn_message,All game data will be deleted.[r]Are you sure you wish to do this?<br>
+option_alldel_btn_message,All game data will be deleted.[r]Are you sure you wish to do this?[r][c3]*It is possible to experience all the story has to[r]offer without deleting your data.
 menu_storychart_message,Do you wish to return to the Story Chart?[r][c3]Any incomplete chapters must be restarted from the beginning.
 menu_btn_title,Return to Title
 menu_title_message,Do you wish to save the game and return to the title screen?

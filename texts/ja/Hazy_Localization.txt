@@ -23,7 +23,7 @@ save_subtitle,セーブするスロットを選んでください
 save_message,スロット{0}に 上書きいたしますか？
 load_title,ロード
 load_subtitle,ロードするスロットを選んでください
-load_message,スロット{0}を ロードいたしますか？
+load_message,スロット{0}を ロードいたしますか？[r][c3]※ロードすると ストーリーの進行状態も戻ります。[r]※本作は データを戻さずとも 全要素が遊べます。
 save_autosave,オートセーブ
 save_slotname,スロット{0}
 save_nodata,データなし
@@ -72,6 +72,7 @@ high,高
 option_video_render_load,描画負荷設定
 low_load,低負荷
 slightly_low_load,やや低負荷
+option_video_chromaticaberration,色収差
 option_video_screen_resolution,画面解像度
 option_video_screen_mode,画面モード
 option_video_window,ウインドウ
@@ -113,7 +114,7 @@ msgbox_game_end,セーブして ゲームを終了いたします。[r]よろし
 msgbox_init_option_settings,表示中のタブの設定を<br>初期状態に戻しますか？
 game_title_game_start,ゲームスタート
 copywriter,©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
-option_alldel_btn_message,全てのデータが消去されます。[r]本当によろしいですか？<br>
+option_alldel_btn_message,全てのデータを 消去いたします。[r]本当によろしいですか？[r][c3]※本作は データを消さずとも 全要素が遊べます。
 menu_storychart_message,ストーリーチャートに 戻ります。よろしいですか？[r][c3]※まだ終了していないチャプターの場合は[r]また最初からやり直しになります。
 menu_btn_title,タイトルへ戻る
 menu_title_message,セーブして タイトル画面に戻ります。[r]よろしいですか？

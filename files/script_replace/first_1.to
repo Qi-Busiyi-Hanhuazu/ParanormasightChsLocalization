@@ -1,5 +1,6 @@
 310.lbl.name-init
 329.dt.jpif(label=first-smapho,cond=%ACCOUNTNAME=="")
+330.dt.jpif(label=first-smapho,cond=%ACCOUNTNAME==%0)
 331.lbl.first-accountname
 334.chr.an(id=rkz,pose=p5)
 335.ui.oat(WindowMessage:……承知いたしました。[r][c3][%ACCOUNTNAME][c0]様で いらっしゃいますね？|txtid=first_0185)
