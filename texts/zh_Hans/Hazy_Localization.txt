@@ -114,7 +114,7 @@ msgbox_game_end,保存之后结束游戏。[r]可以吗？
 msgbox_init_option_settings,要将当前显示的标签的设置<br>恢复到初始状态吗？
 game_title_game_start,游戏开始
 copywriter,<size=50%>Translated by 七不思议汉化组 (rev. {{ version }})<br><br><size=100%>©2023 SQUARE ENIX CO., LTD. All Rights Reserved.
-option_alldel_btn_message,我会删除所有的数据。[r]真的可以吗？[r][c3]※本作品即使不消除数据也能玩全要素。
+option_alldel_btn_message,将会删除所有的数据。[r]真的可以吗？[r][c3]※本作品即使不删除数据也可以游玩全部要素。
 menu_storychart_message,将会回到故事图表。可以吗？[r][c3]※如果是还没有结束的章节的话，[r]需要从章节最初开始游戏。
 menu_btn_title,返回标题
 menu_title_message,保存后回到标题画面。[r]可以吗？
