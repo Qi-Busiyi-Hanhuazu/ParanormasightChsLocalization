@@ -247,6 +247,10 @@
                 <langSet xml:lang="ja"><tig><term>駄菓子</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>粗点心</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>女帝</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>女皇</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
