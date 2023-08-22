@@ -258,7 +258,7 @@ for something.","a0_010_0363","False","","",""
 それとも 下心人情のほう？","Are you really just a good Samaritan?
 Or are you after...you know...something else?","a0_010_0367","False","","",""
 "Hazy_Script.txt:107","えっ……？","Huh...?","a0_010_0368","False","","",""
-"Hazy_Script.txt:108","くぅ～っ！ これが 粋でいなせな 下町人情か～。
+"Hazy_Script.txt:108","くぅ～っ！ これが 粋で<u>いなせ</u>な 下町人情か～。
 困ってる人は 放っておけないんだねえ！ 泣けるねえ。","Oh, wow! My hero! People like you really do
 exist! I think I might cry...","a0_010_0369","False","","",""
 "Hazy_Script.txt:109","あはは。おにーさん 面白い人だね！
@@ -321,7 +321,7 @@ Because they're all true!","a0_010_0390","False","","",""
 実際に あの公園で起こるとでも……？","Are you telling me there's actually paranormal
 stuff at work in this park?","a0_010_0394","False","","",""
 "Hazy_Script.txt:134","うん そうそう。だいたい そんな感じ。","Yep! Pretty much!","a0_010_0395","False","","",""
-"Hazy_Script.txt:135","でも……まだ足りなかったみたいだね。
+"Hazy_Script.txt:135","でも……<u>まだ足りなかった</u>みたいだね。
 あれだけやっても 何も出なかったから。","But there's got to be more to it. After all
 I've done, I still haven't found a thing.","a0_010_0396","False","","",""
 "Hazy_Script.txt:136","……それが 彼女
@@ -363,7 +363,7 @@ you can handle your liquor.","a0_010_0412","False","","",""
 みたいに言われても……。気にしたことないが……。","I have no idea what drinking has to do with it,
 but...I don't think so.","a0_010_0414","False","","",""
 "Hazy_Script.txt:154","あれ。でもさ……","Hm? Well, you must.","a0_010_0415","False","","",""
-"Hazy_Script.txt:155","わたしの姿は 見えてるんだよね？","I mean... You can see me, right?","a0_010_0416","False","","",""
+"Hazy_Script.txt:155","<u>わたしの姿</u>は 見えてるんだよね？","I mean... You can see me, right?","a0_010_0416","False","","",""
 "Hazy_Script.txt:156","えっ……!?","Huh?","a0_010_0417","False","","",""
 "Hazy_Script.txt:157","最初から","Start from beginning","a0_020_0001","False","","",""
 "Hazy_Script.txt:158","秘術と七不思議の関係は？","How is the Rite related to the Mysteries?","a0_020_0002","False","","",""
@@ -416,7 +416,7 @@ with this Seven Mysteries of Honjo business.","a0_020_0452","False","","",""
 "Hazy_Script.txt:194","なるほど。
 一応 確認だけど……。","Okay. Let me just clarify something.","a0_020_0453","False","","",""
 "Hazy_Script.txt:195","……葉子さんは そういうのが
-見える人ってこと？","Are you saying...you can actually see
+<u>見える人</u>ってこと？","Are you saying...you can actually see
 paranormal stuff?","a0_020_0454","False","","",""
 "Hazy_Script.txt:196","うん。まあね。わたしも
 モスコミュールくらいなら イケるかな。","Sure! I could handle a solid Moscow Mule.","a0_020_0455","False","","",""
@@ -425,7 +425,7 @@ paranormal stuff?","a0_020_0454","False","","",""
 "Hazy_Script.txt:198","あ。信じてないね。
 まあ それも仕方ないけど……","Not a believer, huh? Well, that's no matter.","a0_020_0457","False","","",""
 "Hazy_Script.txt:199","でも……興家くんもさ 本当は
-見えてるんじゃない？ いろいろ。","But you have to have seen some weird stuff
+<u>見えてる</u>んじゃない？ いろいろ。","But you have to have seen some weird stuff
 over the years, right?","a0_020_0458","False","","",""
 "Hazy_Script.txt:200","見えてる……？","Weird stuff?","a0_020_0459","False","","",""
 "Hazy_Script.txt:201","そういう例も あるよ。
@@ -738,7 +738,7 @@ Let's keep up the hard work then, yeah?","a0_020_0593","False","","",""
 the Seven Mysteries.","a0_020_0594","False","","",""
 "Hazy_Script.txt:336","これまでの話を 総合すると……","Putting together everything we've talked about...","a0_020_0595","False","","",""
 "Hazy_Script.txt:337","その 本所七不思議の
-本来の話とやらが……","My guess is that the original stories behind
+<u>本来の話</u>とやらが……","My guess is that the original stories behind
 the Seven Mysteries—the true stories...","a0_020_0596","False","","",""
 "Hazy_Script.txt:338","《蘇りの秘術》を
 手に入れるための カギになる。","are the key to finding the Rite of Resurrection.","a0_020_0597","False","","",""
@@ -973,22 +973,22 @@ Rite of Resurrection to bring you back!","a0_030_0859","False","","",""
 "Hazy_Script.txt:478","あの時……異変が起こる前
 何度か 異様な気配があった。","Right before she died...I felt a strange presence
 a few times.","a0_030_0860","False","","",""
-"Hazy_Script.txt:479","そして 彼女は……何かを見つけて
+"Hazy_Script.txt:479","そして 彼女は……<u>何か</u>を見つけて
 とても怯えていた。","And it seemed like she saw something.
 Something that shook her to the bone.","a0_030_0861","False","","",""
-"Hazy_Script.txt:480","……この場所に 何かがあるのは 間違いない。","There's definitely something strange going on...
+"Hazy_Script.txt:480","……この場所に 何かが<u>ある</u>のは 間違いない。","There's definitely something strange going on...
 and maybe it's still here.","a0_030_0862","False","","",""
 "Hazy_Script.txt:481","葉子さんは……いったい 何を見たのか？","What could she have seen?","a0_030_0863","False","","",""
 "Hazy_Script.txt:482","蘇りの秘術は 本所七不思議と
 関係があると 言っていた。","She mentioned that the Rite of Resurrection and
 Seven Mysteries were connected.","a0_030_0864","False","","",""
-"Hazy_Script.txt:483","ならば それはきっと……","So maybe, whatever it was she saw...","a0_030_0865","False","","",""
+"Hazy_Script.txt:483","ならば <u>それ</u>はきっと……","So maybe, whatever it was she saw...","a0_030_0865","False","","",""
 "Hazy_Script.txt:484","この地に伝わる 七不思議……
 『置いてけ堀』とやらに 違いない……！","had something to do with that Whispering Canal!","a0_030_0866","False","","",""
 "Hazy_Script.txt:485","うわッ……！","Whoa...!","a0_030_0867","False","","",""
 "Hazy_Script.txt:486","くそっ……！
 また……あの気配……！","Damn it... That presence again!","a0_030_0868","False","","",""
-"Hazy_Script.txt:487","本当に いるってのか……？
+"Hazy_Script.txt:487","本当に <u>いる</u>ってのか……？
 どこだ……？","It must be around here somewhere...but where?","a0_030_0869","False","","",""
 "Hazy_Script.txt:488","ん？ ……何か 落ちてるぞ……。","Huh? There's something on the ground.","a0_030_0870","False","","",""
 "Hazy_Script.txt:489","葉子さんが 落としたものだろうか……？","Did Yoko drop this?","a0_030_0871","False","","",""
@@ -1049,23 +1049,23 @@ thick, black tar.","a0_030_0895","False","","",""
 "Hazy_Script.txt:514","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","[s0][a0.5]Now...","a0_030_0896","False","","",""
 "Hazy_Script.txt:515","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","[s0][a0.5]Kill...","a0_030_0897","False","","",""
 "Hazy_Script.txt:516","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Can you hear it, Curse Bearer?","a0_030_0898","False","","",""
+呪主よ—","Can you hear it, Curse Bearer?","a0_030_0898","False","","",""
 "Hazy_Script.txt:517","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","You, who so strongly desires the Rite.","a0_030_0899","False","","",""
+呪主よ—","You, who so strongly desires the Rite.","a0_030_0899","False","","",""
 "Hazy_Script.txt:518","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]<size=500%>呪い殺せ","Kill them.","a0_030_0900","False","","",""
 "Hazy_Script.txt:519","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を
-得たくば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Should you seek life's restoration...","a0_030_0901","False","","",""
+得たくば—","Should you seek life's restoration...","a0_030_0901","False","","",""
 "Hazy_Script.txt:520","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]この 呪いの力によって","Take your curse in hand...","a0_030_0902","False","","",""
-"Hazy_Script.txt:521","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]人々を屠り[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Reap lives by the score...","a0_030_0903","False","","",""
+"Hazy_Script.txt:521","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]人々を屠り—","Reap lives by the score...","a0_030_0903","False","","",""
 "Hazy_Script.txt:522","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]魂の残滓を 集めよ","And claim their soul dregs for your own.","a0_030_0904","False","","",""
 "Hazy_Script.txt:523","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]幾人なる滓魂を
 呪詛珠に捧げることで","Collect enough to sate this vessel...","a0_030_0905","False","","",""
 "Hazy_Script.txt:524","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]それを贄に還魂が為され
 蘇りの秘術は
-発現しよう[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","And by their sacrifice claim the gift of resurrection.","a0_030_0906","False","","",""
-"Hazy_Script.txt:525","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]又[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Or better yet...","a0_030_0907","False","","",""
+発現しよう—","And by their sacrifice claim the gift of resurrection.","a0_030_0906","False","","",""
+"Hazy_Script.txt:525","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]又—","Or better yet...","a0_030_0907","False","","",""
 "Hazy_Script.txt:526","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]他の七不思議の呪主を
-ひとり 呪い殺さば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Slay your fellow curse bearers...","a0_030_0908","False","","",""
+ひとり 呪い殺さば—","Slay your fellow curse bearers...","a0_030_0908","False","","",""
 "Hazy_Script.txt:527","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]数十人に相当する
 滓魂を 得られよう","For theirs are the equal of droves of lesser souls.","a0_030_0909","False","","",""
 "Hazy_Script.txt:528","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=400%>さあ 呪い殺せ！","Now, go forth and kill!","a0_030_0910","False","","",""
@@ -1074,7 +1074,7 @@ thick, black tar.","a0_030_0895","False","","",""
 "Hazy_Script.txt:531","<i>呪いの《記憶》が
 流れ込んできたのか……？","<i>It was like the curse's memories flowed
 directly into my mind...","a0_030_0913","False","","",""
-"Hazy_Script.txt:532","<i>そのおかげで……この一瞬で 理解した。","<i>In an instant...I understood everything.","a0_030_0914","False","","",""
+"Hazy_Script.txt:532","<i>そのおかげで……この一瞬で <u>理解</u>した。","<i>In an instant...I understood everything.","a0_030_0914","False","","",""
 "Hazy_Script.txt:533","<i>どうやら おれは さっきの
 呪詛珠とやらを 手にしたことで……","<i>When I picked up this curse stone...","a0_030_0915","False","","",""
 "Hazy_Script.txt:534","<i>本所七不思議のひとつ
@@ -1118,7 +1118,7 @@ down on me.","a0_030_0935","False","","",""
 But I've got bigger problems right now.","a0_030_0936","False","","",""
 "Hazy_Script.txt:555","……!?","...!?","a0_030_0937","False","","",""
 "Hazy_Script.txt:556","なんだか……人の気配を感じる……！
-……誰かに 見られている？","It feels like I'm being watched...
+……誰かに <u>見られている</u>？","It feels like I'm being watched...
 Is someone there?","a0_030_0938","False","","",""
 "Hazy_Script.txt:557","どこだ……!?","Where are you...?","a0_030_0939","False","","",""
 "Hazy_Script.txt:558","…………。","...","a0_030_0940","False","","",""
@@ -1219,7 +1219,7 @@ Something makes it impossible for him to stay.","a0_030_0978","False","","",""
 "Hazy_Script.txt:597","<i>一時的なものでいい。撤退を余儀なく
 させるには 何があればいいだろうか……。","<i>I don't have to keep him away forever. I just
 need to get him to walk away once.","a0_030_0979","False","","",""
-"Hazy_Script.txt:598","<i>……あっ！ あるじゃないか あれが……！","<i>Wait! I've got it!","a0_030_0980","False","","",""
+"Hazy_Script.txt:598","<i>……あっ！ あるじゃないか <u>あれ</u>が……！","<i>Wait! I've got it!","a0_030_0980","False","","",""
 "Hazy_Script.txt:599","<i>あいつを [c3]撤退させる話題[c0]が ある……！","<i>I know how I can [c3]convince him to leave[c0]!","a0_030_0981","False","","",""
 "Hazy_Script.txt:600","<i>弓岡巧己……？
 くそっ 何者だ……！","<i>Takumi Yumioka? How the hell does he know me?","a0_030_0982","False","","",""
@@ -1266,7 +1266,7 @@ Maybe they're waiting to see what I do...","a0_030_0999","False","","",""
 呪い殺してしまったのですか。","It was your curse that killed that poor woman,
 I take it?","a0_030_1002","False","","",""
 "Hazy_Script.txt:621","なっ……!?","Wha—!?","a0_030_1003","False","","",""
-"Hazy_Script.txt:622","……興家彰吾君。","Cat got your tongue...Mr. Okiie?","a0_030_1004","False","","",""
+"Hazy_Script.txt:622","……<u>興家彰吾</u>君。","Cat got your tongue...Mr. Okiie?","a0_030_1004","False","","",""
 "Hazy_Script.txt:623","……えっ!!?","Huh?","a0_030_1005","False","","",""
 "Hazy_Script.txt:624","何者だ!?
 どうして おれのことを……？","Who are you? And how do you know my name!?","a0_030_1006","False","","",""
@@ -1314,7 +1314,7 @@ curse stone is.","a0_030_1027","False","","",""
 "Hazy_Script.txt:647","ダメだ。これがなければ
 彼女を 蘇らせられない。","I can't. I need it to bring Yoko back to life.","a0_030_1029","False","","",""
 "Hazy_Script.txt:648","ほう……。","Oh, my.","a0_030_1030","False","","",""
-"Hazy_Script.txt:649","では……使う気なのですね。","So you mean to use it, then.","a0_030_1031","False","","",""
+"Hazy_Script.txt:649","では……<u>使う気</u>なのですね。","So you mean to use it, then.","a0_030_1031","False","","",""
 "Hazy_Script.txt:650","……!!","...!","a0_030_1032","False","","",""
 "Hazy_Script.txt:651","……あんた 知ってるんだな？
 本所七不思議の 呪いのことを。","You know about the Seven Mysteries of Honjo
@@ -1377,7 +1377,7 @@ he'll try to take my curse stone by force.","a0_030_1054","False","","",""
 先に こちらの条件を 満たせば……！","<i>I have to keep him talking and figure out a
 way to get my curse out first.","a0_030_1055","False","","",""
 "Hazy_Script.txt:674","<i>あいつを おれの前から
-立ち去らせるには どうする……？","<i>How can I get him to leave me behind?","a0_030_1056","False","","",""
+<u>立ち去らせる</u>には どうする……？","<i>How can I get him to leave me behind?","a0_030_1056","False","","",""
 "Hazy_Script.txt:675","<i>しかし……できれば ほかの呪主の
 情報も 欲しい……。","<i>Though...it would be a waste not to take this
 chance to find out about the other curse bearers...","a0_030_1057","False","","",""
@@ -1638,7 +1638,7 @@ room, you'd better get out of here.","a0_030_1166","False","","",""
 もう いつ到着しても おかしくない……。","You're telling the truth, I see.
 They are getting closer by the second.","a0_030_1168","False","","",""
 "Hazy_Script.txt:787","今は 面倒ごとを 避けておくべき時。
-……いったん この場は退きましょう。","I cannot afford to be waylaid at this juncture.
+……いったん この場は<u>退きましょう</u>。","I cannot afford to be waylaid at this juncture.
 I fear I must take my leave.","a0_030_1169","False","","",""
 "Hazy_Script.txt:788","………………！","...!","a0_030_1170","False","","",""
 "Hazy_Script.txt:789","呪詛珠は 必ずまた 回収に伺います。
@@ -1686,30 +1686,30 @@ do not turn around.","a0_030_1192","False","","",""
 "Hazy_Script.txt:814","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","a0_030_1197","False","","",""
 "Hazy_Script.txt:815","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","a0_030_1198","False","","",""
 "Hazy_Script.txt:816","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","a0_030_1199","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
+[b]呪主よ—","a0_030_1199","False","","",""
 "Hazy_Script.txt:817","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1200","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
+[b]呪主よ—","a0_030_1200","False","","",""
 "Hazy_Script.txt:818","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","a0_030_1201","False","","",""
 "Hazy_Script.txt:819","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を
-[b]得たくば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を
-[b]得たくば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1202","False","","",""
+[b]得たくば—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を
+[b]得たくば—","a0_030_1202","False","","",""
 "Hazy_Script.txt:820","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">この 呪いの力によって","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">この 呪いの力によって","a0_030_1203","False","","",""
-"Hazy_Script.txt:821","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]人々を屠り[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]人々を屠り[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1204","False","","",""
+"Hazy_Script.txt:821","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]人々を屠り—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]人々を屠り—","a0_030_1204","False","","",""
 "Hazy_Script.txt:822","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">魂の残滓を 集めよ","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">魂の残滓を 集めよ","a0_030_1205","False","","",""
 "Hazy_Script.txt:823","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">幾人なる滓魂を
 呪詛珠に捧げることで","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">幾人なる滓魂を
 呪詛珠に捧げることで","a0_030_1206","False","","",""
 "Hazy_Script.txt:824","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">それを贄に還魂が為され
 蘇りの秘術は
-[b]発現しよう[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">それを贄に還魂が為され
+[b]発現しよう—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">それを贄に還魂が為され
 蘇りの秘術は
-[b]発現しよう[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1207","False","","",""
-"Hazy_Script.txt:825","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]又[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]又[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1208","False","","",""
+[b]発現しよう—","a0_030_1207","False","","",""
+"Hazy_Script.txt:825","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]又—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">[b]又—","a0_030_1208","False","","",""
 "Hazy_Script.txt:826","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">他の七不思議の呪主を
-[b]ひとり 呪い殺さば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">他の七不思議の呪主を
-[b]ひとり 呪い殺さば[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","a0_030_1209","False","","",""
+[b]ひとり 呪い殺さば—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">他の七不思議の呪主を
+[b]ひとり 呪い殺さば—","a0_030_1209","False","","",""
 "Hazy_Script.txt:827","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">数十人に相当する
 滓魂を 得られよう","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">数十人に相当する
 滓魂を 得られよう","a0_030_1210","False","","",""
@@ -1777,7 +1777,7 @@ take care of her body. Takumi's too.","a0_040_0463","False","","",""
 安置してもらえればいい。","But until then, at least I know she'll be in
 a safe place.","a0_040_0465","False","","",""
 "Hazy_Script.txt:879","……さて。","All right.","a0_040_0466","False","","",""
-"Hazy_Script.txt:880","……早く 次の生贄を 探さなければ。","I have to find my next sacrifice quickly.","a0_040_0467","False","","",""
+"Hazy_Script.txt:880","……早く <u>次の生贄</u>を 探さなければ。","I have to find my next sacrifice quickly.","a0_040_0467","False","","",""
 "Hazy_Script.txt:881","時間は かけていられない。夜明けまでに
 ほかの呪主を探し出して 魂を集める。","I've got no time to waste. I need to find the
 other curse bearers and collect their souls.","a0_040_0468","False","","",""
@@ -1878,7 +1878,7 @@ but it's gone now.","a0_040_0501","False","","",""
 "Hazy_Script.txt:915","深夜とはいえ……このあたりだけ
 やっぱり 妙に暗い気がする……。","I know it's past midnight...but it still seems
 oddly dark around here.","a0_040_0502","False","","",""
-"Hazy_Script.txt:916","しかも この感じは……さっきも……。","And this feeling...it's the same as from before.","a0_040_0503","False","","",""
+"Hazy_Script.txt:916","しかも この<u>感じ</u>は……さっきも……。","And this feeling...it's the same as from before.","a0_040_0503","False","","",""
 "Hazy_Script.txt:917","暗く 重苦しい空気が 満ちている……。","The air here is dark and suffocating.","a0_040_0504","False","","",""
 "Hazy_Script.txt:918","まだ この近辺に不思議はあるが
 ……今はもう 何もなさそうだ。","There are still other mysteries lurking around...
@@ -1890,7 +1890,7 @@ Mysteries given form...","a0_040_0507","False","","",""
 "Hazy_Script.txt:921","いる……！ いるぞ……！
 このあたりに 呪主が……！","I knew it! There's a curse bearer around here!","a0_040_0508","False","","",""
 "Hazy_Script.txt:922","……この呪影が
-暗闇を発している……？","Is that curse echo what's causing this darkness?","a0_040_0509","False","","",""
+<u>暗闇を発している</u>……？","Is that curse echo what's causing this darkness?","a0_040_0509","False","","",""
 "Hazy_Script.txt:923","すぐに 何かしてくるような様子はない……。
 誘ってるのか……？ どうする……？","It doesn't seem hostile. Is it trying to tell me
 to come closer? What should I do?","a0_040_0510","False","","",""
@@ -1903,7 +1903,7 @@ Let's check it out.","a0_040_0512","False","","",""
 "Hazy_Script.txt:926","<color=#ddd><font=""TELOP"">!?","<color=#ddd><font=""TELOP"">!?","a0_040_0513","False","","",""
 "Hazy_Script.txt:927","しまった！ なんだ!?","Darn it! Now what!?","a0_040_0514","False","","",""
 "Hazy_Script.txt:928","……呪いの力じゃない！
-誰かに 引っ張り込まれた!?","This isn't a curse doing this! Somebody's
+<u>誰か</u>に 引っ張り込まれた!?","This isn't a curse doing this! Somebody's
 pulling me in!","a0_040_0515","False","","",""
 "Hazy_Script.txt:929","くそっ……いてて。放り投げられたのか。
 ……ここは？ 建物の中？","Agh... That hurt. It looks like I'm...inside a
@@ -1948,7 +1948,7 @@ my surroundings a bit better.","a0_040_0527","False","","",""
 "Hazy_Script.txt:943","……くそっ 失敗か！
 灯りが少しでもあると ダメなのか！","Drat, he's got a light! That ruins everything!","a0_040_0530","False","","",""
 "Hazy_Script.txt:944","!!……誰か いるな!? 呪主か！","Is someone there!? Are you a curse bearer?","a0_040_0531","False","","",""
-"Hazy_Script.txt:945","しまった……！ 逃げろッ……！","It's over! Time to get out of here!","a0_040_0532","False","","",""
+"Hazy_Script.txt:945","しまった……！ <u>逃げろ</u>ッ……！","It's over! Time to get out of here!","a0_040_0532","False","","",""
 "Hazy_Script.txt:946","……逃げる!? 見えてなかったが
 もしかして 目の前にいたのか……？","Wait, he's running? Was he right here this whole
 time!?","a0_040_0533","False","","",""
@@ -1961,7 +1961,7 @@ Ungh! What the...!?","a0_040_0536","False","","",""
 "Hazy_Script.txt:951","……はあ はあ……！","Haah... Haah...","a0_040_0538","False","","",""
 "Hazy_Script.txt:952","危なかった……。","That was a close one.","a0_040_0539","False","","",""
 "Hazy_Script.txt:953","呪主の姿は 見えなかったが……
-うまく やったみたいだ。","I didn't catch a glimpse of the curse bearer,
+うまく <u>やった</u>みたいだ。","I didn't catch a glimpse of the curse bearer,
 but it seems like I'm all right.","a0_040_0540","False","","",""
 "Hazy_Script.txt:954","<i>暗闇と灯りが 呪いに関係していた……
 ということは 今のは『消えずの行灯』だろうか。","<i>His curse must have had something to do with
@@ -1999,7 +1999,7 @@ please from before approaching the curse echo.","a0_040_0554","False","","",""
 linger in the dark.","a0_040_0555","False","","",""
 "Hazy_Script.txt:969","<i>……まさか。","<i>Could this be...?","a0_040_0556","False","","",""
 "Hazy_Script.txt:970","<i>この暗さは 呪いの影響……？","<i>Is this darkness the work of a curse?","a0_040_0557","False","","",""
-"Hazy_Script.txt:971","<i>すでに なんらかの条件に
+"Hazy_Script.txt:971","<i>すでに なんらかの<u>条件</u>に
 踏み込んでいる……とか？","<i>Have I already fulfilled its conditions to kill?","a0_040_0558","False","","",""
 "Hazy_Script.txt:972","<i>これは……すぐ この場を
 離れたほうがいいのか……","<i>Should I get out of here?","a0_040_0559","False","","",""
@@ -2008,7 +2008,7 @@ linger in the dark.","a0_040_0555","False","","",""
 I'm dealing with?","a0_040_0560","False","","",""
 "Hazy_Script.txt:974","<i>……さて どうする……？","<i>Decision time. What should I do?","a0_040_0561","False","","",""
 "Hazy_Script.txt:975","<i>このまま じっとしていることで
-相手の呪いの 条件を踏む可能性がある……。","<i>If I sit here like this, I risk fulfilling
+相手の呪いの <u>条件</u>を踏む可能性がある……。","<i>If I sit here like this, I risk fulfilling
 the conditions for that person's curse.","a0_040_0562","False","","",""
 "Hazy_Script.txt:976","<i>今なら まだ ここから立ち去ることも
 できそうだが……。","<i>It seems like I can still back out if I want,
@@ -2088,7 +2088,7 @@ understanding.","a0_040_0599","False","","",""
 "Hazy_Script.txt:1017","もちろん 仕事だよ。
 ……それ以上は 言えない。","Working...and that's all I'll say 'bout that.","a0_040_0604","False","","",""
 "Hazy_Script.txt:1018","そう言う 君は 何しにここへ？","I could ask you the same thing, though.","a0_040_0605","False","","",""
-"Hazy_Script.txt:1019","……なぜ ここで立ち止まった？
+"Hazy_Script.txt:1019","……なぜ <u>ここで</u>立ち止まった？
 ここが 目的地だったようだが？","This seems like a strange place to stop. What
 brought you here?","a0_040_0606","False","","",""
 "Hazy_Script.txt:1020","…………。","...","a0_040_0607","False","","",""
@@ -2285,7 +2285,7 @@ over the school gate?","a0_050_0357","False","","",""
 Why are you at school this late?","a0_050_0358","False","","",""
 "Hazy_Script.txt:1128","あ……えっと……","Um, well...","a0_050_0359","False","","",""
 "Hazy_Script.txt:1129","ごめんなさい！ わたし
-急いでるんで ここで失礼しますっ！","I'm really sorry! I'm in a big hurry right now,
+急いでるんで ここで<u>失礼します</u>っ！","I'm really sorry! I'm in a big hurry right now,
 so I gotta go!","a0_050_0360","False","","",""
 "Hazy_Script.txt:1130","……あっ！ 待っ……！","Hey, wait!","a0_050_0361","False","","",""
 "Hazy_Script.txt:1131","えっ……!?","Huh!?","a0_050_0362","False","","",""
@@ -2721,7 +2721,7 @@ curse before I activate mine... Gotta be careful.","a0_060_0658","False","","","
 "Hazy_Script.txt:1332","返答が遅い。","You took too long to answer.","a0_060_0662","False","","",""
 "Hazy_Script.txt:1333","……え!?","Huh!?","a0_060_0663","False","","",""
 "Hazy_Script.txt:1334","それに……今 ぼくのうしろに
-呪影が現れたとき 目を向けただろう？","Plus, you glanced behind me when the curse echo
+呪影が現れたとき <u>目を向けた</u>だろう？","Plus, you glanced behind me when the curse echo
 appeared.","a0_060_0664","False","","",""
 "Hazy_Script.txt:1335","確信した。きみも……呪主だね？
 隠しても 無駄だ。というか……隠せてないよ。","I knew it. You're a curse bearer, too. You can
@@ -2889,7 +2889,7 @@ alive. Real shame you're just gonna waste it.","a0_060_0736","False","","",""
 特に強い 怨みの記憶を持っているのだ。","Among the Seven Mysteries, the resentful memory
 of the Foot-Washing Mansion is particularly strong.","a0_060_0739","False","","",""
 "Hazy_Script.txt:1410","耳を塞いでも 聞こえてくるだろう……？
-この呪影の《声》を聞いたら もう ジ・エンドだ！","You can't block it out by plugging your ears.
+この呪影の《<u>声</u>》<u>を聞いたら</u> もう ジ・エンドだ！","You can't block it out by plugging your ears.
 As soon as you hear the voice of my curse echo,
 it's the end for you!","a0_060_0740","False","","",""
 "Hazy_Script.txt:1411","……くっ!!","Damn it...!","a0_060_0741","False","","",""
@@ -2917,9 +2917,9 @@ rereading [c3]How to Play[c0] in your Files.","a0_060_0748","False","","",""
 会話から 何度でも やり直すことができますから。","Fear not. You may make as many attempts as you
 please from the conversation with Yutaro.","a0_060_0749","False","","",""
 "Hazy_Script.txt:1420","かしこまりました。
-呪詛発動前に 対処を お忘れなく。","Very well. Remember to ward off the curse before
+呪詛発動前に <u>対処</u>を お忘れなく。","Very well. Remember to ward off the curse before
 it is activated.","a0_060_0750","False","","",""
-"Hazy_Script.txt:1421","ただし……興家彰吾は このことには 気付きようもない
+"Hazy_Script.txt:1421","ただし……興家彰吾は このことには <u>気付きようもない</u>
 はずですから あなた様が 対応してくださいませ。","But bear in mind, Shogo Okiie has no way of
 realizing it himself, so you must react for him.","a0_060_0751","False","","",""
 "Hazy_Script.txt:1422","……ん？","Hm...?","a0_060_0752","False","","",""
@@ -2977,7 +2977,7 @@ are no guards at this time of night.","a0_060_0771","False","","",""
 失っていると 女性はこう続けた……。","<i>Her sudden proclamation had me at a loss for words,
 so the woman continued...","a0_060_0784","False","","",""
 "Hazy_Script.txt:1455","[s0][a0.5]「そして……今すぐにでも あなたを
-　呪い殺せる状態にあります」","[s0][a0.5]""I have you in a position where I can use my
+　<u>呪い殺せる状態</u>にあります」","[s0][a0.5]""I have you in a position where I can use my
 curse on you whenever I please.""","a0_060_0785","False","","",""
 "Hazy_Script.txt:1456","[s0][a0.5]「あなたの呪詛珠を 渡してください。
 　そうすれば 命までは 取りません」","[s0][a0.5]""If you hand over your curse stone, I will at
@@ -3024,7 +3024,7 @@ get your own hands dirty?","a0_060_0808","False","","",""
 as possible.","a0_060_0813","False","","",""
 "Hazy_Script.txt:1484","……ね？","Understand?","a0_060_0814","False","","",""
 "Hazy_Script.txt:1485","…………。","...","a0_060_0815","False","","",""
-"Hazy_Script.txt:1486","おれの呪いの条件を あんたが
+"Hazy_Script.txt:1486","おれの呪いの<u>条件</u>を あんたが
 先に踏む可能性も あるが？","How do you know you haven't already set off
 my curse?","a0_060_0816","False","","",""
 "Hazy_Script.txt:1487","……どうぞ。","Go on, then. Use it.","a0_060_0817","False","","",""
@@ -3209,7 +3209,7 @@ as I'm here.","a0_060_0918","False","","",""
 "Hazy_Script.txt:1589","<i>……その場合も もう逃げられない。
 敷地から出る前に 呪詛行使が可能だ。","<i>In which case there's no escape. She'd activate
 her curse before I ever got away from the gardens.","a0_060_0919","False","","",""
-"Hazy_Script.txt:1590","<i>一度 踏んでみれば わかるかもしれないが
+"Hazy_Script.txt:1590","<i>一度 <u>踏んでみれば</u> わかるかもしれないが
 ……やり直せでもしない限り 無理だ……。","<i>I'm sure I'd recognize it after setting it off,
 but it's not like I'd get to do things over...","a0_060_0920","False","","",""
 "Hazy_Script.txt:1591","<i>でなければ……先に
@@ -3218,7 +3218,7 @@ I'll have to set off my own.","a0_060_0921","False","","",""
 "Hazy_Script.txt:1592","<i>向こうが優位な立場でありながら
 この場を 立ち去るのは 難しいか……。","<i>I don't see how I could make her leave, though.
 Not while she has the upper hand.","a0_060_0922","False","","",""
-"Hazy_Script.txt:1593","やはり 呪詛を使わせるくらいしか
+"Hazy_Script.txt:1593","やはり 呪詛を<u>使わせる</u>くらいしか
 思いつかない……。やばい……。","All I can think of is to make her use her curse...
 Damn it!","a0_060_0923","False","","",""
 "Hazy_Script.txt:1594","……呪いを受けてなお 反撃できる
@@ -3233,7 +3233,7 @@ she curses me...","a0_060_0924","False","","",""
 火!? 火が 火が!! 熱いッ!! ……焼けッ……!!","Aaaaaaggghhh!
 Fire!? Fire...! It's so hot! It...it burns...!","a0_060_0930","False","","",""
 "Hazy_Script.txt:1601","火？ 火……!? ……ああああそうかッ！
-アレか！ アレを 持っていたせいか……!!","Fire? Fire...!? Aaaugh, of course!
+アレか！ アレを <u>持っていた</u>せいか……!!","Fire? Fire...!? Aaaugh, of course!
 That's what it was...!","a0_060_0931","False","","",""
 "Hazy_Script.txt:1602","……ああっ……!!!","Aaaaaagh!","a0_060_0932","False","","",""
 "Hazy_Script.txt:1603","あいつ……!!! そうか……
@@ -3257,9 +3257,9 @@ something that could be a source of flame.","a0_060_0938","False","","",""
 いくらでも やり直すことができますから。","Fear not. You may make as many attempts as you
 please from the conversation with the lady.","a0_060_0939","False","","",""
 "Hazy_Script.txt:1610","かしこまりました。
-戻ったら 対処を お忘れなく。","Very well. Remember how to ward off the curse
+戻ったら <u>対処</u>を お忘れなく。","Very well. Remember how to ward off the curse
 when you return.","a0_060_0940","False","","",""
-"Hazy_Script.txt:1611","ただし……興家彰吾は このことには 気付きようもない
+"Hazy_Script.txt:1611","ただし……興家彰吾は このことには <u>気付きようもない</u>
 はずですから あなた様が 対応してくださいませ。","But bear in mind, Shogo Okiie has no way of
 realizing it himself, so you must react for him.","a0_060_0941","False","","",""
 "Hazy_Script.txt:1612","……よくわからんが……ていっ！","...Not sure why, but here goes nothing!","a0_060_0942","False","","",""
@@ -3344,23 +3344,23 @@ a past event...","a0_060_0977","False","","",""
 "Hazy_Script.txt:1649","……おわかりですよね。そのために
 ここまで頑張ってきたわけですから。","...Of course you do.
 After all, you have gotten this far.","a0_060_0979","False","","",""
-"Hazy_Script.txt:1650","福永葉子が 何をトリガーにして
+"Hazy_Script.txt:1650","福永葉子が <u>何を</u>トリガーにして
 あのように 死することになったのか。","What trigger did Yoko Fukunaga set off that
 led to her dying the way she did?","a0_060_0980","False","","",""
 "Hazy_Script.txt:1651","……ここまでにも 何度か
 やってきたので もう 大丈夫ですよね。","You've come this far several times, so I have
 every confidence you will be all right.","a0_060_0981","False","","",""
-"Hazy_Script.txt:1652","それを 行わなければ良いのです。","As long as you make sure not to do that thing.","a0_060_0982","False","","",""
+"Hazy_Script.txt:1652","<u>それ</u>を 行わなければ良いのです。","As long as you make sure not to do that thing.","a0_060_0982","False","","",""
 "Hazy_Script.txt:1653","ただ……先ほどの ライターや 声の件と同様に
 興家彰吾自身は そのことを知る由もありませんが。","However, like with the lighter and voice earlier,
 Shogo Okiie has no way of knowing that himself.","a0_060_0983","False","","",""
 "Hazy_Script.txt:1654","あ。ちなみに ですけども……","Ah. On that note, I am curious...","a0_060_0984","False","","",""
-"Hazy_Script.txt:1655","興家彰吾が……ここまでに 何人の人を
+"Hazy_Script.txt:1655","<u>興家彰吾が</u>……ここまでに 何人の人を
 呪い殺してきたかは 把握されていますか？","Have you determined how many people Shogo Okiie
 has killed with his curse?","a0_060_0985","False","","",""
 "Hazy_Script.txt:1656","ほほう……なるほど。なるほど。","Heheheh. I see, I see.","a0_060_0986","False","","",""
 "Hazy_Script.txt:1657","そのように 捉えていらっしゃるのですね。","So that is your understanding of things.","a0_060_0987","False","","",""
-"Hazy_Script.txt:1658","ちなみに 正解は……","As it turns out, the correct answer is...","a0_060_0988","False","","",""
+"Hazy_Script.txt:1658","ちなみに <u>正解</u>は……","As it turns out, the correct answer is...","a0_060_0988","False","","",""
 "Hazy_Script.txt:1659","……[$71]人です。","[$71].","a0_060_0989","False","","",""
 "Hazy_Script.txt:1660","おお！ 見事 正解ですね！
 さすが 正しく把握されているようです。","Aha! That is correct! I am pleased to see you
@@ -3569,9 +3569,9 @@ thick, black tar.","b0_010_0732","False","","",""
 "Hazy_Script.txt:1770","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","[s0][a0.5]Now...","b0_010_0733","False","","",""
 "Hazy_Script.txt:1771","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","[s0][a0.5]Kill...","b0_010_0734","False","","",""
 "Hazy_Script.txt:1772","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Can you hear it, Curse Bearer?","b0_010_0735","False","","",""
+呪主よ—","Can you hear it, Curse Bearer?","b0_010_0735","False","","",""
 "Hazy_Script.txt:1773","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","You, who so strongly desires the Rite.","b0_010_0736","False","","",""
+呪主よ—","You, who so strongly desires the Rite.","b0_010_0736","False","","",""
 "Hazy_Script.txt:1774","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","Kill them.","b0_010_0737","False","","",""
 "Hazy_Script.txt:1775","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]志岐間春恵","<align=""center""><color=#ddd><cspace=-4px><font=""TELOP"">志岐間春恵<cspace=0px>[x0.4]
 <voffset=0.3em><font=""MAIN"">Harue Shigima","b0_010_0738","False","","",""
@@ -4224,7 +4224,7 @@ hasn't come forward.","b0_010_1028","False","","",""
 "Hazy_Script.txt:2066","事件とも無関係な……完全な
 他人ってことに なるからね。","She herself might not realize she had
 anything to do with the case.","b0_010_1029","False","","",""
-"Hazy_Script.txt:2067","誘拐の当日 修一少年が 若い女性と
+"Hazy_Script.txt:2067","誘拐の当日 修一少年が <u>若い女性と</u>
 話していなかったか……","So, the question is...did anybody see Shuichi
 speaking with a young woman on the day of his
 disappearance?","b0_010_1030","False","","",""
@@ -4326,7 +4326,7 @@ you've spilled the beans?","b0_010_1075","False","","",""
 "Hazy_Script.txt:2118","いい大人の あんたが……女子生徒を
 そこまで恐れる理由は 何なんだ？","How could a schoolgirl have a fully grown
 man so terrified?","b0_010_1081","False","","",""
-"Hazy_Script.txt:2119","あいつは……ボクを 呪い殺せるんだ！","You don't know what she can do! She'll...
+"Hazy_Script.txt:2119","あいつは……ボクを <u>呪い殺せる</u>んだ！","You don't know what she can do! She'll...
 She'll curse me!","b0_010_1082","False","","",""
 "Hazy_Script.txt:2120","……呪い？","Curse you?","b0_010_1083","False","","",""
 "Hazy_Script.txt:2121","いや……ちょっと……
@@ -4389,11 +4389,11 @@ to be ready for anything.","b0_010_1109","False","","",""
 "Hazy_Script.txt:2149","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","b0_010_1112","False","","",""
 "Hazy_Script.txt:2150","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","b0_010_1113","False","","",""
 "Hazy_Script.txt:2151","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","b0_010_1114","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
+[b]呪主よ—","b0_010_1114","False","","",""
 "Hazy_Script.txt:2152","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","b0_010_1115","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
+[b]呪主よ—","b0_010_1115","False","","",""
 "Hazy_Script.txt:2153","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","b0_010_1116","False","","",""
 "Hazy_Script.txt:2154","最初から","Start from beginning","b0_020_0001","False","","",""
 "Hazy_Script.txt:2155","駒形橋から","Start from Komagata Bridge","b0_020_0009","False","","",""
@@ -4745,7 +4745,7 @@ had a huge amount of spiritual significance.","b0_020_0673","False","","",""
 中央に住む人たちにとって……","Back when Edo was founded, the people of Chuo
 saw the Sumida River the same way.","b0_020_0674","False","","",""
 "Hazy_Script.txt:2332","……この 大きな隅田川の 向こう岸というのは
-まさに 異世界だったらしいね。","They associated the far side of the river with
+まさに <u>異世界</u>だったらしいね。","They associated the far side of the river with
 the afterlife. That same place would later become
 Honjo.","b0_020_0675","False","","",""
 "Hazy_Script.txt:2333","彼の地には……人々からの 忌避的な
@@ -4763,17 +4763,17 @@ and crisscrossed it with canals and waterways.","b0_020_0678","False","","",""
 治水だと 習ったけど？","Weren't those to prevent flooding? That's
 what I was told...","b0_020_0679","False","","",""
 "Hazy_Script.txt:2337","……それもある。だが……","They were, but that's not all they were for.","b0_020_0680","False","","",""
-"Hazy_Script.txt:2338","大川の彼岸という 異世界に渦巻く
+"Hazy_Script.txt:2338","大川の彼岸という <u>異世界</u>に渦巻く
 穢れや 魑魅魍魎の類を……","Their other purpose was to contain all the
 corruption that had built up on the far shore...","b0_020_0681","False","","",""
 "Hazy_Script.txt:2339","川で囲った この地区に 閉じ込めて
-此岸[y1.8]<font=""MAIN"">━[y1]即ち 現世に 現れないようにする……。","and stop it leaking through to our side of the
+此岸—即ち 現世に 現れないようにする……。","and stop it leaking through to our side of the
 great divide.","b0_020_0682","False","","",""
 "Hazy_Script.txt:2340","そんな意味合いが……
 密かに あったそうだよ。","Officially, they were a physical barrier, but
 unofficially, they were a spiritual one too.","b0_020_0683","False","","",""
 "Hazy_Script.txt:2341","ふうん……。","So, if I have this right...","b0_020_0684","False","","",""
-"Hazy_Script.txt:2342","つまり……本所は あの世に近い場所と
+"Hazy_Script.txt:2342","つまり……本所は <u>あの世に近い場所</u>と
 されていた……ってわけ？","Are you saying...that Honjo is a place where
 the real world meets the afterlife?","b0_020_0685","False","","",""
 "Hazy_Script.txt:2343","だからこそ《蘇りの秘術》なんてものが
@@ -4872,7 +4872,7 @@ vicious cycle.","b0_020_0728","False","","",""
 捜索なんて したくないだろう。","I know I wouldn't want to go rooting around
 down there myself.","b0_020_0729","False","","",""
 "Hazy_Script.txt:2387","そう。つまり この川の底は……
-誰も探さない場所だった。","That's right. Which is why the riverbed is the
+<u>誰も探さない[</u>f・]場<u>所</u>だった。","That's right. Which is why the riverbed is the
 last place anybody would go looking.","b0_020_0730","False","","",""
 "Hazy_Script.txt:2388","……で ね。","Or so was the killer's thinking, I suppose.","b0_020_0731","False","","",""
 "Hazy_Script.txt:2389","当時は 世の中が すごいスピードで 変化していた。
@@ -5500,7 +5500,7 @@ about it!","b0_020_0999","False","","",""
 "Hazy_Script.txt:2657","ええと……","...You've gotta be kidding me.","b0_020_1000","False","","",""
 "Hazy_Script.txt:2658","つまり……君は 《蘇りの秘術》で……","So, if I understand correctly...
 you want to use the Rite of Resurrection to...","b0_020_1001","False","","",""
-"Hazy_Script.txt:2659","はい！ 葛飾北斎先生を
+"Hazy_Script.txt:2659","はい！ <u>葛飾北斎先生を</u>
 現代に 蘇らせます！","That's right!
 I want to bring Hokusai back to life!","b0_020_1002","False","","",""
 "Hazy_Script.txt:2660","おお なるほど……
@@ -5737,7 +5737,7 @@ on something like the occult.","c0_010_0781","False","","",""
 or what.","c0_010_0783","False","","",""
 "Hazy_Script.txt:2773","それだけ なりふり構って
 いられないんですから。こっちは。","Whoever or whatever it was that did this...","c0_010_0784","False","","",""
-"Hazy_Script.txt:2774","アイツを殺した犯人は……
+"Hazy_Script.txt:2774","<u>アイツ</u>を殺した犯人は……
 絶対 オレが 捕まえてみせます！","I'll get them... I promise you that!","c0_010_0785","False","","",""
 "Hazy_Script.txt:2775","心がけは いいが……まだ 今回の事件が
 殺人と決まったわけじゃねえ。","Well, you've got the right attitude, but...
@@ -5919,7 +5919,7 @@ to help us solve all our unusual cases...","c0_010_0850","False","","",""
 "Hazy_Script.txt:2842","え……？ オレなんて 同期の中でも
 至って常識的な人間ですよ。","Me? I was the most normal of my classmates.","c0_010_0853","False","","",""
 "Hazy_Script.txt:2843","それに……同期で圧倒的に 型破りだったのは
-すでに退職しちゃった アイツですし……。","Besides... The real weirdo among us quit the
+すでに退職しちゃった <u>アイツ</u>ですし……。","Besides... The real weirdo among us quit the
 academy a long time ago.","c0_010_0854","False","","",""
 "Hazy_Script.txt:2844","まだ それ以上のヤツが いるのかよ……。","There was one even weirder than you?","c0_010_0855","False","","",""
 "Hazy_Script.txt:2845","吉見自身 学生時代は だいぶ荒れてて 頻繁に
@@ -6247,7 +6247,7 @@ something in secret...","c0_010_0986","False","","",""
 衝動的な行為による 致死傷じゃねえだろ。","No, that wouldn't match the cause of death.
 There were no wounds on the body that would
 indicate a spontaneous scuffle.","c0_010_0988","False","","",""
-"Hazy_Script.txt:2978","なにかしらの準備は あったはずだ。","The perp must've planned something.","c0_010_0989","False","","",""
+"Hazy_Script.txt:2978","なにかしらの<u>準備</u>は あったはずだ。","The perp must've planned something.","c0_010_0989","False","","",""
 "Hazy_Script.txt:2979","なら……計画的な犯行？
 ってことは その人物は……","Then you think it was meditated?
 That would mean...","c0_010_0990","False","","",""
@@ -6516,7 +6516,7 @@ Don't tell me you're going senile!","c0_010_1097","False","","",""
 "Hazy_Script.txt:3090","<cspace=-6px><font=""TELOP"">信じてくれ…","<cspace=-6px><font=""TELOP"">Believe me...","c0_010_1101","False","","",""
 "Hazy_Script.txt:3091","<cspace=-6px><font=""TELOP"">真実に気付け…","<cspace=-6px><font=""TELOP"">See the truth...","c0_010_1102","False","","",""
 "Hazy_Script.txt:3092","くそッ……！
-やっぱ そっち案件かよ！","Damn it...! It was that case all along!","c0_010_1103","False","","",""
+やっぱ <u>そっち案件</u>かよ！","Damn it...! It was that case all along!","c0_010_1103","False","","",""
 "Hazy_Script.txt:3093","ボス!? どうしたんですか
 そっちに 何かあるんですか……？","Boss!? What is it? Is there something over there?","c0_010_1104","False","","",""
 "Hazy_Script.txt:3094","ぐああああああっ!!","GRAAAH!","c0_010_1105","False","","",""
@@ -6547,9 +6547,9 @@ thick, black tar.","c0_010_1117","False","","",""
 "Hazy_Script.txt:3107","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","[s0][a0.5]Now...","c0_010_1118","False","","",""
 "Hazy_Script.txt:3108","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","[s0][a0.5]Kill...","c0_010_1119","False","","",""
 "Hazy_Script.txt:3109","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Can you hear it, Curse Bearer?","c0_010_1120","False","","",""
+呪主よ—","Can you hear it, Curse Bearer?","c0_010_1120","False","","",""
 "Hazy_Script.txt:3110","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","You, who so strongly desires the Rite.","c0_010_1121","False","","",""
+呪主よ—","You, who so strongly desires the Rite.","c0_010_1121","False","","",""
 "Hazy_Script.txt:3111","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","Kill them.","c0_010_1122","False","","",""
 "Hazy_Script.txt:3112","……ボス！ ……ボス！","Boss! Boss!","c0_010_1123","False","","",""
 "Hazy_Script.txt:3113","……ボス！ どうしたんですか！
@@ -6570,11 +6570,11 @@ We're not going home tonight.","c0_010_1132","False","","",""
 "Hazy_Script.txt:3123","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","c0_010_1134","False","","",""
 "Hazy_Script.txt:3124","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","c0_010_1135","False","","",""
 "Hazy_Script.txt:3125","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","c0_010_1136","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
+[b]呪主よ—","c0_010_1136","False","","",""
 "Hazy_Script.txt:3126","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","c0_010_1137","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
+[b]呪主よ—","c0_010_1137","False","","",""
 "Hazy_Script.txt:3127","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","c0_010_1138","False","","",""
 "Hazy_Script.txt:3128","最初から","Start from the beginning","c0_020_0001","False","","",""
 "Hazy_Script.txt:3129","両国橋から","Start from Ryogoku Bridge","c0_020_0002","False","","",""
@@ -6708,7 +6708,7 @@ to protect citizens from them!","c0_020_0815","False","","",""
 一種類だけですか？","Come on, Boss. Do you only have one favorite food?","c0_020_0818","False","","",""
 "Hazy_Script.txt:3199","「どっちも好き」は 成立するんですよ。","You can like more than one thing!","c0_020_0819","False","","",""
 "Hazy_Script.txt:3200","ああ わかった。わかった。","Yeah, yeah, whatever.","c0_020_0820","False","","",""
-"Hazy_Script.txt:3201","ともかく……表面上は 霊は ないことになってるから
+"Hazy_Script.txt:3201","ともかく……表面上は 霊は <u>ない</u>ことになってるから
 《心霊対策室》は 水面下で活動してるわけだ。","In any case, the official stance is that the
 supernatural doesn't exist, so Paranormal Affairs
 operates in secret.","c0_020_0821","False","","",""
@@ -6717,11 +6717,11 @@ operates in secret.","c0_020_0821","False","","",""
 "Hazy_Script.txt:3203","所属してた４年間は……そういう
 心霊事案ばかり 対応させられてきた。","Those four years, I worked nothing but cases
 involving the supernatural.","c0_020_0823","False","","",""
-"Hazy_Script.txt:3204","じゃあ……やっぱ あるんですか？
+"Hazy_Script.txt:3204","じゃあ……やっぱ <u>ある</u>んですか？
 ボスにも。あれが。","So...do you...you know. Have it?","c0_020_0824","False","","",""
 "Hazy_Script.txt:3205","何が？","Have what?","c0_020_0825","False","","",""
 "Hazy_Script.txt:3206","霊感ですよ 霊感！
-いわゆる 持ってる人なんですか？","Spirit sense, of course!
+いわゆる <u>持ってる人</u>なんですか？","Spirit sense, of course!
 Are you what they call ""spiritually gifted""?","c0_020_0826","False","","",""
 "Hazy_Script.txt:3207","いーや。まったく 自覚はねえよ。","Nope. I've never felt anything at all.","c0_020_0827","False","","",""
 "Hazy_Script.txt:3208","あったとしても……グラス１杯のビールで
@@ -7024,7 +7024,7 @@ other curse bearers are.","c0_020_0960","False","","",""
 見逃すわけには いかねえんだわ。","Sorry, but as a police officer, I can't just
 look the other way and let you go.","c0_020_0961","False","","",""
 "Hazy_Script.txt:3342","頼むよ。……今ならまだ 刑事さんたちも
-見逃してあげるからさ。","Please. If you help me, I'll let you two go
+<u>見逃してあげる</u>からさ。","Please. If you help me, I'll let you two go
 as well.","c0_020_0962","False","","",""
 "Hazy_Script.txt:3343","そいつは 脅しか？","Is that a threat?","c0_020_0963","False","","",""
 "Hazy_Script.txt:3344","いや……。","No...","c0_020_0964","False","","",""
@@ -7082,7 +7082,7 @@ I'll find you later!","c0_020_0982","False","","",""
 less-than-favorable result.","c0_020_0988","False","","",""
 "Hazy_Script.txt:3369","えー……これは わたくしの
 勝手な推測ですけど……","This is mere conjecture on my part, but...","c0_020_0989","False","","",""
-"Hazy_Script.txt:3370","あなた様であれば……この 並垣の呪詛から
+"Hazy_Script.txt:3370","<u>あなた様</u>であれば……この 並垣の呪詛から
 [c3]逃れる手段[c0]を ご存知なのでは？","I believe you may be aware of [c3]a way to escape[c0]
 Yutaro's curse.","c0_020_0990","False","","",""
 "Hazy_Script.txt:3371","ご安心ください。並垣の呪詛行使時から
@@ -7142,16 +7142,16 @@ better off mourning whoever you lost the right way.","c0_020_1011","False","",""
 オレたち死んでましたよ。","We'd probably be dead if he had activated
 his curse.","c0_020_1015","False","","",""
 "Hazy_Script.txt:3396","ああ。なぜか知らんが……あいつの呪詛が
-効かない状態に なっていたような……っく！","Yeah. I'm not sure what, but something stopped
+<u>効かない状態</u>に なっていたような……っく！","Yeah. I'm not sure what, but something stopped
 his curse from... Ngh!","c0_020_1016","False","","",""
 "Hazy_Script.txt:3397","あれ ボス……？ 大丈夫ですか？
 呪詛珠を ふたつ持ってて また呪われてたりします？","Boss? Are you okay?
 Does having another curse stone hurt?","c0_020_1017","False","","",""
 "Hazy_Script.txt:3398","うむ……実は こっちの呪いも
-来てる。","Yeah... The curse from this one is flowing into me too...","c0_020_1018","False","","",""
+<u>来てる</u>。","Yeah... The curse from this one is flowing into me too...","c0_020_1018","False","","",""
 "Hazy_Script.txt:3399","えっ……!?","Oh no...","c0_020_1019","False","","",""
 "Hazy_Script.txt:3400","『足洗い屋敷』の呪いの条件や
-怨みの記憶も……見えた。","I saw what activates the curse of the Foot-Washing
+怨みの記憶も……<u>見えた</u>。","I saw what activates the curse of the Foot-Washing
 Mansion...and the resentful memories bound to it.","c0_020_1020","False","","",""
 "Hazy_Script.txt:3401","いや……なるほどな。七不思議の中でも これだけ
 やたらと 超常的な内容だと 思っていたが……","Ah... I see. I always thought this one was one
@@ -7186,7 +7186,7 @@ I'm tough when it comes to this stuff.","c0_020_1033","False","","",""
 "Hazy_Script.txt:3414","それだけは 《心霊対策室》でも
 重宝されてたよ。","That's why they loved me in Paranormal Affairs.","c0_020_1034","False","","",""
 "Hazy_Script.txt:3415","なんだ やっぱり
-持ってる人じゃないですか！","So you are spiritually gifted after all!","c0_020_1035","False","","",""
+<u>持ってる人</u>じゃないですか！","So you are spiritually gifted after all!","c0_020_1035","False","","",""
 "Hazy_Script.txt:3416","じゃあ 次行きましょう。","All right, let's head to the next place.","c0_020_1036","False","","",""
 "Hazy_Script.txt:3417","最初から","Start from beginning","c0_030_0001","False","","",""
 "Hazy_Script.txt:3418","話す","Talk","c0_030_0039","False","","",""
@@ -7302,7 +7302,7 @@ related to the Rite of Resurrection?","c0_030_0475","False","","",""
 You wouldn't understand anyway.","c0_030_0478","False","","",""
 "Hazy_Script.txt:3482","……ってことは……","Well, in that case...","c0_030_0479","False","","",""
 "Hazy_Script.txt:3483","今 先生が探してたものって……
-もしかして あれか？","I think I might have a guess as to what it is you
+もしかして <u>あれ</u>か？","I think I might have a guess as to what it is you
 were looking for.","c0_030_0480","False","","",""
 "Hazy_Script.txt:3484","ほう……。よく知ってるな。","Huh... I'm surprised you know that.","c0_030_0481","False","","",""
 "Hazy_Script.txt:3485","確かに 本所七不思議が 生まれたきっかけとして
@@ -7362,7 +7362,7 @@ to mislead me.","c0_030_0504","False","","",""
 そんな……！","Wh-what!? But...!","c0_030_0505","False","","",""
 "Hazy_Script.txt:3509","だから 先生。
 ……嘘ついても すぐバレるぜ。","So don't try and lie to me. I'll know.","c0_030_0506","False","","",""
-"Hazy_Script.txt:3510","なんだと！ 使うつもりか……!?
+"Hazy_Script.txt:3510","なんだと！ <u>使う</u>つもりか……!?
 警察が……市民に 呪いを……！","You...you would curse a citizen!?
 And you call yourself an officer of the law!","c0_030_0507","False","","",""
 "Hazy_Script.txt:3511","そりゃ あんたの態度次第だな。
@@ -8001,7 +8001,7 @@ I don't have anyone like that in my life.","c0_040_0358","False","","",""
 if she were to hear that.","c0_040_0362","False","","",""
 "Hazy_Script.txt:3801","……!!!","...!","c0_040_0363","False","","",""
 "Hazy_Script.txt:3802","おい 馬鹿！ やめろッ！
-それだけは 絶対やめろッ!!","Don't you fucking dare! I'm warning you!","c0_040_0364","False","","",""
+<u>それだけ</u>は 絶対やめろッ!!","Don't you fucking dare! I'm warning you!","c0_040_0364","False","","",""
 "Hazy_Script.txt:3803","<i>おおっ！ イイね イイね！
 その調子だよ その調子！","<i>Ooh, very nice! This is more like it!","c0_040_0365","False","","",""
 "Hazy_Script.txt:3804","<i>娘さん……今は 大学に通うために
@@ -8044,8 +8044,8 @@ my head. Well done.","c0_040_0379","False","","",""
 protect. Every last person living here.","c0_040_0381","False","","",""
 "Hazy_Script.txt:3820","何を 言っている……!?","You couldn't!","c0_040_0382","False","","",""
 "Hazy_Script.txt:3821","<i>なんと。オレの呪いなら……
-それが できンだよなア。","<i>Oh, but with this curse of mine, I can!","c0_040_0383","False","","",""
-"Hazy_Script.txt:3822","<i>次の 日暮れと同時に
+<u>それ</u>が できンだよなア。","<i>Oh, but with this curse of mine, I can!","c0_040_0383","False","","",""
+"Hazy_Script.txt:3822","<i>次の <u>日暮れと同時</u>に
 決行させてもらおうかね。","<i>I'll give you until dusk.","c0_040_0384","False","","",""
 "Hazy_Script.txt:3823","<i>んー……最低でも……
 数百人は イケるかなア……？","<i>By then...I could probably get a couple hundred
@@ -8169,10 +8169,10 @@ was launched into Fumichika Nejima's whereabouts.","c0_040_0434","False","","","
 何も 見つけられず……","Tsutsumi and Erio themselves spent the rest of the
 night looking for curse bearers in the area,
 but their search ended in vain.","c0_040_0435","False","","",""
-"Hazy_Script.txt:3874","こうして……呪われた夜は 明けるのだった[y1.8]<font=""MAIN"">━[y1] 。","And with that, the curtain closed
+"Hazy_Script.txt:3874","こうして……呪われた夜は 明けるのだった— 。","And with that, the curtain closed
 on that cursed night...","c0_040_0436","False","","",""
 "Hazy_Script.txt:3875","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]日暮れまで","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]Twelve hours","c0_040_0437","False","","",""
-"Hazy_Script.txt:3876","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]あと12時間[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]to sunset...","c0_040_0438","False","","",""
+"Hazy_Script.txt:3876","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]あと12時間—","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]to sunset...","c0_040_0438","False","","",""
 "Hazy_Script.txt:3877","……お？ なんだこれ。よく見りゃ 電話の脇に
 何か 貼ってあるじゃねえか。","Hm? What's this? There's something stuck to the
 side of the phone.","c0_040_0439","False","","",""
@@ -8497,9 +8497,9 @@ thick, black tar.","d0_010_0491","False","","",""
 "Hazy_Script.txt:4054","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","[s0][a0.5]Now...","d0_010_0492","False","","",""
 "Hazy_Script.txt:4055","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","[s0][a0.5]Kill...","d0_010_0493","False","","",""
 "Hazy_Script.txt:4056","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]きこえるか
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","Can you hear it, Curse Bearer?","d0_010_0494","False","","",""
+呪主よ—","Can you hear it, Curse Bearer?","d0_010_0494","False","","",""
 "Hazy_Script.txt:4057","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150]蘇りの秘術を求めし
-呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","You, who so strongly desires the Rite.","d0_010_0495","False","","",""
+呪主よ—","You, who so strongly desires the Rite.","d0_010_0495","False","","",""
 "Hazy_Script.txt:4058","[a0.5][s0.05]<cspace=-8px><color=#ddd><font=""TELOP""><size=300%>[vruby-10][sruby150][s0]<size=500%>呪い殺せ","Kill them.","d0_010_0496","False","","",""
 "Hazy_Script.txt:4059","……じゃあ そろそろ
 本気の質問 いってみようか。","All right... It's time to try asking serious
@@ -8508,11 +8508,11 @@ questions.","d0_010_0497","False","","",""
 "Hazy_Script.txt:4061","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","<cspace=-6px><color=#ddd><font=""TELOP"">さあ","d0_010_0499","False","","",""
 "Hazy_Script.txt:4062","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","<cspace=-6px><color=#ddd><font=""TELOP"">殺せ","d0_010_0500","False","","",""
 "Hazy_Script.txt:4063","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
-[b]呪主よ[y1.4]<voffset=-0.5em>─<voffset=0>[y1]","d0_010_0501","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">きこえるか
+[b]呪主よ—","d0_010_0501","False","","",""
 "Hazy_Script.txt:4064","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
-[b]呪主よ[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]","d0_010_0502","False","","",""
+[b]呪主よ—","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">蘇りの秘術を求めし
+[b]呪主よ—","d0_010_0502","False","","",""
 "Hazy_Script.txt:4065","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","<align=""center""><cspace=-4px><color=#ddd><font=""TELOP"">呪い殺せ","d0_010_0503","False","","",""
 "Hazy_Script.txt:4066","最初から","Start from beginning","d0_020_0001","False","","",""
 "Hazy_Script.txt:4067","目覚める約子","Yakko awakens","d0_020_0002","False","","",""
@@ -8829,7 +8829,7 @@ it was.","d0_020_0860","False","","",""
 "Hazy_Script.txt:4217","うん。非常事態だったけど
 ちゃんと 帰ってもらえたよ。","Yep. It was almost bad, but I got it to leave.","d0_020_0863","False","","",""
 "Hazy_Script.txt:4218","それより……やっこちゃん。
-手に持ってる それって……","More importantly...
+手に持ってる <u>それ</u>って……","More importantly...
 What is that thing you have in your hand?","d0_020_0864","False","","",""
 "Hazy_Script.txt:4219","え……？ 手？","Hm? In my hand?","d0_020_0865","False","","",""
 "Hazy_Script.txt:4220","……わっ！ 何コレ!? 気持ち悪！
@@ -8933,7 +8933,7 @@ culture have pushed for the rejection of
 things that can't be measured.","d0_020_0907","False","","",""
 "Hazy_Script.txt:4262","そして 心霊は いないことにされた。","And so, the paranormal has been treated like
 it doesn't exist.","d0_020_0908","False","","",""
-"Hazy_Script.txt:4263","でも……彼らは 昔も今も
+"Hazy_Script.txt:4263","でも……<u>彼ら</u>は 昔も今も
 ずっと そこにいるんだよ。","But they've been around since a long, long time
 ago.","d0_020_0909","False","","",""
 "Hazy_Script.txt:4264","ちゃんと知れば……必ずしも 怖いものでは
@@ -9161,7 +9161,7 @@ Honjo...","d0_020_1004","False","","",""
 ……いるってことだと思う。","Then it's possible that there are others who
 received curses associated with the other
 Mysteries.","d0_020_1005","False","","",""
-"Hazy_Script.txt:4360","うん……謎の声も ほかの《呪主》
+"Hazy_Script.txt:4360","うん……謎の声も <u>ほかの</u>《呪主》
 ……っていう 言い方してたし。","Yeah... That voice also said that there are other
 curse bearers or whatever you called them.","d0_020_1006","False","","",""
 "Hazy_Script.txt:4361","しかも……","Not only that...","d0_020_1007","False","","",""
@@ -9215,9 +9215,9 @@ another person.","d0_020_1029","False","","",""
 "Hazy_Script.txt:4385","……呪いの影響？
 呪影の持つ怨念に 染まったのかも……？","Is it the curse's influence on you...? Maybe the
 curse echo's grudge is rubbing off on you...?","d0_020_1031","False","","",""
-"Hazy_Script.txt:4386","……ちょっと ごめん。視させて。","Will you show me it for a second?","d0_020_1032","False","","",""
+"Hazy_Script.txt:4386","……ちょっと ごめん。<u>視させて</u>。","Will you show me it for a second?","d0_020_1032","False","","",""
 "Hazy_Script.txt:4387","……ん？","Hm?","d0_020_1033","False","","",""
-"Hazy_Script.txt:4388","……何か……入ってる……？","Is there...something inside it?","d0_020_1034","False","","",""
+"Hazy_Script.txt:4388","……何か……<u>入ってる</u>……？","Is there...something inside it?","d0_020_1034","False","","",""
 "Hazy_Script.txt:4389","やだっ！ やめてっ！","No! Stop!","d0_020_1035","False","","",""
 "Hazy_Script.txt:4390","……やっこちゃん？","Yakko...?","d0_020_1036","False","","",""
 "Hazy_Script.txt:4391","あ……ごめん。","Oh... I'm sorry.","d0_020_1037","False","","",""
@@ -9229,7 +9229,7 @@ touch it.","d0_020_1039","False","","",""
 "Hazy_Script.txt:4396","でも……蘇りの秘術は もう諦めて。　","But you need to give up on the Rite of
 Resurrection.","d0_020_1042","False","","",""
 "Hazy_Script.txt:4397","えっ……。","What...?","d0_020_1043","False","","",""
-"Hazy_Script.txt:4398","……それこそが 呪いだから。","Because that's the real curse.","d0_020_1044","False","","",""
+"Hazy_Script.txt:4398","……<u>それ</u>こそが 呪いだから。","Because that's the real curse.","d0_020_1044","False","","",""
 "Hazy_Script.txt:4399","蘇りを エサに……
 呪いを使わせるっていう。","Using resurrection as a lure, it tempts curse
 bearers into using their curses.","d0_020_1045","False","","",""
@@ -9280,7 +9280,7 @@ Why'd the lights go out!?","d0_020_1069","False","","",""
 "Hazy_Script.txt:4425","……あれ？ ミヲちゃん？","Hello? Mio?","d0_020_1071","False","","",""
 "Hazy_Script.txt:4426","いない……？ なんで!?","She's not here...? What's happening!?","d0_020_1072","False","","",""
 "Hazy_Script.txt:4427","ど……どこ……？","Where... Where are you?","d0_020_1073","False","","",""
-"Hazy_Script.txt:4428","きゃあああああ[y1.8]<font=""MAIN"">━[y1]っ!!!!","Aaaaaah!!!","d0_020_1074","False","","",""
+"Hazy_Script.txt:4428","きゃあああああ—っ!!!!","Aaaaaah!!!","d0_020_1074","False","","",""
 "Hazy_Script.txt:4429","え 何!? 何何何何何何!?
 なに……今の？","Huh!? Oh no, oh no, oh no!
 What was that?","d0_020_1075","False","","",""
@@ -9489,7 +9489,7 @@ playin' around at night.","d0_030_0596","False","","",""
 "Hazy_Script.txt:4555","<color=#ddd><cspace=-4px><font=""TELOP"">校務員","<color=#ddd>School Janitor","d0_030_0597","False","","",""
 "Hazy_Script.txt:4556","<color=#ddd><cspace=-4px><font=""TELOP"">[sruby-50][vruby-12]葦宮 誠","<color=#ddd><cspace=-4px><font=""TELOP"">葦宮 誠<cspace=0px>
 <voffset=1.1em><font=""MAIN""><space=-9px>[x0.4]Makoto Ashimiya","d0_030_0598","False","","",""
-"Hazy_Script.txt:4557","おめえさんは がさつ者だが……
+"Hazy_Script.txt:4557","おめえさんは <u>がさつ</u>者だが……
 グレたりはしねエと 思っとったんだがなア。","I know you're rough around the edges, but I didn't
 take you for one to act out like this.","d0_030_0599","False","","",""
 "Hazy_Script.txt:4558","ごめんなさい……ちょっと
@@ -9680,7 +9680,7 @@ Did you hear about it from someone, hm?","d0_030_0686","False","","",""
 そんなウワサだけ……！","No, it's just...a rumor that's been going around!","d0_030_0687","False","","",""
 "Hazy_Script.txt:4646","いや。そんなウワサなんて ない。","No, there's no such rumor.","d0_030_0688","False","","",""
 "Hazy_Script.txt:4647","……そうか！ あの転校生だな！","Ah-ha! It must be that transfer student!","d0_030_0689","False","","",""
-"Hazy_Script.txt:4648","あいつは……持ってるからな！","She has it, you know!","d0_030_0690","False","","",""
+"Hazy_Script.txt:4648","あいつは……<u>持ってる</u>からな！","She has it, you know!","d0_030_0690","False","","",""
 "Hazy_Script.txt:4649","お前もだろ！ その ポケットに
 入ってるヤツ ちょっと 出してみろ！","You must as well! Take out what's in your
 pocket and show it to me!","d0_030_0691","False","","",""
@@ -9972,10 +9972,10 @@ spirit incense to summoning the souls of the dead.","first_0203","False","","","
 down to this day...","first_0204","False","","",""
 "Hazy_Script.txt:4779","あ……ところで [%0]様。","Ah... On that note, [%0].","first_0205","False","","",""
 "Hazy_Script.txt:4780","突然ですが あなた様には……","This may seem rather abrupt, but...","first_0206","False","","",""
-"Hazy_Script.txt:4781","生き返らせたい人は おりますかな？","Is there someone you wish to bring back from the dead?","first_0207","False","","",""
+"Hazy_Script.txt:4781","<u>生き返らせたい人</u>は おりますかな？","Is there someone you wish to bring back from the dead?","first_0207","False","","",""
 "Hazy_Script.txt:4782","……もし。","What if...","first_0208","False","","",""
 "Hazy_Script.txt:4783","もし 死んだ者を生き返らせる 幻の秘術を
-１回だけ使える機会が あるとしたら。","What if you had one chance to use the secret art of
+<u>１回だけ</u>使える機会が あるとしたら。","What if you had one chance to use the secret art of
 resurrecting the dead?","first_0209","False","","",""
 "Hazy_Script.txt:4784","そうです。ただの１回限り……誰かを
 生き返らせることが できるのだとしたら！","Yes, if you had the power to bring someone back to
@@ -10036,7 +10036,7 @@ clinging to it as their last desperate hope.","first_0231","False","","",""
 そのひとりでございました。","The first I shall introduce, a man named
 [c4]Shogo Okiie[c0], is one of them.","first_0232","False","","",""
 "Hazy_Script.txt:4807","……おや？ 何事ですかな こんなときに。","...Oh? I wonder what it could be at such a time.","first_0233","False","","",""
-"Hazy_Script.txt:4808","……早朝 墨田区の公園内で 溺死している
+"Hazy_Script.txt:4808","……早朝 墨田区の公園内で <u>溺死している</u>
 男性の遺体が 発見された件で……","...Early this morning, the body of a drowned man
 was discovered at a park in Sumida City...","first_0234","False","","",""
 "Hazy_Script.txt:4809","警察は この遺体は 同区に勤める会社員
@@ -10285,7 +10285,7 @@ had killed...this is what I meant.","a1_010_0079","False","","",""
 "Hazy_Script.txt:4944","あなた様が 呪詛行使をしなかった場合に……
 興家彰吾が 行動を奪い 行使していたというわけです。","Had you not used the curse...Shogo Okiie would
 have done so of his own accord.","a1_010_0080","False","","",""
-"Hazy_Script.txt:4945","また 蝶澤麻由が あなた様の見聞きした情報を
+"Hazy_Script.txt:4945","また 蝶澤麻由が <u>あなた様の</u>見聞きした情報を
 伝え聞くことが できたのも……","Furthermore, Mayu Chozawa was able to recall
 information which only you knew...","a1_010_0081","False","","",""
 "Hazy_Script.txt:4946","『送り提灯』の呪影に 取り憑かれていたため
@@ -10650,7 +10650,7 @@ bodies found.","b1_010_0055","False","","",""
 Killings. It's garnered quite some attention
 on the streets.","b1_010_0056","False","","",""
 "Hazy_Script.txt:5123","えっ……そんな……。","Oh my...","b1_010_0057","False","","",""
-"Hazy_Script.txt:5124","たったの ３人なの……？","Only three?","b1_010_0058","False","","",""
+"Hazy_Script.txt:5124","<u>たったの</u> ３人なの……？","Only three?","b1_010_0058","False","","",""
 "Hazy_Script.txt:5125","そうだ。そもそも 呪主の滓魂であっても
 ひとりふたりでは 満たないはず……","That's what I thought. Even if the victims
 were curse bearers, just one or two wouldn't
@@ -11999,7 +11999,7 @@ Michiyo hadn't killed herself?","b1_020_0095","False","","",""
 "Hazy_Script.txt:5646","何か わかったのか？ リヒタ。","Did you figure something out?","b1_020_0097","False","","",""
 "Hazy_Script.txt:5647","岩井官吉郎じゃないか！","Kankichiro Iwai!","b1_020_0098","False","","",""
 "Hazy_Script.txt:5648","えっ……!? な……何が!?","Huh?","b1_020_0099","False","","",""
-"Hazy_Script.txt:5649","だったら 次は 岩井官吉郎だろう。","Kankichiro Iwai! He'll be the next victim!","b1_020_0100","False","","",""
+"Hazy_Script.txt:5649","だったら <u>次</u>は 岩井官吉郎だろう。","Kankichiro Iwai! He'll be the next victim!","b1_020_0100","False","","",""
 "Hazy_Script.txt:5650","おい！ 白石家のドアを開けろ！
 中を確認する！","We have to open the door to the Shiraishi's house!
 We need to look inside!","b1_020_0101","False","","",""
@@ -12246,7 +12246,7 @@ same state?","b1_020_0198","False","","",""
 a number of heavy blows.","b1_020_0200","False","","",""
 "Hazy_Script.txt:5750","そりゃ どういうことだ 探偵！","What are you suggesting, investigator?","b1_020_0201","False","","",""
 "Hazy_Script.txt:5751","受け容れろ！
-白石美智代は いる！","It was Michiyo Shiraishi! She's alive!","b1_020_0202","False","","",""
+白石美智代は <u>いる</u>！","It was Michiyo Shiraishi! She's alive!","b1_020_0202","False","","",""
 "Hazy_Script.txt:5752","彼女が 呪いの力で……自分の人生を
 壊した大人に 復讐しているということだ！","She used the power of the curses to get
 back at the men who ruined her life!","b1_020_0203","False","","",""
@@ -12270,7 +12270,7 @@ never died?","b1_020_0209","False","","",""
 already know the truth, don't you?","b1_020_0210","False","","",""
 "Hazy_Script.txt:5760","……では お尋ねいたします。","And so, I would have you answer me a question.","b1_020_0211","False","","",""
 "Hazy_Script.txt:5761","この日の [c3]朝８時の時点[c0]では……白石美智代は
-この 本所地区の どこに いたでしょうか？","Where in Honjo was Michiyo Shiraishi at the
+この 本所地区の <u>どこ</u>に いたでしょうか？","Where in Honjo was Michiyo Shiraishi at the
 hour of [c3]eight o'clock this morning[c0]?","b1_020_0212","False","","",""
 "Hazy_Script.txt:5762","[s0][a1][x0.7]朝８時の時点で 白石美智代がいた場所は？","[s0][a1][x0.7]Where was Michiyo Shiraishi at eight o'clock this morning?","b1_020_0213","False","","",""
 "Hazy_Script.txt:5763","駒形橋","Komagata Bridge","b1_020_0214","False","","",""
@@ -12306,7 +12306,7 @@ you know and choose again, shall we?","b1_020_0233","False","","",""
 物語の続きに 戻りましょう。","Let's get back to the story then, shall we?
 I've taken up enough of your time.","b1_020_0234","False","","",""
 "Hazy_Script.txt:5784","……なんだって!?
-そこに 白石美智代が……？","What!? So you really think Michiyo Shiraishi is alive?","b1_020_0235","False","","",""
+<u>そこ</u>に 白石美智代が……？","What!? So you really think Michiyo Shiraishi is alive?","b1_020_0235","False","","",""
 "Hazy_Script.txt:5785","状況を考えたら それしかないだろう。","Just think it through and it all becomes
 obvious!","b1_020_0236","False","","",""
 "Hazy_Script.txt:5786","くっ……確かに
@@ -12643,7 +12643,7 @@ the very start.","b1_020_0369","False","","",""
 "Hazy_Script.txt:5919","……おいおいおい！
 まさか……！","Whoa now! Wait just one minute! Do you think...?","b1_020_0370","False","","",""
 "Hazy_Script.txt:5920","まさか……!! あいつ……！","No way!! Are you saying—?","b1_020_0371","False","","",""
-"Hazy_Script.txt:5921","そうだ。あの犯行は 儀式だったのだ。
+"Hazy_Script.txt:5921","そうだ。あの犯行は <u>儀式だった</u>のだ。
 ……黒魔術のね。","That's right. The murders might've been for a
 ritual. He was attempting to perform black
 magic.","b1_020_0372","False","","",""
@@ -12676,7 +12676,7 @@ resurrection—","b1_020_0380","False","","",""
 wanted to bring back to life.","b1_020_0382","False","","",""
 "Hazy_Script.txt:5932","……!!","...!","b1_020_0383","False","","",""
 "Hazy_Script.txt:5933","……ああっ……そうか!!","Damn... That's it!","b1_020_0384","False","","",""
-"Hazy_Script.txt:5934","そういうことかよ……!!","That has to be it!","b1_020_0385","False","","",""
+"Hazy_Script.txt:5934","<u>そういうこと</u>かよ……!!","That has to be it!","b1_020_0385","False","","",""
 "Hazy_Script.txt:5935","なんてこった！ クソッ……!!","Fucking hell, it all makes sense now!","b1_020_0386","False","","",""
 "Hazy_Script.txt:5936","どうしたの……？","What? What is it?","b1_020_0387","False","","",""
 "Hazy_Script.txt:5937","……根島事件には……","So, about the Nejima Murders...","b1_020_0388","False","","",""
@@ -12725,12 +12725,12 @@ of more crimes than what got him convicted.","b1_020_0404","False","","",""
 "Hazy_Script.txt:5956","で 同じように 殺した……今となっては 生け贄か？
 その被害に遭った可能性が高い 女性の中に……","Among the high school girls that might've been
 murdered, or maybe I should say sacrificed...","b1_020_0407","False","","",""
-"Hazy_Script.txt:5957","……妊婦が ひとりいてな。","was a girl who was pregnant.","b1_020_0408","False","","",""
+"Hazy_Script.txt:5957","……<u>妊婦</u>が ひとりいてな。","was a girl who was pregnant.","b1_020_0408","False","","",""
 "Hazy_Script.txt:5958","…………えっ。","Goodness...","b1_020_0409","False","","",""
 "Hazy_Script.txt:5959","うそ……まさか……。","That's horrific.","b1_020_0410","False","","",""
 "Hazy_Script.txt:5960","その妊婦を 殺して……","He killed her...","b1_020_0411","False","","",""
 "Hazy_Script.txt:5961","解体したときに……","and dismembered her body.","b1_020_0412","False","","",""
-"Hazy_Script.txt:5962","取り出された子供の 可能性がある……と。","And we thought...maybe the baby we found is what
+"Hazy_Script.txt:5962","<u>取り出された</u>子供の 可能性がある……と。","And we thought...maybe the baby we found is what
 he pulled out from inside of her.","b1_020_0413","False","","",""
 "Hazy_Script.txt:5963","もちろん……憶測に 憶測を重ねてる話なんで
 確定できるものじゃあ ないがね。","Don't misunderstand me, this is all speculation
@@ -12884,7 +12884,7 @@ his magic.","b1_020_0485","False","","",""
 "Hazy_Script.txt:6035","岩井が やろうとしている《若返りの黒魔術》には
 生け贄が 必要らしいのだけども……","He needed a sacrifice to perform his
 youth restoration spell, but...","b1_020_0486","False","","",""
-"Hazy_Script.txt:6036","それは 若い子供の精気を抽出する
+"Hazy_Script.txt:6036","それは <u>若い子供</u>の精気を抽出する
 ……という理屈だったらしい。","That meant extracting the life force from
 someone young.","b1_020_0487","False","","",""
 "Hazy_Script.txt:6037","ああああ……ッ！
@@ -12898,7 +12898,7 @@ his magic.","b1_020_0491","False","","",""
 "Hazy_Script.txt:6041","岩井が やろうとしている《若返りの黒魔術》には
 生け贄が 必要らしいのだけども……","He needed a sacrifice to perform his
 youth restoration spell, but...","b1_020_0492","False","","",""
-"Hazy_Script.txt:6042","それは 若い子供の精気を抽出する
+"Hazy_Script.txt:6042","それは <u>若い子供</u>の精気を抽出する
 ……という魔術だったらしい。","That meant extracting the life force from
 someone young.","b1_020_0493","False","","",""
 "Hazy_Script.txt:6043","あ……っ!!!","Ah...","b1_020_0494","False","","",""
@@ -12996,7 +12996,7 @@ things.","b1_020_0531","False","","",""
 "Hazy_Script.txt:6081","っておい！ その ふたりとも
 もう死んでるじゃねえか！","What good is that information?
 The girl's already dead!","b1_020_0532","False","","",""
-"Hazy_Script.txt:6082","あ……いや！ いるのか！","Wait, no! She's alive!","b1_020_0533","False","","",""
+"Hazy_Script.txt:6082","あ……いや！ <u>いる</u>のか！","Wait, no! She's alive!","b1_020_0533","False","","",""
 "Hazy_Script.txt:6083","……そうだ。
 白石美智代は……いる。","That's right. Michiyo Shiraishi is alive.","b1_020_0534","False","","",""
 "Hazy_Script.txt:6084","もし 彼女から 証言を得ることができれば……
@@ -13491,7 +13491,7 @@ Beckoning Light.","b1_030_0171","False","","",""
 [c3]変化[c0]しているかもしれない……。","Something might've [c3]changed[c0] after what just
 happened.","b1_030_0172","False","","",""
 "Hazy_Script.txt:6321","ねえ……櫂さん。","Richter?","b1_030_0173","False","","",""
-"Hazy_Script.txt:6322","あれ……何だと思う？","What do you think that is?","b1_030_0174","False","","",""
+"Hazy_Script.txt:6322","<u>あれ</u>……何だと思う？","What do you think that is?","b1_030_0174","False","","",""
 "Hazy_Script.txt:6323","……ほう？","Oh?","b1_030_0175","False","","",""
 "Hazy_Script.txt:6324","んんんん……？","Umm?","b1_030_0176","False","","",""
 "Hazy_Script.txt:6325","特に おかしなものは ないが……？","I don't see anything.","b1_030_0177","False","","",""
@@ -13906,7 +13906,7 @@ steal a curse stone?","b1_030_0343","False","","",""
 "Hazy_Script.txt:6499","……あっ。","Ah...","b1_030_0351","False","","",""
 "Hazy_Script.txt:6500","ええ……。
 別に 奪わなくても……","Even if we don't steal another curse stone...","b1_030_0352","False","","",""
-"Hazy_Script.txt:6501","自分の呪詛珠を……持っているもの。","I already have my own.","b1_030_0353","False","","",""
+"Hazy_Script.txt:6501","<u>自分の呪詛珠</u>を……持っているもの。","I already have my own.","b1_030_0353","False","","",""
 "Hazy_Script.txt:6502","私だって……
 イザとなったら……できる。","If it becomes necessary, I am prepared to use it.","b1_030_0354","False","","",""
 "Hazy_Script.txt:6503","むう……。
@@ -13924,7 +13924,7 @@ the Taiko of Tsugaru curse stone.","b1_030_0358","False","","",""
 "Hazy_Script.txt:6507","確かに その呪主は
 まだ不明だったが……。","We still don't know much about that one.","b1_030_0359","False","","",""
 "Hazy_Script.txt:6508","……櫂さん。","Richter?","b1_030_0360","False","","",""
-"Hazy_Script.txt:6509","あの娘が 最終手段に出る
+"Hazy_Script.txt:6509","あの娘が <u>最終手段に出る</u>
 ……ということは……","That ""last resort"" Ayame spoke of...","b1_030_0361","False","","",""
 "Hazy_Script.txt:6510","私たちの……チャンスじゃない……？","It could be our chance.","b1_030_0362","False","","",""
 "Hazy_Script.txt:6511","…………。","...","b1_030_0363","False","","",""
@@ -14303,7 +14303,7 @@ it seems I activated it.","b1_040_0097","False","","",""
 行使するのは 難しそうですけど……","It might still be a little weak. I guess it's not
 supposed to be used repeatedly...","b1_040_0099","False","","",""
 "Hazy_Script.txt:6662","まあ……今なら もう１回くらい
-……いけると思いますよ。","But I think I could get it to work once more.","b1_040_0100","False","","",""
+……<u>いける</u>と思いますよ。","But I think I could get it to work once more.","b1_040_0100","False","","",""
 "Hazy_Script.txt:6663","え……。","Oh.","b1_040_0101","False","","",""
 "Hazy_Script.txt:6664","そう……なの……？","That so...","b1_040_0102","False","","",""
 "Hazy_Script.txt:6665","あ……だから。
@@ -14974,7 +14974,7 @@ of fire on you...","b1_040_0451","False","","",""
 "Hazy_Script.txt:7016","なにっ……！
 マダム……まさか！","Ma'am, please!
 Think this through!","b1_040_0453","False","","",""
-"Hazy_Script.txt:7017","きゃあああああああああ[y1.8]<font=""MAIN"">━[y1]ッ！","AAAAAAAAAHHH!","b1_040_0454","False","","",""
+"Hazy_Script.txt:7017","きゃあああああああああ—ッ！","AAAAAAAAAHHH!","b1_040_0454","False","","",""
 "Hazy_Script.txt:7018","あ……ああ……あ……","Haah...haah...ah...","b1_040_0455","False","","",""
 "Hazy_Script.txt:7019","マダム……どうして……！","Ma'am... Why!","b1_040_0456","False","","",""
 "Hazy_Script.txt:7020","……今しか……なかった……。","...It was...the only way...","b1_040_0457","False","","",""
@@ -14982,7 +14982,7 @@ Think this through!","b1_040_0453","False","","",""
 "Hazy_Script.txt:7022","……依頼料……","Could we...","b1_040_0459","False","","",""
 "Hazy_Script.txt:7023","精算してくださる……？","settle any outstanding tabs now?","b1_040_0460","False","","",""
 "Hazy_Script.txt:7024","……承知した……。","Yeah. Sure.","b1_040_0461","False","","",""
-"Hazy_Script.txt:7025","あ。……それです。","Ah. There we go.","b1_040_0462","False","","",""
+"Hazy_Script.txt:7025","あ。……<u>それ</u>です。","Ah. There we go.","b1_040_0462","False","","",""
 "Hazy_Script.txt:7026","えっ……！","Huh!?","b1_040_0463","False","","",""
 "Hazy_Script.txt:7027","マダム！ マダム……！
 条件を……踏んだのか……!?","Ma'am! Ma'am!
@@ -15005,7 +15005,7 @@ She's already dead.","b1_040_0469","False","","",""
 いただいときますね。","I'll be taking her curse stone.","b1_040_0471","False","","",""
 "Hazy_Script.txt:7035","……うわ……なるほど……。","Whoa... Huh...","b1_040_0472","False","","",""
 "Hazy_Script.txt:7036","『送り拍子木』の条件は
-着火器具か……危なかったあ……。","All the Haunting Clappers needed was a
+着火器具か……<u>危なかった</u>あ……。","All the Haunting Clappers needed was a
 source of fire? That was a close one.","b1_040_0473","False","","",""
 "Hazy_Script.txt:7037","さてと……。","Now then...","b1_040_0474","False","","",""
 "Hazy_Script.txt:7038","……探偵さんは どうします？","What will you do, Mr. Investigator?","b1_040_0475","False","","",""
@@ -15134,7 +15134,7 @@ she had stolen from Fumichika Nejima.","b1_055_0009","False","","",""
 呪いで殺していった。","With it, she proceeded to kill all those
 whose personal information she knew, starting
 with those who mattered least to her.","b1_055_0010","False","","",""
-"Hazy_Script.txt:7092","『片葉の芦』の呪いの条件[y1.8]<font=""MAIN"">━[y1]","About the One-Sided Reed<font=""MAIN"">:","b1_055_0011","False","","",""
+"Hazy_Script.txt:7092","『片葉の芦』の呪いの条件—","About the One-Sided Reed<font=""MAIN"">:","b1_055_0011","False","","",""
 "Hazy_Script.txt:7093","その時点の 顔・住所・氏名・年齢・職業・所在地の
 すべてを知る相手の 手足を切断して失血死させる……。","Kills by dismemberment one whose face, address,
 name, occupation, and location are all known by
@@ -15269,7 +15269,7 @@ worked around here.","c1_010_0033","False","","",""
 やっぱ 呪い殺されたか……？","That's not possible...
 It's gotta be a curse we're dealing with here.","c1_010_0036","False","","",""
 "Hazy_Script.txt:7141","それなんですけど ボス。この公園の
-七不思議って……あれじゃないですか。","About that, Boss. Isn't this park associated
+七不思議って……<u>あれ</u>じゃないですか。","About that, Boss. Isn't this park associated
 with one of those Seven Mysteries, too?","c1_010_0037","False","","",""
 "Hazy_Script.txt:7142","『置いてけ堀』だな","Yeah, the Whispering Canal.","c1_010_0038","False","","",""
 "Hazy_Script.txt:7143","『馬鹿囃子』だな","Yeah, the Fool's Procession.","c1_010_0039","False","","",""
@@ -16078,7 +16078,7 @@ stuff is a little much for a kid.","c1_020_0126","False","","",""
 あの子が 聞いてきたんじゃないですか……？","Hey, I'm pretty sure she only asked because
 you were staring at it so intently.","c1_020_0127","False","","",""
 "Hazy_Script.txt:7484","冗談は ともかく……黒鈴よ。
-あの現場……どうだ？","All right, that's enough...
+あの現場……<u>どう</u>だ？","All right, that's enough...
 Mio. What do you think?","c1_020_0128","False","","",""
 "Hazy_Script.txt:7485","うん……直に見せてもらって わかった。
 当たり。呪いの力 少し残ってる。","I knew it the second I looked at the scene.
@@ -16896,7 +16896,7 @@ unfortunate accident after all...","c1_030_0050","False","","",""
 "Hazy_Script.txt:7859","そうですね……。
 結局 そうかもしれないです。","Yeah... It looks that way.","c1_030_0051","False","","",""
 "Hazy_Script.txt:7860","とにかく……今 オレたちが やるべきことは
-白石美智代から 証言を得ることです。","Either way, what we need now is a testimony
+<u>白石美智代から</u> 証言を得ることです。","Either way, what we need now is a testimony
 from Michiyo herself.","c1_030_0052","False","","",""
 "Hazy_Script.txt:7861","うまくすれば……事故の件についても
 直接 聞けるかもしれないですよ！","With a bit of luck, we may be able to ask her
@@ -16908,7 +16908,7 @@ particular development.","c1_030_0054","False","","",""
 "Hazy_Script.txt:7864","いずれにせよ……黒鈴さんたちが
 来てくれないと お話になりませんけどね……。","Either way, we won't be able to do this unless
 Mio and Yakko turn up.","c1_030_0056","False","","",""
-"Hazy_Script.txt:7865","なるべく 今の状態のまま
+"Hazy_Script.txt:7865","なるべく <u>今の状態</u>のまま
 来てもらいてえところだが……。","I'd rather have 'em come sooner rather than
 later, but...","c1_030_0057","False","","",""
 "Hazy_Script.txt:7866","しばらく 中で待ってみるか……。","I guess we just have to wait.
@@ -17010,13 +17010,13 @@ life did was push her around...","c1_030_0092","False","","",""
 "Hazy_Script.txt:7914","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]津詰徹生","<align=""center""><color=#ddd><cspace=-4px><font=""TELOP"">津詰徹生<cspace=0px>[x0.4]
 <voffset=0.3em><font=""MAIN"">Tetsuo Tsutsumi","c1_040_0014","False","","",""
 "Hazy_Script.txt:7915","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午後４時台","<color=#ddd><font=""TELOP""><cspace=-4px><voffset=-0.5em>4 p.m.","c1_040_0015","False","","",""
-"Hazy_Script.txt:7916","本部より 各局[y1.8]<font=""MAIN"">━[y1]","From HQ to all bureaus","c1_040_0016","False","","",""
+"Hazy_Script.txt:7916","本部より 各局—","From HQ to all bureaus","c1_040_0016","False","","",""
 "Hazy_Script.txt:7917","仮出獄中に 大量殺人の予告をした容疑で手配中の
 根島史周の所在地を 本庁職員が発見。","Officers have discovered the residence of paroled
 offender Fumichika Nejima, currently wanted under
 suspicion of criminal threat.","c1_040_0017","False","","",""
 "Hazy_Script.txt:7918","同被疑者は 職員の訪問前に住居を脱出し
-現在 墨田区内を逃走中[y1.8]<font=""MAIN"">━[y1]","Suspect escaped his residence prior to officers'
+現在 墨田区内を逃走中—","Suspect escaped his residence prior to officers'
 arrival and is now at large in Sumida City.","c1_040_0018","False","","",""
 "Hazy_Script.txt:7919","徒歩での逃走と思われるため 各建造物への
 潜伏にも警戒し 各局は男の捜索にあたれ。","Suspect is thought to be fleeing on foot. All
@@ -17202,9 +17202,9 @@ he can still do the right thing.","c1_040_0083","False","","",""
 "Hazy_Script.txt:7989","……俺が追うッ！
 エリオは応援呼んでこい！","I'll go after him! You get backup!","c1_040_0089","False","","",""
 "Hazy_Script.txt:7990","はいっ！ 通報は任せてください！","Okay! I'm on it!","c1_040_0090","False","","",""
-"Hazy_Script.txt:7991","本部より 各局[y1.8]<font=""MAIN"">━[y1]","From HQ to all bureaus","c1_040_0091","False","","",""
+"Hazy_Script.txt:7991","本部より 各局—","From HQ to all bureaus","c1_040_0091","False","","",""
 "Hazy_Script.txt:7992","対象者を 旧安田庭園で発見。
-現在 駒形橋方面に逃走中[y1.8]<font=""MAIN"">━[y1]","Suspect has been sighted in the Former Yasuda
+現在 駒形橋方面に逃走中—","Suspect has been sighted in the Former Yasuda
 Gardens and is fleeing towards Komagata Bridge.","c1_040_0092","False","","",""
 "Hazy_Script.txt:7993","エリオ 反対側回れ！
 橋で 挟みうちだ！","Erio, go the long way round!
@@ -17229,7 +17229,7 @@ So give it up and come quietly.","c1_040_0100","False","","",""
 素人だって 誰が言った？","Can't do shit in daylight, eh? What do you think
 I am, some third-rate amateur?","c1_040_0101","False","","",""
 "Hazy_Script.txt:8002","……聞いてねえのか？
-オレが 魔法使いだって。","I'm a goddamn black magician.","c1_040_0102","False","","",""
+オレが <u>魔法使い</u>だって。","I'm a goddamn black magician.","c1_040_0102","False","","",""
 "Hazy_Script.txt:8003","まさか！ 黒魔術で……!?
 本当に……？","No way! C-can black magic really do that!?","c1_040_0103","False","","",""
 "Hazy_Script.txt:8004","んなモン デタラメだろ。
@@ -17384,7 +17384,7 @@ for this.","c1_040_0172","False","","",""
 もっとだよ もっと！","That ain't shit. I need more hatred outta you.
 More, more, MORE!","c1_040_0174","False","","",""
 "Hazy_Script.txt:8075","欲しがり屋さんだな。","Needy son of a bitch, ain'tcha?","c1_040_0175","False","","",""
-"Hazy_Script.txt:8076","そうそう。お前さんの大切な あっちの標的の
+"Hazy_Script.txt:8076","そうそう。お前さんの大切な <u>あっちの標的</u>の
 ほうも バッチリ やってやるからよ。","Oh, I'm not done. Just wait till you see what
 I've got in store for what you really care about.","c1_040_0176","False","","",""
 "Hazy_Script.txt:8077","今のうちに 怯えておいていいぜ。","You should be quaking in your fucking boots.","c1_040_0177","False","","",""
@@ -17520,7 +17520,7 @@ you'd have done it by now.","c1_040_0233","False","","",""
 ……さすが 津詰の旦那。","Wahahaha! Now there's the Tsutsumi I know!","c1_040_0235","False","","",""
 "Hazy_Script.txt:8136","そうだよ。あんたの言う通りだ。","Fine, I admit it. It's exactly like you said.","c1_040_0236","False","","",""
 "Hazy_Script.txt:8137","だから……","If I coulda used my curse, I woulda.","c1_040_0237","False","","",""
-"Hazy_Script.txt:8138","……もう 使ったよ。数人に。","...So I did.","c1_040_0238","False","","",""
+"Hazy_Script.txt:8138","……<u>もう</u> <u>使った</u>よ。数人に。","...So I did.","c1_040_0238","False","","",""
 "Hazy_Script.txt:8139","……は？","Huh?","c1_040_0239","False","","",""
 "Hazy_Script.txt:8140","……ほれ ほれ。
 行かなくていいのか？ 確認。","There should be a few new corpses around the city
@@ -17659,12 +17659,12 @@ over.","c1_040_0300","False","","",""
 "Hazy_Script.txt:8204","……蘇生の術ってのは そのまま
 生き返るんじゃなくてよ……","See, the ritual doesn't bring the person back as
 they were when they died.","c1_040_0304","False","","",""
-"Hazy_Script.txt:8205","ありゃ……転生するっていう術……
+"Hazy_Script.txt:8205","ありゃ……<u>転生する</u>っていう術……
 また 生まれ変わる術だったんだ。","It's more like...reincarnation. Rebirth.","c1_040_0305","False","","",""
 "Hazy_Script.txt:8206","なに……？","Rebirth...?","c1_040_0306","False","","",""
 "Hazy_Script.txt:8207","……おい！","Wait...","c1_040_0307","False","","",""
 "Hazy_Script.txt:8208","おいおいおい！ まさか……！","Oh no. Oh hell no.","c1_040_0308","False","","",""
-"Hazy_Script.txt:8209","まさか あの赤ん坊が……？","You mean...that baby...!?","c1_040_0309","False","","",""
+"Hazy_Script.txt:8209","まさか <u>あの赤ん坊</u>が……？","You mean...that baby...!?","c1_040_0309","False","","",""
 "Hazy_Script.txt:8210","アイツ……篠は……《蘇生の黒魔術》によって
 赤ん坊の姿で 生まれ変わりやがった。","Damn right. The resurrection ritual brought Shino
 back to me...as a fucking baby.","c1_040_0310","False","","",""
@@ -17807,11 +17807,11 @@ Get away from her!","c1_040_0363","False","","",""
 道路を 強引に渡っていきやがった！","That piece of shit took Ayame hostage and ran
 off with her!","c1_040_0371","False","","",""
 "Hazy_Script.txt:8272","追え！ ぜってえ 逃がすんじゃねえ！","After him! We can't let him get away!","c1_040_0372","False","","",""
-"Hazy_Script.txt:8273","本部より 各局[y1.8]<font=""MAIN"">━[y1]","From HQ to all bureaus","c1_040_0373","False","","",""
+"Hazy_Script.txt:8273","本部より 各局—","From HQ to all bureaus","c1_040_0373","False","","",""
 "Hazy_Script.txt:8274","被疑者は 駒形橋での
 包囲を抜けて 脱走。","Suspect has evaded capture at Komagata Bridge and
 remains at large.","c1_040_0374","False","","",""
-"Hazy_Script.txt:8275","現在 人質の女性１名を連れて 逃走中[y1.8]<font=""MAIN"">━[y1]","He is currently on the run with one female hostage.","c1_040_0375","False","","",""
+"Hazy_Script.txt:8275","現在 人質の女性１名を連れて 逃走中—","He is currently on the run with one female hostage.","c1_040_0375","False","","",""
 "Hazy_Script.txt:8276","……いやあ ボス。","I gotta say, Boss...","c1_040_0376","False","","",""
 "Hazy_Script.txt:8277","これは 完全に やっちまった
 やつですね……。","We really screwed that one up.","c1_040_0377","False","","",""
@@ -17876,18 +17876,18 @@ gotten a message! I'll go check it out!","c1_040_0397","False","","",""
 Makoto Ashimiya...","c1_040_0404","False","","",""
 "Hazy_Script.txt:8305","旧安田庭園 敷地内にて
 全身を殴打された状態で
-死亡しているのを発見[y1.8]<font=""MAIN"">━[y1]","was discovered in the Former Yasuda Gardens,
+死亡しているのを発見—","was discovered in the Former Yasuda Gardens,
 beaten to death.","c1_040_0405","False","","",""
 "Hazy_Script.txt:8306","全身 約110箇所に及ぶ打撲創あり。
 何者かによる 傷害致死とみられる。","The body suffered 110 distinct instances of blunt
 force trauma. The case is being treated as a
 homicide.","c1_040_0406","False","","",""
 "Hazy_Script.txt:8307","所持品は いっさいなし。
-すべて 持ち去られている模様[y1.8]<font=""MAIN"">━[y1]","The deceased's possessions have not been recovered
+<u>すべて</u> 持ち去られている模様—","The deceased's possessions have not been recovered
 and appear to have been taken post-mortem.","c1_040_0407","False","","",""
 "Hazy_Script.txt:8308","また 人質となっていた女性は
 現場付近には 確認できず。
-現在 重要参考人として 捜索中[y1.8]<font=""MAIN"">━[y1]","The location of the deceased's female hostage
+現在 重要参考人として 捜索中—","The location of the deceased's female hostage
 remains unclear. Police continue to pursue her as
 a person of interest.","c1_040_0408","False","","",""
 "Hazy_Script.txt:8309","最初から","Start from beginning","c1_045_0001","False","","",""
@@ -17896,7 +17896,7 @@ a person of interest.","c1_040_0408","False","","",""
 "Hazy_Script.txt:8312","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]津詰徹生","<align=""center""><color=#ddd><cspace=-4px><font=""TELOP"">津詰徹生<cspace=0px>[x0.4]
 <voffset=0.3em><font=""MAIN"">Tetsuo Tsutsumi","c1_045_0004","False","","",""
 "Hazy_Script.txt:8313","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]午後６時台","<color=#ddd><font=""TELOP""><cspace=-4px><voffset=-0.5em>6 p.m.","c1_045_0005","False","","",""
-"Hazy_Script.txt:8314","本部より 各局[y1.8]<font=""MAIN"">━[y1]","From HQ to all bureaus","c1_045_0006","False","","",""
+"Hazy_Script.txt:8314","本部より 各局—","From HQ to all bureaus","c1_045_0006","False","","",""
 "Hazy_Script.txt:8315","駒形橋での包囲を抜け 脱走した
 被疑者は 現在も逃走中。","Suspect evaded officers at Komagata Bridge and
 fled, and currently remains at large.","c1_045_0007","False","","",""
@@ -17980,7 +17980,7 @@ police force and fled from the public eye.","c1_045_0033","False","","",""
 根島の目的は これ以上ないレベルで達成し……","At the very least, Nejima's goal of driving
 Tetsuo Tsutsumi to ruin could not have been more
 thoroughly achieved.","c1_045_0034","False","","",""
-"Hazy_Script.txt:8343","それは 満悦の極みであったという[y1.8]<font=""MAIN"">━[y1]","Thus, with his rapturous satisfaction,
+"Hazy_Script.txt:8343","それは 満悦の極みであったという—","Thus, with his rapturous satisfaction,
 the curtains close on...","c1_045_0035","False","","",""
 "Hazy_Script.txt:8344","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]エンディング＃２","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]Ending 2","c1_045_0036","False","","",""
 "Hazy_Script.txt:8345","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]「根島史周の追慕」","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]Nejima's Reminiscence","c1_045_0037","False","","",""
@@ -18406,7 +18406,7 @@ is hiding something from me.","c1_050_0221","False","","",""
 is true, I'll be able to use my curse on you.","c1_050_0223","False","","",""
 "Hazy_Script.txt:8572","その上で……もう一度 聞いてもいい？","With that in mind... Can I ask you one more thing?","c1_050_0224","False","","",""
 "Hazy_Script.txt:8573","ああ……なるほどな。
-それで確認しようってのか。","Ah, I get it. Why you wanted to see me.","c1_050_0225","False","","",""
+それで<u>確認しよう</u>ってのか。","Ah, I get it. Why you wanted to see me.","c1_050_0225","False","","",""
 "Hazy_Script.txt:8574","だったら俺も……その前に
 ひとつ 言っておくが。","Then let me tell you one thing first.","c1_050_0226","False","","",""
 "Hazy_Script.txt:8575","……？","...?","c1_050_0227","False","","",""
@@ -18458,7 +18458,7 @@ my real parents were, so you just kept hiding it.","c1_050_0242","False","","","
 "Hazy_Script.txt:8600","こ……この期に及んで
 ……まだ 隠すの!?","E-even now...you're still trying to hide it!?","c1_050_0252","False","","",""
 "Hazy_Script.txt:8601","なんでッ……！ この ばかッ！","Why!? Are you really that stupid!?","c1_050_0253","False","","",""
-"Hazy_Script.txt:8602","ぐわああ[y1.8]<font=""MAIN"">━[y1]っ!!","GAAAAAAHHH!","c1_050_0254","False","","",""
+"Hazy_Script.txt:8602","ぐわああ—っ!!","GAAAAAAHHH!","c1_050_0254","False","","",""
 "Hazy_Script.txt:8603","[s0]がはッ!!","[s0]Urgh!","c1_050_0255","False","","",""
 "Hazy_Script.txt:8604","[s0]ぐああッ!!","[s0]Graaah!","c1_050_0256","False","","",""
 "Hazy_Script.txt:8605","あ……あああ……ッ！
@@ -18528,7 +18528,7 @@ happy... That's it.","c1_050_0290","False","","",""
 呪いを 呼び起こした 黒幕ってのは……","The mastermind behind all this...the one who
 awakened the curses of the Seven Mysteries in
 order to use the Rite...","c1_050_0296","False","","",""
-"Hazy_Script.txt:8645","お前……じゃねえだろ？","wasn't you...was it?","c1_050_0297","False","","",""
+"Hazy_Script.txt:8645","お前……<u>じゃねえ</u>だろ？","wasn't you...was it?","c1_050_0297","False","","",""
 "Hazy_Script.txt:8646","……う……うん。
 そんなこと できないし……。","No... No.
 I wouldn't even know how to do that...","c1_050_0298","False","","",""
@@ -18561,8 +18561,8 @@ for using the curse... Don't run away.","c1_050_0310","False","","",""
 Just live the best life...that you can...","c1_050_0313","False","","",""
 "Hazy_Script.txt:8662","……おとうさんッ……！","Dad...!","c1_050_0314","False","","",""
 "Hazy_Script.txt:8663","ああっ……ああああっ……!!","Aaah... Aaaaaah!","c1_050_0315","False","","",""
-"Hazy_Script.txt:8664","……ボス！ ボス[y1.8]<font=""MAIN"">━[y1]ッ!!","...Boss! Booooooss!!!","c1_050_0316","False","","",""
-"Hazy_Script.txt:8665","同日 午後６時18分[y1.8]<font=""MAIN"">━[y1]
+"Hazy_Script.txt:8664","……ボス！ ボス—ッ!!","...Boss! Booooooss!!!","c1_050_0316","False","","",""
+"Hazy_Script.txt:8665","同日 午後６時18分—
 灯野あやめの 身柄を確保。","That day, at 6:18 p.m., Ayame Tono was taken
 into custody.","c1_050_0317","False","","",""
 "Hazy_Script.txt:8666","同時に……津詰徹生の死亡も 確認された。","Tetsuo Tsutsumi's death was confirmed
@@ -19273,7 +19273,7 @@ C-could it be...","d1_010_0112","False","","",""
 校庭の真ん中で 倒れてたのに……","From what I heard, Mr. Jonouchi's body was in the
 middle of the grounds.","d1_010_0115","False","","",""
 "Hazy_Script.txt:8977","まるで 高いところから 落ちたように
-全身打撲の状態だったらしいから……。","But his body was covered in bruises, like he'd
+<u>全身打撲の状態</u>だったらしいから……。","But his body was covered in bruises, like he'd
 fallen from somewhere high.","d1_010_0116","False","","",""
 "Hazy_Script.txt:8978","ええっ……何 それ？","Weird...","d1_010_0117","False","","",""
 "Hazy_Script.txt:8979","死に方が 不自然だし……タイミング的にも……
@@ -19499,7 +19499,7 @@ What I can say for sure is—","d1_010_0222","False","","",""
 ヘンな症状が治まったのは 間違いねーよ。","Thanks to Mio, the weird symptoms
 that were happenin' to me all went away.","d1_010_0223","False","","",""
 "Hazy_Script.txt:9085","うん。霊的なものが 生まれつき
-見えちゃう体質の人って たまに いてね。","Yep. Some people are born with a natural sensitivity
+<u>見えちゃう</u>体質の人って たまに いてね。","Yep. Some people are born with a natural sensitivity
 to the paranormal.","d1_010_0224","False","","",""
 "Hazy_Script.txt:9086","そういう人は……身の回りの人から
 理解を得られなくて 孤立しがちなの。","They tend to end up isolated, as they struggle to
@@ -19916,7 +19916,7 @@ had to suffer alone.","d1_010_0391","False","","",""
 "Hazy_Script.txt:9253","そんな……！ 許せない……！","No... How terrible...!","d1_010_0392","False","","",""
 "Hazy_Script.txt:9254","奥田さんは……
 どうして そのことを？","Hitomi, how do you know about this?","d1_010_0393","False","","",""
-"Hazy_Script.txt:9255","別に……ただ 偶然 その現場に
+"Hazy_Script.txt:9255","別に……ただ 偶然 <u>その現場</u>に
 居合わせたってだけだよ。","I just happened to walk in on it.","d1_010_0394","False","","",""
 "Hazy_Script.txt:9256","あのガッコで 人目につかない場所は
 だいたい 知ってるからな。","I know the spots around school people go to
@@ -20128,7 +20128,7 @@ where he is.","d1_010_0475","False","","",""
 <cspace=0px><font=""MAIN"">Komagata High School","d1_010_0486","False","","",""
 "Hazy_Script.txt:9348","[sruby-50]<cspace=-4px><color=#ddd><font=""TELOP"">[vruby-10]せんのや前","<align=""center""><color=#ddd><cspace=-2px><font=""TELOP"">せんのや前[x0.3]
 <cspace=0px><font=""MAIN"">Sennoya","d1_010_0487","False","","",""
-"Hazy_Script.txt:9349","[y1.8]<font=""MAIN"">━[y1]こうして。","<font=""MAIN"">And so...","d1_010_0488","False","","",""
+"Hazy_Script.txt:9349","—こうして。","<font=""MAIN"">And so...","d1_010_0488","False","","",""
 "Hazy_Script.txt:9350","この時間……
 黒鈴ミヲと 逆崎約子のふたりは
 この場所を 捜索することに
@@ -20362,8 +20362,8 @@ recorded on the road to Edo.","d1_020_0097","False","","",""
 冥界と交信する秘術《泰山府君祭》を用いて……","The Rite of Resurrection makes use of Abe no
 Seimei's specialty, the Taizan Fukun Ritual, a
 means of communicating with the afterlife.","d1_020_0100","False","","",""
-"Hazy_Script.txt:9451","死者の魂を参照し それを 滓魂を用いて 新たな魂に
-複製することで 還魂を為す……という荒業だ。","It uses soul dregs to replicate the soul of
+"Hazy_Script.txt:9451","死者の魂を<u>参照</u>し それを 滓魂を用いて 新たな魂に
+<u>複製する</u>ことで 還魂を為す……という荒業だ。","It uses soul dregs to replicate the soul of
 a dead spirit that has been called.","d1_020_0101","False","","",""
 "Hazy_Script.txt:9452","え……すごい……。
 そんな仕組みだったの……。","Oh, wow... I never knew something like that
@@ -20409,7 +20409,7 @@ of the Seven Mysteries of Honjo are related somehow.","d1_020_0116","False","","
 ……だが あれは……","You really know your stuff.
 But about that...","d1_020_0118","False","","",""
 "Hazy_Script.txt:9469","オカルト雑誌向けに書いた やや
-センセーショナルな 読み物だよ。","That was a somewhat sensationalized piece
+センセーショナルな <u>読み物</u>だよ。","That was a somewhat sensationalized piece
 written for occult magazines.","d1_020_0119","False","","",""
 "Hazy_Script.txt:9470","え……そうなんですか……。
 じゃあ デタラメ……？","Oh... Really? It was just nonsense, then?","d1_020_0120","False","","",""
@@ -20465,7 +20465,7 @@ over this Rite...the Honjo Incident.","d1_020_0142","False","","",""
 ……その結果 中途半端な伝えられ方をして……","After that, the incident was covered up by an
 interested party, preventing it from being
 recorded in history fully.","d1_020_0143","False","","",""
-"Hazy_Script.txt:9494","曖昧な伝承となったそれは……やがて
+"Hazy_Script.txt:9494","曖昧な伝承となった<u>それ</u>は……やがて
 本所七不思議となって 伝え残されていった。","Eventually, it was passed down in incomplete
 pieces, becoming known as the Seven Mysteries of
 Honjo.","d1_020_0144","False","","",""
@@ -20532,7 +20532,7 @@ memory of the Fool's Procession.","d1_020_0171","False","","",""
 祭りの櫓から落ちて死んだ 女性のようです。","...so basically, it's about a woman who died
 falling from a yagura tower at a festival.","d1_020_0173","False","","",""
 "Hazy_Script.txt:9524","……ふむ。なるほど……。","Hm, interesting.","d1_020_0174","False","","",""
-"Hazy_Script.txt:9525","ならば……それは 違うだろうな……。","It's not that one then...","d1_020_0175","False","","",""
+"Hazy_Script.txt:9525","ならば……それは <u>違う</u>だろうな……。","It's not that one then...","d1_020_0175","False","","",""
 "Hazy_Script.txt:9526","違う……？
 何がですか……？","Not that one? What do you mean?","d1_020_0176","False","","",""
 "Hazy_Script.txt:9527","私は 本所事変で 犠牲になった９人
@@ -20775,7 +20775,7 @@ he couldn't have written an addendum.","d1_020_0276","False","","",""
 滓魂が集まったときに 発動するようにできる。","The Rite of Resurrection can be carried out
 in advance so that it activates when the soul dregs
 are gathered together.","d1_020_0283","False","","",""
-"Hazy_Script.txt:9634","晴曼自ら 事態のあとに秘術で蘇ったという
+"Hazy_Script.txt:9634","晴曼自ら 事態のあとに<u>秘術で蘇った</u>という
 可能性も あり得なくは あるまい？","Then is it not possible that Seiman himself was
 resurrected by the Rite after it all took place?","d1_020_0284","False","","",""
 "Hazy_Script.txt:9635","でも 蘇りの秘術を使うには……
@@ -20886,7 +20886,7 @@ the curses is involved, too.","d1_020_0324","False","","",""
 "Hazy_Script.txt:9680","このあたりさ……近くだよね。","You know what's nearby here, don't you?","d1_020_0330","False","","",""
 "Hazy_Script.txt:9681","ん……？","Hm...?","d1_020_0331","False","","",""
 "Hazy_Script.txt:9682","あ……白石さんの……？","Oh... You mean where Michiyo...?","d1_020_0332","False","","",""
-"Hazy_Script.txt:9683","うん。美智代ちゃんの……現場に。","Yeah. Where it happened.","d1_020_0333","False","","",""
+"Hazy_Script.txt:9683","うん。美智代ちゃんの……<u>現場</u>に。","Yeah. Where it happened.","d1_020_0333","False","","",""
 "Hazy_Script.txt:9684","わたし……毎日 花を置きに
 来てたから……。","I was going there every day to leave flowers.","d1_020_0334","False","","",""
 "Hazy_Script.txt:9685","……もう 供えられた献花は
@@ -21232,7 +21232,7 @@ tell you.","d1_030_0096","False","","",""
 killed by that curse stone.","d1_030_0098","False","","",""
 "Hazy_Script.txt:9852","だが……それを行使したのは……","But the one who committed the act is...","d1_030_0099","False","","",""
 "Hazy_Script.txt:9853","……逆崎約子。
-あんたの中にいた……白石美智代だ。","...the ghost of Michiyo Shiraishi that is
+<u>あんたの中</u>にいた……白石美智代だ。","...the ghost of Michiyo Shiraishi that is
 inside you, Yakko Sakazaki...","d1_030_0100","False","","",""
 "Hazy_Script.txt:9854","えっ……!?","What!?","d1_030_0101","False","","",""
 "Hazy_Script.txt:9855","え……わたしの中って……!?
@@ -21268,7 +21268,7 @@ mood or energy levels...","d1_030_0113","False","","",""
 高い霊感を 持っていたのと……","But Michiyo had powerful spirit sense to begin
 with.","d1_030_0114","False","","",""
 "Hazy_Script.txt:9868","やっこちゃんの精神が……
-親友の白石さんを 受け容れたことで……","And because she was your friend, your mind
+親友の白石さんを <u>受け容れた</u>ことで……","And because she was your friend, your mind
 was...open to accepting Michiyo's spirit.","d1_030_0115","False","","",""
 "Hazy_Script.txt:9869","そのために……意識が 馴染んで
 [c3]混ざり合ってしまった[c0]の。","So, for those reasons, your minds [c3]merged[c0]
@@ -21291,8 +21291,8 @@ We've merged...?","d1_030_0119","False","","",""
 "Hazy_Script.txt:9876","それは 混ざった白石さんの意識も……今は
 「自分は逆崎約子だ」と 思い込んでいるからだよ。","That's because after she merged with you, Michiyo
 started to believe she was you as well.","d1_030_0123","False","","",""
-"Hazy_Script.txt:9877","霊になって 取り憑いた場合でも……明確な
-意識は持ってなくて 曖昧な記憶しかないの。","As a ghost possessing you, she's not fully
+"Hazy_Script.txt:9877","霊になって 取り憑いた場合でも……<u>明確な</u>
+<u>意識は持ってなくて</u> <u>曖昧な記憶しかない</u>の。","As a ghost possessing you, she's not fully
 conscious, only really a jumble of vague memories.","d1_030_0124","False","","",""
 "Hazy_Script.txt:9878","それでも 白石美智代としての
 記憶や意識は 多少 残っているから……","Still, there are traces of her consciousness and
@@ -21358,7 +21358,7 @@ consciousness surfaced and took control of
 your body.","d1_030_0147","False","","",""
 "Hazy_Script.txt:9901","そんな……！","That's...!","d1_030_0148","False","","",""
 "Hazy_Script.txt:9902","じゃあ……やっぱり……","Then...that means...","d1_030_0149","False","","",""
-"Hazy_Script.txt:9903","わたしが……殺したんじゃないか……！","I was the one who killed them!","d1_030_0150","False","","",""
+"Hazy_Script.txt:9903","<u>わたしが</u>……殺したんじゃないか……！","I was the one who killed them!","d1_030_0150","False","","",""
 "Hazy_Script.txt:9904","呪いを使って……ふたりも……！","I cursed them both...!","d1_030_0151","False","","",""
 "Hazy_Script.txt:9905","あああッ……!!","Aaah...!","d1_030_0152","False","","",""
 "Hazy_Script.txt:9906","やっこちゃん！ 違うよ！
@@ -21499,7 +21499,7 @@ Now.","d1_030_0217","False","","",""
 "Hazy_Script.txt:9973","やっこちゃんの中の 白石さんは
 意識が 混濁しちゃってるわけだけど……","It is true that Michiyo's consciousness has
 mixed with yours.","d1_030_0220","False","","",""
-"Hazy_Script.txt:9974","霊体として 呼び出せれば……ある程度
+"Hazy_Script.txt:9974","<u>霊体として</u> 呼び出せれば……ある程度
 意思疎通も できるんじゃないかな……ということで。","But if I summoned her ghost, we may be able
 to establish some communication.","d1_030_0221","False","","",""
 "Hazy_Script.txt:9975","あ……なるほど。","Oh... I understand.","d1_030_0222","False","","",""
@@ -21862,7 +21862,7 @@ Then...","d1_030_0410","False","","",""
 "Hazy_Script.txt:10166","彼女のことを 忘れない……
 という気持ちを……","Let your feelings that you won't ever forget her
 be known...","d1_030_0413","False","","",""
-"Hazy_Script.txt:10167","行動で 示してあげて。","Show it through an action.","d1_030_0414","False","","",""
+"Hazy_Script.txt:10167","<u>行動で</u> 示してあげて。","Show it through an action.","d1_030_0414","False","","",""
 "Hazy_Script.txt:10168","えっ……？","What...?","d1_030_0415","False","","",""
 "Hazy_Script.txt:10169","[s0][a0.5][x0.7]今の状況を 忘れないことを 行動で示せ。","[s0][a0.5][x0.7]Do something that shows you won't forget.","d1_030_0416","False","","",""
 "Hazy_Script.txt:10170","クリアを諦める場合は ここで中断して
@@ -22231,7 +22231,7 @@ Okay. We will!","d1_030_0543","False","","",""
 なんと言えばいいか……","Let's see, how do I put this...","d1_035_0010","False","","",""
 "Hazy_Script.txt:10312","率直に言うと……","I'll tell you straight.","d1_035_0011","False","","",""
 "Hazy_Script.txt:10313","きみたちの呪詛珠で
-白石美智代を 蘇らせて欲しいんだ。","I want you two to use your curse stones
+<u>白石美智代を</u> 蘇らせて欲しいんだ。","I want you two to use your curse stones
 to bring Michiyo Shiraishi back from the dead.","d1_035_0012","False","","",""
 "Hazy_Script.txt:10314","えっ……？","What...?","d1_035_0013","False","","",""
 "Hazy_Script.txt:10315","……!?","……!?","d1_035_0014","False","","",""
@@ -22301,21 +22301,21 @@ You've got guts.","d1_035_0040","False","","",""
 take it by force.","d1_035_0043","False","","",""
 "Hazy_Script.txt:10345","……な……ッ!!","Wha—!?","d1_035_0044","False","","",""
 "Hazy_Script.txt:10346","なぜ……！ おまえが……ッ!!?","Wh-why!? Are you—","d1_035_0045","False","","",""
-"Hazy_Script.txt:10347","あわわわ……出た……！ また出た!!
+"Hazy_Script.txt:10347","あわわわ……出た……！ <u>また出た</u>!!
 バカな！ どうして……!?
 ","No, no, no! She's here again! I don't understand!","d1_035_0046","False","","",""
 "Hazy_Script.txt:10348","あ……あああっ……待て！
-……あれは……事故なんだ……!!","Ah... Aaaaaah! Wait!
+……あれは……<u>事故</u>なんだ……!!","Ah... Aaaaaah! Wait!
 It was just an accident!","d1_035_0047","False","","",""
 "Hazy_Script.txt:10349","本当だ！ ……わざとじゃない……ッ!!","I swear! I didn't mean to!","d1_035_0048","False","","",""
 "Hazy_Script.txt:10350","だ……だから！ ぼくも……
 蘇らせようと……していて……！","Th-that's why I was trying to bring you back!","d1_035_0049","False","","",""
 "Hazy_Script.txt:10351","[a0.5]モ……ウ……","[a0.5]YOU'RE...ALREADY...","d1_035_0050","False","","",""
 "Hazy_Script.txt:10352","[a0.5]オソ……イ……","[a0.5]TOO...LATE...","d1_035_0051","False","","",""
-"Hazy_Script.txt:10353","[a1][s0.1]<font=TELOP><cspace=-6px>[x1.5]このあと[y1.4]<voffset=-0.5em><font=""TELOP"">─<voffset=0>[y1]
+"Hazy_Script.txt:10353","[a1][s0.1]<font=TELOP><cspace=-6px>[x1.5]このあと—
 <font=""TELOP"">根島史周の呪詛による
 大量虐殺が 実行され
-世間は 未曾有の惨事に 見舞われた。","[a1][s0.03]<font=TELOP><cspace=-3px>[x1.5]After this,[y1.8]<font=""MAIN"">━[y1]
+世間は 未曾有の惨事に 見舞われた。","[a1][s0.03]<font=TELOP><cspace=-3px>[x1.5]After this,—
 <font=TELOP>Fumichika Nejima went on to use the power of
 his curse to commit mass murder, shocking the
 public with the unprecedented tragedy.","d1_035_0052","False","","",""
@@ -22356,7 +22356,7 @@ bloodline of that onmyoji Seiman Tsuchimikado to today.","d1_040_0018","False","
 his family, so the library doesn't have anything
 about it...","d1_040_0019","False","","",""
 "Hazy_Script.txt:10376","んで……ここまで収穫なしだから
-思いきって ここに 来てみたけど……。","Aaand since we've got nothing so far,
+思いきって <u>ここ</u>に 来てみたけど……。","Aaand since we've got nothing so far,
 we find ourselves...here.","d1_040_0020","False","","",""
 "Hazy_Script.txt:10377","話す","Talk","d1_040_0021","False","","",""
 "Hazy_Script.txt:10378","黒鈴ミヲ","Mio Kurosuzu","d1_040_0022","False","","",""
@@ -22905,7 +22905,7 @@ you and our friend from Hihaku over there.","d1_040_0263","False","","",""
 "Hazy_Script.txt:10621","きっとまだ 誰も 試して
 なかったのだろうけど……","I doubt any of you have attempted it yet...","d1_040_0265","False","","",""
 "Hazy_Script.txt:10622","そもそも……呪詛珠は 普通の人には
-譲渡できないようなんだ。","But it seems that curse stones cannot be given
+<u>譲渡できない</u>ようなんだ。","But it seems that curse stones cannot be given
 to normal people.","d1_040_0266","False","","",""
 "Hazy_Script.txt:10623","えっ……？","Huh?","d1_040_0267","False","","",""
 "Hazy_Script.txt:10624","なんですと……？","What...?","d1_040_0268","False","","",""
@@ -23065,7 +23065,7 @@ Gamyodo is a fraud with almost zero spirit sense?","d1_040_0327","False","","","
 "Hazy_Script.txt:10689","……じゃあ それが目的で
 肇を付け狙ってたわけかい！","So that's why you went after Hajime!","d1_040_0333","False","","",""
 "Hazy_Script.txt:10690","ただし……吉見肇が持っていたのは
-片割れのみです。","However, Hajime Yoshimi was only carrying a
+<u>片割れのみ</u>です。","However, Hajime Yoshimi was only carrying a
 fragment of the whole.","d1_040_0334","False","","",""
 "Hazy_Script.txt:10691","片割れ……？","A fragment...?","d1_040_0335","False","","",""
 "Hazy_Script.txt:10692","確かに……アイツは 古文書の
@@ -23408,7 +23408,7 @@ with a connection to the Seven Mysteries.","d1_050_0055","False","","",""
 "Hazy_Script.txt:10830","それで もし 現代に
 蘆乃の一族の 末裔のような……","If any descendants of Ashino or people otherwise
 closely aligned with her live today...","d1_050_0057","False","","",""
-"Hazy_Script.txt:10831","波長の合う人間が いたとしたら……
+"Hazy_Script.txt:10831","<u>波長の合う</u>人間が いたとしたら……
 呼び覚まされて 乗り移ってるかもしれないと。","There's a possibility that spirit awakened and
 possessed them.","d1_050_0058","False","","",""
 "Hazy_Script.txt:10832","あ……前に言ってたね。
@@ -23745,7 +23745,7 @@ I don't know anything.","d1_050_0196","False","","",""
 "Hazy_Script.txt:10973","ん……？ さっき……？","Just now?","d1_050_0200","False","","",""
 "Hazy_Script.txt:10974","20年前って……？","About twenty years ago?","d1_050_0201","False","","",""
 "Hazy_Script.txt:10975","まさか……ボス……!!","No... Boss, that can't be!","d1_050_0202","False","","",""
-"Hazy_Script.txt:10976","根島史周の……？","Nejima's...?","d1_050_0203","False","","",""
+"Hazy_Script.txt:10976","<u>根島史周の</u>……？","Nejima's...?","d1_050_0203","False","","",""
 "Hazy_Script.txt:10977","……そういうことだ。","That's right.","d1_050_0204","False","","",""
 "Hazy_Script.txt:10978","根島史周を逮捕したとき ヤツの家に
 瀕死の赤ん坊が いたんだが……","When we arrested Fumichika Nejima, there was a
@@ -23882,7 +23882,7 @@ Is that...the ceiling?","e1_010_0028","False","","",""
 "Hazy_Script.txt:11054","いや……","No...","e1_010_0035","False","","",""
 "Hazy_Script.txt:11055","……待て……","Hold on...","e1_010_0036","False","","",""
 "Hazy_Script.txt:11056","そもそも……","More importantly...","e1_010_0037","False","","",""
-"Hazy_Script.txt:11057","私は 誰だ……!?","Who am I...!?","e1_010_0038","False","","",""
+"Hazy_Script.txt:11057","<u>私は</u> <u>誰だ</u>……!?","Who am I...!?","e1_010_0038","False","","",""
 "Hazy_Script.txt:11058","思い出す","Recall","e1_010_0039","False","","",""
 "Hazy_Script.txt:11059","思い出せ……！
 何か……何か……！ なんでもいい……！","Okay, think, think!
@@ -23910,7 +23910,7 @@ It feels like my head is going to split apart!","e1_010_0045","False","","",""
 [s]...Haji...me...Yo...shimi...","e1_010_0052","False","","",""
 "Hazy_Script.txt:11072","それだ……！
 その名前には 聞き覚えがある……！","That's it...! I know that name!","e1_010_0053","False","","",""
-"Hazy_Script.txt:11073","記憶を覆う 暗いもやが
+"Hazy_Script.txt:11073","記憶を覆う 暗い<u>もや</u>が
 少し 晴れるような感覚がした。","The dark mist obscuring my memories is slowly
 starting to clear.","e1_010_0054","False","","",""
 "Hazy_Script.txt:11074","ううっ……!?
@@ -23995,7 +23995,7 @@ Mayu...Cho...zawa...","e1_010_0088","False","","",""
 吉見肇の……婚約者だ。","That man I saw in my memories, Hajime Yoshimi...
 is my fiancé.","e1_010_0094","False","","",""
 "Hazy_Script.txt:11114","あれ……。","Wait...","e1_010_0095","False","","",""
-"Hazy_Script.txt:11115","さっきのあれが……アタシが
+"Hazy_Script.txt:11115","さっきの<u>あれ</u>が……アタシが
 過去に見た光景なら……","If what I saw was from my past...","e1_010_0096","False","","",""
 "Hazy_Script.txt:11116","肇は もう……？","Then Hajime's...?","e1_010_0097","False","","",""
 "Hazy_Script.txt:11117","いや……！","No...!","e1_010_0098","False","","",""
@@ -24464,7 +24464,7 @@ they should be able to figure out where it is.","e1_010_0313","False","","",""
 "Hazy_Script.txt:11333","まず ヒハクの関連施設であること。
 おそらくは 工場か 倉庫。","First, I know I'm in a building owned by Hihaku.
 A factory or a warehouse.","e1_010_0314","False","","",""
-"Hazy_Script.txt:11334","そして 住所は……ここの付近のはず。","As for the address... It should be close to...","e1_010_0315","False","","",""
+"Hazy_Script.txt:11334","そして 住所は……<u>ここ</u>の付近のはず。","As for the address... It should be close to...","e1_010_0315","False","","",""
 "Hazy_Script.txt:11335","[s0][a1][x0.7]蝶澤麻由の監禁されている場所は どこの近くか？","[s0][a1][x0.7]Mayu Chozawa is being held near what location?","e1_010_0316","False","","",""
 "Hazy_Script.txt:11336","駒形橋","Komagata Bridge","e1_010_0317","False","","",""
 "Hazy_Script.txt:11337","両国橋","Ryogoku Bridge","e1_010_0318","False","","",""
@@ -25374,7 +25374,7 @@ Subsequent investigation revealed that Michiyo was in fact killed by [c4]Yutaro 
 ３年ほど前に 父親が事故を起こして死亡し 引越しをして以来
 どことなく 美智代のほうから 約子を避けるようになっていった。
 引越しと言っても同じ区内で 同じ高校に進学できたものの
-だんだんと付き合いは減っており 約子自身は がさつ者の自分とは
+だんだんと付き合いは減っており 約子自身は <u>がさつ</u>者の自分とは
 合わなくなったのかと不安に思いながらも 美智代の家庭の
 複雑な事情については深く踏み込めず 距離が空いていった。
 美智代も 約子にだけは いつか知ってほしいと思いつつも
@@ -25963,7 +25963,7 @@ This strange phenomenon continued to occur, and the people began to call this bo
 たまらず 長屋を飛び出した。とぼとぼと 道往くうちに
 しだいに夜も更け 真っ暗がりで 途方に暮れて。
 父も母も どこにもいない。涙で目の前が滲んできた。
-[y1]<cspace=1px>──<cspace=-1px>[y1]ふと 魚が跳ねる音が聞こえた。そうだ ここは
+——ふと 魚が跳ねる音が聞こえた。そうだ ここは
 よく父と釣りに来た堀だ。鮒の味 父の笑顔が目に浮かぶ。
 おトキは 思わず堀に身を乗り出した……
 暗い夜道に ばしゃばしゃと水の音が響く。
@@ -26020,7 +26020,7 @@ This story is also known as ""The Procession of the Tanuki,"" as many were of th
 膠の匂い。そうか そういうことか。話がうますぎると思ったんだ。
 悲鳴も囃子に掻き消され もがき苦しむのが関の山。
 今日のおみよは気合入っているねぇ こっちも負けてられないよ。
-祭りはますます活気づく。違うんだよ どうか助けておくれ[y1]<cspace=1px>──<cspace=-1px>[y1]
+祭りはますます活気づく。違うんだよ どうか助けておくれ——
 のたうち回り ついには櫓から転げ落ちた。
 ようやくお囃子が止んだ時 すでにおみよの心の臓も止まっていた。","Omiyo stood atop the tall festival tower. It was her time to shine and she was ecstatic. It had been years since she joined the troupe, but she had yet to enjoy her day in the spotlight. She wasn't particularly pretty, nor was she all that talented. As a gossip and a loudmouth, she wasn't well-liked by her peers. Some of the other girls thought of her as a teacher's pet and bullied her.
 ""I don't care about them,"" she thought, ""I'll use this chance to make something of myself.""
@@ -26116,11 +26116,11 @@ Some say it was the work of a mischievous tanuki or kitsune, while others say it
 喉が焼けているからか。いや もう己自身が火達磨なのか。
 そうだ 拍子木を鳴らせ。ちょん ちょん。誰か居ないのか。
 ちょん ちょん。なぜ誰も来ぬ。このままでは焼け死んでしまう。
-どうして こんなことになったのだ[y1]<cspace=1px>──<cspace=-1px>[y1]そうだ あやつだ。
+どうして こんなことになったのだ——そうだ あやつだ。
 何処とも無く現れ 殿に取り入ったあの女狐。妖術使いめ。
 ぞっとするような細眼に見入られ 殿はすっかり呆けてしまった。
 いや 儂も取り込まれていたのかもしれぬ。言われるがままに
-罪なき者を幾人も陥れた。これもその因業ということか[y1]<cspace=1px>──<cspace=-1px>[y1]。
+罪なき者を幾人も陥れた。これもその因業ということか——。
 ごぉん。頭が割れそうだ。ああ これは子の刻を告げる鐘か。
 拍子木が届かぬのは この音のせいであったか。
 ならば もっと強く鳴らさなくては。ちょん ちょん……。","Red. Red. Red. Everything is dyed crimson. My home is burning to the ground.
@@ -26164,11 +26164,11 @@ However, this particular species of tree was actually an evergreen, so the lack 
 "Hazy_Script.txt:11797","「この者 蘇生の術なる流言にて町民を欺き候」
 存在もせぬ夢想の秘術で衆人を誑かした男が 首を縊った。姿を消し
 逃げを打ったと思われていたが 不思議なことに上屋敷の庭で
-見つかったという[y1]<cspace=1px>──<cspace=-1px>[y1]その男 裏長屋に住む甚吉は 気っ風の良さで
+見つかったという——その男 裏長屋に住む甚吉は 気っ風の良さで
 評判の根付職人だった。泣いて暮らすも一生 笑って暮らすも一生。
 それなら 愉快に暮らすが一番だ。身寄りのない者を見かければ
 世話してやるような いなせな男。近頃は 評判の浮世絵に
-便乗して繁盛していたという[y1]<cspace=1px>──<cspace=-1px>[y1]きっと欲に転んじまったんだ。
+便乗して繁盛していたという——きっと欲に転んじまったんだ。
 その絵師だった爺様も バチが当たったか 無残な姿で
 見つかったばかり。罪の意識に耐えられず 自ら命を絶ったか。
 死人に口なし 下衆の勘繰りとばかりに人々は噂し合った。
@@ -26218,14 +26218,14 @@ While most towers used wooden blocks to sound the fire alarm, for some reason th
 しかし 何処からも火の手は見えぬ。なぜ打ち鳴らされているのか
 人々は不思議がっていた。そんなある朝見つかった 物言わぬ骸。
 その顔を見て 誰かが呟く。浮世絵師の千斎翁じゃなかろうか？
-[y1]<cspace=1px>──<cspace=-1px>[y1]実を結ばぬままに 尾羽打ち枯らして早や数年
+——実を結ばぬままに 尾羽打ち枯らして早や数年
 今や老いて 長屋でその日暮らし。哀れな老人の楽しみといえば
 偶に訪ねてくる孫娘に 筆と紙を持たせてやることばかり。
 そんなある日 孫娘が聞かせてくれた夢語り。
 呪い 御魂 そして蘇り……聞くや否や目の色変わり
 憂き身を窶して筆を走らせ 一心不乱に描き上げた。
 その絵 奇矯にして妖艶と見る者を魅了し たちまちの評判に。
-はては お上の御目に留まり[y1]<cspace=1px>──<cspace=-1px>[y1]そんな矢先に 何があったのか。
+はては お上の御目に留まり——そんな矢先に 何があったのか。
 襤褸切れのような姿を見て 人々は眉をひそめながら囁き合った。
 まるで太鼓で打たれたような 無体な様じゃないか と……。","The deep sound of drums once more reverberates through the night air. How long has it been since we started hearing them each day? Could it be coming from the daimyo's residence? I've heard they have a drum in their fire watchtower, instead of wooden clackers. But I don't see a fire. So why are they sounding the drum?
 Then one morning, a body was found.
@@ -26263,7 +26263,7 @@ After the servants carefully washed the foot, it returned from whence it came, f
 ","DOC11_ST_0008","False","","",""
 "Hazy_Script.txt:11815","女は 優れた陰陽師であった。だが哀しい哉 その才は 世の為
 人の為ではなく 己が美貌を磨き上げることに 向けられていた。
-[y1]<cspace=1px>──<cspace=-1px>[y1]火花散る戦いの後 女は町を 彷徨っていた。
+——火花散る戦いの後 女は町を 彷徨っていた。
 全身が蝕まれているようだ。私は死ぬのか？
 だが 必要な物は手に入れた。これさえあれば……
 はたと気づいた。足が動かぬ。翻筋斗を打って 倒れ込んだ。
@@ -26317,7 +26317,7 @@ He cut the arm and leg off one side of her body, then threw them into the canal.
 お上に掛け合うと息巻くお駒に 焦ったのは留蔵であった。
 手玉に取ったかと 橋の上で押し問答。しかし 最早お駒は
 聞く耳持たぬ。ここぞとばかりの悪態のつき放題に 終いに
-堪忍袋の緒も切れた[y1]<cspace=1px>──<cspace=-1px>[y1]血飛沫浴びて 我に返った時には
+堪忍袋の緒も切れた——血飛沫浴びて 我に返った時には
 後の祭り。
 血の海に転がるは 片手片足を斬り落とされた 女の骸……。","Okoma was a lovely woman. She was spirited, worked hard and lived a frugal yet pleasant life...until her husband hanged himself.
 ""My husband, a swindler? Who would believe such a thing?""
@@ -26355,12 +26355,12 @@ Should one attempt to put out the flame, it immediately roars back to life. Howe
 "Hazy_Script.txt:11833","武家屋敷の多い本所では 他藩の間諜を行う公儀隠密が町民に
 紛れて生活していたという。ここ南割下水沿いの蕎麦屋台も
 彼らの連絡手段に使われていた。今宵は暁七つで と伝えれば
-行灯を燈す時刻で符牒になるという寸法だ[y1]<cspace=1px>──<cspace=-1px>[y1]。
+行灯を燈す時刻で符牒になるという寸法だ——。
 今生 最後の蕎麦をたぐる。明くる晩 腹を切らねばならぬ。
 怒りに任せて女を斬り捨てたのが不味かった。
 無礼討ちも認められず 臍を噛んだが もう遅い。だが 納得できぬ。
 今にして お上に利用されていたという怒りが沸々と湧き上がる。
-この怨み 忘れるものか。傍らでは 行灯が静かに瞬いていた[y1]<cspace=1px>──<cspace=-1px>[y1]
+この怨み 忘れるものか。傍らでは 行灯が静かに瞬いていた——
 鐘が六つを打つ頃 男は腹を切った。だが それ以来である。
 まだ屋台が開く前から 行灯が燈っている……。
 風もないのに 行灯が忽然と消えては ゆらゆらと瞬く……。
@@ -26479,11 +26479,11 @@ Since then, the lantern could be seen alight before the soba cart had opened, an
 しかし 封じるべき『禄命簿』は すでに行方知れずとなっている。
 そこで 甚吉の作った根付９つに 残った滓魂を籠めて法具とし
 再び何者かが《蘇りの秘術》の術式を発動させようとしたときに
-連動して発動する仕掛けを 本所の土地に封じ込めた。
+連動して発動する<u>仕掛け</u>を 本所の土地に封じ込めた。
 そして このことを後世まで遺していくために すべての真相を
 『禄命簿・陰の書』に記し 自らの末裔に伝えていくことにした。
 [c0]　　　　　　　　　　　*　　*　　*[c0]
-[y1]<cspace=1px>──<cspace=-1px>[y1]その一方で。
+——その一方で。
 町の人々は この一連の出来事について 祟りを恐れ口を閉ざしたが
 それでも希有な事件であるため どうしても口の端に上ることはあり
 おぼろげな形で語り継がれていった伝承は やがて
@@ -27344,9 +27344,9 @@ The existence of the Yin Scroll was indicated in a postscript added to the Recor
 [c3]『後世に 事変の怨害による災いが起きた時のために この書を残す
 　災いを鎮めんとする者よ 以下の３つのものを一所に揃えよ
 　我が解除の術が発動し 秘術も呪詛も 総て祓い消し去るもの也
-　一、我が魂[y1]<cspace=1px>──<cspace=-1px>[y1]それ即ち 我が呪影也
-　一、我が現身[y1]<cspace=1px>──<cspace=-1px>[y1]それ即ち 其の時代に生きし我が血統の者也
-　一、我が精神[y1]<cspace=1px>──<cspace=-1px>[y1]それ即ち この晴曼自身の意識也』[c0]","
+　一、我が魂——それ即ち 我が呪影也
+　一、我が現身——それ即ち 其の時代に生きし我が血統の者也
+　一、我が精神——それ即ち この晴曼自身の意識也』[c0]","
 [c0]　　　　　　　　　　　*　　*　　*[c0]
 The text has been preserved in the form of two talismans held by Hajime Yoshimi and Michiyo Shiraishi. It contains a full account of the Honjo Incident, and the following is written in Seiman's hand:
 [c3]I bequeath this scroll to future generations to be used in the event that calamity should arise from this grievous incident. Those who seek to forestall disaster must gather these three items in one place to cast my Rite of Cleansing and expel all rituals and curses in full:
