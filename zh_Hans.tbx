@@ -251,6 +251,10 @@
                 <langSet xml:lang="ja"><tig><term>女帝</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>女皇</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>除光液</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>洗甲水</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
