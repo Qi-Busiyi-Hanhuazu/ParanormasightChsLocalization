@@ -259,6 +259,10 @@
                 <langSet xml:lang="ja"><tig><term>蘇生の黒魔術</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>复活之黑魔法</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>蝶澤姐さん</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>蝶泽姐姐</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
