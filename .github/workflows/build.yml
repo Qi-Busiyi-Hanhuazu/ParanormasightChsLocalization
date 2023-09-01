@@ -16,18 +16,25 @@ jobs:
           XZ_PATCH_VERSION: "${{ github.sha }}"
         run: |
           bin/ParanormasightChsLocalizationHelper
-          compress-archive out/patch/* out/patch-text.zip -force
+          compress-archive out/patch/Windows/* out/patch-windows-text.zip -force
+          compress-archive out/patch/Switch/* out/patch-switch-text.zip -force
       - name: Upload patch
         uses: actions/upload-artifact@v3
         with:
-          name: patch-text
+          name: patch-windows-text
           path: |
-            out/patch/*
+            out/patch/Windows/*
+      - name: Upload patch
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch-switch-text
+          path: |
+            out/patch/Switch/*
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "out/patch-text.zip"
+          artifacts: "out/patch-windows-text.zip,out/patch-switch-text.zip"
           body: |
             [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml)
 

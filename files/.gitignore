@@ -1,7 +1,11 @@
 *
+!.gitignore
 !script_replace/
 !script_replace/*
-!.gitignore
-!a024
-!a036
+!Switch/
+!Switch/a024
+!Switch/a036
+!Windows/
+!Windows/a024
+!Windows/a036
 !CharacterTable-*.txt
