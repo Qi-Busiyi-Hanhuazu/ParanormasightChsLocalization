@@ -253,6 +253,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="ja"><tig><term>蝶澤姐さん</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>生け贄</term></tig></langSet>
                 <langSet xml:lang="en"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
