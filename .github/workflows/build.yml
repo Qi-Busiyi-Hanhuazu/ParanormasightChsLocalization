@@ -16,7 +16,9 @@ jobs:
           XZ_PATCH_VERSION: "${{ github.sha }}"
         run: |
           bin/ParanormasightChsLocalizationHelper
+          copy-item README.md out/patch/Windows/README.md
           compress-archive out/patch/Windows/* out/patch-windows-text.zip -force
+          copy-item README.md out/patch/Switch/README.md
           compress-archive out/patch/Switch/* out/patch-switch-text.zip -force
       - name: Upload patch
         uses: actions/upload-artifact@v3
