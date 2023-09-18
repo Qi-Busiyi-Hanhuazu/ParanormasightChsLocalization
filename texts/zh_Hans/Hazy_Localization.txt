@@ -258,7 +258,7 @@ txid_doc32_st,旧安田庭园
 txid_doc33_st,绿町公园
 txid_doc23_st,飞白肥皂
 txid_doc34_st,驹形高中
-txid_doc35_st,志岐间邸
+txid_doc35_st,志岐间宅邸
 txid_doc36_st,咖啡店黑桔梗
 txid_doc37_st,粗点心千野屋
 txid_doc41_st,苍鹭侦探堂
@@ -293,7 +293,7 @@ txid_strych_title_b0_020,“有趣的故事”
 txid_strych_title_b0_030,“如果就这样”
 txid_strych_title_b1_010,“也有这样的世界”
 txid_strych_title_b1_020,“是被捕还是死”
-txid_strych_title_b1_030,“那个孩子……不擅长？”
+txid_strych_title_b1_030,“不擅长……对付那孩子？”
 txid_strych_title_b1_040,“最终手段”
 txid_strych_title_b1_050,“志岐间春惠的传说”
 txid_strych_title_b1_055,“灯野菖蒲的夙愿”
@@ -334,7 +334,7 @@ txtid_strych_text1_b0_030,[c3]～上一小节的梗概～[c0][r]春惠收到了�
 txtid_strych_text1_b1_010,[c3]～上一小节的梗概～[c0][r]为了得到收集了魂渣的诅咒珠，[r]利飞太彻夜收集情报。[r]春惠发现实现自己孩子重生的大愿可能实现，[r]迎来了失眠的早晨。
 txtid_strych_text1_b1_020,[c3]～上一小节的梗概～[c0][r]春惠和利飞太拜访了绑架事件的[r]重要参考人白石美智代的家，[r]知道了她的复杂情况。[r]在那里，他们遇到了两位男性。
 txtid_strych_text1_b1_030,[c3]～上一小节的梗概～[c0][r]春惠与刑警一起闯入了白石家，[r]发现了被诅咒杀死的岩井官吉郎留下的笔记，[r]绑架事件的全貌浮出水面。[r]但春惠并不满足。
-txtid_strych_text1_b1_040,[c3]～上一小节的梗概～[c0][r]春惠与获救的蝶泽麻由一起盘问弓冈，[r]尝试得到新的咒主的情报，[r]但没有得到特别有用的信息。[r]于是她回到了志岐间邸……
+txtid_strych_text1_b1_040,[c3]～上一小节的梗概～[c0][r]春惠与获救的蝶泽麻由一起盘问弓冈，[r]尝试得到新的咒主的情报，[r]但没有得到特别有用的信息。[r]于是她回到了志岐间宅邸……
 txtid_strych_text1_b1_050,★不出现的文本
 txtid_strych_text1_b1_055,★不出现的文本
 txtid_strych_text1_c0_010,警视厅搜查一课的警部津诘彻生[r]为了调查警察神秘的离奇死亡事件，[r]和部下襟尾纯一起前往了[r]事件现场旧安田庭园……
