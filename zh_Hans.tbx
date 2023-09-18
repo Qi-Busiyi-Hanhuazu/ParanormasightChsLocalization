@@ -267,6 +267,11 @@
                 <langSet xml:lang="ja"><tig><term>生け贄</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>活祭品</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="ja"><tig><term>おばさま</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>阿姨</term></tig></langSet>
+                <note from="translator">菖蒲称呼春惠</note>
+            </termEntry>
         </body>
     </text>
 </martif>
