@@ -297,7 +297,7 @@ txid_strych_title_b1_030,“不擅长……对付那孩子？”
 txid_strych_title_b1_040,“最终手段”
 txid_strych_title_b1_050,“志岐间春惠的传说”
 txid_strych_title_b1_055,“灯野菖蒲的夙愿”
-txid_strych_title_c0_010,“现场验证”
+txid_strych_title_c0_010,“现场调查”
 txid_strych_title_c0_020,“咒主搜索 Part1”
 txid_strych_title_c0_030,“咒主搜索 Part2”
 txid_strych_title_c0_040,“预告电话”
