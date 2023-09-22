@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <!-- Common Head Start -->
+    <meta charset="utf-8"/>
+    <meta name="author" content="七不思议汉化组"/>
+    <meta name="description" content="{{ page.title }}"/>
+    <meta name="generator" content="jekyll 4.0.0"/>
+    <meta name="keywords" content="七不思议汉化组,灵异视界,本所七大不可思议,游戏汉化,Steam,Nintendo Switch"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="referrer" content="same-origin"/>
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.0/dist/jquery.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha256-qlPVgvl+tZTCpcxYJFdHB/m6mDe84wRr+l81VoYPTgQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{ "/assets/" | relative_url }}css/style.css" />
+    <script src="{{ "/assets/" | relative_url }}js/main.js"></script>{% for i in page.js %}
+    <script src="{{ "/assets/" | relative_url }}js/{{ i }}.js"></script>{% endfor %}
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>{% unless jekyll.environment == "development" %}
+    <!-- Baidu -->
+    <script src="https://hm.baidu.com/hm.js?e51c63f6dc2ddbf35c41b08cd39eb20a" referrerpolicy="no-referrer-when-downgrade"></script>{% endunless %}
+    <!-- Common Head End -->
+  </head>
+  <body>
+    <!-- Common Heading Start -->
+    <div class="para-heading">
+      <div class="container-md">
+        <div class="para-heading-text">{% if page.title %}
+          <h1><a href="https://github.com/{{ site.repository }}">{{ page.title }}</a></h1>{% endif %}
+        </div>{% if page.screenshot_count and page.screenshot_count > 0 %}
+        <div id="para-carousel" class="para-carousel carousel carousel-dark slide" data-bs-ride="carousel">
+          <div class="carousel-indicators">{% for screenshot_index in (1..page.screenshot_count) %}
+            <button type="button" data-bs-target="#para-carousel" data-bs-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></button>{% endfor %}
+          </div>
+          <div class="carousel-inner">{% for screenshot_index in (1..page.screenshot_count) %}{% assign caption = page.screenshot_captions[screenshot_index] | default: "" %}
+            <div class="carousel-item{% if forloop.first %} active{% endif %}">
+              <img src="{{ "/assets/" | relative_url }}images/screenshot-{{ screenshot_index | prepend: "00" | slice: -2, 2 }}.jpg" decoding="async" loading="lazy" {% if caption != "" %} alt="{{ caption }}">
+              <div class="carousel-caption">
+                <p>{{ caption }}</p>
+              </div{% endif %}>
+            </div>{% endfor %}
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#para-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#para-carousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+          </button>
+        </div>{% endif %}
+      </div>
+    </div>
+    <!-- Common Heading End -->
+    <!-- Common Content Start -->
+    <div class="para-content container-md">
+      <div class="row">
+        <div class="para-content-main col-md-12">{% if page.head_image %}
+{% include figure.html blank="          " src=page.head_image alt=page.title width=page.head_image_width height=page.head_image_height no_link=true %}{% endif %}
+          <article>{% capture LINE_BREAK %}
+{% endcapture %}{% capture DOUBLE_LINE_BREAK %}{{ LINE_BREAK }}{{ LINE_BREAK }}{% endcapture %}{% capture LINE_BREAK_INDENT %}
+            {% endcapture %}{% assign _content = content | strip | replace: '<a href="http', '<a target="_blank" href="http' %}
+            {% assign _splited_pres = _content | split: "<pre " %}{% for _pre in _splited_pres %}{% if forloop.first %}{{ _pre | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% else %}<pre {% assign _splited_part = _pre | split: "</pre>" %}{{ _splited_part[0] }}</pre>{{ _splited_part[1] | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% endif %}{% endfor %}
+          </article>{% if page.links %}
+          <div class="para-infobox-bottom">
+            <div class="para-info-links">
+              <div class="para-info-links-head">相关链接</div>
+              <ul>{% for link in page.links %}
+                <li><a href="{{ link[0] }}">{{ link[1] }}</a></li>{% endfor %}
+              </ul>
+            </div>
+          </div>{% endif %}{% unless jekyll.environment == "development" or page.no_comment %}
+          <div class="para-content-comment hidden-print">
+            <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
+            <script src="https://cdn-city.livere.com/js/embed.dist.js" async="async"></script>
+          </div>{% endunless %}
+        </div>
+      </div>
+    </div>
+    <div class="para-blank"></div>
+    <!-- Common Content End -->
+    <!-- Common Footer Start -->
+    <!-- Han -->
+    <script src="https://xzonn.top/assets/js/han.min.js"></script>
+    <!-- Common Footer End -->
+    <!-- {{ page.url }} -->
+  </body>
+</html>

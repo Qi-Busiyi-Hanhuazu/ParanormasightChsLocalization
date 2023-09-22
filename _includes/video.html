@@ -1,0 +1,4 @@
+{{ include.blank }}<div class="video">{% if include.youtube %}
+{{ include.blank }}  <div class="youtube-video"><iframe class="youtube-video-iframe" src="https://www.youtube.com/embed/{{ include.youtube }}" title="{{ include.title | default: "YouTube视频播放器" }}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" ></iframe></div>{% endif %}{% if include.aid or include.bvid %}
+{{ include.blank }}  <div class="bilibili-video"><iframe class="bilibili-video-iframe" src="https://player.bilibili.com/player.html?{% if include.aid %}aid={{ include.aid }}{% elsif include.bvid %}bvid={{ include.bvid }}{% endif %}{% if include.page %}&page={{ include.page }}{% endif %}" title="{{ include.title | default: "Bilibili视频播放器" }}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>{% endif %}
+{{ include.blank }}</div>

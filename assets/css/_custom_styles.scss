@@ -1,0 +1,202 @@
+/* */
+:root {
+  --primary: #{$primary};
+  --primary-light: #{$primary-light};
+  --primary-lighter: #{$primary-lighter};
+  --primary-lightest: #{$primary-lightest};
+  --primary-dark: #{$primary-dark};
+  --primary-darker: #{$primary-darker};
+  --secondary: #{$secondary};
+  --secondary-light: #{$secondary-light};
+  --secondary-lighter: #{$secondary-lighter};
+  --secondary-lightest: #{$secondary-lightest};
+  --secondary-dark: #{$secondary-dark};
+  --secondary-darker: #{$secondary-darker};
+}
+
+body {
+  font-family: $font-family-serif;
+  background-color: var(--primary-lightest); /* 什么几把玩意 $body-bg被一堆玩意调用 */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 字体 */
+.font-song-ti {
+  font-family: $font-family-serif;
+}
+
+[lang="en"], [lang="en"] .biaodian {
+  font-family: $font-family-serif-latin;
+}
+
+.biaodian {
+  font-family: $font-family-serif-chinese;
+}
+
+strong, blockquote, .font-hei-ti {
+  font-family: $font-family-sans-serif;
+
+  .biaodian {
+    font-family: $font-family-sans-serif-chinese;
+  }
+
+  &[lang="en"], [lang="en"], &[lang="en"] .biaodian, [lang="en"] .biaodian {
+    font-family: $font-family-sans-serif;
+  }
+}
+
+.font-mono {
+  font-family: $font-family-monospace;
+}
+
+/* Han.js */
+h-hws, h-hws[hidden] {
+  font-size: 50%;
+  display: inline !important;
+  user-select: none;
+
+  &.quote-inner, &.quote-outer:lang(zh-Hans), &.quote-outer:lang(zh-CN) {
+    display: none !important;
+  }
+}
+
+code, kbd, samp, pre, svg, .MathJax {
+  h-hws, h-hws[hidden] {
+    display: none !important;
+  }
+}
+
+/* 块元素 */
+/* 段落 */
+article > p {
+  text-indent: 2em;
+  text-align: justify;
+
+  &.text-left, &.text-right, &.text-center, * {
+    text-indent: initial;
+  }
+}
+
+/* 列表 */
+ul, ol {
+  padding-left: 2em;
+  text-align: justify;
+
+  &:only-child {
+    margin-bottom: 0;
+  }
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin: 0 auto;
+  padding-left: 1em;
+}
+
+/* 图片 */
+img {
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* 表格 */
+/*
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: solid var(--primary-light);
+  border-width: 2px 0;
+
+  td {
+    text-align: center;
+
+    &:not(:last-child) {
+      border-right: 1px dashed var(--primary-light);
+    }
+
+    & > p:only-child {
+      margin-top: 1rem;
+    }
+  }
+}
+*/
+
+/* 行内元素 */
+/* 链接 */
+a[target="_blank"] {
+  text-decoration: underline;
+
+  &::before {
+    display: inline-block;
+    margin: 0 5px;
+    width: 11px;
+    height: 11px;
+    background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22%232196f3%22%20viewBox%3D%220%200%201650%201650%22%3E%3Cpath%20d%3D%22M825%200C368%200%200%20368%200%20825s368%20825%20825%20825%20825-369%20825-825S1281%200%20825%200zm253%20883c0%203-3%203-6%206%200%200-264%20264-300%20297-38%2033-99%2033-138%200-36-30-41-80-11-116l11-11%20237-234-236-234c-36-30-41-80-11-115l11-11c38-33%2099-33%20138%200%2036%2033%20300%20297%20300%20297%2033%2033%2038%2085%205%20121z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    content: '';
+  }
+
+  &::after {
+    display: inline-block;
+    margin: 0 5px;
+    width: 12px;
+    height: 9px;
+    background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22%23888%22%20viewBox%3D%220%200%2012%209%22%3E%3Cpath%20d%3D%22M3%2C0v6h9v-6Zm1%2C2h7v3h-7ZM0%2C3v6H9V7H8v1H1V5h1V3Z%22%2F%3E%3C%2Fsvg%3E') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    content: '';
+  }
+}
+
+.plainlinks {
+  & a, a & {
+    text-decoration: none;
+
+    &::before, &::after {
+      content: normal;
+      display: none;
+    }
+  }
+}
+
+/* 辅助样式 */
+/* 圆角 */
+@mixin br() {
+  border-radius: 4px;
+}
+
+.br {
+  @include br;
+}
+
+/* 视频 */
+.youtube-video, .bilibili-video {
+  margin: 15px auto;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
+.youtube-video-iframe, .bilibili-video-iframe {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  @extend .br;
+}
+
+@include media-breakpoint-up(lg) {
+  .youtube-video, .bilibili-video {
+    width: 80%;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .youtube-video, .bilibili-video {
+    width: 60%;
+  }
+}

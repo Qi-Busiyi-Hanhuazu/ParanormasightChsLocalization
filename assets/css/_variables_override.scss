@@ -1,0 +1,89 @@
+/* 颜色 */
+$primary: #0400ff;
+$secondary: #ff8000;
+
+$primary-light: lighten($primary, 25%);
+$primary-lighter: lighten($primary, 40%);
+$primary-lightest: lighten($primary, 45%);
+$primary-dark: darken($primary, 15%);
+$primary-darker: darken($primary, 30%);
+$secondary-light: lighten($secondary, 25%);
+$secondary-lighter: lighten($secondary, 40%);
+$secondary-lightest: lighten($secondary, 45%);
+$secondary-dark: darken($secondary, 15%);
+$secondary-darker: darken($secondary, 30%);
+
+/* 链接 */
+$link-color: $primary-dark;
+$link-hover-color: $primary-darker;
+$link-decoration: none;
+
+/* 字体 */
+$font-family-sans-serif-latin: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans";
+$font-family-sans-serif-chinese: "Source Han Sans CN","Source Han Sans SC", "Source Han Sans", "Noto Sans CJK SC", "Hiragino Sans GB", "PingFang SC", "Microsoft YaHei";
+$font-family-sans-serif: append(join($font-family-sans-serif-latin, $font-family-sans-serif-chinese), sans-serif);
+
+$font-family-serif-latin: "Times New Roman";
+$font-family-serif-chinese: "Source Han Serif CN", "Source Han Serif SC", "Source Han Serif", Simsun, serif;
+$font-family-serif: append(join($font-family-serif-latin, $font-family-serif-chinese), sans-serif);
+
+$font-family-monospace-latin: Consolas, "Source Code Pro", "Liberation Mono", "Courier New";
+$font-family-monospace: append(join($font-family-monospace-latin, $font-family-sans-serif-chinese), monospace);
+
+/* 字号 */
+$font-size-root: 15px;
+$font-size-base: 1rem;
+
+$line-height-base: 1.732050807568877;
+
+$h1-font-size: $font-size-base * 2.5;
+$h2-font-size: $font-size-base * 2;
+$h3-font-size: $font-size-base * 1.5;
+$h4-font-size: $font-size-base * 1.2;
+$h5-font-size: $font-size-base;
+$h6-font-size: $font-size-base;
+
+$headings-font-weight: 600;
+$headings-line-height: inherit;
+
+/* 导航 */
+$nav-link-hover-bg: $primary-light;
+
+/* 代码 */
+$code-bg: fade($secondary-light, 40%);
+$code-color: $secondary-dark;
+
+$kbd-bg: $secondary-dark;
+$kbd-color: $secondary-light;
+
+$pre-bg: $secondary-light;
+$pre-color: $secondary-dark;
+$pre-border-color: $secondary-dark;
+
+/* 类型 */
+$blockquote-font-size: $font-size-base;
+$blockquote-border-color: $secondary-dark;
+
+/* Modal */
+$modal-sm: 100%;
+$modal-md: 900px;
+$modal-lg: 900px;
+$modal-xl: 900px;
+$modal-content-border-width: 0;
+
+/* Carousel */
+$carousel-caption-width: 100%;
+$carousel-caption-spacer: 0;
+$carousel-caption-padding-y: 0;
+
+/* Container */
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1280px
+);
+
+/* 图标 */
+$bootstrap-icons-font-dir: "https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/fonts";

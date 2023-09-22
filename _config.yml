@@ -1,0 +1,31 @@
+author: 七不思议汉化组
+name: 《灵异视界 FILE23 本所七大不可思议》汉化发布
+timezone: Asia/Shanghai
+url: https://xzonn.top/ParanormasightChsLocalization
+defaults:
+  - values:
+      layout: "default"
+exclude:
+  - Debug/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - jsconfig.json
+  - README.md
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-sass-converter
+repository: Xzonn/ParanormasightChsLocalization
+sass:
+  sass_dir: assets/css
+  load_paths: 
+    - assets/css
+    - node_modules
+  sourcemap: always
+  style: compressed
+relative_links:
+  collections: true
