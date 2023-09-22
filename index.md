@@ -3,6 +3,8 @@ screenshot_count: 6
 title: 《灵异视界 FILE23 本所七大不可思议》汉化发布
 ---
 ## 汉化名单
+**七不思议汉化组 汉化**
+
 - **翻译**：Xzonn、九条期会、废物回收社社长、kibana00、ISARAIRO、Momo、包子嘛馅儿、载颐、豆、÷4上帝、皂滑弄人、shirashima、SSeP、陆渊
 - **测试**：Xzonn
 
