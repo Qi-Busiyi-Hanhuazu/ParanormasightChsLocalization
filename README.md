@@ -1,20 +1,28 @@
-# 《灵异视界 FILE23 本所七大不可思议》汉化
+# [《灵异视界 FILE23 本所七大不可思议》汉化](https://xzonn.top/ParanormasightChsLocalization/)
 
 ![Logo](images/titlelogo_jp_full.png)
 
 [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml) [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
+## 汉化名单
+- **翻译**：Xzonn、九条期会、废物回收社社长、kibana00、ISARAIRO、Momo、包子嘛馅儿、载颐、豆、÷4上帝、皂滑弄人、shirashima、SSeP、陆渊
+- **测试**：Xzonn
+
 ## 基本说明
+**注意：本补丁仅用作技术交流，请用于正版游戏。**
+
 本项目是对《灵异视界 FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的简体中文本地化。
 
-目前，本项目正处于校对阶段，仅供试玩。如遇到文字不通顺的地方，请等待后续版本或参与翻译校对。
-
-本补丁基于 Steam 商店的 1.1 版制作（生成版本 ID：11663925），无法直接用于其他平台版本。
+本补丁基于 Steam 及 Nintendo eShop 的 1.1 版制作（Steam 商店生成版本 ID：11663925），无法直接用于其他平台版本。
 
 ## 使用方式
-请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。若为开发版本，请分别下载字体补丁（`patch-font.zip`）和文本补丁（`patch-text.zip`）。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
+### Steam 版本
+请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
 
 参考视频：[BV1tM4y1x7nq](https://www.bilibili.com/video/BV1tM4y1x7nq/)。
+
+### Nintendo eShop 版本
+需要一台能够运行 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 自制固件（CFW）的 Nintendo Switch 主机。请下载补丁，然后将补丁中的文件解压到`SD:/atmosphere/contents/`文件夹下。在游戏中需要选择“日语”作为语言。
 
 ## 本地化改动
 参见：[本地化改动](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/本地化改动)。
@@ -26,16 +34,20 @@
 参见：[常见问题](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/常见问题)。
 
 ## 相关链接
-- **[>>> 0.9.5 版本补丁下载地址 <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/0.9.5/patch-0.9.5.zip)**
+- **[>>> Steam 版下载地址（1.0.0） <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/1.0.0/patch-windows-1.0.0.zip)**
+- **[>>> Nintendo eShop 版下载地址（1.0.0） <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/1.0.0/patch-switch-1.0.0.zip)**
 - [开发版本补丁下载](https://github.com/Xzonn/ParanormasightChsLocalization/releases/tag/publish)
 - [补丁生成工具](https://github.com/Xzonn/ParanormasightChsLocalizationHelper)
 - [翻译项目网站](https://weblate.xzonn.top/projects/paranormasight/)
 
 ## 截图预览
+### Steam 版本
 ![截图](images/screenshot-01.jpg)  
 ![截图](images/screenshot-02.jpg)  
 ![截图](images/screenshot-03.jpg)
 
+### Nintendo eShop 版本
+![截图](images/screenshot-11.jpg)
 ## 授权协议
 本项目使用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)** 协议授权。若您想基于本项目进行二次创作，请遵守协议内容。这些内容主要包括：
 
