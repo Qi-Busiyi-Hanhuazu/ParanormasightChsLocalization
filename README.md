@@ -5,6 +5,7 @@
 [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml) [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ## 汉化名单
+**七不思议汉化组 汉化**
 - **翻译**：Xzonn、九条期会、废物回收社社长、kibana00、ISARAIRO、Momo、包子嘛馅儿、载颐、豆、÷4上帝、皂滑弄人、shirashima、SSeP、陆渊
 - **测试**：Xzonn
 
@@ -17,12 +18,12 @@
 
 ## 使用方式
 ### Steam 版本
-请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“日语”作为语言。
+请下载补丁，然后将补丁中的文件解压到游戏文件夹，并覆盖对应的文件。如果应用补丁时未提示覆盖文件夹，请确认补丁解压的位置是否正确。在游戏中需要选择“简体中文”作为语言。
 
 参考视频：[BV1tM4y1x7nq](https://www.bilibili.com/video/BV1tM4y1x7nq/)。
 
 ### Nintendo eShop 版本
-需要一台能够运行 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 自制固件（CFW）的 Nintendo Switch 主机。请下载补丁，然后将补丁中的文件解压到`SD:/atmosphere/contents/`文件夹下。在游戏中需要选择“日语”作为语言。
+需要一台能够运行 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 自制固件（CFW）的 Nintendo Switch 主机。请下载补丁，然后将补丁中的文件解压到`SD:/atmosphere/contents/`文件夹下。在游戏中需要选择“简体中文”作为语言。
 
 ## 本地化改动
 参见：[本地化改动](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/本地化改动)。
@@ -48,6 +49,7 @@
 
 ### Nintendo eShop 版本
 ![截图](images/screenshot-11.jpg)
+
 ## 授权协议
 本项目使用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)** 协议授权。若您想基于本项目进行二次创作，请遵守协议内容。这些内容主要包括：
 
