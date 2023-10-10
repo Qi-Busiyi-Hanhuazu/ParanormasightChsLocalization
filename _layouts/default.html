@@ -25,7 +25,7 @@
     <div class="para-heading">
       <div class="container-md">
         <div class="para-heading-text">{% if page.title %}
-          <h1><a href="https://github.com/{{ site.repository }}">{{ page.title }}</a></h1>{% endif %}
+          <h1><a href="{% if page.source %}{{ page.source }}{% else %}https://github.com/{{ site.repository }}{% endif %}">{{ page.title }}</a></h1>{% endif %}
         </div>{% if page.screenshot_count and page.screenshot_count > 0 %}
         <div id="para-carousel" class="para-carousel carousel carousel-dark slide" data-bs-ride="carousel">
           <div class="carousel-indicators">{% for screenshot_index in (1..page.screenshot_count) %}
@@ -68,8 +68,7 @@
             </div>
           </div>{% endif %}{% unless jekyll.environment == "development" or page.no_comment %}
           <div class="para-content-comment hidden-print">
-            <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
-            <script src="https://cdn-city.livere.com/js/embed.dist.js" async="async"></script>
+            <script src="https://utteranc.es/client.js" repo="{{ site.repository }}" issue-term="title" label="comment" theme="github-light" crossorigin="anonymous" async></script>
           </div>{% endunless %}
         </div>
       </div>

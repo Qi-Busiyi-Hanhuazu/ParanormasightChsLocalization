@@ -23,7 +23,7 @@ $font-family-sans-serif-latin: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Not
 $font-family-sans-serif-chinese: "Source Han Sans CN","Source Han Sans SC", "Source Han Sans", "Noto Sans CJK SC", "Hiragino Sans GB", "PingFang SC", "Microsoft YaHei";
 $font-family-sans-serif: append(join($font-family-sans-serif-latin, $font-family-sans-serif-chinese), sans-serif);
 
-$font-family-serif-latin: "Times New Roman";
+$font-family-serif-latin: Georgia, "Times New Roman", Times;
 $font-family-serif-chinese: "Source Han Serif CN", "Source Han Serif SC", "Source Han Serif", Simsun, serif;
 $font-family-serif: append(join($font-family-serif-latin, $font-family-serif-chinese), sans-serif);
 
