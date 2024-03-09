@@ -1,8 +1,10 @@
-# [《灵异视界 FILE23 本所七大不可思议》汉化](https://xzonn.top/ParanormasightChsLocalization/)
+# [《灵异视界 FILE23 本所七大不可思议》非官方汉化](https://xzonn.top/ParanormasightChsLocalization/)
 
 ![Logo](images/titlelogo_jp_full.png)
 
-[![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml) [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+**官方已宣布将会更新简体中文和繁体中文，标题为《灵视异闻 FILE23 本所七大不可思议》，敬请期待官方汉化！**
 
 ## 汉化名单
 **七不思议汉化组 汉化**
