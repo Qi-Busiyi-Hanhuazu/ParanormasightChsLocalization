@@ -7,29 +7,41 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: master
           fetch-depth: 1
+      - uses: actions/checkout@v4
+        with:
+          repository: Xzonn/ParanormasightChsLocalizationHelper
+          ref: master
+          fetch-depth: 1
+          path: tools
+      - name: Get tools commit id
+        id: get-tools-commit-id
+        run: |
+          Push-Location tools/
+          Write-Output "id=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
+          Pop-Location
+      - name: Cache tools
+        id: cache-tools
+        uses: actions/cache@v3
+        with:
+          path: tools/bin/Release/
+          key: tools-${{ steps.get-tools-commit-id.outputs.id }}
       - name: Create Patch
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
         run: |
-          bin/ParanormasightChsLocalizationHelper
-          copy-item README.md out/patch/Windows/README.md
-          copy-item LICENSE out/patch/Windows/LICENSE
-          compress-archive out/patch/Windows/* out/patch-windows-text.zip -force
-          copy-item README.md out/patch/Switch/README.md
-          copy-item LICENSE out/patch/Switch/LICENSE
-          compress-archive out/patch/Switch/* out/patch-switch-text.zip -force
+          ./build.ps1
       - name: Upload patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch-windows-text
           path: |
             out/patch/Windows/*
       - name: Upload patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch-switch-text
           path: |
@@ -39,11 +51,9 @@ jobs:
         with:
           allowUpdates: true
           artifacts: "out/patch-windows-text.zip,out/patch-switch-text.zip"
+          name: "《灵视异闻 FILE23 本所七大不可思议》非官方汉化"
           body: |
-            [![Convert csv to json](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/ParanormasightChsLocalization/actions/workflows/convert.yml)
-
-            本页面下方的链接为自动构建并发布的开发版本补丁。此版本补丁可能存在较多问题，仅供测试使用。
-          name: "《灵异视界 FILE23 本所七大不可思议》文本翻译汉化"
+            本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**
           prerelease: true
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}

@@ -121,7 +121,7 @@ menu_title_message,保存后回到标题画面。[r]可以吗？
 title_exit_dialog,要结束游戏吗？
 cancel_scroll_message,要跳过演出吗？
 option_keyconfig_subtitle,【{0}】
-ac01_title,灵异视界
+ac01_title,灵视异闻
 ac01_detail,取得全部成就
 ac02_title,东京反舌鸟联合
 ac02_detail,完成了反舌鸟贴纸

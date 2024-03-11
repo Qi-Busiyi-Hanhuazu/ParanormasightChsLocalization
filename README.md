@@ -1,4 +1,4 @@
-# [《灵异视界 FILE23 本所七大不可思议》非官方汉化](https://xzonn.top/ParanormasightChsLocalization/)
+# [《灵视异闻（灵异视界） FILE23 本所七大不可思议》非官方汉化](https://xzonn.top/ParanormasightChsLocalization/)
 
 ![Logo](images/titlelogo_jp_full.png)
 
@@ -14,7 +14,7 @@
 ## 基本说明
 **注意：本补丁仅用作技术交流，请用于正版游戏。**
 
-本项目是对《灵异视界 FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的简体中文本地化。
+本项目是对《灵视异闻（灵异视界） FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的简体中文本地化。
 
 本补丁基于 Steam 及 Nintendo eShop 的 1.1 版制作（Steam 商店生成版本 ID：11663925），无法直接用于其他平台版本。
 
@@ -27,21 +27,11 @@
 ### Nintendo eShop 版本
 需要一台能够运行 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 自制固件（CFW）的 Nintendo Switch 主机。请下载补丁，然后将补丁中的文件解压到`SD:/atmosphere/contents/`文件夹下。在游戏中需要选择“简体中文”作为语言。
 
-## 本地化改动
-参见：[本地化改动](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/本地化改动)。
-
-## 更新历史
-参见：[更新历史](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/更新历史)。
-
-## 常见问题
-参见：[常见问题](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/常见问题)。
-
 ## 相关链接
-- **[>>> Steam 版下载地址（1.0.0） <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/1.0.0/patch-windows-1.0.0.zip)**
-- **[>>> Nintendo eShop 版下载地址（1.0.0） <<<](https://github.com/Xzonn/ParanormasightChsLocalization/releases/download/1.0.0/patch-switch-1.0.0.zip)**
-- [开发版本补丁下载](https://github.com/Xzonn/ParanormasightChsLocalization/releases/tag/publish)
+- [本地化改动](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/本地化改动)
+- [更新历史](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/更新历史)
+- [常见问题](https://github.com/Xzonn/ParanormasightChsLocalization/wiki/常见问题)
 - [补丁生成工具](https://github.com/Xzonn/ParanormasightChsLocalizationHelper)
-- [翻译项目网站](https://weblate.xzonn.top/projects/paranormasight/)
 
 ## 截图预览
 ### Steam 版本
