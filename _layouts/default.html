@@ -58,11 +58,7 @@
 {% endcapture %}{% capture DOUBLE_LINE_BREAK %}{{ LINE_BREAK }}{{ LINE_BREAK }}{% endcapture %}{% capture LINE_BREAK_INDENT %}
             {% endcapture %}{% assign _content = content | strip | replace: '<a href="http', '<a target="_blank" href="http' %}
             {% assign _splited_pres = _content | split: "<pre " %}{% for _pre in _splited_pres %}{% if forloop.first %}{{ _pre | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% else %}<pre {% assign _splited_part = _pre | split: "</pre>" %}{{ _splited_part[0] }}</pre>{{ _splited_part[1] | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% endif %}{% endfor %}
-          </article>{% unless jekyll.environment == "development" or page.no_comment %}
-          <div class="xz-content-comment d-print-none">
-            <div class="alert alert-info text-center">如果需要在留言中发布图片，请前往<a href="https://github.com/Xzonn/ParanormasightChsLocalization/discussions/">GitHub上的Discussions</a>。您也可以通过<a href="https://space.bilibili.com/16114399">bilibili</a>的私信功能与我联系。</div>
-            <script src="https://giscus.xzonn.top/client.js" data-repo="Xzonn/ParanormasightChsLocalization" data-repo-id="R_kgDOJKpNiA" data-category="General" data-category-id="DIC_kwDOJKpNiM4CctfD" data-mapping="specific" data-term="{{ page.title | default: site.name }}" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async></script>
-          </div>{% endunless %}
+          </article>
         </div>
       </div>
     </div>
