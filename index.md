@@ -1,7 +1,9 @@
 ---
 screenshot_count: 6
-title: 《灵异视界 FILE23 本所七大不可思议》汉化发布
+title: 《灵视异闻（灵异视界） FILE23 本所七大不可思议》汉化发布
 ---
+**官方已更新简体中文和繁体中文，标题为《灵视异闻 FILE23 本所七大不可思议》，敬请体验官方汉化！**
+
 ## 汉化名单
 **七不思议汉化组 汉化**
 
@@ -11,7 +13,7 @@ title: 《灵异视界 FILE23 本所七大不可思议》汉化发布
 ## 基本说明
 **注意：本补丁仅用作技术交流，请用于正版游戏。**
 
-本项目是对《灵异视界 FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的简体中文本地化。
+本项目是对《灵视异闻（灵异视界） FILE23 本所七大不可思议》（<span lang="ja">パラノマサイト FILE23 本所七不思議</span>，*PARANORMASIGHT: The Seven Mysteries of Honjo*）的简体中文本地化。
 
 本补丁基于 Steam 及 Nintendo eShop 的 1.1 版制作（Steam 商店生成版本 ID：11663925），无法直接用于其他平台版本。
 
